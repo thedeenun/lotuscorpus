@@ -1,0 +1,6317 @@
+!SIL	sil
+<unk>	sp
+การ	k aa n^ 
+แข่งขัน	kh x ng^ kh a n^ 
+จะ	c a 
+แบ่ง	b x ng^ 
+ออก	z @@ k^ 
+เป็น	p e n^ 
+สอง	s @@ ng^ 
+ครึ่ง	khr v ng^ 
+โดย	d oo j^ 
+ละ	l a 
+สี่	s ii 
+สิบ	s i p^ 
+ห้า	h aa 
+นาที	n aa th ii 
+เวลา	w ee l aa 
+มี	m ii 
+นับ	n a p^ 
+ตลอด	t a l @@ t^ 
+ความ	khw aa m^ 
+เงียบ	ng iia p^ 
+สี	s ii 
+ทอง	th @@ ng^ 
+มหาวิทยาลัย	m a h aa w i t^ th a j aa l a j^ 
+สามารถ	s a m aa t^ 
+สร้าง	s aa ng^ 
+โอกาส	z oo k aa t^ 
+ที่	th ii 
+ดี	d ii 
+ใน	n a j^ 
+เรื่อง	r vva ng^ 
+ทำ	th a m^ 
+งาน	ng aa n^ 
+ของ	kh @@ ng^ 
+คุณ	kh u n^ 
+ครั้ง	khr a ng^ 
+แรก	r xx k^ 
+ฉัน	ch a n^ 
+เคย	kh qq j^ 
+ได้ยิน	d aa j^ j i n^ 
+เกี่ยว	k iia w^ 
+กับ	k a p^ 
+ตาย	t aa j^ 
+รู้สึก	r uu s v k^ 
+ดีใจ	d ii c a j^ 
+อย่าง	j aa ng^ 
+แท้จริง	th xx c i ng^ 
+พบ	ph o p^ 
+ให้	h a j^ 
+มัน	m a n^ 
+หนัก	n a k^ 
+กิโลกรัม	k i l oo kr a m^ 
+เลียน	l iia n^ 
+แบบ	b xx p^ 
+ฉลาด	ch a l aa t^ 
+มนุษย์	m a n u t^ 
+ลง	l o ng^ 
+เครื่อง	khr vva ng^ 
+จักร	c a k^ 
+ยาก	j aa k^ 
+นก	n o k^ 
+บิน	b i n^ 
+ผ่าน	ph aa n^ 
+ท้อง	th @@ ng^ 
+ฟ้า	f aa 
+สง่า	s a ng aa 
+ผ่า	ph aa 
+เผย	ph qq j^ 
+เกิด	k qq t^ 
+ขึ้น	kh v n^ 
+ไร	r a j^ 
+ข่าว	kh aa w^ 
+ล่าสุด	l aa s u t^ 
+เจอ	c qq 
+อนาคต	z a n aa kh o t^ 
+เธอ	th qq 
+ไม่	m a j^ 
+พยายาม	ph a j aa j aa m^ 
+ถอน	th @@ n^ 
+พวก	ph uua k^ 
+เขา	kh a w^ 
+ผจญ	ph a c o n^ 
+ภัย	ph a j^ 
+มากมาย	m aa k^ m aa j^ 
+มา	m aa 
+ด้วย	d uua j^ 
+กัน	k a n^ 
+บาง	b aa ng^ 
+ที	th ii 
+พูด	ph uu t^ 
+ถูก	th uu k^ 
+แล้ว	l xx w^ 
+อะไร	z a r a j^ 
+นี่	n ii 
+ดิน	d i n^ 
+เปื้อน	p vva n^ 
+กระโปรง	kr a pr oo ng^ 
+ไหน	n a j^ 
+ขอ	kh @@ 
+เรา	r a w^ 
+ดู	d uu 
+หน่อย	n @ j^ 
+สิ	s i 
+ทั้งหมด	th a ng^ m o t^ 
+ไป	p a j^ 
+ตาม	t aa m^ 
+กำห 	k a m^ h a 
+ไว้	w a j^ 
+ปลา	pl aa 
+ว่าย	w aa j^ 
+ทวน	th uua n^ 
+น้ำ	n a m^ 
+เรือ	r vva 
+ควร	kh uua n^ 
+เทียบ	th iia p^ 
+ท่า	th aa 
+ภาย	ph aa j^ 
+เจ็ด	c e t^ 
+ถึง	th v ng^ 
+วัน	w a n^ 
+โชค	ch oo k^ 
+กริช	kr i t^ 
+เจาะ	c @ 
+เกราะ	kr @ 
+กระสุน	kr a s u n^ 
+บอก	b @@ k^ 
+ว่า	w aa 
+เอา	z a w^ 
+แค่	kh xx 
+อยาก	j aa k^ 
+อิสระ	z i t^ s a r a 
+ภูมิอากาศ	ph uu m^ z aa k aa t^ 
+ที่สุด	th ii s u t^ 
+โลก	l oo k^ 
+ซะ	s a 
+อัน	z a n^ 
+นี้	n ii 
+ใส่ใจ	s a j^ c a j^ 
+มาก	m aa k^ 
+ข้อ	kh @@ 
+บกพร่อง	b o k^ phr @@ ng^ 
+รายงาน	r aa j^ ng aa n^ 
+เหตุการณ์	h ee t^ k aa n^ 
+อาจ	z aa t^ 
+ยกเลิก	j o k^ l qq k^ 
+สงสัย	s o ng^ s a j^ 
+ซา	s aa 
+ร่า	r aa 
+เห็น	h e n^ 
+พี่	ph ii 
+ชาย	ch aa j^ 
+เที่ยว	th iia w^ 
+อิตาลี	z i t^ t aa l ii 
+กว่า	kw aa 
+ถ้า	th aa 
+ตลาด	t a l aa t^ 
+รวม	r uua m^ 
+ส่วน	s uua n^ 
+น้อย	n @@ j^ 
+หวัง	w a ng^ 
+สัปดาห์	s a p^ d aa 
+หน้า	n aa 
+ตัว	t uua 
+เอง	z ee ng^ 
+นั้น	n a n^ 
+แสง	s xx ng^ 
+พาดผ่าน	ph aa t^ ph aa n^ 
+แม่น้ำ	m xx n aa m^ 
+หยุด	j u t^ 
+ฤดู	r v d uu 
+ร้อน	r @@ n^ 
+ปี	p ii 
+พนักงาน	ph a n a k^ ng aa n^ 
+ขาย	kh aa j^ 
+โกหก	k oo h o k^ 
+ใคร	khr a j^ 
+อยู่	j u 
+มั้ย	m a j^ 
+แล่น	l x n^ 
+ไอเดีย	z a j^ d iia 
+ช่วย	ch uua j^ 
+บ้าน	b aa n^ 
+นะ	n a 
+วาดา	w aa d aa 
+หลุยส์	l u j^ 
+และ	l x 
+สจ๊วด	s a c uua t^ 
+ฝั่ง	f a ng^ 
+เชื้อสาย	ch vva s aa j^ 
+เอเซีย	z ee s iia 
+ทะเบียน	th a b iia n^ 
+เปิด	p qq t^ 
+สำหรับ	s a m^ r a p^ 
+บรรยาย	b a n^ j aa j^ 
+ลอนดอน	l @@ n^ d @@ n^ 
+หรือ	r vv 
+คือ	kh vv 
+สัญญาณ	s a n^ j aa n^ 
+หัวข้อ	h uua kh @@ 
+ถัด	th a t^ 
+ไหม	m a j^ 
+น้อง	n @@ ng^ 
+ยัง	j a ng^ 
+อาบ	z aa p^ 
+รัก	r a k^ 
+หา	h aa 
+คน	kh o n^ 
+ยาสูบ	j aa s uu p^ 
+เพื่อ	ph vva 
+ซื้อ	s vv 
+บุหรี่	b u r ii 
+ชาว	ch aa w^ 
+นา	n aa 
+จับ	c a p^ 
+ศรัทธา	s a t^ th aa 
+ผู้	ph uu 
+อ่อนแอ	z @@ n^ z xx 
+รักษา	r a k^ s aa 
+แข็งแกร่ง	kh x ng^ kr x ng^ 
+สวน	s uua n^ 
+สาธารณะ	s aa th aa r a n a 
+ถ่าย	th aa j^ 
+ฟุตเทจ	f u t^ th ee t^ 
+ทั้ง	th a ng^ 
+ผ้า	ph aa 
+คลุม	khl u m^ 
+โซฟา	s oo f aa 
+ม่าน	m aa n^ 
+ห้อง	h @ ng^ 
+โถง	th oo ng^ 
+ล้วน	l uua n^ 
+คืน	kh vv n^ 
+ต้อง	t @@ ng^ 
+ทาง	th aa ng^ 
+แม่ฮ่องสอน	m xx h @@ ng^ s @@ n^ 
+โค้ง	kh oo ng^ 
+เยอะ	j q 
+ลด	l o t^ 
+ค่า	kh aa 
+ภาษี	ph aa s ii 
+ใช่	ch a j^ 
+กด	k o t^ 
+กริ่ง	kr i ng^ 
+นำ	n a m^ 
+เหน็ดเหนื่อย	n e t^ n vva j^ 
+สนใจ	s o n^ c a j^ 
+เท่า	th a w^ 
+ไหร่	r a j^ 
+หรอก	r @@ k^ 
+ว่าอลิซ	w aa z a l i t^ 
+กล่าว	kl aa w^ 
+ปีน	p ii n^ 
+ตก	t o k^ 
+ฉับพลัน	ch a p^ phl a n^ 
+ไว้ใจ	w a j^ c a j^ 
+ตั้งแต่	t a ng^ t xx 
+ร้าน	r aa n^ 
+ยา	j aa 
+รับ	r a p^ 
+กรม	kr o m^ 
+สรรพากร	s a n^ ph aa k @@ n^ 
+ศึกษา	s v k^ s aa 
+วิเคราะห์	w i khr @ 
+กลุ่ม	kl u m^ 
+เสีย	s iia 
+แต่ละ	t xx l a 
+ละเอียด	l a z iia t^ 
+กรุณา	k a r u n aa 
+เก็บ	k e p^ 
+มือถือ	m vv th vv 
+ครับ	khr a p^ 
+จินตนาการ	c i n^ t a n aa k aa n^ 
+พิสูจน์	ph i s uu t^ 
+เพียงพอ	ph iia ng^ ph @@ 
+ค่ะ	kh a 
+ท่าน	th a n^ 
+น่า	n aa 
+เสียดาย	s iia d aa j^ 
+สูด	s uu t^ 
+ยานัตถุ์	j aa n a t^ 
+ฟิลิป	f i l i p^ 
+ติดตาม	t i t^ t aa m^ 
+อาศัย	z aa s a j^ 
+เจนีวา	c ee n ii w aa 
+เพียง	ph iia ng^ 
+เดียว	d iia w^ 
+สบายใจ	s a b aa j^ c a j^ 
+สิ่ง	s i ng^ 
+ชีวิต	ch ii w i t^ 
+กลัว	kl uua 
+คอมพิวเตอร์	kh @@ m^ ph i w^ t qq 
+ช้า	ch aa 
+กระตุก	kr a t u k^ 
+ทันใจ	th a n^ c a j^ 
+วัย	w a j^ 
+รุ่น	r u n^ 
+วิธีการ	w i th ii k aa n^ 
+จัด	c a t^ 
+ช่อ	ch @@ 
+ผลไม้	ph o n^ l a m aa j^ 
+กิน	k i n^ 
+สิ้น	s i n^ 
+เครือข่าย	khr vva kh aa j^ 
+เพียร์ทู	ph iia th uu 
+เพียร์	ph iia 
+สถาปัตยกรรม	s a th aa p a t^ t a j a k a m^ 
+ไคลเอนต์	khl a j^ z ee n^ 
+เซิร์ฟเวอร์	s qq p^ w qq 
+ดื่ม	d vv m^ 
+นม	n o m^ 
+พาสเจอร์ไรซ์	ph aa t^ c qq r a j^ 
+บ้าง	b aa ng^ 
+อาการ	z aa k aa n^ 
+ปวด	p uua t^ 
+หัว	h uua 
+ก็	k @@ 
+เชื่อ	ch vva 
+เช่น	ch e n^ 
+หญิง	j i ng^ 
+หนึ่ง	n v ng^ 
+ดวง	d uua ng^ 
+จันทร์	c a n^ 
+ดาว	d aa w^ 
+เสาร์	s a w^ 
+เรียก	r iia k^ 
+เฮลีน	h ee l ii n^ 
+ขยัน	kh a j a n^ 
+เรียน	r iia n^ 
+ยิ่ง	j i ng^ 
+ตรง	tr o ng^ 
+สม่ำเสมอ	s a m a m^ s a m qq 
+สำคัญ	s a m^ kh a n^ 
+เกลียด	kl iia t^ 
+แสดง	s a d xx ng^ 
+ยูโทเปีย	j uu th oo p iia 
+นายวูด	n aa j^ w uu t^ 
+คอร์ท	kh @@ t^ 
+ฟัง	f a ng^ 
+เสียใจ	s iia c a j^ 
+แตะ	t x 
+แก้ไข	k xx kh a j^ 
+มืด	m vv t^ 
+เกรด	kr o t^ 
+อาหาร	z aa h aa n^ 
+จาน	c aa n^ 
+ด่วน	d uua n^ 
+สะดวก	s a d uua k^ 
+แต่	t xx 
+มัก	m a k^ 
+ต่อ	t @@ 
+สุขภาพ	s u k^ kh a ph aa p^ 
+ผัก	ph a k^ 
+นิดหน่อย	n i t^ n @ j^ 
+กลาย	kl aa j^ 
+นายทัล	n aa j^ th a l^ 
+คิง	kh i ng^ 
+ฮอร์น	h @@ n^ 
+ใช้	ch a j^ 
+ดม	d o m^ 
+ขโมย	kh a m oo j^ 
+เลย	l qq j^ 
+ทุก	th u k^ 
+คู่	kh uu 
+บ่าว	b aa w^ 
+สาว	s aa w^ 
+จริง	c i ng^ 
+เงิน	ng q n^ 
+ระมัดระวัง	r a m a t^ r a w a ng^ 
+เกิน	k qq n^ 
+เมื่อ	m vva 
+วาน	w aa n^ 
+ปลอด	pl @@ t^ 
+ตอน	t @@ n^ 
+เมา	m a w^ 
+ค้าง	kh aa ng^ 
+แม่	m xx 
+สะพาน	s a ph aa n^ 
+แขวน	khw xx n^ 
+กวัด	kw a t^ 
+แกว่ง	kw x ng^ 
+แรง	r xx ng^ 
+พายุ	ph aa j u 
+ส่อง	s @ ng^ 
+สว่าง	s a w aa ng^ 
+ลดละ	l o t^ l a 
+นอน	n @@ n^ 
+ทับ	th a p^ 
+ผม	ph o m^ 
+อภัย	z a ph a j^ 
+ขัง	kh a ng^ 
+รู้	r uu 
+เชื่อมโยง	ch vva m^ j oo ng^ 
+ดูถูก	d uu th uu k^ 
+กฎหมาย	k o t^ m aa j^ 
+บริเวณ	b @@ r i w ee n^ 
+จอด	c @@ t^ 
+รถ	r o t^ 
+จักรยาน	c a k^ kr a j aa n^ 
+ยนต์	j o n^ 
+ใหม่	m a j^ 
+เต็ม	t e m^ 
+กล้าหาญ	kl aa h aa n^ 
+ยอมแพ้	j @@ m^ ph xx 
+ชนะ	ch a n a 
+โกง	k oo ng^ 
+บุฟเฟ่	b u f^ f ee 
+อารมณ์	z aa r o m^ 
+ร้าย	r aa j^ 
+นัก	n a k^ 
+หล่อน	l @ n^ 
+เหยียด	j iia t^ 
+หยาม	j aa m^ 
+ซ้ำ	s a m^ 
+โมโห	m oo h oo 
+อธิบาย	z a th i b aa j^ 
+เรื่องราว	r vva ng^ r aa w^ 
+เหมือน	m vva n^ 
+ใกล้	kl a j^ 
+สอบ	s @@ p^ 
+อ่าน	z aa n^ 
+หนังสือ	n a ng^ s vv 
+สถานี	s a th aa n ii 
+รถไฟ	r o t^ f a j^ 
+ล็อค	l @ k^ 
+ตำรวจ	t a m^ r uua t^ 
+สั่น	s a n^ 
+เพลง	phl ee ng^ 
+พรุ่ง	phr u ng^ 
+ข่าวดี	kh aa w^ d ii 
+เหลือเกิน	l vva k qq n^ 
+ลุล่วง	l u l uua ng^ 
+อลิส	z a l i t^ 
+คิด	kh i t^ 
+ทน	th o n^ 
+ยืน	j vv n^ 
+บิด	b i t^ 
+นิ้ว	n i w^ 
+เกา	k a w^ 
+กรวด	kr uua t^ 
+เท้า	th aa w^ 
+ฟอสฟอรัส	f @@ t^ f @@ r a t^ 
+เซ	s ee 
+มิ	m i 
+คอนดักเตอร์	kh @@ n^ d a k^ t qq 
+ปกครอง	p o k^ khr @@ ng^ 
+เด็ก	d e k^ 
+ทอนาโด	th @@ n aa d oo 
+กำลัง	k a m^ l a ng^ 
+โหม	h oo m^ 
+กระหน่ำ	kr a n a m^ 
+ด้าน	d aa n^ 
+บน	b o n^ 
+กังหัน	k a ng^ h a n^ 
+ลม	l o m^ 
+เตรียมตัว	tr iia m^ t uua 
+โปรด	pr oo t^ 
+อย่า	j aa 
+ภาพ	ph aa p^ 
+ขอบคุณ	kh @@ p^ kh u n^ 
+เสื้อผ้า	s vva ph aa 
+สไตล์	s a t aa j^ 
+วินเทจ	w i n^ th ee t^ 
+ใหญ่	j a j^ 
+จาก	c aa k^ 
+ราคา	r aa kh aa 
+มือ	m vv 
+ยอม	j @@ m^ 
+จัดการ	c a t^ k aa n^ 
+เสียง	s iia ng^ 
+ดัง	d a ng^ 
+ก้อง	k @ ng^ 
+กังวาล	k a ng^ w aa n^ 
+ทั่ว	th uua 
+สูง	s uu ng^ 
+ปิด	p i t^ 
+ไฟ	f a j^ 
+ประหลาดใจ	pr a l aa t^ c a j^ 
+เลือกตั้ง	l vva k^ t a ng^ 
+โบสถ์	b oo t^ 
+ตั้ง	t a ng^ 
+ติด	t i t^ 
+ปั๊ม	p a m^ 
+น้ำมัน	n aa m^ m a n^ 
+แตก	t xx k^ 
+อีก	z ii k^ 
+ส่ง	s o ng^ 
+ครวญคราง	khr uua n^ khr aa ng^ 
+ดำเนินการ	d a m^ n qq n^ k aa n^ 
+ประกอบ	pr a k @@ p^ 
+เรียกร้อง	r iia r @@ ng^ 
+แย้ง	j xx ng^ 
+นาง	n aa ng^ 
+รา	r aa 
+เชล	ch ee l^ 
+เพื่อน	ph vva n^ 
+พักผ่อน	ph a k^ ph @ n^ 
+ช่วง	ch uua ng^ 
+บ่าย	b aa j^ 
+นัด	n a t^ 
+รับประทาน	r a p^ pr a th aa n^ 
+เย็น	j e n^ 
+ร่วม	r uua m^ 
+ตอบ	t @@ p^ 
+ไง	ng a j^ 
+นั่ง	n a ng^ 
+ข้าง	kh aa ng^ 
+ถนน	th a n o n^ 
+เวียดนาม	w iia t^ n aa m^ 
+เหนือ	n vva 
+ยึด	j v t^ 
+ใต้	t aa j^ 
+หลัง	l a ng^ 
+อเมริกา	z a m ee r i k aa 
+หัน	h a n^ 
+เจ้าหน้าที่	c a w^ n aa th ii 
+สบาย	s a b aa j^ 
+หลุม	l u m^ 
+มอส	m @@ s^ 
+พลัง	ph a l a ng^ 
+มหาศาล	m a h aa s aa n^ 
+จิต	c i t^ 
+วิญาณ	w i j aa n^ 
+สงบสุข	s a ng o p^ s u k^ 
+ตัดสินใจ	t a t^ s i n^ c a j^ 
+คำ	kh a m^ 
+ช่าง	ch aa ng^ 
+โง่เง่า	ng oo ng a w^ 
+ทราบ	s aa p^ 
+กระหาย	kr a h aa j^ 
+เก้าอี้	k a w^ z ii 
+ปรับ	pr a p^ 
+เอน	z ee n^ 
+ต้องการ	t @ ng^ k aa n^ 
+ท้าทาย	th aa th aa j^ 
+แม่ครัว	m xx khr uua 
+ประจำ	pr a c a m^ 
+พูดจา	ph uu t^ c aa 
+เหลวไหล	l ee w^ l a j^ 
+กระซิบ	kr a s i p^ 
+รำคาญ	r a m^ kh aa n^ 
+ไอซีบีเอ็ม	z a j^ s ii b ii z e m^ 
+ย่อ	j @@ 
+จรวด	c a r uua t^ 
+มิสไซล์	m i t^ s a j^ 
+ข้าม	kh aa m^ 
+ทวีป	th a w ii p^ 
+สั่ง	s a ng^ 
+เชื่อฟัง	ch vva f a ng^ 
+แจ้ง	c xx ng^ 
+เร็ว	r e w^ 
+โฆษณา	kh oo s a n aa 
+ขณะ	kh a n a 
+ค้นหา	kh o n^ h aa 
+ออนไลน์	z @@ n^ l aa j^ 
+ยกย่อง	j o k^ j @ ng^ 
+ตน	t o n^ 
+แนะนำ	n x n a m^ 
+เพราะ	phr @ 
+ห้องสมุด	h @ ng^ s a m u t^ 
+พัก	ph a k^ 
+ทำไม	th a m^ m a j^ 
+ล่ะ	l a 
+เอ็ด	z e t^ 
+การ์	k aa 
+ถ้าหาก	th aa h aa k^ 
+เบอร์	b qq 
+แทรม	s xx m^ 
+ป้า	p aa 
+ชอบ	ch @@ p^ 
+ข้าว	kh aa w^ 
+ผัด	ph a t^ 
+กุ้ง	k u ng^ 
+ลิ้นชัก	l i n^ ch a k^ 
+สนิท	s a n i t^ 
+ดึง	d v ng^ 
+หน้าต่าง	n aa t aa ng^ 
+ทิ้ง	th i ng^ 
+บาน	b aa n^ 
+พัสดุ	ph a t^ s a d u 
+ทัน	th a n^ 
+นาฬิกา	n aa l i k aa 
+ดิจิตอล	d i c i t @ n^ 
+อนาล็อก	z a n aa l @ k^ 
+ใด	d a j^ 
+เบื่อหน่าย	b vva n aa j^ 
+สุข	s u k^ 
+การบ้าน	k aa n^ b aa n^ 
+ครู	khr uu 
+ภาษา	ph aa s aa 
+ไทย	th a j^ 
+เสร็จ	s e t^ 
+เรียบร้อย	r iia p^ r @@ j^ 
+ดูแล	d uu l xx 
+อัดลม	z a t^ l o m^ 
+น้ำตาล	n aa m^ t aa n^ 
+อินเทอร์เน็ต	z i n^ th qq n e t^ 
+ผิด	ph i t^ 
+ปกติ	p o k^ k a t i 
+พอใจ	ph @@ c a j^ 
+มอง	m @@ ng^ 
+แง่	ng xx 
+จำ	c a m^ 
+รหัส	r a h a t^ 
+บัญชี	b a n^ ch ii 
+เก่า	k a w^ 
+พ่อ	ph @@ 
+ตากอากาศ	t aa k^ z aa k aa t^ 
+ริม	r i m^ 
+ทะเลชะอำ	th a l ee ch a z a m^ 
+รางวัล	r aa ng^ w a n^ 
+หนู	n uu 
+พระราชา	phr a r aa ch aa 
+พร้อม	phr @@ m^ 
+ลูกขุน	l uu k^ kh u n^ 
+วิทยาลัย	w i t^ th a j aa l a j^ 
+ประสิทธิภาพ	pr a s i t^ th i ph aa p^ 
+เหลือ	l vva 
+แหวน	w xx n^ 
+แขก	kh xx k^ 
+ฆ่า	kh aa 
+ตา	t aa 
+เทา	th a w^ 
+สะดุด	s a d u t^ 
+ล้าง	l aa ng^ 
+ลึก	l v k^ 
+ช้าง	ch aa ng^ 
+ลืม	l vv m^ 
+กล่าวหา	kl aa w^ h aa 
+ฐาน	th aa n^ 
+ข่มขืน	kh o m^ kh vv n^ 
+ประกาศ	pr a k aa t^ 
+ตี	t ii 
+ขาว	kh aa w^ 
+สาม	s aa m^ 
+หมื่น	m vv n^ 
+พรรณ	ph a n^ 
+ไม้	m aa j^ 
+ถิ่น	th i n^ 
+คุย	kh u j^ 
+โทรศัพท์	th oo r a s a p^ 
+เล่น	l e n^ 
+ไวโอลิน	w a j^ z oo l i n^ 
+ศักดิ์ศรี	s a k^ s ii 
+เจ็บปวด	c e p^ p uua t^ 
+ทางตัน	th aa ng^ t a n^ 
+ปรากฏ	pr aa k o t^ 
+ทดสอบ	th o t^ s @@ p^ 
+เออร์เนสต์	z qq n ee s^ 
+เท็จจริง	th e t^ c i ng^ 
+ผล	ph o n^ 
+นั่น	n a n^ 
+ผิดพลาด	ph i t^ phl aa t^ 
+อนุญาต	z a n u j aa t^ 
+อรัญญา	z a r a n^ j aa 
+ร้อง	r @@ ng^ 
+เก่ง	k e ng^ 
+จง	c o ng^ 
+อาดา	z aa d aa 
+รีชาร์ด	r ii ch aa t^ 
+ก้ม	k o m^ 
+รู้จัก	r uu c a k^ 
+ตกใจ	t o k^ c a j^ 
+ขนาด	kh a n aa t^ 
+คง	kh o ng^ 
+เดิน	d qq n^ 
+หาก	h aa k^ 
+หมาย	m aa j^ 
+กล้า	kl aa 
+กลับ	kl a p^ 
+ประโยค	pr a j oo k^ 
+ยาว	j aa w^ 
+สับสน	s a p^ s o n^ 
+วก	w o k^ 
+วน	w o n^ 
+ถ่าน	th aa n^ 
+เผา	ph a w^ 
+จน	c o n^ 
+ขี้	kh ii 
+เถ้า	th a w^ 
+อายุ	z aa j u 
+มอบ	m @@ p^ 
+ยินยอม	j i n^ j @@ m^ 
+สิทธิ	s i t^ th i 
+ตาราง	t aa r aa ng^ 
+แน่น	n x n^ 
+เดือน	d vva n^ 
+เข้า	kh a w^ 
+เฝ้า	f a w^ 
+ประตู	pr a t uu 
+พังพาบ	ph a ng^ ph aa p^ 
+พื้น	ph vv n^ 
+เป่า	p a w^ 
+ยาง	j aa ng^ 
+ผสม	ph a s o m^ 
+กลูเตน	kl uu t ee n^ 
+ใช่ไหม	ch a j^ m a j^ 
+เหล่า	l a w^ 
+ความหมาย	khw aa m^ m aa j^ 
+ทุกข์	th u k^ 
+แนวโน้ม	n xx w^ n oo m^ 
+ก่อ	k @@ 
+ทุน	th u n^ 
+เหลือเฟือ	l vva f vva 
+ทว่า	th a w aa 
+เพิ่ม	ph qq m^ 
+กำหนด	k a m^ n o t^ 
+ฝัน	f a n^ 
+คะแนน	kh a n xx n^ 
+อาชญากร	z aa t^ ch a j aa k @@ n^ 
+กระทำ	kr a th a m^ 
+เมือง	m vva ng^ 
+เกี่ยวข้อง	k iia w^ kh @ ng^ 
+ก้อน	k @@ n^ 
+สกปรก	s o k^ k a pr o k^ 
+ขน	kh o n^ 
+สุนทรพจน์	s u n^ th @@ n^ r a ph o t^ 
+พิเศษ	ph i s ee t^ 
+ประท้วง	pr a th uua ng^ 
+จดจำ	c o t^ c a m^ 
+โชติช่วง	ch oo t^ ch uua ng^ 
+นาน	n aa n^ 
+เกียรติ	k iia t^ 
+สมควร	s o m^ kh uua n^ 
+แอปพลิเคชัน	z xx p^ phl i kh ee ch a n^ 
+ระบบ	r a b o p^ 
+บูรณาการ	b uu r a n aa k aa n^ 
+แนว	n xx w^ 
+หัวหน้า	h uua n aa 
+ชมเชย	ch o m^ ch qq j^ 
+เดิมพัน	d qq m^ ph a n^ 
+ยินดี	j i n^ d ii 
+ต้อนรับ	t @@ n^ r a p^ 
+สู่	s uu 
+กีตาร์	k ii t aa 
+เดฟ	d ee f^ 
+ธนาคาร	th a n aa kh aa n^ 
+ปฏิเสธ	p a t i s ee t^ 
+ฝาก	f aa k^ 
+สุนัข	s u n a k^ 
+อ้วน	z uua n^ 
+ร่างกาย	r aa ng^ k aa j^ 
+ชื่อเสียง	ch vv s iia ng^ 
+เบื้อง	b vva ng^ 
+เพิ่ง	ph qq ng^ 
+สังเกต	s a ng^ k ee t^ 
+แฮ	h xx 
+รี่	r ii 
+รัง	r a ng^ 
+รอ	r @@ 
+ลูก	l uu k^ 
+จบ	c o p^ 
+โรง	r oo ng^ 
+ประถม	pr a th o m^ 
+มัธยม	m a t^ th a j o m^ 
+หลักสูตร	l a k^ s uu t^ 
+เข้มข้น	kh ee m^ kh o n^ 
+เลื่อน	l vva n^ 
+สกี	s a k ii 
+ก่อน	k @@ n^ 
+พระอาทิตย์	phr a z aa th i t^ 
+อ่ะ	z a 
+ปฏิกิริยา	p a t i k i r i j aa 
+ทั่วไป	th uua p a j^ 
+แนะ	n x 
+วัคซีน	w a k^ s ii n^ 
+หยด	j o t^ 
+สนาม	s a n aa m^ 
+หญ้า	j aa 
+แน่	n xx 
+อา	z aa 
+ชน	ch o n^ 
+ขับ	kh a p^ 
+ประมาท	pr a m aa t^ 
+ซีเรีย	s ii r iia 
+เปลี่ยน	pl iia n^ 
+ชา	ch aa 
+บู	b uu 
+จัง	c a ng^ 
+ช่อง	ch @ ng^ 
+เก้า	k aa w^ 
+หก	h o k^ 
+ยี่	j ii 
+อลิซ	z a l i t^ 
+แปลกใจ	pl xx k^ c a j^ 
+อุ้ม	z u m^ 
+ประทับใจ	pr a th a p^ c a j^ 
+ยาวนาน	j aa w^ n aa n^ 
+กระตือรือร้น	kr a t vv r vv r o n^ 
+สิทธิ์	s i t^ 
+แน่ใจ	n xx c a j^ 
+โทษ	th oo t^ 
+ต้น	t o n^ 
+อินทผลัม	z i n^ th a phl a m^ 
+เปลว	pl ee w^ 
+เพลิง	phl qq ng^ 
+ธรรมชาติ	th a m^ m a ch aa t^ 
+แข็ง	kh x ng^ 
+เช้า	ch aa w^ 
+พระภิกษุ	phr a ph i k^ s u 
+บิณฑบาต	b i n^ th a b aa t^ 
+ปุบ	p u p^ 
+เริ่ม	r qq m^ 
+สันนิษฐาน	s a n^ n i t^ th aa n^ 
+เถอะ	th q 
+วิทยาศาสตร์	w i t^ th a j aa s aa t^ 
+เขียน	kh iia n^ 
+กระดาษ	kr a d aa t^ 
+อาทิตย์	z aa th i t^ 
+ตัด	t a t^ 
+ถาม	th aa m^ 
+แต่งงาน	t x ng^ ng aa n^ 
+หู	h uu 
+แหม	m xx 
+ง่าย	ng aa j^ 
+อาสา	z aa s aa 
+สมัคร	s a m a k^ 
+เขต	kh ee t^ 
+อนุรักษ์	z a n u r a k^ 
+ติดต่อ	t i t^ t @@ 
+จนถึง	c o n^ th v ng^ 
+นอก	n @@ k^ 
+ทีม	th ii m^ 
+ค่อย	kh @ j^ 
+นับถือ	n a p^ th vv 
+ญาติ	j aa t^ 
+ยีราฟ	j ii r aa p^ 
+มังสวิรัติ	m a ng^ s a w i r a t^ 
+สนุก	s a n u k^ 
+ราว	r aa w^ 
+อธิษฐาน	z a th i t^ th aa n^ 
+พระเจ้า	phr a c aa w^ 
+งู	ng uu 
+แล้วอลิซ	l xx w @@ l i t^ 
+เลิศ	l qq t^ 
+มายด์	m aa j^ 
+ผิวปาก	ph i w^ p aa k^ 
+เดินขบวน	d qq n^ kh a b uua n^ 
+เชือก	ch vva k^ 
+ตั้งใจ	t a ng^ c a j^ 
+เปลือก	pl vva k^ 
+หนา	n aa 
+สมอ	s a m @@ 
+ชุด	ch u t^ 
+เดรส	dr ee t^ 
+น้ำเงิน	n aa m^ ng q n^ 
+เข้ม	kh e m^ 
+ซึ่ง	s v ng^ 
+สวม	s uua m^ 
+บ่อย	b @ j^ 
+ฟิช	f i t^ 
+แอนด์	z xx n^ 
+ชิปส์	ch i p^ 
+คลอเลสเตอรอล	khl @@ l ee t^ t qq r @@ n^ 
+อื่น	z vv n^ 
+พิการ	ph i k aa n^ 
+รุนแรง	r u n^ r xx ng^ 
+เงี้ยว	ng iia w^ 
+เขี้ยว	kh iia w^ 
+เลื้อย	l vva j^ 
+ขยะแขยง	kh a j a kh a j xx ng^ 
+อีตัน	z ii t a n^ 
+เชื่อถือ	ch vva th vv 
+ชื่อ	ch vv 
+จดหมาย	c o t^ m aa j^ 
+ครอบครัว	khr @@ p^ khr uua 
+ร่าเริง	r aa r qq ng^ 
+ราบรื่น	r aa p^ r vv n^ 
+คว่ำ	khw a m^ 
+งั้น	ng a n^ 
+ฮาร์ดไดรฟ์	h aa t^ d a j^ 
+เรียง	r iia ng^ 
+ข้อมูล	kh @@ m uu n^ 
+วาง	w aa ng^ 
+หัวไหล่	h uua l a j^ 
+ล้ม	l o m^ 
+ล้มเลิก	l o m^ l qq k^ 
+เชื่อง	ch vva ng^ 
+ปล่อย	pl @ j^ 
+แบน	b xx n^ 
+ไร้	r a j^ 
+ประโยชน์	pr a j oo t^ 
+เจ้าของ	c a w^ kh @@ ng^ 
+แดง	d xx ng^ 
+โทรทัศน์	th oo r a th a t^ 
+เสา	s a w^ 
+อากาศ	z aa k aa t^ 
+วิทยุ	w i t^ th a j u 
+ถือ	th vv 
+โบราณ	b oo r aa n^ 
+สภาพ	s a ph aa p^ 
+ฟัน	f a n^ 
+ผุ	ph u 
+จำเป็น	c a m^ p e n^ 
+ต่ำ	t a m^ 
+ย่าน	j aa n^ 
+กึ่ง	k v ng^ 
+ที่อยู่อาศัย	th ii j uu z aa s a j^ 
+นิคม	n i kh o m^ 
+อุตสาหกรรม	z u t^ s aa h a k a m^ 
+สูตร	s uu t^ 
+ปราศจาก	pr aa t^ s a c aa k^ 
+ชื่นชม	ch vv n^ ch o m^ 
+หนทาง	h o n^ th aa ng^ 
+มุ่ง	m u ng^ 
+ชาร์ลี	ch aa l ii 
+คบ	kh o p^ 
+ลุง	l u ng^ 
+สำรวจ	s a m^ r uua t^ 
+วัสดุ	w a t^ s a d u 
+หยิบ	j i p^ 
+เต๋า	t a w^ 
+ทอย	th @@ j^ 
+แก่	k xx 
+เปรียบเทียบ	pr iia p^ th iia p^ 
+ระหว่าง	r a w aa ng^ 
+แอปเปิ้ล	z x p^ p q n^ 
+ส้ม	s o m^ 
+ล่ม	l o m^ 
+ครู่	khr uu 
+ริคาโด	r i kh aa d oo 
+ร่ำร้อง	r a m^ r @@ ng^ 
+สุก	s u k^ 
+คนตาบอด	kh o n^ t aa b @@ t^ 
+หลบหลีก	l o p^ l ii k^ 
+วัตถุ	w a t^ th u 
+เทคโนโลยี	th e k^ n oo l oo j ii 
+เคาะ	kh @ 
+เสื้อ	s vva 
+แห่	h xx 
+หลับ	l a p^ 
+หลีกเลี่ยง	l ii k^ l iia ng^ 
+ล่าง	l aa ng^ 
+เจ้า	c aa w^ 
+หนอน	n @@ n^ 
+ตะโกน	t a k oo n^ 
+ชีส	ch ii s^ 
+ขูด	kh uu t^ 
+ฝอย	f @ j^ 
+โรย	r oo j^ 
+พึ่ง	ph v ng^ 
+ไล่	l a j^ 
+เที่ยง	th iia ng^ 
+โซดาไบ	s oo d aa b a j^ 
+คาบ	kh aa p^ 
+อเนต	z a n ee t^ 
+รู้จักดี	r uu c a k^ d ii 
+ผง	ph o ng^ 
+ฟู	f uu 
+เค้ก	kh ee k^ 
+กู้	k uu 
+ภูเขา	ph uu kh a w^ 
+แพ้	ph xx 
+อนาถใจ	z a n aa t^ c a j^ 
+โอ้	z oo 
+ยกโทษ	j o k^ th oo t^ 
+เยี่ยม	j iia m^ 
+หน้ามืดตามัว	n aa m vv t^ t aa m uua 
+อุบัติเหตุ	z u b a t^ t i h ee t^ 
+ไฟฟ้า	f a j^ f aa 
+พลังงาน	phl a ng^ ng aa n^ 
+นิวเคลียร์	n i w^ khl iia 
+หาย	h aa j^ 
+จับจ้อง	c a p^ c @ ng^ 
+อบอุ่น	z o p^ z u n^ 
+เช้าตรู่	ch a w^ tr uu 
+ปลดปล่อย	pl o t^ pl @@ j^ 
+ลำ	l a m^ 
+ธาร	th aa n^ 
+ล้มเหลว	l o m^ l ee w^ 
+โซเฟีย	s oo f iia 
+บิล	b i n^ 
+สูญ	s uu n^ 
+เกือบ	k vva p^ 
+แสน	s xx n^ 
+ปอนด์	p @@ n^ 
+เอสเปอร์เจอร์ซินโดรม	z ee s^ p qq c qq s i n^ dr oo m^ 
+ออทิสติก	z @@ th i t^ t i k^ 
+คล้ายคลึง	khl aa j^ khl v ng^ 
+เท	th ee 
+ซ่อม	s @ m^ 
+คัน	kh a n^ 
+สนุกสนาน	s a n u k^ s a n aa n^ 
+โธมัส	th oo m a t^ 
+ก้าว	k aa w^ 
+สุภาพสตรี	s u ph aa p^ s a tr ii 
+พฤติกรรม	phr v t^ t i k a m^ 
+จนกระทั่ง	c o n^ kr a th a ng^ 
+รายละเอียด	r aa j^ l a z iia t^ 
+แน่นอน	n xx n @@ n^ 
+ทิวดอร์	th i w^ d @@ 
+โกรธ	kr oo t^ 
+อ๊อซฟอร์ด	z @@ t^ f @@ t^ 
+แคม	kh xx m^ 
+บริชด์	b @@ r i t^ 
+สถาบัน	s a th aa b a n^ 
+จิตวิทยา	c i t^ t a w i t^ th a j aa 
+ก้าวร้าว	k aa w^ r aa w^ 
+งุนงง	ng u n^ ng o ng^ 
+เมินเฉย	m qq n^ ch qq j^ 
+เข้าใจ	kh a w^ c a j^ 
+ปะทะ	p a th a 
+เรียนรู้	r iia n^ r uu 
+สัตววิทยา	s a t^ t a w a w i t^ th a j aa 
+สถานการณ์	s a th aa n^ k aa n^ 
+เย็บ	j e p^ 
+ซ่อมแซม	s @ m^ s xx m^ 
+กระสอบ	kr a s @@ p^ 
+ดัดแปร	d a t^ pr xx 
+รูปแบบ	r uu p^ b xx p^ 
+คงที่	kh o ng^ th ii 
+เปล่ง	pl e ng^ 
+จมูก	c a m uu k^ 
+ส่าย	s aa j^ 
+ไอลีน	z a j^ l ii n^ 
+อุป	z u p^ 
+ชื่น	ch vv n^ 
+แท่ง	th x ng^ 
+ทอด	th @@ t^ 
+มันฝรั่ง	m a n^ f a r a ng^ 
+กรอบ	kr @@ p^ 
+ถั่ว	th uua 
+อบ	z o p^ 
+ซอสมะเขือเทศ	s @@ t^ m a kh vva th ee t^ 
+ถี่	th ii 
+สเปกตรัม	s a p e k^ tr a m^ 
+ดูดซับ	d uu t^ s a p^ 
+โมเลกุล	m oo l ee k u n^ 
+ไฮโดรเจน	h a j^ dr oo c e n^ 
+ไอออน	z a j^ z @ n^ 
+ไนซ์	n a j^ 
+คำนึง	kh a m^ n v ng^ 
+ลูกค้า	l uu k^ kh aa 
+เสมอ	s a m qq 
+ปิแอร์	p i z xx 
+นึก	n v k^ 
+แรม	r xx m^ 
+ต่าง	t aa ng^ 
+ประเทศ	pr a th ee t^ 
+ผู้คน	ph uu kh o n^ 
+หลงใหล	l o ng^ l a j^ 
+กุ๊ก	k u k^ 
+จูจิตสุ	c uu c i t^ s u 
+ศิลปะ	s i n^ l a p a 
+ป้องกัน	p @ ng^ k a n^ 
+เนิน	n qq n^ 
+เปล่า	pl aa w^ 
+เดา	d a w^ 
+สัญญา	s a n^ j aa 
+นิ	n i 
+ชาร์ลีย์	ch aa l ii 
+เช่า	ch a w^ 
+กฎ	k o t^ 
+บท	b o t^ 
+ควบรวม	kh uua p^ r uua m^ 
+หน่วย	n uua j^ 
+วา	w aa 
+ด้า	d aa 
+ลู	l uu 
+อิส	z i t^ 
+สตีเวิร์ด	s a t ii w qq t^ 
+ลูกจ้าง	l uu k^ c aa ng^ 
+บริษัท	b @@ r i s a t^ 
+เอเชียทิ	z ee ch iia th i 
+คบรีด	kh o p^ r ii t^ 
+กรรไกร	k a n^ kr a j^ 
+โลหะ	l oo h a 
+อ่า	z aa 
+เกาหลีเหนือ	k a w^ l ii n vva 
+ปลด	pl o t^ 
+อาวุธ	z aa w u t^ 
+คนใช้	kh o n^ ch a j^ 
+นวนิยาย	n a w a n i j aa j^ 
+สุดท้าย	s u t^ th aa j^ 
+ฉาก	ch aa k^ 
+ปาก	p aa k^ 
+ปล่อง	pl @ ng^ 
+ไซบีเรีย	s a j^ b ii r iia 
+สัก	s a k^ 
+แผน	ph xx n^ 
+คลุมเคลือ	khl u m^ khl vva 
+ล่วง	l uua ng^ 
+เจ้านาย	c aa w^ n aa j^ 
+เฮนรี่	h e n^ r ii 
+หัวเราะ	h uua r @ 
+หมวก	m uua k^ 
+กอง	k @@ ng^ 
+ทัพ	th a p^ 
+คลัง	khl a ng^ 
+อ้าง	z aa ng^ 
+จุด	c u t^ 
+ซอฟแวร์	s @@ f^ w xx 
+ตลก	t a l o k^ 
+ถ้อยคำ	th @@ j^ kh a m^ 
+รัฐบาล	r a t^ th a b aa n^ 
+โง่	ng oo 
+คลาน	khl aa n^ 
+พง	ph o ng^ 
+บ้า	b aa 
+หลัก	l a k^ 
+บริหาร	b @@ r i h aa n^ 
+กลยุทธ์	k o n^ l a j u t^ 
+อร่อย	z a r @ j^ 
+คาดหวัง	kh aa t^ w a ng^ 
+ชื้น	ch vv n^ 
+เค้า	kh a w^ 
+โทมัส	th oo m a s^ 
+เครื่องหมาย	khr vva ng^ m aa j^ 
+อุปกรณ์	z u p^ p a k @@ n^ 
+จอย	c @@ j^ 
+สาย	s aa j^ 
+ปัญหา	p a n^ h aa 
+เชื่อม	ch vva m^ 
+ลบ	l o p^ 
+ตื่น	t vv n^ 
+รุ่งสาง	r u ng^ s aa ng^ 
+ตรวจสอบ	tr uua t^ s @@ p^ 
+วัด	w a t^ 
+ขา	kh aa 
+ภาคภูมิ	ph aa k^ ph uu m^ 
+เพนกวิ้น	ph ee n^ kw i n^ 
+ยิ้ม	j i m^ 
+ตุ่ม	t u m^ 
+ผา	ph aa 
+สุภาพ	s u ph aa p^ 
+คืบหน้า	kh vv p^ n aa 
+หลังคา	l a ng^ kh aa 
+ฝุ่น	f u n^ 
+ยก	j o k^ 
+สหรัฐ	s a h a r a t^ 
+เปิดเผย	p qq t^ ph qq j^ 
+วิธี	w i th ii 
+กำจัด	k a m^ c a t^ 
+ยุง	j u ng^ 
+ช่วยเหลือ	ch uua j^ l vva 
+ท่อน	th @ n^ 
+อุกกาบาต	z u k^ k aa b aa t^ 
+รบกวน	r o p^ k uua n^ 
+แปล	p xx 
+คัดเลือก	kh a t^ l vva k^ 
+เหนื่อย	n vva j^ 
+ยาน	j aa n^ 
+อวกาศ	z a w a k aa t^ 
+ฟอก	f @@ k^ 
+กรอง	kr @@ ng^ 
+คาร์บอนไดออกไซด์	kh aa b @@ n^ d a j^ z @@ k^ s a j^ 
+มรดก	m @@ r a d o k^ 
+รูป	r uu p^ 
+ปั้น	p a n^ 
+พินัยกรรม	ph i n a j^ k a m^ 
+ยาย	j aa j^ 
+สนอง	s a n @@ ng^ 
+ชาติ	ch aa t^ 
+เอาชนะ	z a w^ ch a n a 
+กวาง	kw aa ng^ 
+ชั้น	ch a n^ 
+หาร	h aa n^ 
+เชิง	ch qq ng^ 
+ซ้อน	s @@ n^ 
+อีเมล์	z ii m ee l^ 
+ข่มขู่	kh o m^ kh uu 
+จุดจบ	c u t^ c o p^ 
+กรีซ	kr ii t^ 
+ประชาธิปไตย	pr a ch aa th i p^ p a t a j^ 
+ประดิษฐ์	pr a d i t^ 
+โต๊ะ	t o 
+วิทยสิริเมธี	w i t^ th a j a s i r i m ee th ii 
+อุดมศึกษา	z u d o m^ s v k^ s aa 
+จังหวัด	c a ng^ w a t^ 
+ระยอง	r a j @@ ng^ 
+ภรรยา	ph a n^ r a j aa 
+ริคาร์โด้	r i kh aa d oo 
+กวน	k uua n^ 
+หนัง	n a ng^ 
+ศีรษะ	s ii s a 
+ซีเมนต์	s ii m ee n^ 
+ปลูก	pl uu k^ 
+ต้นไม้	t o n^ m aa j^ 
+ขอนแก่น	kh @@ n^ k x n^ 
+ขาดแคลน	kh aa t^ khl xx n^ 
+กุญแจ	k u n^ c xx 
+ลูกบุญธรรม	l uu k^ b u n^ th a m^ 
+จอร์จ	c @@ t^ 
+เพชร	ph e t^ 
+เก็บรักษา	k e p^ r a k^ s aa 
+สถานที่	s a th aa n^ th ii 
+เบรค	br ee k^ 
+พอดี	ph @@ d ii 
+ดับ	d a p^ 
+ท่องเที่ยว	th @@ ng^ th iia w^ 
+วุ่นวาย	w u n^ w aa j^ 
+ไฟล์	f a j^ 
+หลาย	l aa j^ 
+กิกะไบต์	k i k a b a j^ 
+กระปุก	kr a p u k^ 
+ออมสิน	z @@ m^ s i n^ 
+หัวโจก	h uua c oo k^ 
+บาสเซตต์	b aa t^ s ee t^ 
+ชัดเจน	ch a t^ c ee n^ 
+เย็นชา	j e n^ ch aa 
+ทุเรียน	th u r iia n^ 
+พืช	ph vv t^ 
+เศรษฐกิจ	s ee t^ th a k i t^ 
+สูญเสีย	s uu n^ s iia 
+ปศุสัตว์	p a s u s a t^ 
+แหละ	l x 
+ร้องไห้	r @@ ng^ h a j^ 
+ผี	ph ii 
+สว่าน	s a w aa n^ 
+สั่นสะเทือน	s a n^ s a th vva n^ 
+ควบคุม	kh uua p^ kh u m^ 
+ไกล	kl a j^ 
+ใช้จ่าย	ch a j^ c aa j^ 
+พล่าม	phl aa m^ 
+พล่อย	phl @ j^ 
+แวววาว	w xx w^ w aa w^ 
+กระจาย	kr a c aa j^ 
+อำนาจ	z a m^ n aa t^ 
+ม้า	m aa 
+ไหว	w a j^ 
+ไมโครซอฟท์	m a j^ khr oo s @@ f^ 
+ใจกว้าง	c a j^ kw aa ng^ 
+แหล่ง	l x ng^ 
+เนี่ย	n iia 
+สุด	s u t^ 
+ยอด	j @@ t^ 
+แห่ง	h x ng^ 
+วิศวกรรม	w i t^ s a w a k a m^ 
+เมาส์	m a w^ 
+ฝน	f o n^ 
+เลิก	l qq k^ 
+กว้าง	kw aa ng^ 
+อาจารย์	z aa c aa n^ 
+ทรง	s o ng^ 
+สอบถาม	s @@ p^ th aa m^ 
+แฮร์รี่	h xx r ii 
+เกม	k ee m^ 
+แลดดี้	l xx t^ d ii 
+สรุป	s a r u p^ 
+อ่อน	z @@ n^ 
+เฮลิคอปเตอร์	h ee l i kh @ p^ t qq 
+ประสบ	pr a s o p^ 
+ปฐมพยาบาล	p a th o m^ ph a j aa b aa n^ 
+เชียงใหม่	ch iia ng^ m a j^ 
+หรอ	r @@ 
+แถม	th xx m^ 
+จำนวน	c a m^ n uua n^ 
+แยก	j xx k^ 
+อะตอม	z a t @ m^ 
+ไซยาไนด์	s a j^ j aa n a j^ 
+พระคัมภีร์	phr a kh a m^ ph ii 
+กี่	k ii 
+เร่ง	r e ng^ 
+รวบรวม	r uua p^ r uua m^ 
+แผนที่	ph xx n^ th ii 
+ลา	l aa 
+ไสยศาสตร์	s a j^ j a s aa t^ 
+แข็งแรง	kh x ng^ r xx ng^ 
+สาร	s aa n^ 
+เสพ	s ee p^ 
+อันตราย	z a n^ tr aa j^ 
+หิว	h i w^ 
+ราเชล	r aa ch ee l^ 
+เขิน	kh qq n^ 
+อาย	z aa j^ 
+บี	b ii 
+เดินทาง	d qq n^ th aa ng^ 
+ท่ามกลาง	th aa m^ kl aa ng^ 
+ศูนย์	s uu n^ 
+ภาพบำบัด	ph aa p^ b a m^ b a t^ 
+บรรยากาศ	b a n^ j aa k aa t^ 
+ใจกลาง	c a j^ kl aa ng^ 
+ดั้งเดิม	d a ng^ d qq m^ 
+ถูกต้อง	th uu k^ t @ ng^ 
+แวะ	w x 
+เป็ด	p e t^ 
+ย่าง	j aa ng^ 
+ประจักษ์	pr a c a k^ 
+เก่าแก่	k a w^ k xx 
+ดินแดน	d i n^ d xx n^ 
+ฮอบ	h @@ p^ 
+บิท	b i t^ 
+นิวซีแลนด์	n i w^ s ii l xx n^ 
+ทุกข์ใจ	th u k^ c a j^ 
+ยิวยิต	j i w^ j i t^ 
+สู	s uu 
+ยูโด	j uu d oo 
+กีฬา	k ii l aa 
+ล็อก	l @ k^ 
+คุณค่า	kh u n^ n a kh aa 
+มั่นใจ	m a n^ c a j^ 
+ทักษะ	th a k^ s a 
+สอดคล้อง	s @@ t^ khl @@ ng^ 
+ลักษณะ	l a k^ s a n a 
+ซอฟต์แวร์	s @@ p^ w xx 
+เดิม	d qq m^ 
+ยังคง	j a ng^ kh o ng^ 
+ปลอม	pl @@ m^ 
+เบลเยียม	b ee l^ j iia m^ 
+ป่า	p aa 
+พุธ	ph u t^ 
+จอห์น	c @@ n^ 
+ซัพ	s a p^ 
+พอร์ต	ph @@ t^ 
+ปราถนา	pr aa t^ th a n aa 
+หุ้น	h u n^ 
+แอดวานซ์	z xx t^ w aa n^ 
+หมู	m uu 
+หมู่	m uu 
+แมว	m xx w^ 
+นายก	n aa j o k^ 
+รัฐมนตรี	r a t^ th a m o n^ tr ii 
+เลขานุการ	l ee kh aa n u k aa n^ 
+ราย	r aa j^ 
+ศตวรรษ	s a t a w a t^ 
+บีบ	b ii p^ 
+คอ	kh @@ 
+เดี๋ยว	d iia w^ 
+ฤๅษี	r vv s ii 
+ดัด	d a t^ 
+อิสิป	z i s i p^ 
+ตนมฤคทาย	t o n^ m a r v k^ kh a th aa j^ 
+หรือไง	r vv ng a j^ 
+กรุง	kr u ng^ 
+โรม	r oo m^ 
+รีบ	r ii p^ 
+พยาบาล	ph a j aa b aa n^ 
+กลืน	kl vv n^ 
+ดนตรี	d o n^ tr ii 
+จับใจ	c a p^ c a j^ 
+ไวน์	w aa j^ 
+แปลก	pl xx k^ 
+ชัด	ch a t^ 
+รสชาติ	r o t^ ch aa t^ 
+ชัยชนะ	ch a j^ ch a n a 
+ชมรม	ch o m^ r o m^ 
+เล่า	l a w^ 
+หัวใจ	h uua c a j^ 
+พอเพียง	ph @@ ph iia ng^ 
+มะเขือ	m a kh vva 
+ขบวน	kh a b uua n^ 
+เฉลิมฉลอง	ch a l qq m^ ch a l @@ ng^ 
+ถูด	th uu t^ 
+รสนิยม	r o t^ s a n i j o m^ 
+ตายตัว	t aa j^ t uua 
+ล็อบสเตอร์	l @ p^ s a t qq 
+ตึง	t v ng^ 
+พอ	ph @@ 
+ว่างเปล่า	w aa ng^ pl aa w^ 
+ลาด	l aa t^ 
+เลี้ยว	l iia w^ 
+ทันที	th a n^ th ii 
+พลาง	phl aa ng^ 
+ทักทาย	th a k^ th aa j^ 
+เสนอ	s a n qq 
+มุมมอง	m u m^ m @@ ng^ 
+กังวลใจ	k a ng^ w o n^ c a j^ 
+แทบ	th xx p^ 
+สงสาร	s o ng^ s aa n^ 
+วิสกี้	w i t^ s a k ii 
+โซดา	s oo d aa 
+แสน็กแพด	s xx n @@ k^ ph xx t^ 
+คีย์บอร์ด	kh ii b @@ t^ 
+ระดับ	r a d a p^ 
+กลาง	kl aa ng^ 
+ง่วง	ng uua ng^ 
+เสน่ห์	s a n ee 
+เหตุผล	h ee t^ ph o n^ 
+เบี้ยว	b iia w^ 
+เดี่ยว	d iia w^ 
+นาย	n aa j^ 
+แคโรลีน	kh xx r oo l ii n^ 
+ซัมเมอร์สัน	s a m^ m qq s a n^ 
+เคารพ	kh a w^ r o p^ 
+ซิกมุนด์	s i k^ m u n^ 
+ลามกอนาจาร	l aa m o k^ z a n aa c aa n^ 
+สบู่	s a b uu 
+เตือน	t vva n^ 
+ฟาง	f aa ng^ 
+ยูโร	j uu r oo 
+ร่าง	r aa ng^ 
+คล้าย	khl aa j^ 
+วิญญาณ	w i n^ j aa n^ 
+ชั่วโมง	ch uua m oo ng^ 
+วิดีโอ	w i d ii z oo 
+จริงจัง	c a r i ng^ c a ng^ 
+น้ำเสียง	n aa m^ s iia ng^ 
+เหตุ	h ee t^ 
+ค่อนข้าง	kh @@ n^ kh aa ng^ 
+ระวัง	r a w a ng^ 
+ลอง	l @@ ng^ 
+เบี่ยงเบน	b iia ng^ b ee n^ 
+มาตรฐาน	m aa t^ tr a th aa n^ 
+ถอด	th @@ t^ 
+สร้อย	s @ j^ 
+มุก	m u k^ 
+กำไล	k a m^ l a j^ 
+อ้อย	z @ j^ 
+เลี้ยง	l iia ng^ 
+มึนงง	m v n^ ng o ng^ 
+จอน	c @@ n^ 
+พา	ph aa 
+โยน	j oo n^ 
+เหรียญ	r iia n^ 
+สุนิสา	s u n i s aa 
+ราตรี	r aa tr ii 
+เครื่องมือ	khr vva ng^ m vv 
+ซับซ้อน	s a p^ s @@ n^ 
+ฟุตบอล	f u t^ b @@ n^ 
+ปรึกษา	pr v k^ s aa 
+ลืมตา	l vv m^ t aa 
+กิจการ	k i t^ c a k aa n^ 
+อม	z o m^ 
+ช็อกโกแลต	ch @ k^ k oo l x t^ 
+ลูกเกด	l uu k^ k ee t^ 
+คุ้น	kh u n^ 
+สมอง	s a m @@ ng^ 
+โตโยต้า	t oo j oo t aa 
+วิจัย	w i c a j^ 
+โตเกียว	t oo k iia w^ 
+ครรภ์	kh a n^ 
+รอย	r @@ j^ 
+ดุร้าย	d u r aa j^ 
+โดน	d oo n^ 
+กักขัง	k a k^ kh a ng^ 
+อุทาน	z u th aa n^ 
+รูปภาพ	r uu p^ ph aa p^ 
+สลัว	s a l uua 
+งาม	ng aa m^ 
+เกียวโต	k iia w^ t oo 
+มิถุนายน	m i th u n aa j o n^ 
+แซนด์วิช	s xx n^ w i t^ 
+ครุ่น	khr u n^ 
+ชั่ว	ch uua 
+นะจีเวส	n a c ii w ee t^ 
+สามี	s aa m ii 
+แม้	m xx 
+แต่ง	t x ng^ 
+ประหลาด	pr a l aa t^ 
+พูดอลิซ	ph uu d @@ l i t^ 
+ค้น	kh o n^ 
+คลุมเครือ	khl u m^ khr vva 
+กษัตริย์	k a s a t^ 
+ไม้ขีด	m aa j^ kh ii t^ 
+แพน	ph xx n^ 
+ไอ	z a j^ 
+คุง	kh u ng^ 
+มารยาท	m aa r a j aa t^ 
+เปลี่ยนแปลง	pl iia n^ pl xx ng^ 
+สิ่งทุก	s i ng^ th u k^ 
+ดอทรี	d @@ s ii 
+โชว์	ch oo 
+กล	k o n^ 
+ค็อกกี้	kh @ k^ k ii 
+พื้นที่	ph vv n^ th ii 
+แม่นยำ	m x n^ j a m^ 
+ฐานะ	th aa n a 
+ฝี	f ii 
+หนอง	n @@ ng^ 
+นางวูด	n aa ng^ w uu t^ 
+นกพิราบ	n o k^ ph i r aa p^ 
+ทรยศ	th @@ r a j o t^ 
+โน้มน้าว	n oo m^ n aa w^ 
+แมธธิว	m xx t^ th i w^ 
+รอบ	r @@ p^ 
+บี้	b ii 
+คั่ว	kh uua 
+กะทิ	k a th i 
+พิถีพิถัน	ph i th ii ph i th a n^ 
+ไหม้	m a j^ 
+กตัญญู	k a t a n^ j uu 
+สมบัติ	s o m^ b a t^ 
+จิตใจ	c i t^ c a j^ 
+เต่า	t a w^ 
+สปีชี่ส์	s a p ii ch ii 
+แตกต่าง	t xx k^ t aa ng^ 
+หนาว	n aa w^ 
+ทางการ	th aa ng^ k aa n^ 
+บรรทัด	b a n^ th a t^ 
+เพิ่มเติม	ph qq m^ t qq m^ 
+บุรุษ	b u r u t^ 
+ไปรษณีย์	pr a j^ s a n ii 
+ระแวง	r a w xx ng^ 
+สุนัขลาบราดอร์	s u n a k^ l aa p^ r aa d @@ 
+เร่	r ee 
+อนามัย	z a n aa m a j^ 
+สละ	s a l a 
+อธิปไตย	z a th i p^ p a t a j^ 
+การคลัง	k aa n^ khl a ng^ 
+โอ้ย	z oo j^ 
+แก	k xx 
+หิน	h i n^ 
+สวด	s uua t^ 
+สรรเสริญ	s a n^ s qq n^ 
+คริสต์มาส	khr i t^ m aa t^ 
+เลือด	l vva t^ 
+เว็บไซต์	w e p^ s a j^ 
+แอพ	z xx p^ 
+ระลึก	r a l v k^ 
+แซก	s xx k^ 
+นิวตัน	n i w^ t a n^ 
+อัจฉริยะ	z a t^ ch a r i j a 
+จิตวิญญาณ	c i t^ w i n^ j aa n^ 
+สวยงาม	s uua j^ ng aa m^ 
+ปรับปรุง	pr a p^ pr u ng^ 
+โรงพยาบาล	r oo ng^ ph a j aa b aa n^ 
+จ้าง	c aa ng^ 
+ดึงดูด	d v ng^ d uu t^ 
+ทำลาย	th a m^ l aa j^ 
+พยัก	ph a j a k^ 
+รอน	r @@ n^ 
+ประชุม	pr a ch u m^ 
+เน้น	n e n^ 
+ดอก	d @@ k^ 
+จัน	c a n^ 
+แผง	ph xx ng^ 
+ซูชิ	s uu ch i 
+มุม	m u m^ 
+มูลค่า	m uu n^ l a kh aa 
+ของขวัญ	kh @@ ng^ khw a n^ 
+สนามบิน	s a n aa m^ b i n^ 
+โง่เขลา	ng oo khl a w^ 
+เยี่ยมชม	j iia m^ ch o m^ 
+เมล็ด	m a l e t^ 
+พันธุ์	ph a n^ 
+อาเซียน	z aa s iia n^ 
+ร่วมมือ	r uua m^ m vv 
+ปฏิญญา	p a t i n^ j aa 
+กรุงเทพ	kr u ng^ th ee p^ 
+คุก	kh u k^ 
+สปิริต	s a p i r i t^ 
+แอนิเมชั่น	z xx n i m ee ch a n^ 
+ดำ	d a m^ 
+มะม่วง	m a m uua ng^ 
+ว่องไว	w @ ng^ w a j^ 
+ปรัชญา	pr a t^ ch a j aa 
+อนุมัติ	z a n u m a t^ 
+รัฐสภา	r a t^ th a s a ph aa 
+หมอง	m @@ ng^ 
+สบายดี	s a b aa j^ d ii 
+ท่าทาง	th aa th aa ng^ 
+รวดเร็ว	r uua t^ r e w^ 
+พฤหัสบดี	ph a r v h a t^ s a b @@ d ii 
+อูร	z uu n^ 
+ชำนาญ	ch a m^ n aa n^ 
+โอเค	z oo kh ee 
+นิด	n i t^ 
+นกขุนทอง	n o k^ kh u n^ th @@ ng^ 
+กรง	kr a ng^ 
+หวาน	w aa n^ 
+เล็กน้อย	l e k^ n @@ j^ 
+งงงวย	ng o ng^ ng uua j^ 
+จิปาถะ	c i p aa th a 
+สูงอายุ	s uu ng^ z aa j u 
+อิ่ม	z i m^ 
+ช็อค	ch @ k^ 
+สิงโต	s i ng^ t oo 
+สนทนา	s o n^ th a n aa 
+บันทึก	b a n^ th v k^ 
+จุดประสงค์	c u t^ pr a s o ng^ 
+พัฒนา	ph a t^ th a n aa 
+คุณภาพ	kh u n^ n a ph aa p^ 
+พัชรินทร์	ph a t^ ch a r i n^ 
+ขนม	kh a n o m^ 
+เตียง	t iia ng^ 
+ทัท	th a t^ 
+กะ	k a 
+ตกต่ำ	t o k^ t a m^ 
+พลาด	phl aa t^ 
+วิชา	w i ch aa 
+สำเร็จ	s a m^ r e t^ 
+น้อยนิด	n @@ j^ n i t^ 
+มืดมน	m vv t^ m o n^ 
+เฉพาะ	ch a ph @ 
+ชิ้น	ch i n^ 
+แกะ	k x 
+เหงื่อ	ng vva 
+ยิ่งใหญ่	j i ng^ j a j^ 
+ราชินี	r aa ch i n ii 
+เริ่มต้น	r qq m^ t o n^ 
+ซุบซิบ	s u p^ s i p^ 
+คานส์	kh aa n^ 
+แย่	j xx 
+หอน	h @@ n^ 
+เยาวชน	j a w^ w a ch o n^ 
+เช็ด	ch e t^ 
+ถ้วย	th uua j^ 
+ชาม	ch aa m^ 
+ผืน	ph vv n^ 
+ฟอร์ม	f @@ m^ 
+พัน	ph a n^ 
+มลพิษ	m o n^ l a ph i t^ 
+วิ่ง	w i ng^ 
+หอบ	h @@ p^ 
+ซี่โครง	s ii khr oo ng^ 
+สาหร่าย	s aa r aa j^ 
+แองเจ	z xx ng^ c ee 
+หาเรื่อง	h aa r vva ng^ 
+เหา	h a w^ 
+ใส่	s a j^ 
+มั่นคง	m a n^ kh o ng^ 
+โหดเหี้ยม	h oo t^ h iia m^ 
+เลือก	l vva k^ 
+เหล็ก	l e k^ 
+กว้างขวาง	kw aa ng^ khw aa ng^ 
+ขออภัย	kh @@ z a ph a j^ 
+กาแฟ	k aa f xx 
+ขม	kh o m^ 
+พลอย	phl @@ j^ 
+ข้า	kh aa 
+อดทน	z o t^ th o n^ 
+ไกลอลิซ	k a j^ l @@ l i t^ 
+จีน	c ii n^ 
+ระยะ	r a j a 
+แฟน	f xx n^ 
+หลอกลวง	l @@ k^ l uua ng^ 
+สุภาพบุรุษ	s u ph aa p^ b u r u t^ 
+เอ่อ	z qq 
+เกรง	kr ee ng^ 
+ห้าม	h aa m^ 
+ปู	p uu 
+อ้อนวอน	z @@ n^ w @@ n^ 
+สภา	s a ph aa 
+โจร	c oo n^ 
+ประสาน	pr a s aa n^ 
+สำนักงาน	s a m^ n a k^ ng aa n^ 
+สาธารณภัย	s aa th aa r a n a ph a j^ 
+โต	t oo 
+โต้	t oo 
+ทาน	th aa n^ 
+มื้อ	m vv 
+ค่ำ	kh a m^ 
+นิวยอร์ก	n i w^ j @@ k^ 
+ตู้	t uu 
+สปาร์	s a p aa 
+กลิ้ง	kl i ng^ 
+หน้าที่	n aa th ii 
+ก่ำ	k a m^ 
+สะดุ้ง	s a d u ng^ 
+เล่ม	l e m^ 
+คั่น	kh a n^ 
+ภูมิภาค	ph uu m^ m i ph aa k^ 
+สัตว์	s a t^ 
+เล็ก	l e k^ 
+วิเศษ	w i s ee t^ 
+ปากกา	p aa k^ k aa 
+ด้าม	d aa m^ 
+หลุดพ้น	l u t^ ph o n^ 
+บาปกรรม	b aa p^ k a m^ 
+มอ	m @@ 
+ดินแดง	d i n^ d xx ng^ 
+ทีเดียว	th ii d iia w^ 
+ซ้ำแล้วซ้ำอีก	s a m^ l xx w^ s a m^ z ii k^ 
+สวัสดี	s a w a t^ d ii 
+เบอร์ตี้	b qq t ii 
+ที่รัก	th ii r a k^ 
+อมตะ	z a m a t a 
+โจมตี	c oo m^ t ii 
+ร่ำรวย	r a m^ r uua j^ 
+หมอ	m @@ 
+กรีด	kr ii t^ 
+ตัก	t a k^ 
+แรงงาน	r xx ng^ ng aa n^ 
+เสี่ยง	s iia ng^ 
+แทน	th xx n^ 
+อัตโนมัติ	z a t^ t a n oo m a t^ 
+ขวบ	kh uua p^ 
+ป่วน	p uua n^ 
+จนกว่า	c o n^ kw aa 
+ลาว	l aa w^ 
+แผ่นดิน	ph x n^ d i n^ 
+หลอกหลอน	l @@ k^ l @@ n^ 
+นาม	n aa m^ 
+สเปน	s a p ee n^ 
+โปรตุเกส	pr oo t u k ee t^ 
+นิโคล	n i khl oo 
+สิงหาคม	s i ng^ h aa kh o m^ 
+คาปูชิโน่	kh aa p uu ch i n oo 
+งี่เง่า	ng ii ng a w^ 
+เตะ	t e 
+บุตร	b u t^ 
+เกาะ	k @ 
+อัศวิน	z a t^ s a w i n^ 
+บอล	b @ n^ 
+จ้า	c aa 
+ขี่	kh ii 
+เส้นทาง	s e n^ th aa ng^ 
+พรรค	ph a k^ 
+เหมาะสม	m @ s o m^ 
+ปกป้อง	p o k^ p @ ng^ 
+ตำแหน่ง	t a m^ n x ng^ 
+ผ่อนคลาย	ph @ n^ khl aa j^ 
+สงบ	s a ng o p^ 
+ทั้งนั้น	th a ng^ n a n^ 
+ข้าวหลาม	kh aa w^ l aa m^ 
+วง	w o ng^ 
+อาลันชอ	z aa l a n^ ch @@ 
+หน้ากาก	n aa k aa k^ 
+วิคกี้	w i k^ k ii 
+คริสตชน	khr i t^ ch o n^ 
+ตรวจ	tr uua t^ 
+เช็ค	ch e k^ 
+สินค้า	s i n^ kh aa 
+อเมริกัน	z a m ee r i k a n^ 
+บาร์บีคิว	b aa b ii kh i w^ 
+อัตรา	z a t^ tr aa 
+ว่าง	w aa ng^ 
+อุ	z u 
+ภาค	ph aa k^ 
+ยืม	j vv m^ 
+กล่อง	kl @ ng^ 
+ดินสอ	d i n^ s @@ 
+รุ่ง	r u ng^ 
+อรุณ	z a r u n^ 
+งอม	ng @@ m^ 
+ไดโนเสาร์	d a j^ n oo s a w^ 
+สาเหตุ	s aa h ee t^ 
+ใจ	c a j^ 
+นิ่ง	n i ng^ 
+ครัว	khr uua 
+ต้อย	t @ j^ 
+ติ่ง	t i ng^ 
+ฆาตกรรม	kh aa t^ t a k a m^ 
+พึงพอใจ	ph v ng^ ph @@ c a j^ 
+วิกิดาต้า	w i k i d aa t aa 
+โกดัง	k oo d a ng^ 
+เสรี	s ee r ii 
+พรม	phr o m^ 
+ปราณีต	pr aa n ii t^ 
+เป้	p ee 
+ถาวร	th aa w @@ n^ 
+ขั้ว	kh uua 
+ตอบแทน	t @@ p^ th xx n^ 
+เหงา	ng a w^ 
+ไหล	l a j^ 
+กับอลิซ	k a p^ z a l i t^ 
+แอลกอฮอล์	z xx l^ k @@ h @@ 
+ชำระ	ch a m^ r a 
+ยี่ห้อ	j ii h @@ 
+ชม	ch o m^ 
+ละแวก	l a w xx k^ 
+สืบสวน	s vv p^ s uua n^ 
+กรณี	k @@ r a n ii 
+ขยะ	kh a j a 
+รับผิดชอบ	r a p^ ph i t^ ch @@ p^ 
+สายไหม	s aa j^ m a j^ 
+ซอส	s @@ t^ 
+ห่าน	h aa n^ 
+แกนเดอร์	k xx n^ d qq 
+จึง	c v ng^ 
+ไก่	k a j^ 
+ปฏิทิน	p a t i th i n^ 
+กันยายน	k a n^ j aa j o n^ 
+ไม่ว่า	m a j^ w aa 
+ดุดัน	d u d a n^ 
+ลูคีเมีย	l uu kh ii m iia 
+อังกฤษ	z a ng^ kr i t^ 
+โรค	r oo k^ 
+วิลล่าโรส	w i n^ l aa r oo s^ 
+พิธีกรรม	ph i th ii k a m^ 
+เอกสาร	z ee k^ k a s aa n^ 
+ขั้นตอน	kh a n^ t @@ n^ 
+เนื่อง	n vva ng^ 
+ภาวะ	ph aa w a 
+ซึมเศร้า	s v m^ s a w^ 
+จิตแพทย์	c i t^ t a ph xx t^ 
+อูฐ	z uu t^ 
+หัก	h a k^ 
+สด	s o t^ 
+ตะกร้า	t a kr aa 
+ลอย	l @@ j^ 
+ล้าน	l aa n^ 
+บาท	b aa t^ 
+เซ็น	s e n^ 
+เตรียม	tr iia m^ 
+ฉลอง	ch a l @@ ng^ 
+ครบ	khr o p^ 
+บาร์	b aa 
+คาราโอเกะ	kh aa r aa z oo k e 
+โมง	m oo ng^ 
+ปลุกใจ	pl u k^ c a j^ 
+ปีศาจ	p ii s aa t^ 
+อุตุนิยมวิทยา	z u t u n i j o m^ w i t^ th a j aa 
+ปนเปื้อน	p o n^ p vva n^ 
+ทอม	th @@ m^ 
+แก้แค้น	k xx kh xx n^ 
+อินเทอร์เฟส	z i n^ th qq f ee t^ 
+โจ	c oo 
+นิ่ม	n i m^ 
+โยเกิร์ต	j oo k qq t^ 
+ห้าง	h aa ng^ 
+สรรพสินค้า	s a p^ ph a s i n^ kh aa 
+มียา	m ii j aa 
+ซุกซ่อน	s u k^ s @@ n^ 
+เวที	w ee th ii 
+รู	r uu 
+ฟกช้ำ	f o k^ ch a m^ 
+รึ	r v 
+เกรงกลัว	kr ee ng^ kl uua 
+แพ้กลูเตน	ph xx kl uu t ee n^ 
+ย่อย	j @ j^ 
+บริจาค	b @@ r i c aa k^ 
+นอร์ทโรด	n @@ t^ r oo t^ 
+คริกเกต	khr i k^ k ee t^ 
+ฮีทแมนเชสเตอร์	h ii t^ m xx n^ ch ee t^ t qq 
+ร่ม	r o m^ 
+เศษ	s ee t^ 
+เสี้ยว	s iia w^ 
+น้ำตก	n aa m^ t o k^ 
+ใส	s a j^ 
+ลดหลั่น	l o t^ l a n^ 
+ประเมิน	pr a m qq n^ 
+อุทกภัย	z u th o k^ k a ph a j^ 
+อัลบั้ม	z a n^ l a b a m^ 
+รีมิกซ์	r ii m i k^ 
+เนื้อ	n vva 
+ลึกซึ้ง	l v k^ s v ng^ 
+สุนันท์	s u n a n^ 
+ตอบสนอง	t @@ p^ s a n @@ ng^ 
+ปุ่ม	p u m^ 
+คอนกรีต	kh @@ n^ kr ii t^ 
+เที่ยงคืน	th iia ng^ kh vv n^ 
+ประมวล	pr a m uua n^ 
+คอร์	kh @@ 
+อิเนส	z i n ee t^ 
+พบเจอ	ph o p^ c qq 
+แก้	k xx 
+ฮอลลี่	h @@ n^ l ii 
+ร้อย	r @@ j^ 
+ผู้พิทักษ์	ph uu ph i th a k^ 
+เลข	l ee k^ 
+คลอด	khl @@ t^ 
+ซัก	s a k^ 
+ลาง	l aa ng^ 
+สังหรณ์	s a ng^ h @@ n^ 
+โล่ง	l oo ng^ 
+กัลปพฤกษ์	k a n^ l a p a phr v k^ 
+ดอกไม้	d @@ k^ m aa j^ 
+ยุ่ง	j u ng^ 
+อรุณสวัสดิ์	z a r u n^ s a w a t^ 
+มายากล	m aa j aa k o n^ 
+กระเป๋า	kr a p a w^ 
+ที่นกร้อง	th ii n^ kr @@ ng^ 
+นกหวีด	n o k^ w ii t^ 
+กัซซี่	k a t^ s ii 
+เจล	c ee l^ 
+โล่	l oo 
+สีหน้า	s ii n aa 
+เกรงขาม	kr ee ng^ kh aa m^ 
+พันธ์	ph a n^ 
+พึมพำ	ph v m^ ph a m^ 
+ขำขัน	kh a m^ kh a n^ 
+มาตราส่วน	m aa t^ tr aa s uua n^ 
+เซนติเกรด	s ee n^ t i kr o t^ 
+พื้นฐาน	ph vv n^ th aa n^ 
+รัฐมนตรียกย่อง	r a t^ th a m o n^ tr ii k^ j @@ ng^ 
+องค์	z o ng^ 
+แมลง	m a l xx ng^ 
+แตร	tr xx 
+ป่าไม้	p aa m aa j^ 
+เลาะ	l @ 
+กระดูก	kr a d uu k^ 
+พิมพ์	ph i m^ 
+กระต่าย	kr a t aa j^ 
+อาชีพ	z aa ch ii p^ 
+ต่ำต้อย	t a m^ t @ j^ 
+ขวนขวาย	khw uua n^ khw aa j^ 
+จำนอง	c a m^ n @@ ng^ 
+ดำเนิน	d a m^ n qq n^ 
+ธุรกิจ	th u r a k i 
+เชิญ	ch qq n^ 
+ชวน	ch uua n^ 
+ประชาชน	pr a ch aa ch o n^ 
+เทศกาล	th ee t^ s a k aa n^ 
+สงกรานต์	s o ng^ kr aa n^ 
+ขาด	kh aa t^ 
+เจลลีบาย	c ee l^ l ii b aa j^ 
+ปาสคาล	p aa t^ kh aa l^ 
+วิสัย	w i s a j^ 
+ทำนาย	th a m^ n aa j^ 
+วะ	w a 
+ขอยืม	kh @@ j vv m^ 
+ทฤษฎี	th i t^ s a d ii 
+บริสุทธิ์	b @@ r i s u t^ 
+รับรอง	r a p^ r @@ ng^ 
+เซี่ยงไฮ้	s iia ng^ h a j^ 
+พ่อแม่	ph @@ m xx 
+เกษตร	k a s ee t^ 
+ผสมผสาน	ph a s o m^ ph a s aa n^ 
+กลอุบาย	k o n^ z u b aa j^ 
+ลิง	l i ng^ 
+หนาวเหน็บ	n aa w^ n e p^ 
+ภูมิศาสตร์	ph uu m i s aa t^ 
+โค้ด	kh oo t^ 
+แอป	z xx p^ 
+พลิเคชัน	phl i kh ee ch a n^ 
+ทวีเวียลฮัลโหล	th a w ii w iia l^ h a n^ l oo 
+เวิลด์	w qq l^ 
+เคทลีน	kh ee t^ l ii n^ 
+ลัง	l a ng^ 
+ประชาสัมพันธ์	pr a ch aa s a m^ ph a n^ 
+โสด	s oo t^ 
+สอน	s @@ n^ 
+เสือ	s vva 
+โปรแกรม	pr oo kr xx m^ 
+กู	k uu 
+เกิ้ล	k qq n^ 
+บิง	b i ng^ 
+จี	c ii 
+วิส	w i t^ 
+อิสลาม	z i t^ s a l aa m^ 
+ชาริอะฮ์	ch aa r i z a 
+พูดคุย	ph uu t^ kh u j^ 
+แองเจล่า	z xx ng^ c ee l aa 
+ผลิต	ph a l i t^ 
+ยะลา	j a l aa 
+โด่งดัง	d oo ng^ d a ng^ 
+เชี่ยวชาญ	ch iia w^ ch aa n^ 
+ศัพท์	s a p^ 
+แสวงหา	s a w xx ng^ h aa 
+สมดุล	s a m a d u n^ 
+เซียน	s iia n^ 
+หลง	l o ng^ 
+เชียว	ch iia w^ 
+ตาก	t aa k^ 
+สิน	s i n^ 
+แถว	th x w^ 
+กบ	k o p^ 
+ตะกาย	t a k aa j^ 
+ตึก	t v k^ 
+ฉีก	ch ii k^ 
+โปรตีน	pr oo t ii n^ 
+ร่าย	r aa j^ 
+กาย	k aa j^ 
+ค้า	kh aa 
+จราจร	c a r aa c @@ n^ 
+ใกล้เคียง	kl a j^ kh iia ng^ 
+พลิกแพลง	phl i k^ phl xx ng^ 
+เดี๋ยวนี้	d iia w^ n ii 
+เหมียว	m iia w^ 
+พุ่ม	ph u m^ 
+จอ	c @@ 
+สิ้นเชิง	s i n^ ch qq ng^ 
+คะน้า	kh a n aa 
+ต้มยำ	t o m^ j a m^ 
+น้ำเกรวี่	n a m^ kr ee w ii 
+ยืนกราน	j vv n^ kr aa n^ 
+ซี	s ii 
+เลีย	l iia 
+งง	ng o ng^ 
+ถัก	th a k^ 
+นิตติ้ง	n i t^ t i ng^ 
+แห้ง	h xx ng^ 
+หลงเหลือ	l o ng^ l vva 
+แนบ	n xx p^ 
+หมายเลข	m aa j^ l ee k^ 
+ทหาร	th a h aa n^ 
+ชุมชน	ch u m^ ch o n^ 
+จุ	c u 
+ศัลยกรรม	s a n^ l a j a k a m^ 
+พลาสติก	phl aa t^ s a t i k^ 
+นิยม	n i j o m^ 
+คุ้มครอง	kh u m^ khr @@ ng^ 
+อะ	z a 
+เดล	d ee l^ 
+ตรงข้าม	tr o ng^ kh aa m^ 
+ไมเคิล	m a j^ kh qq l^ 
+วิด	w i t^ 
+กดดัน	k o t^ d a n^ 
+ขึ้นตอน	kh v n^ t @@ n^ 
+เหลี่ยม	l iia m^ 
+บรรจุ	b a n^ c u 
+ธรรมดา	th a m^ m a d aa 
+ยืนยัน	j vv n^ j a n^ 
+สดชื่น	s o t^ ch vv n^ 
+แฮก	h xx k^ 
+บำรุง	b a m^ r u ng^ 
+สมัย	s a m a j^ 
+วิทยา	w i t^ th a j aa 
+คำนวณ	kh a m^ n uua n^ 
+คะ	kh a 
+รื้อ	r vv 
+เป็นต้น	p e n^ t o n^ 
+อ้าว	z aa w^ 
+กลิ่น	kl i n^ 
+ปฎิเสธ	p a t i s ee t^ 
+แอร์	z xx 
+ลำปาง	l a m^ p aa ng^ 
+คึกคัก	kh v k^ kh a k^ 
+มนุษยชาติ	m a n u t^ s a j a ch aa t^ 
+อังคาร	z a ng^ kh aa n^ 
+ยากลำบาก	j aa k^ l a m^ b aa k^ 
+ก้อ	k @@ 
+ทะเล	th a l ee 
+เออ	z qq 
+สมทรง	s o m^ s o ng^ 
+ฉะนั้น	ch a n a n^ 
+กฏหมาย	k o t^ m aa j^ 
+สูบ	s uu p^ 
+คมนาคม	kh a m a n aa kh o m^ 
+ขนส่ง	kh o n^ s o ng^ 
+ผูก	ph uu k^ 
+แพทย์	ph xx t^ 
+ดอร์เม้าส์	d @@ m a w^ 
+ขุ่นเคือง	kh u n^ kh vva ng^ 
+กระทบ	kr a th o p^ 
+ทารก	th aa r o k^ 
+ท่าที	th aa th ii 
+ตรา	tr aa 
+ประทับ	pr a th a p^ 
+ซอง	s @@ ng^ 
+ตุ๊กตา	t u k^ k a t aa 
+หิมะ	h i m a 
+สตางค์	s a t aa ng^ 
+จิ้งจก	c i ng^ c o k^ 
+จิงโจ้	c i ng^ c oo 
+ปริญญา	p a r i n^ j aa 
+อักษรศาสตร์	z a k^ s @@ r a s aa t^ 
+เฮเลน	h ee l ee n^ 
+ฟราน	fr aa n^ 
+เซส	s ee t^ 
+อิจฉา	z i t^ ch aa 
+เบิร์ด	b qq t^ 
+คล่องแคล่ว	khl @ ng^ khl xx w^ 
+มิตรภาพ	m i t^ tr a ph aa p^ 
+มืออาชีพ	m vv z aa ch ii p^ 
+บริการ	b @@ r i k aa n^ 
+หัวหน่าว	h uua n aa w^ 
+เชิงกราน	ch qq ng^ kr aa n^ 
+ห้องน้ำ	h @ ng^ n a m^ 
+โทนี่	th oo n ii 
+พระเจริญ	phr a c a r qq n^ 
+นกเค้า	n o k^ kh a w^ 
+หากิน	h aa k i n^ 
+ศาล	s aa n^ 
+เดี๋ยวก่อน	d iia w^ k @@ n^ 
+วิทยาเขต	w i t^ th a j aa kh ee t^ 
+หนองคาย	n @@ ng^ kh aa j^ 
+แพง	ph xx ng^ 
+พนัน	ph a n a n^ 
+งบ	ng o p^ 
+ประมาณ	pr a m aa n^ 
+จำกัด	c a m^ k a t^ 
+ยิง	j i ng^ 
+ป่วย	p uua j^ 
+หายใจ	h aa j^ c a j^ 
+ยุค	j u k^ 
+ปัญญา	p a n^ j aa 
+บทบาท	b o t^ b aa t^ 
+หาเสียง	h aa s iia ng^ 
+องค์การ	z o ng^ k aa n^ 
+ลอสแองเจลิส	l @@ t^ z xx ng^ c ee l i t^ 
+พ่น	ph o n^ 
+พิษอกก	ph i s @@ k o k^ 
+กระทะ	kr a th a 
+ไฟแรง	f a j^ r xx ng^ 
+คำราม	kh a m^ r aa m^ 
+บ่น	b o n^ 
+ชิน	ch i n^ 
+ชิลล่า	ch i n^ l aa 
+ขนมปัง	kh a n o m^ p a ng^ 
+แผ่น	ph x n^ 
+สร้างสรรค์	s aa ng^ s a n^ 
+นกอินทรี	n o k^ z i n^ thr ii 
+โผล่	phl oo 
+แก้ว	k xx w^ 
+รายการ	r aa j^ k aa n^ 
+เน่าเสีย	n a w^ s iia 
+เลี้ยงดู	l iia ng^ d uu 
+ฮาวาย	h aa w aa j^ 
+จอร์จส่ายหัว	c @@ t^ s aa j^ h uua 
+หนักหน่วง	n a k^ n uua ng^ 
+ไข่	kh a j^ 
+นกกระทา	n o k^ kr a th aa 
+แช่	ch xx 
+บ่อ	b @@ 
+รับมือ	r a p^ m vv 
+เผชิญ	ph a ch qq n^ 
+เม่น	m e n^ 
+เหยียบ	j iia p^ 
+ตะเกียง	t a k iia ng^ 
+เจิดจ้า	c qq t^ c aa 
+ลิซ่า	l i s aa 
+แซ็กโซโฟน	s x k^ s oo f oo n^ 
+จุไรรัตน์	c u r a j^ r a t^ 
+มึ	m v 
+ซ้ำแล้วซ้ำเล่า	s a m^ l xx w^ s a m^ l a w^ 
+บริโภค	b @@ r i ph oo k^ 
+หมากฮอส	m aa k^ h @@ s^ 
+หมากรุก	m aa kr u k^ 
+ฟ้อง	f @@ ng^ 
+แพคเกจ	ph xx k^ k ee t^ 
+อ้างอิง	z aa ng^ z i ng^ 
+กลม	kl o m^ 
+จักรวาล	c a k^ kr a w aa n^ 
+งดงาม	ng o t^ ng aa m^ 
+มืดมิด	m vv t^ m i t^ 
+ป้อน	p @@ n^ 
+ขลาด	khl aa t^ 
+แจ็ค	c x k^ 
+ทึ่ม	th v m^ 
+เอ่ย	z qq j^ 
+คณิตศาสตร์	kh a n i t^ t a s aa t^ 
+ไข	kh a j^ 
+พี่น้อง	ph ii n @@ ng^ 
+อี	z ii 
+คอมเมิร์ซ	kh @@ m^ m qq t^ 
+ปลีก	pl ii k^ 
+ฝูงนกลง	f uu ng^ n o k^ l o ng^ 
+จิก	c i k^ 
+ตะขบ	t a kh o p^ 
+ระบุ	r a b u 
+ฮีตเตอร์	h ii t^ t qq 
+อะไรอลิซ	z a r a j^ z a l i t^ 
+นโยบาย	n a j oo b aa j^ 
+การเรียนการสอน	k aa n^ r iia n^ k aa n^ s @@ n^ 
+เพิกเฉย	ph qq k^ ch qq j^ 
+เอิร์น	z qq n^ 
+ก็ดี	k @@ d ii 
+แกรแฮม	kr xx h xx m^ 
+ฝึก	f v k^ 
+ซ้อม	s @@ m^ 
+อินทรีย์	z i n^ s ii 
+แรงใจ	r xx ng^ c a j^ 
+ทัศนคติ	th a t^ s a n a kh a t i 
+บวก	b uua k^ 
+นาก	n aa k^ 
+เหี่ยว	h iia w^ 
+แจกัน	c xx k a n^ 
+คุณสมบัติ	kh u n^ n a s o m^ b a t^ 
+ปอบ	p @@ p^ 
+มโนธรรม	m a n oo th a m^ 
+สหภาพ	s a h a ph aa p^ 
+ยุโรป	j u r o p^ 
+ภูมิ	ph uu m^ 
+รัฐศาสตร์	r a t^ th a s aa t^ 
+เปิดใจ	p qq t^ c a j^ 
+คอนโซล	kh @@ n^ s oo l^ 
+ไวนิล	w a j^ n i n^ 
+เท่ห์	th ee 
+คอย	kh @@ j^ 
+หน่อยสิกระต่าย	n @ j^ s i kr a t aa j^ 
+คะยั้นคะยอ	kh a j a n^ kh a j @@ 
+ฟื้น	f vv n^ 
+เซอร์เลสเตอร์	s qq l ee t^ t qq 
+เหวี่ยง	w iia ng^ 
+กระชาก	kr a ch aa k^ 
+จงใจ	c o ng^ c a j^ 
+โอ	z oo 
+เอ็กซ์	z e k^ 
+สะอาด	s a z aa t^ 
+กระดุม	kr a d u m^ 
+เม็ด	m e t^ 
+วารี	w aa r ii 
+ขุด	kh u t^ 
+แอปเปิล	z xx p^ p qq n^ 
+ซ้าย	s aa j^ 
+การแพทย์	k aa n^ ph xx t^ 
+ชี้	ch ii 
+จเรมี่	c a r ee m ii 
+แขน	kh xx n^ 
+หว	h uua 
+งั	ng a 
+ไทม์	th aa m^ 
+แมชชีน	m xx t^ ch ii n^ 
+แคบ	kh xx p^ 
+ปลุก	pl u k^ 
+อ้อม	z @@ m^ 
+แก๊ง	k x ng^ 
+ปา	p aa 
+ผิวหนัง	ph i w^ n a ng^ 
+สมุด	s a m u t^ 
+จด	c o t^ 
+กระบวนทัศน์	kr a b uua n^ th a t^ 
+ใจดี	c a j^ d ii 
+ไวกิ้ง	w a j^ k i ng^ 
+ลอด	l @@ t^ 
+อุโมงค์	z u m oo ng^ 
+ถ้ำ	th a m^ 
+ขุน	kh u n^ 
+ตาล	t aa n^ 
+ชรา	ch a r aa 
+โปรเจค	pr oo c ee k^ 
+สัมภาษณ์	s a m^ ph aa t^ 
+หน	h o n^ 
+แพร่กระจาย	phr xx kr a c aa j^ 
+แดน	d xx n^ 
+ลี้	l ii 
+ดิฉัน	d i ch a n^ 
+อุณหภูมิ	z u n^ n a h a ph uu m^ 
+ปะการัง	p a k aa r a ng^ 
+โรเจอร์	r oo c qq 
+เบอรตี้	b qq n^ t ii 
+เค	kh ee 
+บับ	b a p^ 
+ทราย	s aa j^ 
+ลำพัง	l a m^ ph a ng^ 
+แกรี่	k xx r ii 
+ฟูฟ่อง	f uu f @ ng^ 
+กระโดด	kr a d oo t^ 
+รอบสวน	r @@ p^ s uua n^ 
+ปรีชา	pr ii ch aa 
+กระดาน	kr a d aa n^ 
+คิดเห็น	kh i t^ h e n^ 
+สายตา	s aa j^ t aa 
+ประกัน	pr a k a n^ 
+แท็กซี่	th x k^ s ii 
+อยู่อาศัย	j uu z aa s a j^ 
+หงส์	h o ng^ 
+สารสนเทศ	s aa r a s o n^ th ee t^ 
+แบดมินตัน	b x t^ m i n^ t a n^ 
+กะเทย	k a th qq j^ 
+สาระ	s aa r a 
+ยักษ์	j a k^ 
+ตำนาน	t a m^ n aa n^ 
+แลกเปลี่ยน	l xx k^ pl iia n^ 
+อาภรณ์	z aa ph @@ n^ 
+เข้มงวด	kh e m^ ng uua t^ 
+สูท	s uu t^ 
+หมา	m aa 
+เส้น	s e n^ 
+อีสเตอร์	z ii t^ t qq 
+ปลาย	pl aa j^ 
+กล้วย	kl uua j^ 
+ถึงแม้	th v ng^ m xx 
+ก็ตาม	k @@ t aa m^ 
+กวี	k a w ii 
+หุ่น	h u n^ 
+กริฟฟอน	kr i p^ f @@ n^ 
+โทร	th oo 
+มัสตาร์ด	m a t^ s a t aa t^ 
+ตักเตือน	t a k^ t vva n^ 
+โต้แย้ง	t oo j xx ng^ 
+อยู่แล้ว	j uu l xx w^ 
+นีโม	n ii m oo 
+นี	n ii 
+โมน	m oo n a 
+เหรอ	l qq 
+พุ่ง	ph u ng^ 
+ตกลง	t o k^ l o ng^ 
+โคลน	khl oo n^ 
+ล่าช้า	l aa ch aa 
+ข้อความ	kh @@ khw aa m^ 
+เฮ	h ee 
+เลน	l ee n^ 
+อบรม	z o p^ r o m^ 
+โพลีกราฟ	ph oo l ii k^ r aa p^ 
+ห่วง	h uua ng^ 
+ต่อตา	t @@ t aa 
+ราส	r aa t^ 
+เบอร์รี่	b qq r ii 
+ปี่	p ii 
+เอ็มเม็ตต์	z e m^ m e t^ 
+ถอนหายใจ	th @@ n^ h aa j^ c a j^ 
+เอาจริง	z a w^ c i ng^ 
+ดิ	d i 
+ลดหย่อน	l o t^ j @@ n^ 
+แมดเดอลีนบาสเซ็ท	m xx t^ d qq l ii n^ b aa t^ s e t^ 
+หัวปักหัวปำ	h uua p a k^ h uua p a m^ 
+หล่น	l o n^ 
+หักล้าง	h a k^ l aa ng^ 
+เท็จ	th e t^ 
+สูญเปล่า	s uu n^ pl a w^ 
+อ่อนเปลี้ย	z @@ n^ pl iia 
+เพลีย	phl iia 
+พาย	ph aa j^ 
+รองรับ	r @@ ng^ r a p^ 
+แพร่หลาย	phr xx l aa j^ 
+มุข	m u k^ 
+เจ้าหญิง	c aa w^ j i ng^ 
+เทพนิยาย	th ee p^ n i j aa j^ 
+เกร	kr ee 
+สัน	s a n^ 
+ยุ่งเหยิง	j u ng^ j qq ng^ 
+ชะแลง	ch a l xx ng^ 
+งัด	ng a t^ 
+เดือด	d vva t^ 
+จาง	c aa ng^ 
+ม่วง	m uua ng^ 
+ภาระ	ph aa r a 
+หอม	h @@ m^ 
+กลบ	kl o p^ 
+หมด	m o t^ 
+โท	th oo 
+อดีต	z a d ii t^ 
+ซอลเก่ง	s @@ l^ k e ng^ 
+เยื่อ	j vva 
+บันได	b a n^ d a j^ 
+ทันใด	th a n^ d a j^ 
+ยื่น	j vv n^ 
+อัตชีวประวัติ	z a t^ t a ch ii w a pr a w a t^ 
+ลายเซ็น	l aa j^ s e n^ 
+พวง	ph uua ng^ 
+ชมพู	ch o m^ ph uu 
+เรือง	r vva ng^ 
+สัญชาตญาณ	s a n^ ch aa t^ t a j aa n^ 
+ต้ม	t o m^ 
+เสริม	s qq m^ 
+ถุง	th u ng^ 
+จอลลี่	c @@ n^ l ii 
+ประกาย	pr a k aa j^ 
+ตะวัน	t a w a n^ 
+อืม	z vv m^ 
+คู่หู	kh uu h uu 
+ภัยพิบัติ	ph a j^ ph i b a t^ 
+แวดล้อม	w xx t^ l @@ m^ 
+อิทธิพล	z i t^ th i ph o n^ 
+พื้นเมือง	ph vv n^ m vva ng^ 
+เต้น	t e n^ 
+แซม	s xx m^ 
+ประสบการณ์	pr a s o p^ k aa n^ 
+ควัน	khw a n^ 
+รับประกัน	r a p^ pr a k a n^ 
+คลุกคลี	khl u k^ khl ii 
+เชื้อ	ch vva 
+ไข้	kh a j^ 
+หวัด	w a t^ 
+คลี่คลาย	khl ii khl aa j^ 
+พล	ph o n^ 
+ต่อสู้	t @@ s uu 
+ย้ำ	j a m^ 
+แฟนซี	f xx n^ s ii 
+กิ้งก่า	k i ng^ k aa 
+ระเบิด	r a b qq t^ 
+ฉัร	ch a n^ 
+เสียบ	s iia p^ 
+ปลั๊ก	pl a k^ 
+จ่าย	c aa j^ 
+เอริก้า	z ee r i k aa 
+ซุป	s u p^ 
+พ่อครัว	ph @@ khr uua 
+ไอโฟน	z a j^ f oo n^ 
+อะไหล่	z a l a j^ 
+น่ะ	n a 
+ไมค์	m a j^ 
+อำเภอ	z a m^ ph qq 
+ฟิลิปปา	f i l i p^ p aa 
+เจน	c ee n^ 
+สินทรัพย์	s i n^ s a p^ 
+ประเภท	pr a ph ee t^ 
+พิจารณา	ph i c aa r a n aa 
+เนื้อหา	n vva h aa 
+เอสเตอร์	z ee s^ t qq 
+ลุก	l u k^ 
+เผด็จการ	ph a d e t^ k aa n^ 
+รากฐาน	r aa k^ th aa n^ 
+อุดมการณ์	z u d o m^ m a k aa n^ 
+ละคร	l a kh @@ n^ 
+โอเปร่า	z oo p ee l aa 
+วัฒนธรรม	w a t^ th a n a th a m^ 
+เสถียรภาพ	s a th iia n^ r a ph aa p^ 
+แบ่งแยก	b x ng^ j xx k^ 
+แกงกะหรี่	k xx ng^ k a r ii 
+ผักกาด	ph a k^ k aa t^ 
+ผลัด	phl a t^ 
+บรูไน	br uu n a j^ 
+มาเลเซีย	m aa l ee s iia 
+บอร์เนียว	b @@ n iia w^ 
+พระเยซู	phr a j ee s uu 
+ปลอก	pl @@ k^ 
+ต่อรอง	t @@ r @@ ng^ 
+พิษ	ph i t^ 
+พิกัด	ph i k a t^ 
+ซ้ำซาก	s a m^ s aa k^ 
+ขัด	kh a t^ 
+จังหวะ	c a ng^ w a 
+ติดตั้ง	t i t^ t a ng^ 
+ฝา	f aa 
+โครเมียม	khr oo m iia m^ 
+ตะแกรง	t a kr xx ng^ 
+บรรทุก	b a n^ th u k^ 
+ศิลปิน	s i n^ l a p i n^ 
+นิทรรศการ	n i th a t^ s a k aa n^ 
+นวัตกรรม	n a w a t^ t a k a m^ 
+มหกรรม	m a h a k a m^ 
+วิจัยแห่งชาติ	w i c a j^ h x ng^ ch aa t^ 
+สมมุติฐาน	s o m^ m u t^ t i th aa n^ 
+รอด	r @@ t^ 
+บาดเจ็บ	b aa t^ c e p^ 
+เขมือบ	kh a m vva p^ 
+หม้อ	m @@ 
+กังวล	k a ng^ w o n^ 
+ลาน	l aa n^ 
+สเก็ต	s a k e t^ 
+แตง	t xx ng^ 
+แก้ม	k xx m^ 
+เข็น	kh e n^ 
+คอนแทคเลนซ์	kh @@ n^ th xx k^ l ee n^ 
+ตู่	t uu 
+จอห์นนี่	c @@ n^ n ii 
+ฟอร์ด	f @@ t^ 
+ไนท์	n a j^ 
+ประดับ	pr a d a p^ 
+บอบบาง	b @@ p^ b aa ng^ 
+ผลาญ	phl aa n^ 
+จิ้งจอก	c i ng^ c @@ k^ 
+ไซเบอร์	s a j^ b qq 
+ปีเตอร์	p ii t qq 
+ไปเปอร์	p a j^ p qq 
+พริก	phr i k^ 
+ดอง	d @@ ng^ 
+หยิบมือ	j i p^ m vv 
+แก่น	k x n^ 
+แท้	th xx 
+อุทิศ	z u th i t^ 
+”ริคาร์โด	r i kh aa d oo 
+สังหาร	s a ng^ h aa n^ 
+ขอโทษ	kh @@ th oo t^ 
+ทองคำ	th @@ ng^ kh a m^ 
+ปาร์ตี้	p aa t ii 
+แซนดรา	s xx n^ dr aa 
+ชาญ	ch aa n^ 
+เลขา	l ee kh aa 
+สำนัก	s a m^ n a k^ 
+ปัจจุบัน	p a t^ c u b a n^ 
+ลาย	l aa j^ 
+อิฐ	z i t^ 
+เตา	t a w^ 
+เกมส์	k ee m^ 
+พลัม	phl a m^ 
+คณะ	kh a n a 
+บวช	b uua t^ 
+มาร์ช	m aa ch^ 
+แฮร์	h xx 
+กำลังใจ	k a m^ l a ng^ c a j^ 
+เขียว	kh iia w^ 
+เปียโน	p iia n oo 
+โรมิโอ	r oo m i z oo 
+จูเลียต	c uu l iia t^ 
+วิลเลียม	w i n^ l iia m^ 
+เชก	ch ee k^ 
+สเปียร์	s a p iia 
+หลบหนี	l o p^ n ii 
+หมอน	m @@ n^ 
+บาคาร่า	b aa kh aa r aa 
+ภาพยนตร์	ph aa p^ ph a j o n^ 
+ฉาย	ch aa j^ 
+ไต้หวัน	t a j^ w a n^ 
+แปรปรวน	pr xx pr uua n^ 
+แปร	pr xx 
+สุ่ม	s u m^ 
+คลั่งไคล้	khl a ng^ khl a j^ 
+เร่งรีบ	r e ng^ r ii p^ 
+นัดหมาย	n a t^ m aa j^ 
+ประชากร	pr a ch aa k @@ n^ 
+รีรัน	r ii r a n^ 
+เบื่อ	b vva 
+อธิการบดี	z a th i k aa n^ b @@ d ii 
+สถานะ	s a th aa n a 
+สันดาน	s a n^ d aa n^ 
+เลว	l ee w^ 
+พิพากษา	ph i ph aa k^ s aa 
+สังคม	s a ng^ kh o m^ 
+ฉับ	ch a p^ 
+คาด	kh aa t^ 
+อวยพร	z uua j^ ph @@ n^ 
+ฟาก	f aa k^ 
+ขั้น	kh a n^ 
+บำบัด	b a m^ b a t^ 
+มะเร็ง	m a r e ng^ 
+ลุกลาม	l u k^ l aa m^ 
+ป้าย	p aa j^ 
+เมล์	m ee 
+ทุกสิ่ง	th u k^ s i ng^ 
+ชอคโกแลต	ch @@ k^ k oo l xx t^ 
+นกแก้ว	n o k^ k xx w^ 
+โพลิกอน	ph oo l i k @@ n^ 
+พิศวงจีฟส์	ph i t^ s a w o ng^ c ii p^ 
+กวนใจ	k uua n^ c a j^ 
+กระจก	kr a c o k^ 
+ผักชี	ph a k^ ch ii 
+สำลัก	s a m^ l a k^ 
+จม	c o m^ 
+จอง	c @@ ng^ 
+บาหลี	b aa l ii 
+อินโดนีเซีย	z i n^ d oo n ii s iia 
+ฝาแฝด	f aa f xx t^ 
+อึดอัด	z v t^ z a t^ 
+ฟาร์ม	f aa m^ 
+ปราชญ์	pr aa t^ 
+ผจญภัย	ph a c o n^ ph a j^ 
+ยูเอ็น	j uu z e n^ 
+หลักฐาน	l a k^ th aa n^ 
+เจตนา	c ee t^ t a n aa 
+ปรากฏการณ์	pr aa k o t^ k aa n^ 
+แตน	t xx n^ 
+ชัวร์	ch uua 
+ประธาน	pr a th aa n^ 
+ปรุง	pr u ng^ 
+สตูว์	s a t uu 
+โค	kh oo 
+สม	s o m^ 
+สมศรี	s o m^ s ii 
+เสียเวลา	s iia w ee l aa 
+ดอลลาร์	d @ n^ l aa 
+ทวิดเดิล	th a w i t^ d qq l^ 
+เข่า	kh a w^ 
+เคราะห์	khr @ 
+ศุกร์	s u k^ 
+แค	kh xx 
+สเปอร์	s a p qq 
+ผลลัพธ์	ph o n^ l a p^ 
+หนี้	n ii 
+สะอาดสะอ้าน	s a z aa t^ s a z aa n^ 
+หมุน	m u n^ 
+โคตร	kh oo t^ 
+เจรจา	c ee r a c aa 
+ดวงจันทร์	d uua ng^ c a n^ 
+ไหว้	w aa j^ 
+พระอาจารย์	phr a z aa c aa n^ 
+ละกัน	l a k a n^ 
+โต้ตอบ	t oo t @@ p^ 
+ไผ่	ph a j^ 
+บิบิม	b i b i m^ 
+บัพ	b a p^ 
+ยำ	j a m^ 
+เกาหลี	k a w^ l ii 
+ลับ	l a p^ 
+กาฬ	k aa n^ 
+ย้อน	j @@ n^ 
+ลิซ	l i t^ 
+ไร่	r a j^ 
+ข้าวโพด	kh aa w^ ph oo t^ 
+หอ	h @@ 
+สารภาพ	s aa r a ph aa p^ 
+จรจัด	c @@ n^ c a t^ 
+นามบัตร	n aa m^ b a t^ 
+มากๆ	m aa k^ m aa k^ 
+สวย	s uua j^ 
+ขอบ	kh @@ p^ 
+ไตรมาส	tr a j^ m aa t^ 
+มุ่งมั่น	m u ng^ m a n^ 
+คิดค้น	kh i t^ kh o n^ 
+ดอกทานตะวัน	d @@ k^ th aa n^ t a w a n^ 
+มิด	m i t^ 
+คาง	kh aa ng^ 
+ขวด	kh uua t^ 
+ถัง	th a ng^ 
+คุณนาย	kh u n^ n aa j^ 
+หงุดหงิด	ng u t^ ng i t^ 
+เตะตา	t e t aa 
+โฉม	ch oo m^ 
+ต่อต้าน	t @@ t aa n^ 
+สะกด	s a k o t^ 
+สะใภ้	s a ph a j^ 
+สงคราม	s o ng^ khr aa m^ 
+หวาดกลัว	w aa t^ kl uua 
+โศกนาฏกรรม	s oo k a n aa t^ t a k a m^ 
+โขง	kh oo ng^ 
+เงย	ng qq j^ 
+นึง	n v ng^ 
+เตร็ดเตร่	tr e t^ tr ee 
+น้ำส้มสายชู	n a m^ s o m^ s aa j^ ch uu 
+สู้	s uu 
+ทวี	th a w ii 
+เดิลดัม	d qq n^ d a m^ 
+ศิวิไลซ์	s i w i l a j^ 
+โทรเลข	thr oo l ee k^ 
+เหมาะ	m @ 
+เร่ร่อน	r ee r @ n^ 
+พับ	ph a p^ 
+ลิฟท์	l i p^ 
+อินเทอร์เฟซ	z i n^ th qq f ee t^ 
+คุ้มค่า	kh u m^ kh aa 
+สุริยะ	s u r i j a 
+ไอศกรีม	z a j^ s a kr ii m^ 
+เชอร์เบท	ch qq b e t^ 
+เดท	d ee t^ 
+ครั้งนั้น	khr a ng^ n a n^ 
+แปด	p xx t^ 
+เรื่อย	r vva j^ 
+ราชการ	r aa t^ ch a k aa n^ 
+ขัดขวาง	kh a t^ khw aa ng^ 
+ก้าวหน้า	k aa w^ n aa 
+เอก	z ee k^ 
+ซะไบท์	s a b a j^ 
+เป้า	p a w^ 
+แมท	m xx t^ 
+อับอาย	z a p^ z aa j^ 
+ย่อยยับ	j @@ j^ j a p^ 
+พฤษภาทมิฬ	phr v t^ s a ph aa th a m i n^ 
+กริปเปอร์	kr i p^ p qq 
+สแตนเลส	s a t xx n^ l ee t^ 
+เบา	b a w^ 
+ย่อม	j @ m^ 
+สั่งการ	s a ng^ k aa n^ 
+ราชา	r aa ch aa 
+ยึดมั่น	j v t^ m a n^ 
+ขนุน	kh a n u n^ 
+อาวุโส	z aa w u s oo 
+หารือ	h aa r vv 
+อักเสบ	z a k^ s ee p^ 
+แหลม	l xx m^ 
+ชาร์ล	ch aa l^ 
+คุกเข่า	kh u k^ kh a w^ 
+กระแส	kr a s xx 
+เศร้าโศก	s a w^ s oo k^ 
+ร้องเรียน	r @@ ng^ r iia n^ 
+ก่อกวน	k @@ k uua n^ 
+ซึ้ง	s v ng^ 
+เบส	b ee t^ 
+ยู	j uu 
+มั๊ย	m a j^ 
+กระท่อม	kr a th @ m^ 
+เทียม	th iia m^ 
+เมฆ	m ee k^ 
+ตระหนก	tr a n o k^ 
+เหนื่อยหน่าย	n vva j^ n aa j^ 
+ลอปสเตอร์	l @@ p^ s a t qq 
+คูเปอร์	kh uu p qq 
+ยาม	j aa m^ 
+ลาบ	l aa p^ 
+ราดอร์	r aa d @@ 
+นิดเดียว	n i t^ d iia w^ 
+ยูเนี่ยน	j uu n iia n^ 
+ขายหน้า	kh aa j^ n aa 
+สันโดษ	s a n^ d oo t^ 
+ขี้เกียจ	kh ii k iia t^ 
+เหยี่ยว	j iia w^ 
+วิจิตร	w i c i t^ 
+เมนู	m ee n uu 
+สนับสนุน	s a n a p^ s a n u n^ 
+ภาวนา	ph aa w a n aa 
+ช่องทาง	ch @ ng^ th aa ng^ 
+อาคาร	z aa kh aa n^ 
+จ่า	c aa 
+อาชญากรรม	z aa t^ ch a j aa k a m^ 
+วิตกกังวล	w i t o k^ k a ng^ w o n^ 
+ตรี	tr ii 
+สาขา	s aa kh aa 
+หัวหอม	h uua h @@ m^ 
+สำเนียง	s a m^ n iia ng^ 
+ฉะฉาน	ch a ch aa n^ 
+ซิซิลี	s i s i l ii 
+พิธี	ph i th ii 
+เออร์เนส	z qq n ee t^ 
+เป็นห่วง	p e n^ h uua ng^ 
+รกร้าง	r o k^ r aa ng^ 
+เสียหาย	s iia h aa j^ 
+เฮ้	h ee 
+แน่นหนา	n x n^ n aa 
+มังสวิรัต	m a ng^ s a w i r a t^ 
+สุริยุปราคา	s u r i j u pr aa kh aa 
+ธง	th o ng^ 
+คู่มือ	kh uu m vv 
+กิ่งก้าน	k i ng^ k aa n^ 
+โอบล้อม	z oo p^ l @@ m^ 
+ปล้น	pl o n^ 
+แก้ตัว	k xx t uua 
+ภูมิใจ	ph uu m^ c a j^ 
+จ้ะ	c a 
+หนอ	n @@ 
+มหานคร	m a h aa n a kh @@ n^ 
+อึกทึก	z v k^ k a th v k^ 
+ครึกโครม	khr v k^ khr oo m^ 
+ซุกซน	s u k^ s o n^ 
+ทรัพย์สิน	s a p^ s i n^ 
+เสื่อม	s vva m^ 
+เข็ม	kh e m^ 
+หมุด	m u t^ 
+โปสเตอร์	p oo s^ t qq 
+ผนัง	ph a n a ng^ 
+อุ๊ปส์	z u p^ 
+จู่โจม	c uu c oo m^ 
+สันติภาพ	s a n^ t i ph aa p^ 
+แด่	d xx 
+พระคุณ	phr a kh u n^ 
+พระพักตร์	phr a ph a k^ 
+กระทั่ง	kr a th a ng^ 
+เพคะ	ph ee kh a 
+ฝ่า	f aa 
+ดัชเชส	d a t^ ch ee t^ 
+เปี่ยน	p iia n^ 
+มิตร	m i t^ 
+อยุธยา	z a j u t^ th a j aa 
+ไฮเทค	h a j^ th ee k^ 
+งอก	ng @@ k^ 
+หนี	n ii 
+เบน	b ee n^ 
+ท้องถิ่น	th @@ ng^ th i n^ 
+แล้ง	l xx ng^ 
+โรดีเซีย	r oo d ii s iia 
+ฮัน	h a n^ 
+วินัย	w i n a j^ 
+หนุ่มสาว	n u m^ s aa w^ 
+เทคนิค	th e k^ n i k^ 
+ท่อง	th @ ng^ 
+เขย่า	kh a j a w^ 
+จีฟ	c ii p^ 
+แพร์	ph xx 
+สะดือ	s a d vv 
+กำเริบ	k a m^ r qq p^ 
+โพล่ง	phl oo ng^ 
+สระบุรี	s a r a b u r ii 
+ถดถอย	th o t^ th @@ j^ 
+แคลคูลัสพีช	kh xx l^ kh uu l a t^ ph ii t^ 
+คณิต	kh a n i t^ 
+สถิติ	s a th i t i 
+เบย์	b ee 
+เลิร์น	l qq n^ 
+สสาร	s a s aa n^ 
+แร่ธาตุ	r xx th aa t^ 
+ดาราศาสตร์	d aa r aa s aa t^ 
+ดวงดาว	d uua ng^ d aa w^ 
+ละเมอ	l a m qq 
+แม่บ้าน	m xx b aa n^ 
+พเนจร	ph a n ee c @@ n^ 
+เข็มขัด	kh e m^ kh a t^ 
+นิรภัย	n i r a ph a j^ 
+อ่อ	z @@ 
+มัชรูม	m a t^ ch a r uu m^ 
+น้ำพักน้ำแรง	n a m^ ph a k^ n a m^ r xx ng^ 
+ขวา	khw aa 
+ตัวอย่าง	t uua j aa ng^ 
+โนเบล	n oo b ee l^ 
+ฟุต	f u t^ 
+ประเด็น	pr a d e n^ 
+เหลื่อมล้ำ	l vva m^ l a m^ 
+ถกเถียง	th o k^ th iia ng^ 
+ผิดชอบชั่วดี	ph i t^ ch @@ p^ ch uua d ii 
+ชดเชย	ch o t^ ch qq j^ 
+กระบวนการ	kr a b uua n^ k aa n^ 
+ยุติธรรม	j u t^ t i th a m^ 
+ซิการ์	s i k aa 
+มาดาม	m aa d aa m^ 
+โดนัท	d oo n a t^ 
+ผลิตภัณฑ์	ph a l i t^ t a ph a n^ 
+เสร็จสิ้น	s e t^ s i n^ 
+สถานนี	s a th aa n^ n ii 
+แกรนด์	kr xx n^ 
+เซน	s ee n^ 
+ทรัล	thr a n^ 
+ปืน	p vv n^ 
+เนิฟร์	n qq f^ 
+โครงการ	khr oo ng^ k aa n^ 
+จุฬาลงกรณ์มหาวิทยาลัย	c u l aa l o ng^ k @@ n^ m a h aa w i t^ th a j aa l a j^ 
+โปรดปราน	pr oo t^ pr aa n^ 
+ช็อคโกแลต	ch @ k^ k oo l xx t^ 
+โพ้น	ph oo n^ 
+อพยพ	z o p^ ph a j o p^ 
+เหมาเจ๋อตุง	m a w^ c qq t u ng^ 
+อ้อ	z @@ 
+คราว	khr aa w^ 
+ยูนิคอร์น	j uu n i kh @@ n^ 
+ทัก	th a k^ 
+ใคร่	khr a j^ 
+มีด	m ii t^ 
+โกน	k oo n^ 
+โหดร้าย	h oo t^ r aa j^ 
+คดี	kh a d ii 
+วิล	w i l^ 
+ล่า	l aa 
+หืม	h vv m^ 
+เอียน	z iia n^ 
+โซ่	s oo 
+อุปทาน	z u p^ p a th aa n^ 
+สมมติ	s o m^ m o t^ 
+ฆาตกร	kh aa t^ t a k @@ n^ 
+ล้อ	l @@ 
+ภูมิต้านทาน	ph uu m^ t aa n^ th aa n^ 
+ซิมมอนส์	s i m^ m @@ n^ 
+ก๊อก	k @ k^ 
+รั่ว	r uua 
+โภชนาการ	ph oo t^ ch a n aa k aa n^ 
+แดด	d xx t^ 
+แคนาดา	kh xx n^ n aa d aa 
+ถ่อม	th @ m^ 
+ฝรั่งเศส	f a r a ng^ s ee t^ 
+ฟิด	f i t^ 
+เดิ้ล	d qq n^ 
+เดอ	d qq 
+คลิก	khl i k^ 
+เนย	n qq j^ 
+การีน	k aa r ii n^ 
+หน้าจอ	n aa c @@ 
+คอรัปชัน	kh @@ r a p^ ch a n^ 
+ถลำลึก	th a l a m^ l v k^ 
+ริมฝีปาก	r i m^ f ii p aa k^ 
+เผยอ	ph a j qq 
+จูบ	c uu p^ 
+คาราเมล	kh aa r aa m ee l^ 
+ไวรัส	w a j^ r a t^ 
+โคโรน่า	kh oo r oo n aa 
+กำเนิด	k a m^ n qq t^ 
+หาว	h aa w^ 
+มุ่งหน้า	m u ng^ n aa 
+โมเต็ล	m oo t e n^ 
+ปด	p o t^ 
+ธัญพืช	th a n^ j a ph vv t^ 
+ฮาร์แลนด์	h aa l xx n^ 
+บรรจง	b a n^ c o ng^ 
+ฉงน	ch a ng o n^ 
+รองเท้า	r @@ ng^ th aa w^ 
+กัด	k a t^ 
+ต่อง	t @@ ng^ 
+คัมภีร์	kh a m^ ph ii 
+แถลง	th a l xx ng^ 
+การณ์	k aa n^ 
+ผิดเพี้ยน	ph i t^ ph iia n^ 
+คล่อง	khl @ ng^ 
+เอื้อม	z vva m^ 
+สาป	s aa p^ 
+ครอบครอง	khr @@ p^ khr @@ ng^ 
+หน้าผา	n aa ph aa 
+คุ้นเคย	kh u n^ kh qq j^ 
+นาอลิซ	n aa z a l i t^ 
+เวทนา	w ee t^ th a n aa 
+รอบคอบ	r @@ p^ kh @@ p^ 
+เบาหวาน	b a w^ w aa n^ 
+กำกับ	k a m^ k a p^ 
+จีฟส์	c ii p^ 
+ตะกุกตะกัก	t a k u k^ t a k a k^ 
+ทิศ	th i t^ 
+นิฬากา	n i l aa k aa 
+พ่อเลี้ยง	ph @@ l iia ng^ 
+เหล้า	l a w^ 
+ทองแดง	th @@ ng^ d xx ng^ 
+ซิมโฟนี	s i m^ f oo n ii 
+ต่อเนื่อง	t @@ n vva ng^ 
+กินี	k i n ii 
+หล่อ	l @@ 
+ที่อยู่	th ii j u 
+ไพเราะ	ph a j^ r @ 
+นุ่มนวล	n u m^ n uua n^ 
+หัา	h aa 
+ยอดเยี่ยม	j @@ t^ j iia m^ 
+ตื่นเต้น	t vv n^ t e n^ 
+แมน	m xx n^ 
+สวมใส่	s uua m^ s a j^ 
+ประหยัด	pr a j a t^ 
+ปิงปอง	p i ng^ p @@ ng^ 
+พังก์	ph a ng^ 
+ร็อก	r @ k^ 
+ฝูง	f uu ng^ 
+ริชาร์ด	r i ch aa t^ 
+สัมภาระ	s a m^ ph aa r a 
+เศร้า	s a w^ 
+สนิทสนม	s a n i t^ s a n o m^ 
+ปราสาท	pr aa s aa t^ 
+เห็ด	h e t^ 
+หลากหลาย	l aa k^ l aa j^ 
+ชนิด	ch a n i t^ 
+แอบ	z xx p^ 
+หาง	h aa ng^ 
+โปเก	p oo k ee 
+ทุ่มเท	th u m^ th ee 
+ยืดหยุ่น	j vv t^ j u n^ 
+ใย	j a j^ 
+แมงมุม	m xx ng^ m u m^ 
+เงื่อนงำ	ng vva n^ ng a m^ 
+บัพติศ	b a p^ t i t^ 
+ห่าง	h aa ng^ 
+หาด	h aa t^ 
+ลังเล	l a ng^ l ee 
+กรอ	kr @@ 
+เทป	th ee p^ 
+คาสเซท	kh aa t^ s ee t^ 
+ออกัสตัส	z @@ k a t^ t a t^ 
+ระแวก	r a w xx k^ 
+เห่า	h a w^ 
+ถ่องแท้	th @@ ng^ th xx 
+ฝัง	f a ng^ 
+หนังสือพิมพ์	n a ng^ s vv ph i m^ 
+สถาน	s a th aa n^ 
+ทูต	th uu t^ 
+กา	k aa 
+ริก	r i k^ 
+รังเกียจ	r a ng^ k iia t^ 
+ปากน้ำโพ	p aa k^ n a m^ ph oo 
+แมร์รี่	m xx r ii 
+เรื่องรีเคอร์	r vva ng^ r ii kh qq 
+ชัน	ch a n^ 
+ปกคลุม	p o k^ khl u m^ 
+จับตา	c a p^ t aa 
+ตั๋ว	t uua 
+แตงกวา	t xx ng^ kw aa 
+สระ	s a 
+ทศพล	th o t^ s a ph o n^ 
+ทศพร	th o t^ s a ph @@ n^ 
+ระเบียง	r a b iia ng^ 
+สัดส่วน	s a t^ s uua n^ 
+ตอบโต้	t @@ p^ t oo 
+เข้มแข็ง	kh e m^ kh x ng^ 
+ม้าอลิส	m aa z a l i t^ 
+เชฟ	ch ee p^ 
+บุคคล	b u k^ kh o n^ 
+แปรง	pr xx ng^ 
+ไข่มุก	kh a j^ m u k^ 
+ฮาโรลด์	h aa r oo l^ 
+รูปร่าง	r uu p^ r aa ng^ 
+นิทาน	n i th aa n^ 
+สมมุติ	s o m^ m u t^ 
+โค่น	kh oo n^ 
+แมคดูกัล	m xx k^ d uu k a n^ 
+ป้อม	p @ m^ 
+สั้น	s a n^ 
+หน้าผาก	n aa ph aa k^ 
+ท้าย	th aa j^ 
+พร้อมเพย์	phr @@ m^ ph ee 
+ไมล์	m a j^ 
+เฉียง	ch iia ng^ 
+ฮีโร่	h ii r oo 
+เข้าท่า	kh a w^ th aa 
+จูง	c uu ng^ 
+ซีอีโอ	s ii z ii z oo 
+ญี่ปุ่น	j ii p u n^ 
+รู้อลิซ	z uu l i t^ 
+เหลือบ	l vva p^ 
+ล็อ	l @ 
+ครึ	khr v 
+อัญมณี	z a n^ j a m a n ii 
+มะปราง	m a pr aa ng^ 
+ทีวี	th ii w ii 
+เหินห่าง	h qq n^ h aa ng^ 
+เคส	kh ee t^ 
+บุกรุก	b u k^ r u k^ 
+วูบ	w uu p^ 
+คราง	khr aa ng^ 
+ดินเนอร์	d i n^ n qq 
+โหมด	m o t^ 
+บิสกิต	b i t^ k i t^ 
+ลัด	l a t^ 
+คุณหญิง	kh u n^ j i ng^ 
+อ่อนโยน	z @@ n^ j oo n^ 
+ทบทวน	th o p^ th uua n^ 
+ญัตติ	j a t^ t i 
+สิทธิบัตร	s i t^ th i b a t^ 
+แล้ววูฟ	l xx w^ w uu p^ 
+นางฟ้า	n aa ng^ f aa 
+ร่ายรำ	r aa j^ r a m^ 
+เยาว์	j a w^ 
+หวนคืน	h uua n^ kh vv n^ 
+ปลดแอก	pl o t^ z xx k^ 
+กดขี่ข่มเหง	k o t^ kh ii kh o m^ h ee ng^ 
+สากล	s aa k o n^ 
+กล้ามเนื้อ	kl aa m^ n vva 
+บด	b o t^ 
+เคี้ยว	kh iia w^ 
+รั้ว	r uua 
+โค้ก	kh oo k^ 
+ตบ	t o p^ 
+กางเกง	k aa ng^ k ee ng^ 
+เยอรมัน	j qq r a m a n^ 
+รับฟัง	r a p^ f a ng^ 
+ศักดิ์	s a k^ 
+ฝึกซ้อม	f v k^ s @@ m^ 
+ชก	ch o k^ 
+พาสเจอไรซ์	ph aa t^ c qq r a j^ 
+ลัก	l a k^ 
+รัด	r a t^ 
+ลิ้น	l i n^ 
+พาราฟิน	ph aa r aa f i n^ 
+ก๊าด	k aa t^ 
+มูลนิธิ	m uu n^ l a n i th i 
+ค่าย	kh aa j^ 
+พักแรม	ph a k^ r xx m^ 
+เขาใหญ่	kh a w^ j a j^ 
+เครดิต	khr ee d i t^ 
+การ์ด	k aa t^ 
+ไทเลอ	th a j^ l qq 
+โน้ต	n oo t^ 
+เกลียว	kl iia w^ 
+รำพึง	r a m^ ph v ng^ 
+รำพัน	r a m^ ph a n^ 
+กระ	kr a 
+เสาะ	s @ 
+กระแสะ	kr a s x 
+อุปสรรค	z u p^ p a s a k^ 
+เขี่ย	kh iia 
+สโลวาเกีย	s a l oo w aa k iia 
+พรมแดน	phr o m^ d xx n^ 
+ยูเครน	j uu khr ee n^ 
+ฮังการี	h a ng^ k aa r ii 
+โปแลนด์	p oo l xx n^ 
+สาธารณรัฐ	s aa th aa r a n a r a t^ 
+เช็ก	ch e k^ 
+อาณานิคม	z aa n aa n i kh o m^ 
+ชีวภาพ	ch ii w a ph aa p^ 
+ล้ำ	l a m^ 
+มวล	m uua n^ 
+ขัดแย้ง	kh a t^ j xx ng^ 
+นรก	n a r o k^ 
+ขับไล่	kh a p^ l a j^ 
+ไรอลิส	r a j^ z a l i t^ 
+เป้าหมาย	p a w^ m aa j^ 
+ต่างหาก	t aa ng^ h aa k^ 
+ปริปาก	p a r i p aa k^ 
+เตาผิง	t a w^ ph i ng^ 
+วิคตอเรียน	w i k^ t @@ r iia n^ 
+แห้งแล้ง	h xx ng^ l xx ng^ 
+ปู่	p uu 
+คาเรน	kh aa r ee n^ 
+อาลัน	z aa l a n^ 
+เภสัชกร	ph ee s a t^ ch a k @@ n^ 
+รัฐ	r a t^ 
+ลูกตา	l uu k^ t aa 
+หกล้ม	h o k^ l o m^ 
+มุด	m u t^ 
+ท่อ	th @@ 
+ฝนฟ้า	f o n^ f aa 
+คะนอง	kh a n @@ ng^ 
+คางคก	kh aa ng^ kh o k^ 
+ทศวรรษ	th o t^ s a w a t^ 
+ล่อใจ	l @@ c a j^ 
+บุก	b u k^ 
+ล้า	l aa 
+แกล้ง	kl xx ng^ 
+หนวด	n uua t^ 
+แตงโม	t xx ng^ m oo 
+เวสต์เวอร์จิเนีย	w ee t^ w qq c i n iia 
+ปฏิบัติ	p a t i b a t^ 
+อั้ม	z a m^ 
+สื่อ	s vv 
+พยากรณ์	ph a j aa k @@ n^ 
+อาร์กติก	z aa k a t i k^ 
+นิค	n i k^ 
+สองแง่สองง่าม	s @@ ng^ ng xx s @@ ng^ ng aa m^ 
+อันธพาล	z a n^ th a ph aa n^ 
+อบอ้าว	z o p^ z aa w^ 
+บูด	b uu t^ 
+โจ๊ก	c oo k^ 
+เจียว	c iia w^ 
+ปิ้ง	p i ng^ 
+ปาท่องโก๋	p aa th @@ ng^ k oo 
+น่าน	n aa n^ 
+นิสสัน	n i t^ s a n^ 
+วิศวกร	w i t^ s a w a k @@ n^ 
+โหล	l oo 
+บังเอิญ	b a ng^ z qq n^ 
+ซาตาน	s aa t aa n^ 
+ตราบ	tr aa p^ 
+โดดเด่น	d oo t^ d e n^ 
+กูเกิล	k uu k qq n^ 
+สะท้าน	s a th aa n^ 
+คาร์บอน	kh aa b @@ n^ 
+แพทย์ชนบทเรียกร้อง	ph xx t^ ch o n^ n a b o t^ r iia k^ r @@ ng^ 
+กระทรวง	kr a s uua ng^ 
+พระศรีสรรเพชญ์	phr a s ii s a n^ ph e t^ 
+โบราณสถาน	b oo r aa n^ s a th aa n^ 
+กังวาน	k a ng^ w aa n^ 
+ระฆัง	r a kh a ng^ 
+ชะงัก	ch a ng a k^ 
+ติดขัด	t i t^ kh a t^ 
+ผึ้ง	ph v ng^ 
+มาตรการ	m aa t^ tr a k aa n^ 
+กระแทก	kr a th xx k^ 
+จุ๊บ	c u p^ 
+ง้อ	ng @@ 
+เวียนเทียน	w iia n^ th iia n^ 
+บ่อน	b @@ n^ 
+รูเรทท์	r uu r ee t^ 
+เคลื่อนไหว	khl vva n^ w a j^ 
+วัตถุประสงค์	w a t^ th u pr a s o ng^ 
+ชอกช้ำ	ch @@ k^ ch a m^ 
+ธันวาคม	th a n^ w aa kh o m^ 
+บวม	b uua m^ 
+ไซเรน	s a j^ r ee n^ 
+ซอย	s @@ j^ 
+ท่วม	th uua m^ 
+โกรธแค้น	kr oo t^ kh xx n^ 
+เบาบาง	b a w^ b aa ng^ 
+รอตเตอร์ดัม	r @@ t^ t qq d a m^ 
+นานา	n aa n aa 
+พิทักษ์	ph i th a k^ 
+สวิตช์	s a w i t^ 
+หมอก	m @@ k^ 
+ทึบ	th v p^ 
+บรรณารักษ์	b a n^ n aa r a k^ 
+ห่วงใย	h uua ng^ j a j^ 
+กำชับ	k a m^ ch a p^ 
+วรรณกรรม	w a n^ n a k a m^ 
+ก่อตั้ง	k @@ t a ng^ 
+วารสาร	w aa n^ s aa n^ 
+ฉบับ	ch a b a p^ 
+เนื้อเรื่อง	n vva r vva ng^ 
+เด่นชัด	d ee n^ ch a t^ 
+นวล	n uua n^ 
+แฮร์ริ่ง	h xx r i ng^ 
+คิตตี้	kh i t^ t ii 
+พอลล์	ph @@ l^ 
+ขอโทษลินดา	kh @@ th oo t^ l i n^ d aa 
+น้ำหนัก	n aa m^ n a k^ 
+บรรจุภัณฑ์	b a n^ c u ph a n^ 
+ออม	z @@ m^ 
+เสมือน	s a m vva n^ 
+จ้อง	c @ ng^ 
+อะเมซอน	z a m ee s @@ n^ 
+โอน	z oo n^ 
+เด็ดขาด	d e t^ kh aa t^ 
+มันอลิซ	m a n^ z a l i t^ 
+คาดเดา	kh aa t^ d a w^ 
+เอ็นดู	z e n^ d uu 
+วาด	w aa t^ 
+นัน	n a n^ 
+พัดลม	ph a t^ l o m^ 
+ลงมือ	l o ng^ m vv 
+ห่อ	h @@ 
+เดิล	d qq l^ 
+ตัง	t a ng^ 
+คูณ	kh uu n^ 
+ร่อน	r @ n^ 
+โครงสร้าง	khr oo ng^ s aa ng^ 
+เฉื่อยชา	ch vva j^ ch aa 
+โน้มน้าวใจ	n oo m^ n aa w^ c a j^ 
+เอ็ม	z e m^ 
+ม่า	m aa 
+ออสเตน	z @@ t^ t ee n^ 
+สมน้ำสมเนื้อ	s o m^ n a m^ s o m^ n vva 
+เต็มใจ	t e m^ c a j^ 
+ขนมสโคน	kh a n o m^ s a kh oo n^ 
+อด	z o t^ 
+อุทยานแห่งชาติ	z u t^ th a j aa n^ h x ng^ ch aa t^ 
+ภูหิน	ph uu h i n^ 
+ร่อง	r @ ng^ 
+ยืนหยัด	j vv n^ j a t^ 
+มุง	m u ng^ 
+อกหัก	z o k^ h a k^ 
+คุด	kh u t^ 
+บูชาชูชก	b uu ch aa ch uu ch o k^ 
+ปวดร้าว	p uua t^ r aa w^ 
+ทำใจแปป	th a m^ c a j^ p xx p^ 
+ร้ายแรง	r aa j^ r xx ng^ 
+อเดล	z a d ee l^ 
+ย้าย	j aa j^ 
+ถิ่นฐาน	th i n^ th aa n^ 
+แห่งชาติ	h x ng^ ch aa t^ 
+ยีนส์	j ii n^ 
+หด	h o t^ 
+หยาบคาย	j aa p^ kh aa j^ 
+หุ่นยนต์	h u n^ j o n^ 
+ย้อนกลับ	j @@ n^ kl a p^ 
+บัส	b a t^ 
+สยาม	s a j aa m^ 
+กระติก	kr a t i k^ 
+หุง	h u ng^ 
+ชัว	ch uua 
+กระตุ้น	kr a t u n^ 
+สุชา	s u ch aa 
+ติ	t i 
+โฮโนลูลูฮาวาย	h oo n oo l uu l uu h aa w aa j^ 
+แทะ	th x 
+ไบรอัน	b a j^ z a n^ 
+ละเมิด	l a m qq t^ 
+รี	r ii 
+เสิช	s qq t^ 
+เลย์เคสเตอร์	l ee kh ee t^ t qq 
+โยเกิร์ตรส	j oo k qq t^ r o t^ 
+ซุปเปอร์	s u p^ p qq 
+มาร์เก็ต	m aa k e t^ 
+ชนบท	ch o n^ n a b o t^ 
+ลูกปืน	l uu k^ p vv n^ 
+ข้อมูลข่าวสาร	kh @@ m uu n^ kh aa w^ s aa n^ 
+สูญหาย	s uu n^ h aa j^ 
+แป้น	p x n^ 
+ทดลอง	th o t^ l @@ ng^ 
+เข้ารหัส	kh a w^ r a h a t^ 
+อสมมาตร	z a s o m^ m aa t^ 
+คีย์	kh ii 
+สดใส	s o t^ s a j^ 
+โดโด้	d oo d oo 
+สวาด	s a w aa t^ 
+ความทรงจำ	khw aa m^ s o ng^ c a m^ 
+รอคอย	r @@ kh @@ j^ 
+เห็นอกเห็นใจ	h e n^ z o k^ h e n^ c a j^ 
+เดินหน้า	d qq n^ n aa 
+กับข้าว	k a p^ kh aa w^ 
+โดโรธี	d oo r oo th ii 
+ขัอ	z a 
+จอร์น	c @@ n^ 
+เล	l ee 
+ฟอร์ดคอร์ติน่า	f @@ t^ kh @@ t i n aa 
+นิเวศ	n i w ee t^ 
+ลี	l ii 
+สิงคโปร์	s i ng^ kh a p oo 
+วาเลนไทน์	w aa l ee n^ th a j^ 
+พ่อค้า	ph @@ kh aa 
+เก๋	k ee 
+นิวส์ฟอเรสต์	n i w^ f @@ r ee s^ 
+ครอบ	khr @@ p^ 
+ธุระกงการ	th u r a k o ng^ k aa n^ 
+เซอร์ไพรส์	s qq ph a j^ 
+ต่อย	t @ j^ 
+ยง	j o ng^ 
+ลูกทุ่ง	l uu k^ th u ng^ 
+ทนายความ	th a n aa j^ khw aa m^ 
+พื่อ	ph vv 
+คำคม	kh a m^ kh o m^ 
+ดีไซน์	d ii s aa j^ 
+ทุ่ง	th u ng^ 
+หน้าอก	n aa z o k^ 
+คัดค้าน	kh a t^ kh aa n^ 
+ป่ะ	p a 
+มะนาว	m a n aa w^ 
+มดวนิดาตันติวิทยาพิทักษ์	d uua n i d aa t a n^ t i w i t^ th a j aa ph i th a k^ 
+ที่ปรึกษา	th ii pr v k^ s aa 
+สมัชชา	s a m a t^ ch aa 
+เทคโนโลยีสารสนเทศ	th ee k^ n oo l oo j ii s aa r a s o n^ th ee t^ 
+ล่ขอ	l a kh @@ 
+หัวแม่มือ	h uua m xx m vv 
+เจ็บ	c e p^ 
+ดา	d aa 
+ทรัพย์	s a p^ 
+ประเสริฐ	pr a s qq t^ 
+พิล	ph i n^ 
+ศพ	s o p^ 
+ทะเลสาบ	th a l ee s aa p^ 
+ลั่น	l a n^ 
+เอี๊ยด	z iia t^ 
+แผ่วเบา	ph x w^ b a w^ 
+ระบาย	r a b aa j^ 
+หลังขดหลังแข็ง	l a ng^ kh o t^ l a ng^ kh x ng^ 
+บู๊ต	b uu t^ 
+หีบ	h ii p^ 
+ร่วง	r uua ng^ 
+ชาน	ch aa n^ 
+ค้อน	kh @@ n^ 
+ตอก	t @@ k^ 
+ตะปู	t a p uu 
+กาว	k aa w^ 
+เจลลี่	c ee l^ l ii 
+บัน	b a n^ 
+พินิจ	ph i n i t^ 
+เคลวิน	kh ee l^ w i n^ 
+ฟาเรนไฮต์	f aa r ee n^ h a j^ 
+เซลเซียส	s ee l^ s iia t^ 
+แรคคูน	r xx k^ kh uu n^ 
+แข่ง	kh x ng^ 
+ริบหรี่	r i p^ r ii 
+คิว	kh i w^ 
+ฮัมตี้ดัมตี้	h a m^ t ii d a m^ t ii 
+คลัทช์	khl a t^ 
+เดิ่น	d qq n^ 
+อีโม	z ii m oo 
+จิ	c i 
+หดหู่ใจ	h o t^ h uu c a j^ 
+เศร้าใจ	s a w^ c a j^ 
+เพทรอฟ	ph ee thr @@ p^ 
+เกษียณ	k a s iia n^ 
+ฟิล	f i l^ 
+เรียบง่าย	r iia p^ ng aa j^ 
+เหมือง	m vva ng^ 
+หยาบ	j aa p^ 
+พลั่ว	phl uua 
+สามัคคี	s aa m a k^ kh ii 
+เซล	s ee l^ 
+สำรับ	s a m^ r a p^ 
+ชอว์	ch @@ 
+เซอร์	s qq 
+คอม	kh @@ m^ 
+มิซ	m i s^ 
+แซ	s xx 
+ปะ	p a 
+เรซูเม่	r ee s uu m ee 
+แย่ง	j xx ng^ 
+สมมติฐาน	s o m^ m o t^ t i th aa n^ 
+เซอร์เอ็ดเวิร์ด	s qq z e t^ w qq t^ 
+ฟิสิกส์	f i s i k^ 
+วัว	w uua 
+พฤษภาคม	phr v t^ s a ph aa kh o m^ 
+โลหิต	l oo h i t^ 
+พลูโต	phl uu t oo 
+แคระ	khr x 
+มด	m o t^ 
+กลางคัน	kl aa ng^ kh a n^ 
+สมบูรณ์	s o m^ b uu n^ 
+ปิดกั้น	p i t^ k a n^ 
+ฟี่	f ii 
+เยือน	j vva n^ 
+เหลือง	l vva ng^ 
+ภู	ph uu 
+เบิก	b qq k^ 
+ตุรกี	t u r a k ii 
+ไก่งวง	k a ng^ w o ng^ 
+พอล	ph @@ l^ 
+พุ	ph u 
+สีสัน	s ii s a n^ 
+ใบไม้	b a j^ m aa j^ 
+บุญ	b u n^ 
+บุรีรัมย์	b u r ii r a m^ 
+เต็มที่	t e m^ th ii 
+การบัญชี	k aa n^ b a n^ ch ii 
+ดื่มด่ำ	d vv m^ d a m^ 
+ระเบียบ	r a b iia p^ 
+ชีพ	ch ii p^ 
+ประวัติ	pr a w a t^ 
+สก๊อต	s a k @@ t^ 
+รับดีล	r a p^ d ii n^ 
+โหยหวน	h oo j^ h uua n^ 
+เยาะ	j @ 
+เกียจคร้าน	k iia c o n^ r aa n^ 
+ซ่อน	s @@ n^ 
+ห่างไกล	h aa ng^ kl a j^ 
+เกาลัด	k a w^ l a t^ 
+หินอ่อน	h i n^ z @@ n^ 
+ตรงไปตรงมา	tr o ng^ p a j^ tr o ng^ m aa 
+ลูกผู้	l uu k^ ph uu 
+เพียบพร้อม	ph iia p^ phr @@ m^ 
+สำเร็จรูป	s a m^ r e t^ r uu p^ 
+เกาหลีใต้	k a w^ l ii t aa j^ 
+ข้อสอบ	kh @@ s @@ p^ 
+มึง	m v ng^ 
+ตีน	t ii n^ 
+ใจลอย	c a j^ l @@ j^ 
+แบก	b xx k^ 
+ประพันธ์	pr a ph a n^ 
+ฮันเดลโมสาร์ท	h a n^ d ee l^ m oo s aa t^ 
+ปุชชีนี	p u t^ ch ii n ii 
+ดารา	d aa r aa 
+โบท็อกซ์	b oo th @ k^ 
+เจสซี่	c ee t^ s ii 
+ฟื้นฟู	f vv n^ f uu 
+กุม	k u m^ 
+ไปป์	p a j^ 
+แว่น	w x n^ 
+รูม	r uu m^ 
+เซอร์วิส	s qq w i t^ 
+ไทเกอร์	th a j^ k qq 
+ลิลลี่	l i n^ l ii 
+ชะตากรรม	ch a t aa k a m^ 
+โรงแรม	r oo ng^ r xx m^ 
+แม่เหล็ก	m xx l e k^ 
+อัศจรรย์	z a t^ s a c a n^ 
+นีโอได	n ii z oo d a j^ 
+เมีย	m iia 
+ล้อเล่น	l @@ l e n^ 
+เทคโนโลยี่	th ee k^ n oo l oo j ii 
+อัด	z a t^ 
+เพศ	ph ee t^ 
+ลึกลับ	l v k^ l a p^ 
+บาด	b aa t^ 
+อ่อนหวาน	z @@ n^ w aa n^ 
+หวล	h uua n^ 
+ลาเวนเดอร์	l aa w ee n^ d qq 
+กำแพง	k a m^ ph xx ng^ 
+โห่	h oo 
+ถูกใจ	th uu k^ c a j^ 
+ยุ้ง	j u ng^ 
+ฉาง	ch aa ng^ 
+ลอรา	l @@ r aa 
+รับผิด	r a p^ ph i t^ 
+เกียรตินิยม	k iia t^ n i j o m^ 
+อันดับ	z a n^ d a p^ 
+เสียสละ	s iia s a l a 
+วิลัยพร	w i l a j^ ph @@ n^ 
+กอด	k @@ t^ 
+ค้ำยัน	kh a m^ j a n^ 
+ไตร่ตรอง	tr a j^ tr @@ ng^ 
+ร่วมใจ	r uua m^ c a j^ 
+ส่งเสริม	s o ng^ s qq m^ 
+บรรดา	b a n^ d aa 
+พก	ph o k^ 
+เอว	z e w^ 
+สาระอลิซ	s aa r a z a l i t^ 
+สารบัญ	s aa n^ b a n^ 
+โคม	kh oo m^ 
+แน่ชัด	n xx ch a t^ 
+ซาบซึ้ง	s aa p^ s v ng^ 
+นั้นอลิซ	n a n^ z a l i t^ 
+อุดตัน	z u t^ t a n^ 
+แดฟโฟดิล	d xx f^ f oo d i n^ 
+ตอบรับ	t @@ p^ r a p^ 
+วิกฤติ	w i kr i t^ 
+ล้มละลาย	l o m^ l a l aa j^ 
+วินิจฉัย	w i n i t^ ch a j^ 
+ปัด	p a t^ 
+โชคชะตา	ch oo k^ ch a t aa 
+บอด	b @@ t^ 
+เจริญ	c a r qq n^ 
+แพ็คเกจ	ph x k^ k ee t^ 
+กำกวม	k a m^ k uua m^ 
+อีสเทอร์	z ii t^ th qq 
+โค้ช	kh oo t^ 
+ไงร	ng a j^ 
+สัมพันธ์	s a m^ ph a n^ 
+สำนึก	s a m^ n v k^ 
+เปราะ	pr @ 
+ยุ	j u 
+พิน	ph i n^ 
+กรรมการ	k a m^ m a k aa n^ 
+พินิจพิเคราะห์	ph i n i t^ ph i khr @ 
+ประกวด	pr a k uua t^ 
+ละเอียดถี่ถ้วน	l a z iia t^ th ii th uua n^ 
+อับราฮัม	z a p^ r aa h a m^ 
+แนวทาง	n xx w^ th aa ng^ 
+คม	kh o m^ 
+เฮอร์ริง	h qq r i ng^ 
+เทศบาลเมือง	th ee t^ s a b aa n^ m vva ng^ 
+พัด	ph a t^ 
+หมาก	m aa k^ 
+รุก	r u k^ 
+ลิมา	l i m aa 
+หลวง	l uua ng^ 
+เปรู	p ee r uu 
+แครอลซ่อน	kh xx r @@ n^ s @@ n^ 
+วู	w uu 
+ไบเซ็กชวล	b a j^ s e k^ ch uua n^ 
+แจ็คเก็ต	c x k^ k e t^ 
+แอด	z xx t^ 
+แอดเวอร์ไทส์เมนท์	z xx t^ w qq th a j^ m ee n^ 
+ศาสตร์	s aa t^ 
+สไลเดอร์	s a l a j^ d qq 
+ชิงช้า	ch i ng^ ch aa 
+แอสไพริน	z xx t^ ph a j^ r i n^ 
+เหลว	l ee w^ 
+หนุ่ม	n u m^ 
+อัพเดตเฟิร์มแวร์	z a p^ d ee t^ f qq m^ w xx 
+ป้อง	p @ ng^ 
+ฮับ	h a p^ 
+ชำรุด	ch a m^ r u t^ 
+จดจ่อ	c o t^ c @@ 
+ตีพิมพ์	t ii ph i m^ 
+รด	r o t^ 
+อโวคาโด	z a w oo kh aa d oo 
+เผอิญ	ph a z qq n^ 
+กีต้าร์	k ii t aa 
+อะไรอลิสไตร่ตรอง	z a r a j^ z a l i t^ tr a j^ tr @@ ng^ 
+คอมมอน	kh @@ m^ m @@ n^ 
+วอยซ์	w @@ j^ 
+รอง	r @@ ng^ 
+กัก	k a k^ 
+เบอร์ลิน	b qq l i n^ 
+ชิ้นส่วน	ch i n^ s uua n^ 
+นีออน	n ii z @@ n^ 
+กะพริบ	k a phr i p^ 
+ควาญ	khw aa n^ 
+ซ่า	s aa 
+ประวัติศาสตร์	pr a w a t^ t i s aa t^ 
+รุ่งเรือง	r u ng^ r vva ng^ 
+พ่อมด	ph @@ m o t^ 
+บทความ	b o t^ khw aa m^ 
+ละหุ่ง	l a h u ng^ 
+ดอกฟ้า	d @@ k^ f aa 
+บัว	b uua 
+สวรรค์	s a w a n^ 
+สลัก	s a l a k^ 
+กาบ	k aa p^ 
+ลวดลาย	l uua t^ l aa j^ 
+หยอด	j @@ t^ 
+บราซิล	br aa s i n^ 
+แน่อลิส	z xx l i t^ 
+เอล	z ee l^ 
+ขากรรไกร	kh aa k a n^ kr a j^ 
+แมคฟี	m xx k^ f ii 
+ทรัพยากร	s a p^ ph a j aa k @@ n^ 
+ผลิตผล	ph a l i t^ t a ph o n^ 
+ครีม	khr ii m^ 
+โชเฟอร์	ch oo f qq 
+ตัดสิน	t a t^ s i n^ 
+ควิเบก	khw i b ee k^ 
+เซลล์	s ee n^ 
+อัลก	z o k^ 
+อริ	z a r i 
+ทึม	th v m^ 
+โดยสาร	d oo j^ s aa n^ 
+สมบูรณ์แบบ	s o m^ b uu n^ b xx p^ 
+ไอ่	z a j^ 
+ซีเรียลวีททบิกซ์	s ii r iia l a w ii t^ th a b i k^ 
+ลอกเลียน	l @@ k^ l iia n^ 
+กระดิ่ง	kr a d i ng^ 
+เอสเปรสโซ่	z ee s^ pr ee t^ s oo 
+คำนับ	kh a m^ n a p^ 
+โม้	m oo 
+บันดาลใจ	b a n^ d aa n^ c a j^ 
+เสวนา	s a w a n a w^ 
+แม่ชี	m xx ch ii 
+หลั่งไหล	l a ng^ l a j^ 
+เข้าวาติ	kh a w^ w aa t^ 
+ลอก	l @@ k^ 
+ชั่วคราว	ch uua khr aa w^ 
+กระบวน	kr a b uua n^ 
+วิกิพีเดีย	w i k i ph ii d iia 
+จิบ	c i p^ 
+ของเล่น	kh @@ ng^ l e n^ 
+ไทยคู่ฟ้า	th a j^ kh uu f aa 
+วิทยานิพนธ์	w i t^ th a j aa n i ph o n^ 
+หลอน	l @@ n^ 
+ถ่ายทอด	th aa j^ th @@ t^ 
+คลับ	khl a p^ 
+ทรุดโทรม	s u t^ s oo m^ 
+ปน	p o n^ 
+ไม้แดง	m aa j^ d xx ng^ 
+ครอง	khr @@ ng^ 
+สัมผัส	s a m^ ph a t^ 
+จำลอง	c a m^ l @@ ng^ 
+หมั้น	m a n^ 
+เวลส์	w ee l^ 
+ตุตัน	t u t a n^ 
+คา	kh aa 
+เมน	m ee n^ 
+ฟาโรห์	f aa r oo 
+อียิปต์	z ii j i p^ 
+ซี้	s ii 
+เลี่ยม	l iia m^ 
+สกิน	s a k i n^ 
+ซีด	s ii t^ 
+บังคับ	b a ng^ kh a p^ 
+กลาสโกว	kl aa t^ k oo w^ 
+ยัย	j a j^ 
+ไทยแลนด์	th a j^ l xx n^ 
+ผ่าตัด	ph aa t a t^ 
+ต้อกระจก	t @@ kr a c o k^ 
+เผ่า	ph a w^ 
+อ่าง	z aa ng^ 
+กริยา	kr i j aa 
+กราฟิคดีไซน์	kr aa f i kh a d ii s a j^ 
+มูเซอ	m uu s qq 
+กะเหรี่ยง	k a r iia ng^ 
+ลีซอ	l ii s @@ 
+น้า	n aa 
+ศาสนา	s aa t^ s a n aa 
+อัลไซเมอร์	z a n^ s a j^ m qq 
+ถ้าโลก	th aa l oo k^ 
+เฮเลนา	h ee l ee n aa 
+ผูกมัด	ph uu k^ m a t^ 
+แม่พิมพ์	m xx ph i m^ 
+หมู่เกาะ	m uu k @ 
+พารา	ph aa r aa 
+พิพาท	ph i ph aa t^ 
+โอบกอด	z oo p^ k @@ t^ 
+ตำหนิ	t a m^ n i 
+องศา	z o ng^ s aa 
+ซ่อง	s @ ng^ 
+คิด่วา	kh i d a w aa 
+ดิอาซ	d i z aa t^ 
+เท่าเทียม	th a w^ th iia m^ 
+การ์ตูน	k aa t uu n^ 
+ลายมือ	l aa j^ m vv 
+บัตร	b a t^ 
+เหม็น	m e n^ 
+มีนาคม	m ii n aa kh o m^ 
+เทอม	th qq m^ 
+จัดหา	c a t^ h aa 
+ลิงกอริลลา	l i ng^ k @@ r i n^ l aa 
+ดัก	d a k^ 
+สวนสัตว์	s uua n^ s a t^ 
+จริยธรรม	c a r i j a th a m^ 
+เมตตา	m ee t^ t aa 
+ดาวเทียม	d aa w^ th iia m^ 
+ไทยคม	th a j^ kh o m^ 
+เซรามิก	s ee r aa m i k^ 
+เคลื่อน	khl vva n^ 
+กฏ	k o t^ 
+น้ำลึก	n a m^ l v k^ 
+ตื้น	t vv n^ 
+ออฟฟิศ	z @ p^ f i t^ 
+ซินโดรม	s i n^ dr oo m^ 
+มะรืน	m a r vv n^ 
+ดุลพินิจ	d u n^ l a ph i n i t^ 
+มกราคม	m a k a r aa kh o m^ 
+อิง	z i ng^ 
+ร้อนใจ	r @@ n^ c a j^ 
+ไลออน	l a j^ z @@ n^ 
+กวาด	kw aa t^ 
+สภาวะ	s a ph aa w a 
+บะหมี่	b a m ii 
+จุใจ	c u c a j^ 
+ขมวด	kh a m uua t^ 
+คิ้ว	kh i w^ 
+ยานพาหนะ	j aa n^ ph aa h a n a 
+หลอม	l @@ m^ 
+สาหัส	s aa h a t^ 
+เปียก	p iia k^ 
+หม่น	m o n^ 
+ไวยากรณ์	w a j^ j aa k @@ n^ 
+เฟิล	f qq l^ 
+ขมขื่น	kh o m^ kh vv n^ 
+ควัก	khw a k^ 
+ปอก	p @@ k^ 
+ส้มโอ	s o m^ z oo 
+มัล	m a n^ 
+คอล์ม	kh @@ m^ 
+เนท	n ee t^ 
+จุดหมาย	c u t^ m aa j^ 
+ไดอารี่	d a j^ z aa r ii 
+พยัญชนะ	ph a j a n^ ch a n a 
+วิพากษ์วิจารณ์	w i ph aa k^ w i c aa n^ 
+กฎระเบียบ	k a d a r a b iia p^ 
+ดุลยพินิจ	d u n^ l a j a ph i n i t^ 
+วิดีทัศน์	w i d ii th a t^ 
+อุดมคติ	z u d o m^ m a kh a t i 
+ใจร้าย	c a j^ r aa j^ 
+โค้ท	kh oo t^ 
+ซิเลีย	s i l iia 
+ระอุ	r a z u 
+บรรพบุรุษ	b a n^ ph a b u r u t^ 
+ชักจูง	ch a k^ c uu ng^ 
+แพท	ph xx t^ 
+ตรัสรู้	tr a t^ s a r uu 
+ตอง	t @@ ng^ 
+กาลกิณี	k aa l a k i n ii 
+ดูด	d uu t^ 
+เต้า	t a w^ 
+ยัด	j a t^ 
+ไส้	s a j^ 
+คลื่น	khl vv n^ 
+สึนา	s v n aa 
+ชั่วพริบตา	ch uua phr i p^ t aa 
+เงื่อนไข	ng vva n^ kh a j^ 
+เรื้อรัง	r vva r a ng^ 
+โคลสอัพ	khl oo t^ z a p^ 
+ติ่มซำ	t i m^ s a m^ 
+ลำไย	l a m^ j a j^ 
+อัตนัย	z a t^ t a n a j^ 
+เอลซ่า	z ee l^ s aa 
+ฟืน	f vv n^ 
+โควิด	kh oo w i t^ 
+ไทเกอร์ส	th a j^ k qq 
+ชู	ch uu 
+วงเล็บ	w o ng^ l e p^ 
+ปีก	p ii k^ 
+โนรา	n oo r aa 
+สิว	s i w^ 
+สตอเบอร์รี่	s a t @@ b qq r ii 
+เผื่อ	ph vva 
+ปิดตา	p i t^ t aa 
+โฟร์	f oo 
+เลียม	l iia m^ 
+ทุกหนทุกแห่ง	th u k^ h o n^ th u k^ h x ng^ 
+ฉุกเฉิน	ch u k^ ch qq n^ 
+แว	w xx 
+วาว	w aa w^ 
+ระยิบระยับ	r a j i p^ r a j a p^ 
+อัศวินแดง	z a t^ s a w i n^ d xx ng^ 
+คารากัส	kh aa r aa k a t^ 
+อ้า	z aa 
+ซักถาม	s a k^ th aa m^ 
+ชี	ch ii 
+นุก	n u k^ 
+ริค	r i k^ 
+พิณ	ph i n^ 
+ยิว	j i w^ 
+ป่าเถื่อน	p aa th vva n^ 
+เพนนิซิลิน	ph ee n^ n i s i l i n^ 
+ซัมเมอร์	s a m^ m qq 
+ซัน	s a n^ 
+เข้าหู	kh a w^ h uu 
+ทะลุ	th a l u 
+หูขวา	h uu khw aa 
+ทัศนศึกษา	th a t^ s a n a s v k^ s aa 
+พิพิฒพันธ์	ph i ph i t^ ph a n^ 
+เครา	khr a w^ 
+กระวนกระวายใจ	kr a w o n^ kr a w aa j^ c a j^ 
+ภูมิปัญญา	ph uu m^ p a n^ j aa 
+ลูกหลาน	l uu k^ l aa n^ 
+สืบทอด	s vv p^ th @@ t^ 
+แม่มด	m xx m o t^ 
+โครม	khr oo m^ 
+ครืน	khr vv n^ 
+ล่อง	l @ ng^ 
+แพ	ph xx 
+สวิตเซอร์แลนด์	s a w i t^ s qq l xx n^ 
+อัลไพน์	z a n^ ph a j^ 
+ออสเตรีย	z @ t^ s a tr iia 
+ผลิ	ph a l i 
+ม้วน	m uua n^ 
+จี๊ด	c ii t^ 
+พัง	ph a ng^ 
+ลูกเต๋า	l uu k^ t a w^ 
+ย่อง	j @ ng^ 
+โถ	th oo 
+ขุนทอง	kh u n^ th @@ ng^ 
+ปิดปาก	p i t^ p aa k^ 
+เปิดตา	p qq t^ t aa 
+ข่อย	kh @ j^ 
+เก่าคร่ำคร่า	k a w^ khr a m^ khr aa 
+เสียดทาน	s iia t^ th aa n^ 
+จลน์	c o n^ 
+แผล	phl xx 
+กรด	kr o t^ 
+ทาส	th aa t^ 
+นิรโทษกรรม	n i r a th oo t^ s a k a m^ 
+ล่วงหน้า	l uua ng^ n aa 
+ลืมเลือน	l vv m^ l vva n^ 
+พ่วง	ph uua ng^ 
+ซาก	s aa k^ 
+ปรักหักพัง	pr a k^ h a k^ ph a ng^ 
+น้าอ้อย	n aa z @@ j^ 
+แจ่ม	c x m^ 
+เจ๊	c ee 
+ไฝ	f a j^ 
+มิชลิน	m i t^ l i n^ 
+ขยาย	kh a j aa j^ 
+มาร์ติน	m aa t i n^ 
+เสิร์ฟ	s qq p^ 
+ยูเรเนียม	j uu r ee n iia m^ 
+พลูโตเนียม	phl uu t oo n iia m^ 
+กัมมันตรังสี	k a m^ m a n^ t a r a ng^ s ii 
+ตับ	t a p^ 
+คาเฟ่	kh aa f ee 
+ยับยั้ง	j a p^ j a ng^ 
+วัวแดง	w uua d xx ng^ 
+โชย	ch oo j^ 
+โลโก้	l oo k oo 
+ปอด	p @@ t^ 
+โห	h oo 
+เสนอแนะ	s a n qq n x 
+ดูแคลน	d uu khl xx n^ 
+เคร่งเครียด	khr e ng^ khr iia t^ 
+ชะมัด	ch a m a t^ 
+ว่าแนน	w aa n xx n^ 
+ซี่	s ii 
+ซับ	s a p^ 
+คุกคาม	kh u k^ kh aa m^ 
+พักฟื้น	ph a k^ f vv n^ 
+แตงอ่อน	t xx ng^ z @@ n^ 
+ธรณี	th @@ r a n ii 
+กาล	k aa n^ 
+กะทะ	k a th a 
+แอนตาร์กติก	z xx n^ t aa k a t i k^ 
+อับอายขายหน้า	z a p^ z aa j^ kh aa j^ n aa 
+ยกเว้น	j o k^ w e n^ 
+ซาบซึ้งใจ	s aa p^ s v ng^ c a j^ 
+ตะเข็บ	t a kh e p^ 
+คลี่	khl ii 
+สังเกตุ	s a ng^ k ee t^ 
+สตาร์	s a t aa 
+บัค	b a k^ 
+โปรโมชั่น	pr oo m oo ch a n^ 
+ลำดับ	l a m^ d a p^ 
+ง่ายดาย	ng aa j^ d aa j^ 
+ศิลปศาสตร์	s i n^ l a p a s aa t^ 
+คุณประโยชน์	kh u n^ pr a j oo t^ 
+วิงเวียน	w i ng^ w iia n^ 
+พลศึกษา	ph a l a s v k^ s aa 
+โมดูล	m oo d uu n^ 
+ฟิลลิปรู้สึก	f i n^ l i p^ r uu s v k^ 
+แจ่มใส	c x m^ s a j^ 
+อีเมล	z ii m ee l^ 
+โคลัมเบีย	kh oo l a m^ b iia 
+ชิลี	ch i l ii 
+อาร์เจนตินา	z aa c e n^ t i n aa 
+เวเนซุเอลา	w ee n ee s u z ee l aa w^ 
+เหมา	m a w^ 
+ว่าว	w aa w^ 
+เอียง	z iia ng^ 
+สาดส่อง	s aa t^ s @@ ng^ 
+เยลลี่	j ee l^ l ii 
+สกุล	s a k u n^ 
+สมุนไพร	s a m u n^ phr a j^ 
+สหรัฐอเมริกา	s a h a r a t^ z a m ee r i k aa 
+แป้ง	p xx ng^ 
+แกง	k xx ng^ 
+มอเตอร์เวย์	m @@ t qq w ee 
+ฮัมบูร์ก	h a m^ b uu k^ 
+มิวนิค	m i w^ n i k^ 
+กรุงเทพมหานคร	kr u ng^ th ee p^ m a h aa n a kh @@ n^ 
+ฮันนีมูน	h a n^ n ii m uu n^ 
+ใหญ่โต	j a j^ t oo 
+เต็มตัว	t e m^ t uua 
+งด	ng o t^ 
+เกณฑ์	k ee n^ 
+กุมภาพันธ์	k u m^ ph aa ph a n^ 
+ตุ๊กแก	t u k^ k xx 
+ศัตรู	s a t^ tr uu 
+อีสาน	z ii s aa n^ 
+อยู่ม	j uu m^ 
+สลด	s a l o t^ 
+ประจวบคีรีขันธ์	pr a c uua p^ kh ii r ii kh a n^ 
+จิน	c i n^ 
+บ้านเรือน	b aa n^ r vva n^ 
+เพียร	ph iia n^ 
+ทวง	th uua ng^ 
+เล็บ	l e p^ 
+ถล่ม	th a l o m^ 
+ไต้ฝุ่น	t a j^ f u n^ 
+โรคี	r oo kh ii 
+แคริบเบียน	kh xx r i p^ b iia n^ 
+ดุ	d u 
+แวว	w xx w^ 
+เผ็ด	ph e t^ 
+ขาไก่	kh aa k a j^ 
+ภูมิทัศน์	ph uu m^ th a t^ 
+สะเด็ด	s a d e t^ 
+ราง	r aa ng^ 
+รัตนโกสินทร์	r a t^ t a n a k oo s i n^ 
+พยาน	ph a j aa n^ 
+ลาก	l aa k^ 
+ปลูกฝัง	pl uu k^ f a ng^ 
+อุปนิสัย	z u p a n i s a j^ 
+ไดอา	d a j^ z aa 
+ทุกข์ทรมาน	th u k^ th @@ r a m aa n^ 
+ไมเกรน	m a j^ kr ee n^ 
+ศัลยแพทย์	s a n^ l a j a ph xx t^ 
+เบรก	br ee k^ 
+กรรมาธิการ	k a m^ m aa th i k aa n^ 
+โคจร	kh oo c @@ n^ 
+ลดทอน	l o t^ th @@ n^ 
+โหวต	w oo t^ 
+อุ่น	z u n^ 
+พุด	ph u t^ 
+ดิ้ง	d i ng^ 
+กอล์ฟ	k @@ f^ 
+ตื่นตะหนก	t vv n^ t a n o k^ 
+นิม	n i m^ 
+กระซิบกระซาบ	kr a s i p^ kr a s aa p^ 
+ฉลาม	ch a l aa m^ 
+แองเจลา	z xx ng^ c ee l aa 
+ชิพมังค์	ch i p^ m a ng^ 
+กระรอก	kr a r @@ k^ 
+แถบ	th xx p^ 
+บัก	b a k^ 
+จี้	c ii 
+จั้มป์	c a m^ 
+ห้อย	h @ j^ 
+เกียรติยศ	k iia t^ t i j o t^ 
+แฟร์	f xx 
+ศักยภาพ	s a k^ k a j a ph aa p^ 
+คลอง	khl @@ ng^ 
+เมก	m ee k^ 
+สเวตเตอร์	s a w ee t^ t qq 
+มวน	m uua n^ 
+บาร์เทนเดอร์	b aa th ee n^ d qq 
+อันเดอร์	z a n^ d qq 
+โทน	th oo n^ 
+สัตย์	s a t^ 
+วิคตอเรีย	w i k^ t @@ r iia 
+ตามหา	t aa m^ h aa 
+ออสเตรเลีย	z @ t^ s a tr ee l iia 
+เอกซาไบท์	z ee k^ s aa b a j^ 
+สมาธิ	s a m aa th i 
+ไอแซค	z a j^ s xx k^ 
+แปลง	pl xx ng^ 
+โคไซน์	kh oo s aa j^ 
+บล็อก	bl @ k^ 
+พิก	ph i k^ 
+มัฟฟิน	m a p^ f i n^ 
+กายวิภาคศาสตร์	k aa j^ j a w i ph aa k^ kh a s aa t^ 
+สุดา	s u d aa 
+คอหอย	kh @@ h @ j^ 
+ตะลึง	t a l v ng^ 
+มองโกเลีย	m @@ ng^ k oo l iia 
+รีไซเคิล	r ii s a j^ kh qq l^ 
+มัง	m a ng^ 
+กร	k @@ n^ 
+ชิม	ch i m^ 
+เงาะ	ng @ 
+มังคุด	m a ng^ kh u t^ 
+พ็อดแคสต์	ph @ t^ kh xx s^ 
+เปรียบ	pr iia p^ 
+ลุค	l u k^ 
+คลาสสิค	khl aa s^ s i k^ 
+ค้นคว้า	kh o n^ khw aa 
+หุบปาก	h u p^ p aa k^ 
+อสิซ	z a s i t^ 
+ตุลาคม	t u l aa kh o m^ 
+ผ่อน	ph @ n^ 
+ดีบักเกอร์	d ii b a k^ k qq 
+บัฟเฟอร์	b a p^ f qq 
+ล้น	l o n^ 
+คาดคิด	kh aa t^ kh i t^ 
+ทิวทัศน์	th i w^ th a t^ 
+แหย่	j xx 
+อุดมสมบูรณ์	z u d o m^ s o m^ b uu n^ 
+ศิริราชราคา	s i r i r aa t^ ch a r aa kh aa 
+มหัศจรรย์	m a h a t^ s a c a n^ 
+เบิกบาน	b qq k^ b aa n^ 
+ดูหมิ่น	d uu m i n^ 
+ขอบใจ	kh @@ p^ c a j^ 
+แฮม	h x m^ 
+ฟรี	fr ii 
+รักดี	r a k^ d ii 
+พูริตัน	ph uu r i t a n^ 
+อาฆาต	z aa kh aa t^ 
+พยาบาท	ph a j aa b aa t^ 
+ขี้หน้า	kh ii n aa 
+ชูชีพ	ch uu ch ii p^ 
+ภารกิจ	ph aa r a k i t^ 
+ทุกข์ยาก	th u k^ j aa k^ 
+เห็นนีล	h e n^ n ii n^ 
+แต่ทว่า	t xx th a w aa 
+สิ้นสุด	s i n^ s u t^ 
+โรฮิงญา	r oo h i ng^ j aa 
+พม่า	ph a m aa 
+บังคลาเทศ	b a ng^ kh a l aa th ee t^ 
+หย่อนยาน	j @@ n^ j aa n^ 
+กิจกรรม	k i t^ c a k a m^ 
+ปกคอ	p o k^ kh @@ 
+โปโล	p oo l oo 
+ลื่น	l vv n^ 
+อิน	z i n^ 
+จุก	c u k^ 
+หลอก	l @@ k^ 
+ชีววิทยา	ch ii w a w i t^ th a j aa 
+คลินิก	khl i n i k^ 
+ต่ด	t o t^ 
+สัมพันธุ์	s a m^ ph a n^ 
+เริม	r qq m^ 
+ที่ดิน	th ii d i n^ 
+เป็นธรรม	p e n^ th a m^ 
+พาสต้า	ph aa t^ t aa 
+เยน	j ee n^ 
+แตะต้อง	t x t @@ ng^ 
+เดินเรือ	d qq n^ r vva 
+เอสเปรสโซ	z ee s^ pr ee t^ s oo 
+ย่า	j aa 
+อนุภาค	z a n u ph aa k^ 
+แม่ค้า	m xx kh aa 
+พื้นบ้าน	ph vv n^ b aa n^ 
+ฤดูกาล	r v d uu k aa n^ 
+ไทรันโนซอรัส	th a j^ r a n^ n oo s @@ r a t^ 
+เร็กซ์	r e k^ 
+เหนียว	n iia w^ 
+ปกปิด	p o k^ p i t^ 
+วิภา	w i ph aa 
+ช็อป	ch @ p^ 
+ทอดทิ้ง	th @@ t^ th i ng^ 
+เอสเธอร์	z ee t^ th qq 
+ค้าขาย	kh aa kh aa j^ 
+เติบโต	t qq p^ t oo 
+หย่อน	j @ n^ 
+รีบร้อน	r ii p^ r @@ n^ 
+กลับใจ	kl a p^ c a j^ 
+คริสมาสต์	khr i t^ m aa t^ 
+จอนลิว	c @@ n^ l i w^ 
+อีส	z ii t^ 
+สอบสวน	s @@ p^ s uua n^ 
+ดอกเบี้ย	d @@ k^ b iia 
+กระดิก	kr a d i k^ 
+ลอตเตอรี	l @@ t^ t qq r ii 
+รูปทรง	r uu p^ s o ng^ 
+ครบถ้วน	khr o p^ th uua n^ 
+วิไล	w i l a j^ 
+ยังอลิสโพล่ง	j a ng^ z a l i t^ phl oo ng^ 
+รู้แล้วรู้รอด	r uu l xx w^ r uu r @@ t^ 
+เช็คเกอร์	ch e k^ k qq 
+หลา	l aa 
+กิโลเมตร	k i l oo m ee t^ 
+เมตร	m ee t^ 
+กับอลิส	k a p^ z a l i t^ 
+วิทยาการ	w i t^ th a j aa k aa n^ 
+รหัสลับ	r a h a t^ s a l a p^ 
+ไอเฟล	z a j^ f ee l^ 
+ดั่ง	d a ng^ 
+เวทมนตร์	w ee t^ m o n^ 
+นินทา	n i n^ th aa 
+ใบพัด	b a j^ ph a t^ 
+สลับ	s a l a p^ 
+นางงาม	n aa ng^ ng aa m^ 
+ดึก	d v k^ 
+มัว	m uua 
+มั้ง	m a ng^ 
+โยคะ	j oo kh a 
+ยิม	j i m^ 
+ปริศนา	pr i t^ s a n aa 
+เล็ต	l e t^ 
+รัสเซีย	r a t^ s iia 
+ไอกิส	z a j^ k i t^ 
+เกียร์	k iia 
+ซามูไร	s aa m uu r a j^ 
+เด็ดเดี่ยว	d e t^ d iia w^ 
+คลัตช์	khl a t^ 
+ลัทธิ	l a t^ th i 
+โรมาเนีย	r oo m aa n iia 
+แฟลต	fl x t^ 
+เลานจ์	l a w^ 
+ยืด	j vv t^ 
+ผุด	ph u t^ 
+นิเฟอร์	n i f qq 
+ว่าเซีย	w aa s iia 
+เนวาดา	n ee w aa d aa 
+ชดใช้	ch o t^ ch a j^ 
+ชั่วร้าย	ch uua r aa j^ 
+ละเลย	l a l qq j^ 
+อวัยวะ	z a w a j^ j a w a 
+กาฬสินธุ์	k aa l a s i n^ 
+เถียง	th iia ng^ 
+คลาส	khl aa t^ 
+ก้อย	k @ j^ 
+สะใจ	s a c a j^ 
+ทรมาน	th @@ r a m aa n^ 
+เฟสบุ๊ค	f ee s^ b u k^ 
+สตาแกรม	s a t aa kr o m^ 
+ทวิตเตอร์ไลน์	th a w i t^ t qq l a j^ 
+โบ	b oo 
+ฮีเมียน	h ii m iia n^ 
+ซานฟรานซิสโก	s aa n^ fr aa n^ s i t^ k oo 
+ลูกเรือ	l uu k^ r vva 
+ปัน	p a n^ 
+จริงใจ	c a r i ng^ c a j^ 
+สง่างาม	s a ng aa ng aa m^ 
+บอลลูน	b @@ n^ l uu n^ 
+กระพือ	kr a ph vv 
+ร้าง	r aa ng^ 
+เมษายน	m ee s aa j o n^ 
+ชุบ	ch u p^ 
+เกล็ด	kl e t^ 
+ลูกพี่ลูกน้อง	l uu k^ ph ii l uu k^ n @@ ng^ 
+พิพิธภัฑณฑ์	ph i ph i t^ th a ph a t^ 
+ฮิปเสตอร์	h i p^ s ee t @@ 
+ดาบ	d aa p^ 
+แกะสลัก	k x s a l a k^ 
+โรแมนติก	r oo m xx n^ t i k^ 
+สังสรรค์	s a ng^ s a n^ 
+รูปลักษณ์	r uu p^ l a k^ 
+เซอร์เลอเซสเตอร์	s qq l qq s ee t^ t qq 
+โอ๊ก	z oo k^ 
+ผลัก	phl a k^ 
+ทองเหลือง	th @@ ng^ l vva ng^ 
+ปรับเปลี่ยน	pr a p^ pl iia n^ 
+เป็นอยู่	p e n^ j u 
+เชื้อชาติ	ch vva ch aa t^ 
+เกลี้ยกล่อม	kl iia kl @ m^ 
+เคล็ด	khl e t^ 
+ทิศทาง	th i t^ th aa ng^ 
+ยุคสมัย	j u k^ s a m a j^ 
+นาโอมิ	n aa z oo m i 
+มันสมอง	m a n^ s a m @@ ng^ 
+หนุนหลัง	n u n^ l a ng^ 
+ไขว่ห้าง	khw a j^ h aa ng^ 
+จอร์จนะ	c @@ c a n a 
+ลองใจ	l @@ ng^ c a j^ 
+แจก	c xx k^ 
+ต้องสอน	t @@ ng^ s @@ n^ 
+หลาน	l aa n^ 
+มิฉะนั้น	m i ch a n a n^ 
+โซเดียมคลอไรด์	s oo d iia m^ khl @@ r aa j^ 
+เกลือ	kl vva 
+พ้น	ph o n^ 
+ปฏิวัติ	p a t i w a t^ 
+ปารากวัย	p aa r aa k^ w a j^ 
+โบลิเวีย	b oo l i w iia 
+อุรุกวัย	z u r u k^ w a j^ 
+แกลอรี่	k xx l @@ r ii 
+ดิทโต้ดิท	d i t^ t oo d i t^ 
+ทวีต	th a w ii t^ 
+เลดดี้	l ee t^ d ii 
+กาก	k aa k^ 
+ประชดประชัน	pr a ch o t^ pr a ch a n^ 
+เลวร้าย	l ee w^ r aa j^ 
+เคท	kh ee t^ 
+ยอมอลิซ	j @@ m^ z a l i t^ 
+ชอบธรรม	ch @@ p^ th a m^ 
+มุมานะ	m u m aa n a 
+บากบั่น	b aa k^ b a n^ 
+เข็มทิศ	kh e m^ th i t^ 
+เลกเชอร์	l ee k^ ch qq 
+เชดดาร์	ch ee t^ d aa 
+ผงก	ng a k^ 
+หอย	h @ j^ 
+พระราชินี	phr a r aa ch i n ii 
+โคบอลต์	kh oo b @@ n^ 
+ปลอมแปลง	pl @@ m^ pl xx ng^ 
+ธนบัตร	th a n a b a t^ 
+ไอโอ	z a j^ z oo 
+เทค	th ee k^ 
+เบือน	b vva n^ 
+ชาค	ch aa k^ 
+ต้นฉบับ	t o n^ ch a b a p^ 
+ลินัส	l i n a t^ 
+เขื่อน	kh vva n^ 
+ตั้งตา	t a ng^ t aa 
+ไส้กรอก	s a j^ kr @@ k^ 
+โคร	khr oo 
+เก้	k ee 
+โคลี่	kh oo l ii 
+เค้น	kh e n^ 
+สุรา	s u r aa 
+คริสโตเฟอร์	khr i t^ t oo f qq 
+วิถีทาง	w i th ii th aa ng^ 
+เซื่อง	s vva ng^ 
+ซึม	s v m^ 
+หิวโหย	h i w^ h oo j^ 
+ฝ่าย	f aa j^ 
+ซุก	s u k^ 
+ประติมากรรม	pr a t i m aa k a m^ 
+พิจารณาการ	ph i c aa r a n aa k aa n^ 
+เปีย	p iia 
+ฝัก	f a k^ 
+หมัก	m a k^ 
+เติม	t qq m^ 
+เส้นใย	s e n^ j a j^ 
+ฝ้าย	f aa j^ 
+ลินิน	l i n i n^ 
+ประจาน	pr a c aa n^ 
+จิตรภูมิศักดิ์	c i t^ ph uu m^ s a k^ 
+ภาษาศาสตร์	ph aa s aa s aa t^ 
+สำแดง	s a m^ d xx ng^ 
+เดช	d ee t^ 
+โครง	khr oo ng^ 
+ไปไหนมาไหน	p a j^ n a j^ m aa n a j^ 
+กลอน	kl @@ n^ 
+ต่างหู	t aa ng^ h uu 
+อั้น	z a n^ 
+เบียร์	b iia 
+เยอรม	j qq r o m^ 
+บาวาเรีย	b aa w aa r iia 
+เทียน	th iia n^ 
+คะอลิซ	kh a z a l i t^ 
+กลีบ	kl ii p^ 
+กุหลาบ	k u l aa p^ 
+พรวด	phr uua t^ 
+ผูกพัน	ph uu k^ ph a n^ 
+มอเตอร์ไซค์	m @@ t qq s a j^ 
+คือพเต	kh vv p^ t ee 
+เรอ	r qq 
+แดกติล	d xx k a t i n^ 
+คุ้มกัน	kh u m^ k a n^ 
+สมเพช	s o m^ ph e t^ 
+แลคโตส	l xx k^ t oo t^ 
+รุ้ง	r u ng^ 
+คลิป	khl i p^ 
+ศรีสะเกษ	s ii s a k ee t^ 
+บุญคุณ	b u n^ kh u n^ 
+สกิล	s a k i n^ 
+ล้วง	l uua ng^ 
+อาเจียน	z aa c iia n^ 
+จีนน์	c ii n^ 
+แคนู	kh xx n uu 
+เหลา	l a w^ 
+ทฤษฎีบท	thr i t^ s a d ii b o t^ 
+อนุมาน	z a n u m aa n^ 
+สโมสร	s a m oo s @@ n^ 
+แมนเชสเตอร์ยูไนเต็ด	m xx n^ ch ee t^ t qq j uu n a j^ t e t^ 
+แท่น	th x n^ 
+ซัลโว	s a n^ w oo 
+บริวาร	b @@ r i w aa n^ 
+เคียงข้าง	kh iia ng^ kh aa ng^ 
+ไมโครโฟน	m a j^ khr oo f oo n^ 
+อู้อี้	z uu z ii 
+หมี	m ii 
+มนุษยชน	m a n u t^ s a j a ch o n^ 
+หลักการ	l a k^ k aa n^ 
+เมล	m ee l^ 
+ขรึม	khr v m^ 
+จํา	c aa ng^ 
+ทํา	th aa ng^ 
+ฟรานซิส	fr aa n^ s i t^ 
+ใกล้ชิด	kl a j^ ch i t^ 
+โบก	b oo k^ 
+ยัก	j a k^ 
+ไหล่	l a j^ 
+มาร์ค	m aa k^ 
+วิจารณ์	w i c aa n^ 
+บรรเทา	b a n^ th a w^ 
+พระราชทาน	phr a r aa t^ ch a th aa n^ 
+คอมไพล์	kh @@ m^ ph a j^ 
+หมวดหมู่	m uua t^ m uu 
+แตกตื่น	t xx k^ t vv n^ 
+ภาร	ph aa n^ 
+ช่องว่าง	ch @ ng^ w aa ng^ 
+เสื่อมถอย	s vva m^ th @ j^ 
+แก๊งค์	k xx ng^ 
+เย็บปักถักร้อย	j e p^ p a k^ th a k^ r @@ j^ 
+เบาะ	b @ 
+อึ่ง	z v ng^ 
+เจริญเติบโต	c a r qq n^ t qq p^ t oo 
+ปรารถนา	pr aa t^ th a n aa 
+ไว	w a j^ 
+ปลาดุก	pl aa d u k^ 
+ออเคสตรา	z @@ kh ee t^ tr aa 
+คุกกี้	kh u k^ k ii 
+ลองจิจูด	l @@ ng^ c i c uu t^ 
+ละติจูด	l a t i c uu t^ 
+สอดคล้องกัน	s @@ t^ khl @@ ng^ k a n^ 
+ตะเกียบ	t a k iia p^ 
+สงวน	s a ng uua n^ 
+ปรากฎ	pr aa k o t^ 
+เงียบงัน	ng iia p^ ng a n^ 
+ภูตผี	ph uu t^ ph ii 
+เฮอริเคน	h qq r i kh ee n^ 
+ได	d a j^ 
+เพ	ph ee 
+ปรบ	pr o p^ 
+โรบิน	r oo b i n^ 
+พบเห็น	ph o p^ h e n^ 
+แบตเตอรี่	b x t^ t qq r ii 
+สุมาลี	s u m aa l ii 
+ยุว	j u w a 
+กาชาด	k aa ch aa t^ 
+ละอายใจ	l a z aa j^ c a j^ 
+โลกาภิวัฒน์	l oo k aa ph i w a t^ 
+วินิฉัย	w i n i ch a j^ 
+มดลูก	m o t^ l uu k^ 
+เมือก	m vva k^ 
+กร่อน	kr @@ n^ 
+อัธยาศัย	z a t^ th a j aa s a j^ 
+โดนใจ	d oo n^ c a j^ 
+ล๊อคเกอร์	l @@ k^ k qq 
+ข้น	kh o n^ 
+บังเกิด	b a ng^ k qq t^ 
+แจ็กเก็ต	c x k^ k e t^ 
+อสูร	z a s uu n^ 
+เหว	h ee w^ 
+เจ็บป่วย	c e p^ p uua j^ 
+ทาบทาม	th aa p^ th aa m^ 
+รัฐธรรมนูญ	r a t^ th a th a m^ m a n uu n^ 
+ดื่มกิน	d vv m^ k i n^ 
+ดีวีดี	d ii w ii d ii 
+ใหญ	j a j^ 
+สะสม	s a s o m^ 
+เยิน	j qq n^ 
+ยอ	j @@ 
+ปัดเป่า	p a t^ p a w^ 
+สลัด	s a l a t^ 
+โต้เถียง	t oo th iia ng^ 
+ประจำการ	pr a c a m^ k aa n^ 
+ตัดใจ	t a t^ c a j^ 
+จับต้อง	c a p^ t @@ ng^ 
+ภูมิแพ้	ph uu m^ ph xx 
+หมึก	m v k^ 
+คึกคะนอง	kh v k^ kh a n @@ ng^ 
+พิซซ่า	ph i t^ s aa 
+หน้าตา	n aa t aa 
+นาย	n aa j^
+สง่า	s a  ng aa 
+สรรพศรี	s a p^ ph a  s ii 
+รศ.ดร.	r @@ ng^ s aa t^ tr aa  c aa n^ d @ k^ t qq 
+สมเกียรติ	s o m^ k iia t^
+ศุภเดช	s u p^ ph a  d ee t^
+ใน	n a j^
+การ	 k aa n^
+พล็อต	 phl @ t^ kr aa f^
+กราฟ	 p aa k^ k aa 
+ปากกา	c a 
+จะ	pl iia n^ pl xx ng^
+เปลี่ยนแปลง	t a m^ n x ng^
+ตำแหน่ง	t aa m^
+ตาม	n a j^
+ใน	n xx w^ t a ng^
+แนวตั้ง	t aa m^
+ตาม	s a k^ d aa  f a j^ f aa 
+ศักดาไฟฟ้า	th ii 
+ที่	w a t^
+วัด	d aa j^
+ได้	kh a  n a  th ii 
+ขณะที่	kr a  d aa t^
+กระดาษ	khl vva n^ th ii 
+เคลื่อนที่	t aa m^
+ตาม	n xx w^
+แนวนอน	n @@ n^
+ด้วย	d uua j^
+ความ	khw aa m^
+เร็ว	r e w^
+การ	k aa n^
+บันทึก	b a n^ th v k^
+25	j ii  s i p^ h aa 
+มิลลิเมตร	m i n^ l i  m ee t^
+วินาที	w i  n aa  th ii  
+สิ้นเปลือง	s i n^ pl vva ng^
+ค่าใช้จ่าย	kh aa  ch a j^ c aa j^
+กับ	k a p^
+กระดาษ	kr a  d aa t^
+กราฟ	kr aa f^
+โดย	d oo j^
+ไม่	m a j^
+รายละเอียด	r aa j^ l a  z iia t^
+ของ	kh @@ ng^
+ไมโครคอมพิวเตอร์	m a j^ khr oo  kh @ m^ ph i w^ t qq 
+ชุด	ch u t^
+แรก	r xx k^
+ดังนี้	d a ng^ n ii  
+ทฤษฎี	thr i t^ s a  d ii 
+ภาษาศาสตร์	ph aa  s aa  s aa t^
+เหมาะสม	m @  s o m^
+ได้รับ	d aa j^ r a p^
+พัฒนา	ph a t^ th a  n aa 
+ความ	khw aa m^ kh i t^
+คิด	n a j^
+ใน	k aa n^
+การ	ch a j^
+ใช้	kh @ m^ ph i w^ t qq 
+คอมพิวเตอร์	pl xx 
+แปล	ph aa  s aa 
+ภาษา	c v ng^
+จึง	d aa j^ r a p^
+ได้รับ	k aa n^
+การ	f vv n^ f uu 
+ฟื้นฟู	kh v n^
+ขึ้น	z ii k^
+อีกครั้ง	khr a ng^ 
+เปลี่ยน	pl iia n^
+ภาษา	ph aa  s aa 
+ฝรั่งเศส	 f a  r a ng^ s ee t^ 
+มหาวิทยาลัย	m a  h aa  w i t^ th a  j aa  l a j^
+7	c e t^
+แห่ง	h x ng^
+ประเทศไทย	pr a  th ee t^ th a j^
+ได้	d aa j^
+เข้า	kh a w^
+ร่วม	r uua m^
+ทำงาน	th a m^ ng aa n^
+นาม	n aa m^
+ทบวง	th a  b uua ng^
+มหาวิทยาลัย	m a  h aa  w i t^ th a  j aa  l a j^ 
+ดร.	d @ k^ t qq 
+อุดม	z u  d o m^
+วโรตม์สิกขดิตถ์	w a  r oo  t a  m a  s i k^ kh a  d i t^
+นิตยา	n i t^ t a  j aa 
+กาญจนะวรรณ	k aa n^ c a  n a  w a n^
+ประธาน	pr a  th aa n^
+แล้ว	l xx w^
+จึง	c v ng^
+ถ่ายทอด	th aa j^ th @@ t^
+คำ	kh a m^
+โครงสร้าง	khr oo ng^ s aa ng^
+ต้นฉบับ	t o n^ ch a  b a p^
+อังกฤษ	z a ng^ kr i t^
+เป้าหมาย	p a w^ m aa j^
+ต้อง	t @ ng^
+ตัด	t a t^
+คำกำกวม	kh a m^ k a m^ k uua m^ 
+เลือก	l vva k^
+ตัวอักษร	t uua  z a k^ s @@ n^
+แต่ละ	t xx  l a 
+บล๊อค	bl @ k^
+โมเสด	m oo  s ee t^
+ได้	 d aa j^ 
+ข้อกำหนด	kh @@ k a m^ n o t^
+เวิร์ดโปรเซสเซอร์	w q t^ pr oo  s ee t^ s qq  
+4.1.1	s ii  c u t^ n v ng^ c u t^ n v ng^
+ข้อมูล	kh @@  m uu n^
+อินพุต	z i n^ ph u t^
+ผลลัพธ์	ph o n^ l a p^
+ย่อม	j @ m^
+เหมือนกัน	m vva n^ k a n^ 
+เนื่อง	n vva ng^
+จาก	c aa k^
+คลาดเคลื่อน	khl aa t^ khl vva n^
+จัด	c a t^
+กระดาษ	kr a  d aa t^ 
+4.3.1	s ii  c u t^ s aa m^ c u t^ n v ng^
+ส่วน	 s uua n^
+ของ	 kh @@ ng^
+ซอฟต์แวร์	s @@ p^ w xx  
+คำเชื่อม	kh a m^ ch vva m^
+แสดง	s a  d xx ng^
+สิ่ง	s i ng^
+ผู้กระทำ	ph uu  kr a  th a m^
+ใช้	ch a j^
+กระทำ	kr a  th a m^ 
+น.ส.	n aa ng^ s aa w^
+วรนุช	w @@  r a  n u t^
+เตียวตระกูล	t iia w^ tr a  k uu n^ 
+ศูนย์	s uu n^
+วิจัย	w i  c a j^
+อิเล็กทรอนิกส์	z i  l e k^ thr @@  n i k^
+ภาควิชา	ph aa k^ w i  ch aa 
+อิเล็กทรอนิกส์	z i  l e k^ thr @@  n i k^ 
+สร้าง	s aa ng^
+ส่วน	s uua n^
+ซอส	s @@ t^
+เดรน	dr ee n^
+ทรานซิสเตอร์	thr aa n^ s i s^ t qq  
+เกิด	k qq t^
+ผิดพลาด	ph i t^ phl aa t^
+ง่าย	ng aa j^
+สถาบันเทคโนโลยีพระจอมเกล้าลาดกระบัง	s a  th aa  b a n^ th e k^ n oo  l oo  j ii  phr a  c @@ m^ kl aa w^ l aa t^ kr a  b a ng^ 
+ประสาร	pr a  s aa n^
+อ่านเปรื่อง	z aa n^ pr vva ng^ 
+วุฒิพงศ์	w u t^ th i  ph o ng^
+เตชะดำรงสิน	t ee  ch a  d a m^ r o ng^ s i n^
+2.1.4	s @@ ng^ c u t^ n v ng^ c u t^ s ii 
+จ่ายเงิน	c aa j^ ng q n^ 
+2.1.5	s @@ ng^ c u t^ n v ng^ c u t^ h aa 
+ระบบ	r a  b o p^
+จัดการ	c a t^ k aa n^
+ประกอบด้วย	pr a  k @@ p^ d uua j^ 
+อย่างไรก็ตาม	j aa ng^ r a j^ k @@  t aa m^
+นำ	n a m^
+ไป	p a j^
+ใช้งาน	ch a j^ ng aa n^
+ร้านอาหาร	r aa n^ z aa  h aa n^
+ขนาด	kh a  n aa t^
+ใหญ่	j a j^
+มาก	m aa k^
+จำนวน	c a m^ n uua n^
+50	h aa  s i p^
+ขึ้นไป	kh v n^ p a j^
+อาจ	z aa t^
+ถ่ายเท	th aa j^ th ee 
+ครั้งละ	khr a ng^ l a 
+8	p xx t^ 
+เครื่องต้นแบบ	khr vva ng^ t o n^ b xx p^
+เครื่อง	khr vva ng^
+ไดอะแกรม	d a j^ z a  kr xx m^ 
+รูป	r uu p^
+เห็น	h e n^
+ประกอบ	pr a  k @@ p^
+ต่างๆ	t aa ng^ t aa ng^
+11	s i p^ z e t^
+คือ	kh vv  
+กฤษณพงศ์	kr i t^ s a  n a  ph o ng^
+กีรติกร	k ii  r a  t i  k @@ n^ 
+ซึ่ง	s v ng^
+โปรแกรม	pr oo  kr xx m^
+ทำ	th a m^
+หน้าที่	n aa  th ii 
+เลียนแบบ	l iia n^ b xx p^
+เหมือน	m vva n^
+วงจรรีเลย์	w o ng^ c @@ n^ r ii  l ee 
+ตัวตั้งเวลา	t uua  t a ng^ w ee  l aa 
+ตัวนับ	t uua  n a p^ 
+ซอฟท์แวร์	s @@ p^ w xx 
+ตัวตน	t uua  t o n^
+เคลื่อนที่	khl vva n^ th ii 
+ทาง	th aa ng^
+นอกจากนี้	n @@ k^ c aa k^ n ii 
+แก้ไข	k xx  kh a j^
+เปลี่ยนแปลง	pl iia n^ pl xx ng^
+ควบคุม	kh uua p^ kh u m^
+ผู้ใช้	ph uu  ch a j^
+เคลียร์	khl iia 
+ทิ้ง	 th i ng^
+อ่าน	z aa n^
+แอดเดรส	z x t^ dr ee t^
+คำสั่ง	kh a m^ s a ng^ 
+เขียน	kh iia n^
+แอสเซมบลี	z xx t^ s e m^ bl ii  
+ยังมี	j a ng^ m ii 
+นักศึกษา	n a k^ s v k^ s aa 
+ช่วย	ch uua j^
+ทดสอบ	th o t^ s @@ p^
+วงจร	w o ng^ c @@ n^
+จิระศักดิ์	c i  r a  s a k^
+ตันปรียชญา	t a n^ pr ii  j a  ch a  j aa 
+กิตติ	k i t^ t i 
+งามเจตนรมณ์	ng aa m^ c ee t^ t a  n a  r o m^
+กิติพจน์	k i  t i  ph o t^
+สิทธิเลิศพิศาล	s i t^ th i  l qq t^ ph i  s aa n^ 
+ต่อมา	t @@  m aa 
+ตาชั่ง	t aa  ch a ng^
+ดิจิตอล	 d i  c i  t @ l
+อิเล็คโทรนิคส์	z i  l e k^ thr oo  n i k^
+เข้ามา	kh a w^
+ใช้	m aa  ch a j^ 
+ต้องการ	t @ ng^ k aa n^
+แสง	s xx ng^
+สเปคตรัม	s a  p e k^ tr a m^
+ทิศทาง	th i t^ th aa ng^
+ความเข้ม	khw aa m^ kh e m^
+3	s aa m^
+เส้นกราฟ	s e n^ kr aa f^
+อุณหภูมิ	z u n^ h a  ph uu m^
+เตาเอพิแทกซี	t a w^ z ee  ph i  th x k^ s ii  
+ลด	l o t^
+ขั้วโลหะ	kh uua  l oo  h a 
+ลง	l o ng^
+น้อย	n @@ j^
+ไมครอน	m a j^ khr @ n^ 
+6	h o k^
+เอกสารอ้างอิง	z ee k^ k a  s aa n^ z aa ng^ z i ng^
+ทดลอง	th o t^ l @@ ng^
+พบ	ph o p^
+สารตัวนำยิ่งยวด	s aa n^ t uua  n a m^ j i ng^ j uua t^
+เตรียม	tr iia m^
+อยู่	j uu 
+ออโธรอมบิด	z @@  th oo  r @@ m^ b i t^ 
+ขณะนี้	kh a  n a  n ii 
+โครงการ	khr oo ng^ k aa n^
+ระหว่าง	r a  w aa ng^
+เครื่องสปัตเตอริง	khr vva ng^ s a  p a t^ t qq  r i ng^
+แบบ	 b xx p^
+ดี.ซี.	d ii  s ii 
+พลานาร์แมกนิตรอย	phl aa  n aa  m x k^ n i  tr @@ j^ 
+ใช้	 ch a j^
+เคลือบ	khl vva p^
+ฟิล์ม	f ii m^
+บาง	b aa ng^
+ต่อไป	 t @@  p a j^ 
+ยึด	j v t^
+แผ่น	ph x n^
+สาร	 s aa n^
+ตัวนำยิ่งยวด	t uua  n a m^ j i ng^ j uua t^ 
+ช่วง	ch uua ng^
+กระแส	kr a  s xx 
+เครน	khr ee n^
+เพิ่ม	 ph qq m^
+ขึ้น	kh v n^
+อย่าง	j aa ng^
+รวดเร็ว	r uua t^ r e w^
+ตาม	t aa m^
+แรงดันไฟฟ้า	r xx ng^ d a n^ f a j^ f aa 
+เครน	khr ee n^ 
+ให้	h a j^
+แชนแนล	ch x n^ n x w^
+กราฟ	kr aa f^ 
+สำหรับ	s a m^ r a p^
+บทความ	b o t^ khw aa m^
+อธิบาย	z a  th i  b aa j^
+ผลงาน	ph o n^ ng aa n^
+ปีงบประมาณ	p ii  ng o p^ pr a  m aa n^
+2532	s @@ ng^ ph a n^ h aa  r @@ j^ s aa m^ s i p^ s @@ ng^
+ทบทวน	th o p^ th uua n^
+เข้าใจ	kh a w^ c a j^
+ทุก	th u k^
+ฝ่าย	f aa j^
+เกี่ยวข้อง	k iia w^ kh @ ng^
+ทั้ง	th a ng^
+ภาค	ph aa k^
+รัฐบาล	r a t^ th a  b aa n^
+เอกชน	z ee k^ k a  ch o n^
+ศูนย์เทคโนโลยีอิเล็กทรอนิกส์และคอมพิวเตอร์แห่งชาติ	s uu n^ th e k^ n oo  l oo  j ii  z i  l e k^ thr @@  n i k^ l x  kh @ m^ ph i w^ t qq  h x ng^ ch aa t^
+ความเป็นมา	khw aa m^ p e n^ m aa 
+อย่างไร	j aa ng^ r a j^ 
+เดิม	d qq m^
+ซ้ำ	s a m^
+ตอนนี้	t @@ n^ n ii 
+ตั้ง	t a ng^
+อยู่	 j uu 
+ชั้น	ch a n^
+อาคาร	z aa  kh aa n^
+สำนักงานปลัดกระทรวงวิทยาศาสตร์เทคโนโลยีและการพลังงาน	s a m^ n a k^ ng aa n^ p a  l a t^ kr a  s uua ng^ w i t^ th a  j aa  s aa t^ th e k^ n oo  l oo  j ii  l x  k aa n^ ph a  l a ng^ ng aa n^
+ถนนพระราม6	th a  n o n^ phr a  r aa m^ h o k^
+พญาไท		ph a  j aa  th a j^
+กรุงเทพฯ	kr u ng^ th ee p^
+10400	n v ng^ s uu n^ s ii  s uu n^ s uu n^
+ตาราง	t aa  r aa ng^
+ศูนย์ฯ	s uu n^
+คณะกรรมการ	kh a  n a  k a m^ m a  k aa n^
+นโยบาย	n a  j oo  b aa j^
+กรรมการ	k a m^ m a  k aa n^
+กำหนด	k a m^ n o t^
+ตลอดจน	t a  l @@ t^ c o n^
+กำกับ	k a m^ k a p^
+ดำเนินงาน	d a m^ n qq n^ ng aa n^ 
+ดังกล่าว	d a ng^ kl aa w^
+รัฐมนตรีว่าการ	r a t^ th a  m o n^ tr ii w aa  k aa n^
+กระทรวง	kr a  s uua ng^
+วิทยาศาสตร์	w i t^ th a  j aa  s aa t^
+เทคโนโลยี	th e k^ n oo  l oo  j ii 
+การพลังงาน	k aa n^ ph a  l a ng^ ng aa n^
+ประธาน	pr a  th aa n^ 
+บริหาร	b @@  r i  h aa n^
+นั้น	n a n^
+คณะกรรมการบริหาร	kh a  n a  k a m^ m a  k aa n^ b @@  r i  h aa n^
+ซึ่ง	 s v ng^
+ประกอบด้วย	pr a  k @@ p^ d uua j^
+รัฐบาล	r a t^ th a  b aa n^ 
+เอกชน	z ee k^ k a  ch o n^ 
+รัฐมนตรีว่าการ	r a t^ th a  m o n^ tr ii  w aa  k aa n^
+กระทรวงฯ	kr a  s uua ng^
+เช่นกัน	ch e n^ k a n^ 
+รวมทั้ง	r uua m^ th a ng^
+ติดตาม	t i t^ t aa m^
+ประเมินผล	pr a  m qq n^ ph o n^
+ดำเนินงาน	d a m^ n qq n^ ng aa n^
+ศูนย์ฯ	s uu n^ 
+องค์ประกอบ	z o ng^ pr a  k @@ p^
+2	s @@ ng^
+บทบาท	b o t^ b aa t^
+สำคัญ	s a m^ kh a n^
+ประการ	pr a  k aa n^
+กลไก	k o n^ k a j^
+ประสานงาน	pr a  s aa n^ ng aa n^
+ภาค	 ph aa k^
+สอง	s @@ ng^
+สามารถ	s aa  m aa t^
+รับ	r a p^
+เสนอ	s a  n qq 
+ด้าน	d aa n^
+คอมพิวเตอร์	kh @ m^ ph i w^ t qq 
+คณะรัฐมนตรี	kh a  n a  r a t^ th a  m o n^ tr ii 
+ภารกิจ	ph aa  r a  k i t^
+มอบหมาย	m @@ p^ m aa j^
+ภายใต้	ph aa j^ t aa j^
+สำนักงานปลัดกระทรวงฯ	s a m^ n a k^ ng aa n^ p a  l a t^ kr a  s uua ng^ 
+คอมพิวเตอร์	kh @ m^ ph i w^ t qq  
+ออกแบบ	z @@ k^ b xx p^
+วงจรรวม	w o ng^ c @@ n^ r uua m^
+ผลิต	ph a  l i t^
+มอเตอร์	m @@  t qq 
+อุตสาหกรรม	z u t^ s aa  h a  k a m^
+เครื่องใช้	khr vva ng^ ch a j^
+ไฟฟ้า	f a j^ f aa  
+4	s ii 
+โครงการ	 khr oo ng^ k aa n^
+5	h aa 
+วงจรอิเล็กทรอนิกส์	w o ng^ c @@ n^ z i  l e k^ thr @@  n i k^
+อุตสาหกรรม	 z u t^ s aa  h a  k a m^ 
+เกษตรศาสตร์	k a  s ee t^ tr a  s aa t^
+หมายถึง	m aa j^ th v ng^
+วิชา	w i  ch aa 
+พืชสวน	ph vv t^ s uua n^
+วนศาสตร์	w a  n a  s aa t^
+ประมง	pr a  m o ng^
+ฟาร์มโคนม	f aa m^ kh oo  n o m^
+สัตวแพทยศาสตร์	s a t^ t a  w a  ph xx t^ s aa t^
+สาขา	s aa  kh aa 
+อื่นๆ	z vv n^ z vv n^
+คล้ายคลึง	khl aa j^ khl v ng^
+จากนั้น	c aa k^ n a n^
+วงจร	 w o ng^ c @@ n^
+วีแอลเอสไอ	w ii  z xx w^ z ee s^ z a j^ 
+ยัง	 j a ng^
+สามารถ	 s aa  m aa t^
+สั่ง	 s a ng^
+พิมพ์	ph i m^
+ออก	z @@ k^
+เครื่องพิมพ์	khr vva ng^ ph i m^
+ได้	d aa j^ z ii k^
+อีกด้วย	d uua j^ 
+อลูมิเนียม	z a  l uu  m i  n iia m^
+ได้เปรียบ	d aa j^ pr iia p^
+ความจุ	khw aa m^ c u 
+ความร้อน	khw aa m^ r @@ n^
+เท่ากัน	th a w^ k a n^ 
+กำลัง	k a m^ l a ng^
+ทรานซิสเตอร์	thr aa n^ s i s^ t qq 
+เกิน	k qq n^
+ร่วมกัน	r uua m^ k a n^ 
+ปัจจุบัน	p a t^ c u  b a n^
+หน่วยงาน	n uua j^ ng aa n^
+สารนิเทศ	s aa  r a  n i  th ee t^
+ศัพท์สัมพันธ์	s a p^ s a m^ ph a n^
+ราชบัณฑิตยสถาน	r aa t^ ch a  b a n^ d i t^ t a  j a  s a  th aa n^ 
+นอกจาก	n @@ k^ c aa k^
+ข้อเสนอ	kh @@  s a  n qq 
+เรื่อง	r vva ng^
+ศัพท์	s a p^
+สมาคม	s a  m aa  kh o m^
+วิชาการ	w i  ch aa  k aa n^
+ราชบัณฑิตยสถาน	r aa t^ ch a  b a n^ d i t^ t a  j a  s a  th aa n^
+ยัง	j a ng^
+อนุกรรมการ	z a  n u  k a m^ m a  k aa n^
+หน้าที่	 n aa  th ii 
+บัญญัติศัพท์	b a n^ j a t^ s a p^
+ภาษาไทย	ph aa  s aa  th a j^ 
+ผศ.	ph uu  ch uua j^ s aa t^ tr aa  c aa n^
+ชัยวัฒน์	ch a j^ w a t^
+ชัยกุล	ch a j^ k u n^ 
+เร็คติไฟร์	r e k^ t i  f aa j^
+เต็ม	t e m^
+คลื่น	 khl vv n^
+ความถี่	khw aa m^ th ii 
+ไฟ	f a j^
+เฮิรทซ์	h qq t^ 
+ตัวเอ็นโค้คเดอร์	t uua  z e n^ kh oo t^ d qq 
+หมุน	m u n^
+แกน	k xx n^
+ทรี	thr ii  
+วาง	w aa ng^
+ตัว	t uua  
+อุปกรณ์	z u p^ p a  k @@ n^
+พิจารณา	ph i  c aa  r a  n aa 
+ได้แก่	d aa j^ k xx 
+ตัวความต้านทาน	t uua  khw aa m^ t aa n^ th aa n^
+คาปาซิเตอร์ทรานซิสเตอร์	kh aa  p aa  s i  t qq  thr aa n^ s i s^ t qq 
+ไอซี	z a j^ s ii 
+2.2	s @@ ng^ c u t^ s @@ ng^
+รูปร่าง	r uu p^ r aa ng^
+จุดเชื่อม	c u t^ ch vva m^
+5	h aa k aa n^
+การ	j o t^
+หยด	khr ii m^
+ครีมเชื่อม	 ch vva m^ 
+วิภา	w i  ph aa 
+โกยสุโข	k oo  j a  s u  kh oo  
+พิบูลศิลป์	ph i  b uu n^ s i n^
+วัฑฒนะพงศ์	w a t^ th a  n a  ph o ng^ 
+สุรีย์	s u  r ii 
+บุหงามงคล	b u  ng aa  m o ng^ kh o n^ 
+โฟลว์ชาร์ต	fl oo w^ ch aa t^
+คำนวน	kh a m^ n uua n^
+ความกว้าง	khw aa m^ kw aa ng^
+ความสูง	khw aa m^ s uu ng^
+ภาพ	ph aa p^
+13	s i p^ s aa m^
+สมภพ	s o m^ ph o p^
+อมาตยกุล	z a  m aa t^ t a  j a  k u n^ 
+14	s i p^ s ii 
+วิกรม	w i  kr o m^
+ชัยสินธพ	ch a j^ s i n^ th o p^ 
+ตย.	t uua  j aa ng^
+โต๊ะกินข้าว	t o  k i n^ kh aa w^
+เครื่องซักผ้า	khr vva ng^ s a k^ ph aa  
+เรา	r a w^
+ต่อไปนี้	t @@  p a j^ n ii  
+เกย	k qq j^
+หินโสโครก	h i n^ s oo  khr oo k^
+1	n v ng^ 
+วิเคราะห์	w i  khr @
+ประโยคความเดียว	pr a  j oo k^ khw aa m^ d iia w^ 
+โลก	l oo k^
+รองศาสตราจารย์	r @@ ng^ s aa t^ tr aa  c aa n^
+ผู้ช่วยศาสตราจารย์	ph uu  ch uua j^ s aa t^ tr aa  c aa n^
+เปลี่ยนเป็น	pl iia n^ p e n^
+สังคมสารสนเทศ	s a ng^ kh o m^ s aa  r a  s o n^ th ee t^ 
+ผล	ph o n^
+บรรณารักษ์	b a n^ n aa  r a k^
+อาจารย์	z aa  c aa n^
+คณะ	kh a  n a 
+อักษรศาสตร์	z a k^ s @@ n^ s aa t^
+ว่า	w aa  
+เข้าร่วม	kh a w^ r uua m^
+เครือข่าย	khr vva  kh aa j^
+พ.ศ.	ph u t^ th a  s a k^ k a  r aa t^
+2531	s @@ ng^ ph a n^ h aa  r @@ j^ s aa m^ s i p^ z e t^
+2533	s @@ ng^ ph a n^ h aa  r @@ j^ s aa m^ s i p^ s aa m^
+คล่องตัว	khl @ ng^ t uua 
+เคเบิล	kh ee  b q n^ 
+ระวีวรรณ	r a  w ii  w a n^
+เอื้อพันธ์วิริยะกุล	z vva  ph a n^ w i  r i  j a  k u n^ 
+สุชาติ	s u  ch aa t^
+วุฒิวะชาติกุล	w u t^ th i  w a  ch aa t^ k u n^ 
+จอภาพ	c @@  ph aa p^
+ครึ่ง	khr v ng^
+จอภาพ	c @@  ph aa p^ 
+70	c e t^ s i p^
+ยาว	j aa w^
+แฟ้ม	f xx m^ 
+อินพุท	z i n^ ph u t^
+เอ้าท์พุท	 z a w^ ph u t^
+ไดร์ฟเวอร์	dr a j^ w qq 
+เฉพาะ	ch a  ph @ 
+ตนเอง	t o n^ z ee ng^ 
+ทราบ	s aa p^
+กัน	k a n^
+จานสายอากาศ	c aa n^ s aa j^ z aa  k aa t^
+ทึบ	th v p^
+ระยะทาง	r a  j a  th aa ng^
+ดาวเทียม	d aa w^ th iia m^
+สถานี	s a  th aa  n ii 
+สัญญาณ	s a n^ j aa n^
+พื้นดิน	ph vv n^ d i n^ 
+ดังนั้น	d a ng^ n a n^
+ศูนย์กลาง	s uu n^ kl aa ng^
+เดียวกัน	d iia w^ k a n^
+ต่าง	t aa ng^
+เหตุผล	h ee t^ ph o n^
+แนวทาง	n xx w^ th aa ng^
+ทฤษฎี	thr i t^ s a  d ii  
+รวม	r uua m^
+ทั้งหมด	th a ng^ m o t^
+ขยาย	kh a  j aa j^
+ลดลง	l o t^ l o ng^
+เป็น	 p e n^
+ยอมรับ	j @@ m^ r a p^
+สมการ	 s a  m a  k aa n^
+ผล	 ph o n^
+ข้างล่าง	kh aa ng^ l aa ng^
+นี้	n ii  
+เปรียบเทียบ	pr iia p^ th iia p^
+ขนาด	 kh a  n aa t^
+ตะแกรง	t a  kr xx ng^
+ขนาด	kh a  n aa t^ 
+ใกล้เคียง	kl a j^ kh iia ng^
+เพียง	ph iia ng^
+เส้นลวดตัวนำ	s e n^ l uua t^ t uua  n a m^
+ลวดทองแดง	l uua t^ th @@ ng^ d xx ng^
+เส้นผ่าศูนย์กลาง	s e n^ ph aa  s uu n^ kl aa ng^
+1.3	n v ng^ c u t^ s aa m^
+มม.	m i n^ l i  m ee t^
+0.65	s uu n^ c u t^ h o k^ h aa  
+เท่านั้น	th a w^ n a n^ 
+สังเคราะห์	s a ng^ khr @ 
+ย่าน	j aa n^
+ยูเอชเอฟ	j uu  z ee ch^ z ee f^ 
+ชนินทร์	ch a  n i n^
+วงศ์งามขำ	w o ng^ ng aa m^ kh a m^
+คณะ	kh a  n a  
+เครื่องรับวิทยุ	khr vva ng^ r a p^ w i t^ th a  j u 
+สื่อสาร	s vv  s aa n^
+คมนาคม	kh a  m a  n aa  kh o m^
+ผ่าน	ph aa n^
+ยูเอชเอฟ	j uu  z ee ch^ z ee f^
+นับวัน	n a p^ w a n^
+มากขึ้น	m aa k^ kh v n^ 
+ทำให้	th a m^ h a j^
+วิทยุ	w i t^ th a  j u 
+โทรคมนาคม	 th oo  r a  kh a  m a  n aa  kh o m^
+หลาย	l aa j^
+เช่น	ch e n^
+วิทยุโทรทัศน์	w i t^ th a  j u th oo  r a  th a t^
+เซลลูล่าร์	s e w^ l uu  l aa 
+วิทยุตามตัว	w i t^ th a  j u  t aa m^ t uua 
+ฯลฯ	l x  z vv n^ z vv n^
+มุ่ง	m u ng^
+บล๊อกไดอะแกรม	bl @ k^ d a j^ z a  kr x m^
+ฮาร์ดแวร์	h aa t^ w xx 
+สังเคราะห์	 s a ng^ khr @ 
+ความถี่	khw aa m^ th ii  
+รูป	 r uu p^
+ถึง	th v ng^
+ลักษณะ	l a k^ s a  n a 
+โหมด	m oo t^
+หน้าปัทม์	n aa  p a t^ 
+ภายใน	ph aa j^ n a j^
+ใน	 n a j^
+3	s aa m^ 
+หลัก	l a k^
+กะพริบ	k a  phr i p^
+เลื่อน	l vva n^
+โฟลวชาร์ท	fl oo w^ ch aa t^
+หลัก	 l a k^ 
+ตรวจสอบ	tr uua t^ s @@ p^
+กด	k o t^
+คีย์บอร์ด	kh ii  b @@ t^ 
+ประเทศ	pr a  th ee t^
+ดิจิตอล	d i  c i  t @ n^
+บริการ	b @@  r i  k aa n^
+อย่างยิ่ง	j aa ng^ j i ng^ 
+ชูชาติ	ch uu  ch aa t^
+ปิติปัญญาวงศ์	p i  t i  p a n^ j aa  w o ng^ 
+กระบวนการ	kr a  b uua n^ k aa n^
+แผ่นวงจรพิมพ์	ph x n^ w o ng^ c @@ n^ ph i m^
+ทรูโฮล	 thr uu  h oo w^
+ขั้นตอน	kh a n^ t @@ n^
+ชุบ	ch u p^
+ดัง	d a ng^
+แผนภาพ	ph xx n^ ph aa p^
+ภาคตัดขวาง	ph aa k^ t a t^ khw aa ng^
+รูเจาะ	r uu  c @  
+ตรวจ	tr uua t^
+โอกาส	z oo  k aa t^
+ถูก	th uu k^
+มากกว่า	m aa k^ kw aa  
+จับผิด	c a p^ ph i t^ 
+เบลอ	bl qq 
+ลบ	l o p^
+สมชัย	s o m^ ch a j^
+ฤชุพันธุ์	r v  ch u  ph a n^
+กรรมการ	k a m^ m a  k aa n^ 
+ฐานข้อมูล	th aa n^ kh @@  m uu n^
+พจนานุกรม	ph o t^ c a  n aa  n u  kr o m^
+ไทย	th a j^
+ทรัย	 thr a j^
+แถว	th x w^
+ดรรชนี	d a t^ ch a  n ii 
+197	n v ng^ r @@ j^ k aa w^ s i p^ c e t^ 
+โยธิน	j oo  th i n^
+เปรมปราณีรัชต์	pr ee m^ pr aa  n ii  r a t^ 
+ข้อมูล	kh @@  m uu n^ 
+บ่อยครั้ง	b @ j^ khr a ng^
+วิเคราะห์	w i  khr @ 
+นิยม	n i  j o m^
+แพร่หลาย	phr xx  l aa j^
+นักวิจัย	n a k^ w i  c a j^ 
+สถิติ	s a  th i  t i 
+เครื่องไมโครคอมพิวเตอร์	khr vva ng^ m a j^ khr oo  kh @ m^ ph i w^ t qq  
+เครื่องไมโครคอมพิวเตอร์	khr vva ng^ m a j^ khr oo  kh @ m^ ph i w^ t qq 
+พร้อม	phr @@ m^
+เครื่องพิมพ์	khr vva ng^ ph i m^ 
+คำนวณ	kh a m^ n uua n^
+เกี่ยวกับ	k iia w^ k a p^
+ตัวแปร	t uua  pr xx 
+เดียว	d iia w^
+ทั่วไป	th uua  p a j^
+ความ	khw aa m^ th ii 
+ถี่	c aa k^
+จาก	khr vva ng^ w a t^
+เครื่องวัด	kh a w^
+เข้า	m aa 
+มา	s a  d xx ng^
+แสดง	p e n^
+เป็น	kr aa f^
+กราฟ	b o n^
+บน	c @@ 
+จอมอนิเตอร์	m @@  n i  t qq  
+อุปกรณ์	z u  p a  k @@ n^
+อินเตอร์เฟอโรมิเตอร์	z i n^ t qq  f qq  r oo  m i  t qq  
+สัมประสิทธิ์	s a m^ pr a  s i t^
+แปรเปลี่ยน	pr xx  pl iia n^
+ต่ำ	t a m^
+วัด	w a t^
+น้ำตาลกลูโคส	n aa m^ t aa n^ kl uu  kh oo s^
+ทาง	 th aa ng^
+เทคโนโลยีชีวภาพ	th e k^ n oo  l oo  j ii  ch ii  w a  ph aa p^
+เกรียงชัย	kr iia ng^ ch a j^
+จันทร์แสนวิไล	c a n^ s xx n^ w i  l a j^ 
+นิแวเต๊ะ	n i  w xx  t e 
+หะยีวามิง	h a  j ii  w aa  m i ng^ 
+คุณสมบัติ	kh u n^ n a  s o m^ b a t^
+เทคนิค	th e k^ n i k^
+นำเสนอ	n a m^ s a  n qq 
+บทเรียน	 b o t^ r iia n^
+หัวข้อ	h uua  kh @@ 
+เฟรม	fr ee m^
+คล้าย	khl aa j^
+ฉาย	ch aa j^
+สไลด์	s a  l a j^ 
+พอ	 ph @@ 
+สังเขป	s a ng^ kh ee p^
+โปรแกรม	 pr oo  kr xx m^ 
+รวมถึง	r uua m^ th v ng^
+ให้	 h a j^
+สอดคล้อง	 s @@ t^ khl @@ ng^
+พื้นฐาน	ph vv n^ th aa n^
+ไมโครคอนโทรเลอร	m a j^ khr oo  kh @ n^ th oo  l qq 
+์เบอร์	b qq 
+8096	p xx t^ ph a n^ k aa w^ s i p^ h o k^ 
+เนื้อหา	n vva  h aa 
+สรุป	s a  r u p^
+ดังนี้	d a ng^ n ii 
+บทเรียน	b o t^ r iia n^
+ปฏิบัติ	p a  t i  b a t^ 
+คู่มือ	kh uu  m vv 
+ฝึกสอน	f v k^ s @@ n^
+พัฒนา	ph a t^ th a  n aa  
+ปฏิบัติ	p a  t i  b a t^
+กล่าว	kl aa w^
+3.1	s aa m^ c u t^ n v ng^
+3.2	s aa m^ c u t^ s @@ ng^
+วิธีใช้	w i  th ii  ch a j^
+อีกด้วย	z ii k^ d uua j^ 
+ชุดฝึกสอน	ch u t^ f v k^ s @@ n^
+ไมโครคอนโทรเลอร์	m a j^ khr oo  kh @ n^ thr oo  l qq 
+16	s i p^ h o k^
+บิท	b i t^
+ระยะ	r a  j a 
+ดำเนินการ	d a m^ n qq n^ k aa n^
+จน	c o n^
+เกือบ	k vva p^
+เสร็จ	s e t^
+ผู้วิจัย	ph uu  w i  c a j^
+ตั้งใจ	t a ng^ c a j^
+ต่อเนื่อง	t @@  n vva ng^ 
+ผลผลิต	ph o n^ ph a  l i t^
+ตระกูล	tr a  k uu n^
+ต่อไป	t @@  p a j^ 
+อนุเคราะห์	z a  n u  khr @ 
+อาคาร	 z aa  kh aa n^
+สถานที่	s a  th aa n^
+และ	th ii 
+เครื่องมือ	l x  khr vva ng^ m vv 
+วิศวกรรมศาสตร์	w i t^ s a  w a  k a m^ m a  s aa t^
+มหาวิทยาลัยเชียงใหม่	m a  h aa  w i t^ th a  j aa  l a j^ ch iia ng^ m a j^ 
+เอกสารอ้างอิง	z ee k^ k a  s aa n^ z aa ng^ z i ng^ 
+ตัวอย่าง	t uua  j aa ng^
+บน	b o n^
+เชื่อมต่อ	ch vva m^ t @@ 
+จุด	c u t^
+ต่อไปนี้	t @@  p a j^ n ii 
+กล่าวถึง	kl aa w^ th v ng^
+เสียง	s iia ng^
+พีซีเอ็ม	ph ii  s ii  z e m^ 
+ส่วนประกอบ	s uua n^ pr a  k @@ p^
+เครื่องส่ง	khr vva ng^ s o ng^
+เครื่องรับ	khr vva ng^ r a p^
+ไอเพล็กเซอร์	z a j^ phl e k^ s qq 
+พ่วง	ph uua ng^
+อื่นๆ	z vv n^ z vv n^ 
+งาน	ng aa n^
+ขั้นต้น	kh a n^ t o n^ 
+รายงาน	r aa j^ ng aa n^
+กล่าวถึง	kl aa w^
+การ	th v ng^
+ออกแบบ	k aa n^ z @@ k^ b xx p^
+โดยส่วนรวม	d oo j^ s uua n^ r uua m^ 
+ฉบับ	 ch a  b a p^
+ต่างๆ	t aa ng^ t aa ng^ 
+หลังจาก	l a ng^ c aa k^
+ดำเนิน	d a m^ n qq n^
+กรรมวิธี	k a m^ m a  w i  th ii 
+พีซีเอ็ม	ph ii  s ii  z e m^
+ผสม	ph a  s o m^
+ไอเอฟ	z a j^ z ee f^ 
+บล๊อคไดอะแกรม	bl @ k^ d a j^ z a  kr x m^
+เครื่องส่งวิทยุ	khr vva ng^ s o ng^ w i t^ th a  j u 
+แบ่ง	b x ng^
+1.2	n v ng^ c u t^ s @@ ng^
+วงจรไดอะแกรม	w o ng^ c @@ n^ d a j^ z a  kr xx m^
+โปรเซส	pr oo  s ee t^
+สัญญาณเบสแบนด์	s a n^ j aa n^ b ee t^ b xx n^ 
+เฟส	f ee t^
+ลอจิก	l @@  c i k^
+เสมอ	s a  m qq  
+ดึง	d v ng^
+เอา	z a w^
+นาฬิกา	n aa  l i  k aa 
+ออกมา	z @@ k^ m aa  
+อนุกรม	z a  n u  kr o m^
+ขนาน	kh a  n aa n^ 
+ไดอะแกรม	d a j^ z a  kr xx m^
+ทั้งสอง	th a ng^ s @@ ng^
+90	k aa w^ s i p^
+องศา	z o ng^ s aa  
+ภาคผสมสัญญาณ	ph aa k^ ph a  s o m^ s a n^ j aa n^
+คลื่นพาห์	khl vv n^ ph aa  
+2.5	s @@ ng^ c u t^ h aa  
+หาร	h aa n^
+วีซีโอ	w ii  s ii  z oo 
+เท่า	th a w^
+ไอเอฟ	z a j^ z ee f^
+ลดทอน	l o t^ th @@ n^
+สูง	s uu ng^
+ปรับ	pr a p^
+ดิจิตอล	d i  c i  t @ n^ 
+ระดับ	r a  d a p^
+กำลังส่ง	k a m^ l a ng^ s o ng^
+20	j ii  s i p^
+ดีบี	d ii  b ii  
+2.6	s @@ ng^ c u t^ h o k^
+อีก	z ii k^
+ปลาย	pl aa j^
+สายอากาศ	s aa j^ z aa  k aa t^
+ไดเพล็กเซอร์	d a j^ phl e k^ s qq  
+เช่นเดียว	ch e n^ d iia w^
+เครื่องส่ง	khr vva ng^ s o ng^ 
+อิมเมจ	z i m^ m ee t^
+กำจัด	k a m^ c a t^
+มิกเซอร์	m i k^ s qq 
+ดีมอดูเลท	d ii  m @@  d uu  l ee t^
+ซิงโครนัส	s i ng^ khr oo  n a t^ 
+ไดเพล็กเซอร์	d a j^ phl e k^ s qq 
+ออกอากาศ	z @@ k^ z aa  k aa t^
+สายอากาศ	s aa j^ z aa  k aa t^ 
+งานวิจัย	ng aa n^ w i  c a j^
+ขณะ	kh a  n a 
+จัดซื้อ	c a t^ s vv 
+วัสดุ	w a t^ s a  d u 
+วิจัย	w i  c a j^ 
+จำเป็น	c a m^ p e n^
+สั่งซื้อ	s a ng^ s vv 
+ต่างประเทศ	t aa ng^ pr a  th ee t^ 
+พิเชษฐ	ph i  ch ee t^
+ลิ้มสุวรรณ	l i m^ s u  w a n^ 
+วัตถุประสงค์	w a t^ th u  pr a  s o ng^
+เครื่องฮีเลียมนีออนเลเซอร์	khr vva ng^ h ii  l iia m^ n ii  z @@ n^ l ee  s qq 
+ตรง	tr o ng^
+หน่วย	n uua j^
+สลับ	s a  l a p^
+คู่สาย	kh uu  s aa j^
+โทรศัพท์	th oo  r a  s a p^
+ส่ง	s o ng^
+ดิจิตอล	d i  c i  t @ l
+ไทยสาร	th a j^ s aa n^
+แพทย์	ph xx t^
+ประวัติ	pr a  w a t^
+เก่า	k a w^
+ดู	d uu  
+แปลง	pl xx ng^
+ข้อความ	kh @@  khw aa m^
+ระบบ	r a  b o p^ 
+ป้อน	p @@ n^
+หน้าจอ	n aa  c @@ 
+หน่วยรังสีรักษา	n uua j^ r a ng^ s ii  r a k^ s aa 
+จนถึง	c o n^ th v ng^
+หน้าจอ	n aa  c @@  
+ย่อย	j @ j^
+เจ้าหน้าที่	c a w^ n aa  th ii 
+ลอง	l @@ ng^
+ภายหลัง	ph aa j^ l a ng^
+ประจำ	pr a  c a m^
+เครือข่าย	khr vva  kh aa j^ 
+หลังจากนั้น	l a ng^ c aa k^ n a n^
+ทุกคน	th u k^ kh o n^
+เรียก	r iia k^
+เอง	 z ee ng^ 
+ข้อผิดพลาด	kh @@  ph i t^ phl aa t^
+ไม่ได้	m a j^ d aa j^
+กรอก	kr @@ k^
+รักษา	r a k^ s aa  
+หาก	h aa k^
+หลงลืม	l o ng^ l vv m^ 
+อบรม	z o p^ r o m^
+ผู้เกี่ยวข้อง	ph uu  k iia w^ kh @ ng^
+จุดสำคัญ	c u t^ s a m^ kh a n^
+ถ่องแท้	th @ ng^ th xx  
+ตอบสนอง	t @@ p^ s a  n @@ ng^
+สูงสุด	s uu ng^ s u t^ 
+ใหม่	m a j^
+อีกทั้ง	z ii k^ th a ng^
+ปรับปรุง	pr a p^ pr u ng^
+ข้อบกพร่อง	kh @@  b o k^ phr @ ng^
+สมบูรณ์	s o m^ b uu n^
+ยิ่งขึ้น	j i ng^ kh v n^
+ตก	t o k^
+กระทบ	kr a  th o p^
+รังสี	r a ng^ s ii 
+เซ็นเซอร์	s e n^ s qq 
+เรียง	r iia ng^
+แนว	n xx w^
+เส้นตรง	s e n^ tr o ng^
+ห่าง	h aa ng^
+เท่าๆ	th a w^ th a w^
+เรียกว่า	r iia k^ w aa 
+หนึ่ง	n v ng^
+โปรเจคชัน	pr oo  c e k^ ch a n^ 
+ถ่ายภาพ	th aa j^ ph aa p^
+สมอง	s a  m @@ ng^
+มนุษย์	m a  n u t^ 
+ภาพตัดขวาง	ph aa p^ t a t^ khw aa ng^
+แตกต่าง	t xx k^ t aa ng^
+เนื้อเยื่อ	n vva  j vva 
+อวัยวะ	z a  w a j^ j a  w a 
+ดูดซับ	d uu t^ s a p^
+รังสีเอ็กซ์	r a ng^ s ii  z e k^
+จุดมุ่งหมาย	c u t^ m u ng^ m aa j^
+ต้นแบบ	t o n^ b xx p^
+มนุษย์	m a  n u t^
+จริง	c i ng^
+คุณภาพ	kh u n^ n a  ph aa p^
+โรงพยาบาล	r oo ng^ ph a  j aa  b aa n^ 
+คำสั่ง	kh a m^ s a ng^
+ส่วนหนึ่ง	s uua n^ n v ng^
+เกรง	kr ee ng^
+ประสบ	pr a  s o p^
+ขาดแคลน	kh aa t^ khl xx n^
+บุคคลากร	b u k^ kh a  l aa  k @@ n^
+สามารถ	s aa  m aa t^ 
+พล๊อต	phl @ t^
+วิเคราะห์	w i  khr @  
+ยิ่ง	j i ng^
+เล็ก	l e k^
+เท่าไร	th a w^ r a j^
+เกร็งตัว	kr e ng^ t uua 
+เพิ่ม	ph qq m^
+ตัวตรวจจับ	t uua  tr uua t^ c a p^
+เปียโชอิเล็คตริก	p iia  ch oo  z i  l e k^ tr i k^
+มา	 m aa 
+ประมวล	pr a  m uua n^
+ฝึก	f v k^
+เครื่องกลึง	khr vva ng^ kl v ng^
+ซีเอ็นซี	s ii  z e n^ s ii  
+เบรก	br ee k^
+หยุด	j u t^
+เก็บ	k e p^
+สัญลักษณ์	s a n^ j a  l a k^
+ภาษาไทย	ph aa  s aa  th a j^
+ภาษาอังกฤษ	ph aa  s aa  z a ng^ kr i t^
+บล็อก	bl @ k^
+กราฟิก	kr aa f^ f i k^ 
+เวลา	w ee  l aa 
+ข้อสอบ	kh @@  s @@ p^ 
+อากาศ	z aa  k aa t^
+อัตโนมัติ	z a t^ t a  n oo  m a t^ 
+ราคา	r aa  kh aa 
+กลับ	kl a p^
+โดยเฉพาะ	d oo j^ ch a  ph @ 
+อย่างยิ่ง	j aa ng^ j i ng^
+เรียน	r iia n^
+ตนเอง	t o n^ z ee ng^
+เอกสาร	z ee k^ k a  s aa n^
+วิดีโอ	w ii  d ii  z oo 
+กลายเป็น	kl aa j^ p e n^
+โต้ตอบ	t oo  t @@ p^
+เข้าใจผิด	kh a w^ c a j^ ph i t^
+ถิ่นอาศัย	th i n^ z aa  s a j^
+แพร่กระจาย	phr xx  kr a  c aa j^
+ชีวประวัติ	ch ii  w a  pr a  w a t^
+เพาะเลี้ยง	ph @  l iia ng^
+ปลา	pl aa  
+สืบค้น	s vv p^ kh o n^
+สะดวก	s a  d uua k^
+ชนิด	ch a  n i t^
+พ้อง	ph @@ ng^
+นักวิชาการ	n a k^ w i  ch aa  k aa n^
+ท่าน	th a n^
+ผนวก	ph a  n uua k^
+สอบถาม	s @@ p^ th aa m^
+แสดงผล	s a  d xx ng^ ph o n^
+ทั้งนี้	th a ng^ n ii 
+ลง	 l o ng^
+ช่องว่าง	ch @ ng^ w aa ng^
+เพิ่มเติม	ph qq m^ t qq m^
+อย่างใด	j aa ng^ d a j^ 
+พยายาม	ph a  j aa  j aa m^
+ฮาร์ดดิสต์	h aa t^ d i t^
+อย่างต่ำ	j aa ng^ t a m^
+เพียงแต่	ph iia ng^ t xx 
+ทำงาน	th a m^ ng aa n^ 
+สวยงาม	s uua j^ ng aa m^
+คมชัด	kh o m^ ch a t^
+บ้าง	b aa ng^
+ขีด	kh ii t^
+รายการ	r aa j^ k aa n^
+เมนู	 m ee  n uu 
+ปรากฏ	pr aa  k o t^
+ค้น	kh o n^
+ประเภท	pr a  ph ee t^
+ปรุงอาหาร	pr u ng^ z aa  h aa n^ 
+1 	n v ng^
+อนุกรมวิธาน	z a  n u  kr o m^ w i  th aa n^
+2 	s @@ ng^
+3 	s aa m^
+4 	s ii 
+5 	h aa 
+ยิ่งขึ้น	j i ng^ kh v n^ 
+เพาะเลี้ยง	ph @  l iia ng^ 
+กระจาย	kr a  c aa j^
+คลื่น	khl vv n^
+5	h aa  
+แบบแปลน	b xx p^ pl x n^
+แคสซิเกรน	kh x t^ s i  kr ee n^
+เซนติเมตร	s e n^ t i  m ee t^ 
+จำหน่าย	c a m^ n aa j^
+ยุโรป	j u  r oo p^ 
+ส่งเสริม	s o ng^ s qq m^
+ขาย	kh aa j^
+ตลาด	t a  l aa t^
+แผ่นวงจร	ph x n^ w o ng^ c @@ n^
+เสียงพูด	s iia ng^ ph uu t^
+หน่วยความจำ	n uua j^ khw aa m^ c a m^ 
+กระแสไฟฟ้า	kr a  s xx  f a j^ f aa 
+สัญญาณเตือน	s a n^ j aa n^ t vva n^
+เตือน	t vva n^
+เกิดขึ้น	k qq t^ kh v n^ 
+วิลาศ	w i  l aa t^
+วูวงศ์	w uu  w o ng^ 
+พร้อมๆ	phr @@ m^ phr @@ m^
+รูปแบบ	r uu p^ b xx p^
+เครื่องกัด	khr vva ng^ k a t^
+แนวดิ่ง	n xx w^ d i ng^
+ซีเอ็นซี	s ii  z e n^ s ii 
+ชุดฝึก	ch u t^ f v k^
+กองวิทยาลัยเทคนิค	k @@ ng^ w i t^ th a  j aa  l a j^ th e k^ n i k^ 
+เทียบ	th iia p^
+ต่างประเทศ	t aa ng^ pr a  th ee t^
+ประมาณ	pr a  m aa n^
+40	s ii  s i p^
+50	h aa  s i p^ 
+สมมติ	s o m^ m o t^ t i 
+เรื่อยๆ	r vva j^ r vva j^ 
+ดิสชาร์จ	d i s^ ch aa t^
+สม่ำเสมอ	s a  m a m^ s a  m qq  
+ระบบขับเคลื่อน	r a  b o p^ kh a p^ khl vva n^
+แนวแกน	n xx w^ k xx n^
+ดีซีเซอร์โวมอเตอร์	d ii  s ii  s qq  w oo  m @@  t qq  
+สมการ	s a  m a  k aa n^
+ทรานเฟอร์ฟังชันก์	thr aa n^ f qq  f a ng^ ch a n^
+เปิด	p qq t^
+ลูป	l uu p^
+เศษ	s ee t^
+อาหาร	z aa  h aa n^
+ใบตอง	b a j^ t @@ ng^
+ถุงพลาสติก	th u ng^ phl aa s^ s a  t i k^
+กิ่งไม้	k i ng^ m aa j^
+ใบไม้แห้ง	b a j^ m aa j^ h xx ng^
+หลอดไฟฟ้า	l @@ t^ f a j^ f aa 
+หักพัง	h a k^ ph a ng^
+โลหะ	l oo  h a 
+แก้ว	k xx w^
+มากมาย	m aa k^ m aa j^
+อาการ	z aa  k aa n^
+ผิดปกติ	ph i t^ p a  k a  t i 
+ประสาท	pr a  s aa t^
+เพ้อ	ph qq 
+คลั่ง	khl a ng^
+ชัก	ch a k^ 
+ปวด	p uua t^
+กระดูก	kr a  d uu k^
+เปราะ	pr @  
+กัดกร่อน	k a t^ kr @ n^
+เสียหาย	s iia  h aa j^
+วัสดุ	w a t^ s a  d u  
+ของเสีย	kh @@ ng^ s iia 
+อันตราย	z a n^ t a  r aa j^
+ชนิด	ch a  n i t^ 
+ทรง	s o ng^
+กรด	kr o t^
+ควร	kh uua n^
+ไว้	w a j^
+ภาชนะ	ph aa  ch a  n a 
+ด่าง	d aa ng^
+สารติดไฟ	s aa n^ t i t^ f a j^
+โพแทสเซียม	ph oo  th x t^ s iia m^
+คลอรีน	khl @@  r ii n^
+แอลกอฮอล์	z xx n^ k @@  h @@ 
+ฝัง	f a ng^
+อนึ่ง	z a  n v ng^
+กดดัน	k o t^ d a n^
+ก๊าซ	k aa t^
+ไอ	z a j^
+บีบ	b ii p^
+ปริมาตร	p a  r i  m aa t^
+เรื่อย	r vva j^
+ร้อน	r @@ n^
+ธาตุ	th aa t^
+ไฮโดรเจน	h a j^ dr oo  c e n^
+ส่วนใหญ่	s uua n^ j a j^ 
+คลื่นแสง	khl vv n^ s xx ng^
+ชัดเจน	ch a t^ c ee n^
+พิเศษ	ph i  s ee t^ 
+ตรงกลาง	tr o ng^ kl aa ng^
+ดอกดวง	d @@ k^ d uua ng^
+เนื้อสาร	n vva  s aa n^
+พลุ่ง	phl u ng^
+ขึ้นมา	kh v n^ m aa 
+ความเร็ว	khw aa m^ r e w^
+เฉลี่ย	ch a  l iia 
+900	k aa w^ r @@ j^
+เมตร	m ee t^
+กลุ่ม	kl u m^
+แฟคิวเล	f xx  kh i w^ l ee  
+โฟโตสเฟียร์	f oo  t oo t^ f iia 
+สว่าง	s a  w aa ng^
+นก	n o k^
+เดินทาง	d qq n^ th aa ng^
+เก่ง	k e ng^
+ที่สุด	th ii  s u t^
+นางนวลแกลบ	n aa ng^ n uua n^ kl xx p^
+ขั้วโลกเหนือ	kh uua  l oo k^ n vva  
+ปาก	p aa k^
+แหลม	l xx m^
+โดยมาก	d oo j^ m aa k^
+มัก	m a k^
+อาศัย	z aa  s a j^
+นอน	n @@ n^
+ทะเล	th a  l ee 
+ริม	r i m^
+ฝั่ง	f a ng^
+พวก	ph uua k^
+น้ำตาล	n aa m^ t aa n^
+อม	z o m^
+เทา	th a w^
+ทึมๆ	th v m^ th v m^ 
+พัง	ph a ng^
+ลงมา	l o ng^ m aa 
+บิน	b i n^
+ถลา	th a  l aa 
+พึบพับ	ph v p^ ph a p^
+อ้วน	z uua n^
+แบน	b xx n^
+กว้าง	kw aa ng^
+ตัวเมีย	t uua  m iia 
+หาเลี้ยง	h aa  l iia ng^ 
+อุดอู้	z u t^ z uu 
+โพรง	phr oo ng^ 
+งอ	ng @@ 
+โค้ง	kh oo ng^
+ไล่	l a j^
+จับ	c a p^
+แมลง	m a  l xx ng^ 
+โพระดก	h oo  r a  d o k^
+โประดก	p oo  r a  d o k^ 
+กางเขน	k aa ng^ kh ee n^ 
+ชอบ	ch @@ p^
+กิน	k i n^
+ผลไม้	ph o n^ l a  m aa j^
+สุก	s u k^
+เละๆ	l e  l e  
+ร้องเพลง	r @@ ng^ phl ee ng^
+เท่าที่	th a w^ th ii 
+ข้างต้น	kh aa ng^ t o n^
+จำแนก	c a m^ n xx k^
+สัตวศาสตร์	s a t^ t a  w a  s aa t^
+สากล	s aa  k o n^ 
+คง	kh o ng^
+ปล่อย	pl @ j^
+เลอะเทอะ	l q  th q 
+กลิ่น	kl i n^
+ตัวผู้	t uua  ph uu  
+ซุก	s u k^
+เงียบๆ	ng iia p^ ng iia p^
+มุม	m u m^
+กรง	kr o ng^ 
+ตอน	t @@ n^
+เช้าตรู่	ch aa w^ tr uu 
+เริ่ม	r qq m^
+สว่าง	s a  w aa ng^ 
+กลางแจ้ง	kl aa ng^ c xx ng^
+ดวงอาทิตย์	d uua ng^ z aa  th i t^ 
+เงา	ng a w^
+สั้น	s a n^
+ที่สุด	th ii  s u t^ 
+ขณะที่	kh a  n a  th ii 
+เขา	kh a w^
+ท่องเที่ยว	th @ ng^ th iia w^
+ภูมิประเทศ	ph uu  m i  pr a  th ee t^
+สปริง	s a  pr i ng^
+เสวยราชย์	s a  w qq j^ r aa t^
+มหาอาณาจักร	m a  h aa  z aa  n aa  c a k^
+ฟากฟ้า	f aa k^ f aa  
+ยกเลิก	j o k^ l qq k^
+ชั่วโมง	ch uua  m oo ng^
+รุ่งอรุณ	r u ng^ z a  r u n^
+โพล้เพล้	phl oo  phl ee  
+พฤษภาคม	phr v t^ s a  ph aa  kh o m^
+ดวงอาทิตย์	d uua ng^ z aa  th i t^
+ราศี	r aa  s ii 
+พฤษภ	phr v  s o p^
+ความรู้	khw aa m^ r uu 
+นักปราชญ์	n a k^ pr aa t^
+ชาวกรีก	ch aa w^ kr ii k^ 
+วงขนานลองติจูด	w o ng^ kh a  n aa n^ l @@ ng^ t i  c uu t^
+วง	w o ng^
+ได้ฉาก	d aa j^ ch aa k^
+ศูนย์สูตร	s uu n^ s uu t^
+ขั้วโลก	kh uua  l oo k^ 
+ละติจูด	l a  t i  c uu t^
+ใด	d a j^
+หลักการ	l a k^ k aa n^
+ง่ายๆ	ng aa j^ ng aa j^ 
+ใคร	khr a j^
+ลองจิจูด	l @@ ng^ c i  c uu t^ 
+ทะเลใต้	th a  l ee  t aa j^
+เกาะ	k @  
+ออสเตรเลีย	z @ s^ tr ee  l iia  
+แกว่ง	kw x ng^
+อายุ	z aa  j u 
+ดาวพระเคราะห์	d aa w^ phr a  khr @ 
+รอบ	r @@ p^
+วัน	w a n^
+เหล็ก	l e k^
+นิกเกิล	n i k^ k q n^ 
+เดิน	d qq n^
+๖	h o k^
+สัปดาห์	s a p^ d aa  
+นครลิสบอน	n a  kh @@ n^ l i s^ b @ n^
+โปรตุเกส	pr oo  t u  k ee t^
+๒๒๗๙	s @@ ng^ ph a n^ s @@ ng^ r @@ j^ c e t^ s i p^ k aa w^
+ค.ศ.	khr i t^ s a k^ k a  r aa t^
+๑๗๓๖	n v ng^ ph a n^ c e t^ r @@ j^ s aa m^ s i p^ h o k^ 
+ผู้มีชื่อ	ph uu  m ii  ch vv 
+คน	kh o n^
+ต้น	t o n^
+คริสต์ศตวรรษ	khr i t^ s a t^ t a  w a t^
+๑๙	s i p^ k aa w^
+มาตรเวลา	m aa t^ w ee  l aa 
+ทะเล	th a  l ee  
+ธรรมชาติ	th a m^ m a  ch aa t^
+ปรมาณู	p @@  r a  m aa  n uu 
+รูบิเดียม	r uu  b i  d iia m^ 
+ชาวนา	ch aa w^ n aa 
+นวด	n uua t^
+ข้าว	kh aa w^
+ควาย	khw aa j^
+แทรกเตอร์	thr x k^ t qq 
+เหยียบย่ำ	j iia p^ j a m^ 
+เคียว	kh iia w^
+กรูด	kr uu t^
+เก็บเกี่ยว	k e p^ k iia w^
+รวงข้าว	r uua ng^ kh aa w^
+ครั้ง	khr a ng^
+หลายๆ	l aa j^ l aa j^
+รวง	r uua ng^ 
+พู่	ph uu 
+หาง	h aa ng^
+กระรอก	kr a  r @@ k^ 
+เพอริคาร์พเลเยอร์	ph qq  r i  kh aa  l ee  j qq 
+ฝน	f o n^
+ล่า	l aa  
+ปลูก	pl uu k^
+ฤดู	r v  d uu 
+นาปรัง	n aa  pr a ng^ 
+กลบ	kl o p^
+ปุ๋ย	p u j^
+ไถ	th a j^
+รถแทรกเตอร์	r o t^ thr x k^ t qq 
+แอฟริกา	z x p^ fr i  k aa 
+ใต้	t aa j^
+ข้าวเจ้า	kh aa w^ c aa w^
+ปักดำ	p a k^ d a m^
+ไส้เดือนฝอย	s a j^ d vva n^ f @ j^
+มอง	m @@ ng^
+เปล่า	pl aa w^
+ต้นข้าว	t o n^ kh aa w^
+โรค	r oo k^
+ปกติ	p a  k a  t i 
+ขอบ	kh @@ p^
+พาหะ	ph aa  h a 
+เชื้อไวรัส	ch vva  w a j^ r a s^ 
+เหลือง	l vva ng^
+แกร็น	kr x n^ 
+งอ	ng @@  
+แมลง	m a  l xx ng^
+เพลี้ยกระโดด	phl iia  kr a  d oo t^
+นิลาพาร์วาทาลูเยนส์	n i  l aa  ph aa  w aa  th aa  l uu  j e n^
+พาหะ	ph aa  h a  
+แมลงบั่ว	m a  l xx ng^ b uua 
+ตัวแก่	t uua  k xx 
+ฉะนั้น	ch a  n a n^
+หนอนกอ	n @@ n^ k @@ 
+ผลิตผล	ph a  l i t^ t a  ph o n^
+๑	n v ng^
+ทำลาย	th a m^ l aa j^
+ตัวหนอน	t uua  n @@ n^
+ตอ	t @@ 
+ซัง	s a ng^
+หลัง	l a ng^
+เกี่ยว	k iia w^
+๔	s ii 
+พันธุ์	ph a n^
+ต้านทาน	t aa n^ th aa n^
+กข.๙	k @@  kh @@  k aa w^ 
+ห่อหุ้ม	h @@  h u m^
+มัน	m a n^
+เอง	z ee ng^
+สารเคมี	s aa n^ kh ee  m ii 
+พ่น	ph o n^
+๒	s @@ ng^
+สะอาด	s a  z aa t^
+นา	n aa  
+ผีเสื้อ	ph ii  s vva  
+ตัวอ่อน	t uua  z @@ n^
+หนูพุกเล็ก	n uu  ph u k^ l e k^
+หนูนา	n uu  n aa 
+หนูสวน	n uu  s uua n^
+หนูจิ๊ด	n uu  c i t^
+หนูขยะ	n uu  kh a  j a 
+หนูหริ่ง	n uu  r i ng^ 
+เหล่านี้	l a w^ n ii 
+ขน	kh o n^
+ที่นา	th ii  n aa 
+เรียบ	r iia p^
+วัชพืช	 w a t^ ch a  ph vv t^
+วัชพืช	w a t^ ch a  ph vv t^
+บ้าน	b aa n^
+๓	s aa m^
+ป้องกัน	p @ ng^ k a n^
+ก่อน	k @@ n^
+ออกรวง	z @@ k^ r uua ng^
+นาน	n aa n^
+พอสมควร	ph @@  s o m^ kh uua n^ 
+เพราะฉะนั้น	phr @  ch a  n a n^
+ก้อน	k @@ n^
+กรวด	kr uua t^
+เหล่านั้น	l a w^ n a n^
+แต่เดิม	t xx  d qq m^
+ก้อนหิน	k @@ n^ h i n^
+ขรุขระ	khr u  khr a  
+เปะปะ	p e  p a 
+แปลว่า	pl xx  w aa 
+ยานเล็ก	j aa n^ l e k^ 
+พระบรมธาตุ	phr a  b @@  r o m^ m a  th aa t^
+พระธาตุ	phr a  th aa t^
+พิธี	ph i  th ii 
+ตรุษ	tr u t^ 
+ประชาชน	pr a  ch aa  ch o n^
+1,000	n v ng^ ph a n^
+ล้าน	l aa n^
+พระเยซู	phr a  j ee  s uu 
+ตรึง	tr v ng^
+ไม้กางเขน	m aa j^ k aa ng^ kh ee n^
+องค์	z o ng^
+เทพกาเบรียล	th ee p^ k aa  br iia n^
+หาย	h aa j^
+สอน	s @@ n^
+ศาสนา	s aa t^ s a  n aa 
+วิธี	w i  th ii 
+เกลี้ยกล่อม	kl iia  kl @ m^
+ปี	p ii  
+พราหมณ์	phr aa m^
+กษัตริย์	k a  s a t^
+แพศย์	ph xx t^
+ศูทร	s uu t^ 
+เกศ	k ee t^
+ผม	ph o m^
+เลย	l qq j^
+กังฆา	k a ng^ kh aa 
+หวี	w ii 
+กฉา	k a  ch aa 
+กางเกง	k aa ng^ k ee ng^
+กรา	kr aa 
+กำไลมือ	k a m^ l a j^ m vv 
+กฤปาน	k a  r v  p aa n^
+รู้จัก	r uu  c a k^
+คิด	kh i t^
+อะไร	z a  r a j^
+งอกเงย	ng @@ k^ ng qq j^
+ขึ้นมา	kh v n^ m aa  
+เงิน	ng q n^
+เปล่าๆ	pl aa w^ pl aa w^ 
+นอกจากนั้น	n @@ k^ c aa k^ n a n^
+แนะนำ	n x  n a m^
+สัมพันธ์	s a m^ ph a n^
+ปกครอง	p o k^ khr @@ ng^
+บ้านเมือง	b aa n^ m vva ng^
+พลเมือง	ph o n^ l a  m vva ng^
+บิดา	b i  d aa 
+มารดา	m aa n^ d aa 
+บุตร	b u t^
+ธิดา	th i  d aa 
+สามี	s aa  m ii 
+ภรรยา	ph a n^ r a  j aa 
+ผู้ใหญ่	ph uu  j a j^
+ผู้น้อย	ph uu  n @@ j^
+เพื่อน	ph vva n^
+รส	r o t^
+เผ็ดร้อน	ph e t^ r @@ n^
+เมล็ด	m a  l e t^
+พริกไทย	phr i k^ th a j^
+ดอก	d @@ k^
+กานพลู	k aa n^ phl uu 
+กระเพา	k a  phr a w^
+ใบ	b a j^
+ราก	r aa k^
+ทา	th aa 
+ชะ	ch a 
+พอก	ph @@ k^
+ประคบ	pr a  kh o p^
+ถู	th uu 
+ชะโลม	ch a  l oo m^
+อาบ	z aa p^
+รม	r o m^ 
+ยาดอง	j aa  d @@ ng^
+น้ำท่า	n aa m^ th aa 
+สุรา	s u  r aa  
+ให้คุณ	h a j^ kh u n^
+ผลเสีย	ph o n^ s iia 
+เนื่องจาก	n vva ng^ c aa k^
+ละ	 l a 
+เกินควร	k qq n^ kh uua n^ 
+ยาเหน็บ	j aa  n e p^
+เพศ	ph ee t^
+วัย	w a j^
+ทีเดียว	th ii  d iia w^ 
+โดยสังเขป	d oo j^ s a ng^ kh ee p^
+เงินทอง	ng q n^ th @@ ng^
+บางคราว	b aa ng^ khr aa w^
+ทุเลา	th u  l a w^
+ชั่วคราว	ch uua  khr aa w^
+ดื้อยา	d vv  j aa  
+คลื่นไส้	khl vv n^ s a j^
+อาเจียน	z aa  c iia n^
+ตกเลือด	t o k^ l vva t^
+ดีซ่าน	d ii  s aa n^
+ฯลฯ	l x  z vv n^ z vv n^ 
+สภาพ	s a  ph aa p^
+ให้โทษ	h a j^ th oo t^
+ขนาน	kh a  n aa n^
+ปัสสาวะ	p a t^ s aa  w a  
+เมธีลีนบลู	 m ee  th ii  l ii n^ bl uu
+เตตราไซคลีน	t ee  tr aa  s a j^ khl ii n^
+แคลเซียม	kh x n^ s iia m^
+ยาบรรจุเสร็จ	j aa  b a n^ c u  s e t^ 
+ยิ้มแย้ม	j i m^ j xx m^
+แจ่มใส	c x m^ s a j^
+หน้าตา	n aa  t aa 
+บึ้งตึง	b v ng^ t v ng^
+ท่าทาง	th aa  th aa ng^
+อึดอัด	z v t^ z a t^
+ฮึดฮัด	h v t^ h a t^ 
+สะกดจิต	s a  k o t^ c i t^
+ผู้ป่วย	ph uu  p uua j^
+ฮิสทีเรีย	h i s^ th ii  r iia  
+ล่าม	l aa m^
+โซ่ตรวน	s oo  tr uua n^ 
+ลูก	l uu k^
+ขี้เหร่	kh ii  r ee 
+ดื้อรั้น	d vv  r a n^
+โง่เง่า	ng oo  ng a w^
+รัก	r a k^
+ความจริง	khw aa m^ c i ng^
+เอาเอง	z a w^ z ee ng^ 
+เป็นสุข	p e n^ s u k^
+เงื่องหงอย	ng vva ng^ ng @ j^
+ชั่วคราว	ch uua  khr aa w^ 
+ตัวเอง	t uua  z ee ng^
+เพลิดเพลิน	phl qq t^ phl qq n^ 
+ลงโทษ	l o ng^ th oo t^
+สิ่งแวดล้อม	s i ng^ w xx t^ l @@ m^
+พึ่งพา	ph v ng^ ph aa 
+น้อยลง	n @@ j^ l o ng^ 
+ตัดสิน	t a t^ s i n^
+บอก	b @@ k^
+พื้น	ph vv n^
+นั่ง	n a ng^
+เล่น	l e n^
+ยุ่งยาก	j u ng^ j aa k^
+ใจ	c a j^
+รู้สึก	r uu  s v k^
+พึ่งพิง	ph v ng^ ph i ng^ 
+อวัยวะเพศ	z a  w a j^ j a  w a  ph ee t^
+เจริญ	c a  r qq n^
+เออออ	z qq  z @@ 
+หมู่คณะ	m uu  kh a  n a 
+ก็	 k @@ 
+ปลีกตัว	pl ii k^ t uua 
+ช่างฝัน	ch a ng^ f a n^ 
+งุนงง	ng u n^ ng o ng^
+สับสน	s a p^ s o n^
+เลอะเลือน	l q  l vva n^
+พูด	ph uu t^
+เพ้อ	ph qq  
+ก้าวร้าว	k aa w^ r aa w^
+หยาบคาย	j aa p^ kh aa j^
+เอะอะ	z e  z a 
+อาละวาด	z aa  l a  w aa t^ 
+อารมณ์	z aa  r o m^
+ผิด	ph i t^
+เศร้า	s a w^
+ครึกครื้น	khr v k^ khr vv n^
+กังวล	k a ng^ w o n^
+หงุดหงิด	ng u t^ ng i t^
+โกรธ	kr oo t^
+บุคคล	b u k^ kh o n^
+อัน	z a n^
+ที่รัก	th ii  r a k^ 
+บุคลิกภาพ	b u k^ kh a  l i k^ k a  ph aa p^
+แปรปรวน	pr xx  pr uua n^ 
+เพ้อเจ้อ	ph qq  c qq 
+กระวนกระวาย	kr a  w o n^ kr a  w aa j^ 
+บริเวณ	b @@  r i  w ee n^
+อวัยวะขับถ่าย	z a  w a j^ j a  w a  kh a p^ th aa j^ 
+ตื่น	t vv n^
+บ่อยๆ	b @ j^ b @ j^
+กลางคืน	kl aa ng^ kh vv n^
+ละเมอ	l a  m qq 
+ละเมอ	l a  m qq  
+สาเหตุ	s aa  h ee t^
+กระเทือน	kr a  th vva n^
+เด็ก	 d e k^ 
+บางครั้ง	b aa ng^ khr a ng^
+ไซ	s a j^
+หู	h uu  
+ตึงเครียด	t v ng^ khr iia t^
+ประสบการณ์	pr a  s o p^ k aa n^ 
+แหวกว่าย	w xx k^ w aa j^
+ลัดเลาะ	l a t^ l @ 
+กอหญ้า	k @@  j aa  
+ลม	l o m^
+พัด	ph a t^
+ปลิว	pl i w^ w @ n^
+ว่อน	p a j^
+ไป	phr @@ m^
+พร้อม	k a p^
+กับ	f u n^
+ฝุ่นละออง	l a  z @@ ng^
+กอง	k @@ ng^
+ลุ่ม	l u m^
+กลับกลาย	kl a p^ kl aa j^
+แหล่ง	l x ng^
+ปลอม	pl @@ m^
+บอแรกซ์	b @@  r x k^ 
+ทำการ	th a m^ k aa n^
+ครบ	khr o p^
+พบว่า	ph o p^ w aa 
+สำรวจ	s a m^ r uua t^
+สำมะโนประชากร	s a m^ m a  n oo  pr a  ch aa  k @@ n^
+สมัย	s a  m a j^
+ประกาศ	pr a  k aa t^
+แพร่หลาย	phr xx  l aa j^ 
+เอเก็น	z ee  k e n^
+เคย	kh qq j^
+ติดตั้ง	t i t^ t a ng^
+อาเบอร์ดีนพรูวิงเกรานดส์	z aa  b qq  d ii n^ phr uu  w i ng^ k ee  r aa n^ 
+มอชลี	m @@ ch^ l ii 
+เอ็กเคิร์ต	z e k^ kh q t^
+ออกแบบ	z @@ k^ b xx p^ 
+เอ็ดแว็ก	z e t^ w x k^
+อีนิแอ็ก	z ii  n i  z x k^ 
+ไว้ใจ	w a j^ c a j^
+เอ็กแซ็ก	z e k^ s x k^ 
+ความจำ	khw aa m^ c a m^
+ดรัม	dr a m^
+แม่เหล็ก	m xx  l e k^ 
+มินิคอมพิวเตอร์	m i  n i  kh @ m^ ph i w^ t qq 
+ชิพ	ch i p^
+เทียบเท่า	th iia p^ th a w^
+หมื่น	m vv n^
+ตัว	 t uua  
+นำเอา	n a m^
+ทรานซิสเตอร์	z a w^
+เข้ามา	thr aa n^ s i s^ t qq 
+ใช้	kh a w^ m aa 
+แทน	ch a j^
+หลอด	th xx n^
+สุญญากาศ	l @@ t^ s u n^ j aa  k aa t^ 
+นำเอา	n a m^ z a w^
+ผลิตภัณฑ์	ph a  l i t^ t a  ph a n^
+เดียวกัน	d iia w^
+เรียก	k a n^
+ว่า	r iia k^ w aa 
+เบ็ดเสร็จ	b e t^ s e t^ 
+หนัก	n a k^
+ไมโครคอมพิวเตอร์	m a j^ khr oo  kh @ m^ ph i w^ t qq  
+ปลด	pl o t^
+พลังงาน	ph a  l a ng^ ng aa n^
+ยก	j o k^
+ดิสก์แพ็ค	d ii s^ ph x k^
+เข้าออก	kh a w^ z @@ k^
+แถบแม่เหล็ก	th xx p^ m xx  l e k^ 
+แม่เหล็ก	m xx  l e k^
+หัวอ่าน	h uua  z aa n^
+หัวบันทึก	h uua  b a n^ th v k^
+เท่ากับ	th a w^ k a p^
+รอยทาง	r @@ j^ th aa ng^
+ใกล้	kl a j^
+ผิว	ph i w^
+ดรัม	dr a m^ 
+ทรงกระบอก	s o ng^ kr a  b @@ k^ 
+สาย	s aa j^
+ขึ้นอยู่	kh v n^ j uu 
+รับส่ง	r a p^ s o ng^
+โทรทัศน์	th oo  r a  th a t^
+แทน	th xx n^
+กงล้อ	k o ng^ l @@ 
+ตัวอักษร	t uua  z a k^ s @@ n^ 
+หยด	j o t^
+หมึก	m v k^
+ประจุ	pr a  c u 
+เข็ม	kh e m^
+พุ่ง	ph u ng^
+รหัส	r a  h a t^
+ในการ	n a j^ k aa n^
+แป้น	p x n^
+ปรากฎ	pr aa  k o t^
+โทรทัศน์	th oo  r a  th a t^ 
+เข้าไป	kh a w^ p a j^
+ส่วนความจำ	s uua n^ khw aa m^ c a m^ 
+ออกมา	z @@ k^ m aa 
+ฟุต	f u t^
+เปลือง	pl vva ng^
+ข่าวสาร	kh aa w^ s aa n^ 
+ข่าวสาร	kh aa w^ s aa n^
+บังคับ	b a ng^ kh a p^
+ค้อน	kh @@ n^
+ผ้าพิมพ์	ph aa  ph i m^ 
+ทรงกระบอก	s o ng^ kr a  b @@ k^
+ครั้นแล้ว	khr a n^ l xx w^
+บรรทัด	b a n^ th a t^
+แปล	pl xx 
+เชิง	ch qq ng^
+ตัวเลข	t uua  l ee k^
+อุปมาน	z u p^ p a  m aa n^ 
+วาด	w aa t^
+แม้ว่า	m xx  w aa 
+กำเนิด	k a m^ n qq t^
+ราชการ	r aa t^ ch a  k aa n^
+รัฐวิสาหกิจ	r a t^ w i  s aa  h a  k i t^
+ธุรกิจ	th u  r a  k i t^
+วิธีการ	w i  th ii  k aa n^
+วิธี	w i  th ii  
+เสียเวลา	s iia  w ee  l aa 
+ไม่	 m a j^
+ประสิทธิภาพ	pr a  s i t^ th i  ph aa p^
+บัตร	b a t^
+อักษร	z a k^ s @@ n^ 
+ทำหน้าที่	th a m^
+เจาะ	n aa  th ii 
+บัตร	c @  b a t^ 
+ถูกต้อง	th uu k^ t @ ng^
+หมด	m o t^
+ทั้งแผ่น	th a ng^ ph x n^ 
+แยก	j xx k^
+ทำนอง	th a m^ n @@ ng^
+แถบแม่เหล็ก	th xx p^ m xx  l e k^
+อักษร	z a k^ s @@ n^
+แถบ	th xx p^
+ตลับ	t a  l a p^
+จาน	c aa n^
+ดิสเกตต์	d ii s^ k e t^
+ประหยัด	pr a  j a t^
+เช็ค	ch e k^
+รอยพับ	r @@ j^ ph a p^
+เปรอะเปื้อน	pr q  p vva n^
+เสียชีวิต	s iia  ch ii  w i t^
+เสียดาย	s iia  d aa j^ 
+ลุกลาม	l u k^ l aa m^
+อัมพาต	z a m^ m a  ph aa t^
+พระองค์	phr a  z o ng^
+สนพระราชหฤทัย	s o n^ phr a  r aa t^ ch a  h a  r v  th a j^
+เกษตร	k a  s ee t^
+ช้า	ch aa  
+กระบืองาน	kr a  b vv  ng aa n^
+กระบือปลัก	kr a  b vv  pl a k^ 
+คอก	kh @@ k^
+สัตว์ปีก	s a t^ p ii k^
+เลี้ยง	l iia ng^
+โซเดียม	s oo  d iia m^
+แมกนีเซียม	m x k^ n ii  s iia m^
+ฟอสฟอรัส	f @@ t^ f @@  r a t^
+คลอไรด์	khl @@  r aa j^
+ซิเทรต	s i  thr ee t^
+ทองแดง	th @@ ng^ d xx ng^
+ไอโอดีน	z a j^ z oo  d ii n^ 
+คลอด	khl @@ t^
+มิได้	m i  d aa j^
+เติม	t qq m^
+อื่นใด	z vv n^ d a j^ 
+กล่อง	kl @ ng^
+ดังกล่าว	d a ng^ kl aa w^ 
+ข้น	kh o n^
+หนืด	n vv t^
+กลาย	kl aa j^
+แกน	 k xx n^
+กลั่นตัว	kl a n^ t uua 
+พระราชทาน	phr a  r aa t^ ch a  th aa n^
+ข้อแนะนำ	kh @@  n x  n a m^
+ปฏิบัติการ	p a  t i  b a t^ k aa n^
+หลวง	l uua ng^
+2516	s @@ ng^ ph a n^ h aa  r @@ j^ s i p^ h o k^
+เป็นต้นมา	p e n^ t o n^ m aa 
+ตราบ	tr aa p^
+วันนี้	w a n^ n ii  
+ประสบการณ์	pr a  s o p^ k aa n^
+วางแผน	w aa ng^ ph xx n^
+ตัดสินใจ	t a t^ s i n^ c a j^
+เมฆ	m ee k^
+สมรรถนะ	s a  m a t^ th a  n a 
+เครื่องบิน	khr vva ng^ b i n^ 
+เล็กน้อย	l e k^ n @@ j^
+ถึง	 th v ng^
+ปานกลาง	p aa n^ kl aa ng^ 
+เข้ม	kh e m^
+ปริมาณ	p a  r i  m aa n^
+ประเมิน	pr a  m qq n^
+ประจำวัน	pr a  c a m^ w a n^
+หวัง	w a ng^
+วันรุ่งขึ้น	w a n^ r u ng^ kh v n^ 
+โทรพิมพ์	th oo  r a  ph i m^
+ข่าย	kh aa j^
+กระทรวงมหาดไทย	kr a  s uua ng^ m a  h aa t^ th a j^
+การสื่อสารแห่งประเทศไทย	k aa n^ s vv  s aa n^ h x ng^ pr a  th ee t^ th a j^
+ตำรวจ	t a m^ r uua t^
+มหาวิทยาลัยเกษตรศาสตร์	m a  h aa  w i t^ th a  j aa  l a j^ k a  s ee t^ s aa t^ 
+ข้อจำกัด	kh @@  c a m^ k a t^
+สภาวะ	s a  ph aa  w a 
+ทรัพยากร	s a p^ ph a  j aa  k @@ n^
+กล่าวคือ	kl aa w^ kh vv  
+44	s ii  s i p^ s ii  
+จังหวัด	c a ng^ w a t^
+ระบาย	r a  b aa j^
+น้ำ	n aa m^
+พรุ	phr u 
+มูโนะ	m uu  n o 
+นราธิวาส	n a  r aa  th i  w aa t^
+2517	s @@ ng^ ph a n^ h aa  r @@ j^ s i p^ c e t^ 
+เหตุ	h ee t^
+แหล่งน้ำ	l x ng^ n aa m^
+เหือดแห้ง	h vva t^ h xx ng^
+ฤดูแล้ง	r v  d uu  l xx ng^ 
+ประเทศ	pr a  th ee t^ 
+ก่อไฟ	k @@  f a j^
+หุง	h u ng^
+อาหาร	z aa  h aa n^ 
+คลอง	khl @@ ng^
+สัดส่วน	s a t^ s uua n^
+ตัดขวาง	t a t^ khw aa ng^
+ครั้งคราว	khr a ng^ khr aa w^
+อ่าว	z aa w^
+เบงกอล	b e ng^ k @@ l 
+สัตว์	s a t^
+ร้าย	r aa j^
+นานา	n aa  n aa 
+งูพิษ	ng uu  ph i t^
+ตะขาบ	t a  kh aa p^
+แมงป่อง	m xx ng^ p @ ng^ 
+พายุ	ph aa  j u 
+แคร่	khr xx 
+กลางวัน	kl aa ng^ w a n^ 
+ควันไฟ	khw a n^ f a j^
+เรือนครัว	r vva n^ khr uua 
+สะดวก	s a  d uua k^ 
+ฤดูหนาว	r v  d uu  n aa w^
+หนาว	n aa w^
+ภาคกลาง	ph aa k^ kl aa ng^
+ไม้	m aa j^
+สาน	s aa n^
+ฟาก	f aa k^
+สับ	s a p^ 
+ประตู	pr a  t uu 
+ยุ้ง	j u ng^
+กรุ	kr u 
+ไม้ไผ่	m aa j^ ph a j^
+ขัดแตะ	kh a t^ t x  
+โป๊ะ	p o 
+ถ่าย	th aa j^
+น้ำหนัก	n aa m^ n a k^
+เสา	s a w^
+งัว	ng uua  
+จันทัน	c a n^ th a n^
+กันสาด	k a n^ s aa t^
+แป	p xx 
+ขื่อ	kh vv 
+หัวเทียน	h uua  th iia n^
+สวม	s uua m^
+ดั้งแขวน	d a ng^ khw xx n^
+ชายคา	ch aa j^ kh aa 
+ตะพานหนู	t a  ph aa n^ n uu  
+ยื่น	j vv n^
+กระเบื้อง	kr a  b vva ng^ 
+ประกบ	pr a  k o p^
+ปิด	p i t^
+โพรง	phr oo ng^
+สกัด	s a  k a t^
+เรือน	r vva n^
+แดด	d xx t^
+หน้าจั่ว	n aa  c uua 
+เส้น	s e n^
+รัศมี	r a t^ s a  m ii 
+พระอาทิตย์	phr a  z aa  th i t^
+เรือนนอน	r vva n^ n @@ n^
+เรือนครัวไฟ	r vva n^ khr uua  f a j^ 
+กระเบื้อง	kr a  b vva ng^
+มน	m o n^
+ขอ	kh @@  
+ตัวผู้	t uua  ph uu 
+ตัวเมีย	t uua  m iia  
+ชิ้นส่วน	ch i n^ s uua n^
+รอย	r @@ j^
+มุง	m u ng^
+ครอบ	khr @@ p^
+น้ำฝน	n aa m^ f o n^
+รั่วไหล	r uua  l a j^
+ไขราหน้าจั่ว	kh a j^ r aa  n aa  c uua  
+ประโยชน์	pr a  j oo t^
+ใต้ถุน	t aa j^ th u n^
+เรือน	r vva n^ 
+ไหล	l a j^
+ช่อง	ch @ ng^
+กรอบเช็ดหน้า	kr @@ p^ ch e t^ n aa 
+บานประตู	b aa n^ pr a  t uu 
+เดือย	d vva j^
+ธรณีประตู	th @@  r a  n ii  pr a  t uu 
+คานคู่	kh aa n^ kh uu  
+บันได	b a n^ d a j^
+ตัวกลาง	t uua  kl aa ng^ 
+แสงสว่าง	s xx ng^ s a  w aa ng^
+ทำมุม	th a m^ m u m^
+45	s ii  s i p^ h aa 
+เซาะ	s @ 
+ร่อง	r @ ng^
+บัวประดับ	b uua  pr a  d a p^
+ล่าง	l aa ng^
+กว่า	kw aa  
+พาด	ph aa t^
+พรึง	phr v ng^ 
+ชัก	ch a k^
+นอกชาน	n @@ k^ ch aa n^
+ค่ำคืน	kh a m^ kh vv n^ 
+ปลอดภัย	pl @@ t^ ph a j^
+ขโมย	kh a  m oo j^ 
+พระราชประสงค์	phr a  r aa t^ ch a  pr a  s o ng^
+พระบาทสมเด็จพระเจ้าอยู่หัว	phr a  b aa t^ s o m^ d e t^ phr a  c aa w^ j uu  h uua  
+สังเกต	s a ng^ k ee t^
+สัตว์เลี้ยง	s a t^ l iia ng^
+สุนัข	s u  n a k^
+แมว	m xx w^
+สบาย	s a  b aa j^ 
+สมุนไพร	s a  m u n^ phr a j^
+พืช	ph vv t^
+สรรพคุณ	s a p^ ph a  kh u n^
+ปรุง	pr u ng^
+แปรสภาพ	pr xx  s a  ph aa p^ 
+เย็น	j e n^
+สุขุม	s u  kh u m^
+ฝาด	f aa t^
+หวาน	w aa n^
+ขม	kh o m^
+เค็ม	kh e m^
+เผ็ด	ph e t^
+เหมือน	 m vva n^
+กัน	 k a n^ 
+เครื่องยา	khr vva ng^ j aa  
+ปรุงยา	pr u ng^ j aa 
+ต้ม	t o m^
+ชง	ch o ng^
+ดอง	d @@ ng^
+ปั้น	p a n^
+ลูกกลอน	l uu k^ kl @@ n^
+ตำ	t a m^
+คั้น	kh a n^
+ปรุง	 pr u ng^
+ง่ายๆ	ng aa j^ ng aa j^
+ได	d aa j^
+้ว่า	w aa 
+เจ็บป่วย	c e p^ p uua j^
+เล็กๆน้อยๆ	l e k^ l e k^ n @@ j^ n @@ j^
+สนับสนุน	s a  n a p^ s a  n u n^
+ยาสมุนไพร	j aa  s a  m u n^ phr a j^
+รับประทาน	r a p^ pr a  th aa n^
+เดียวกับ	d iia w^ k a p^
+ยาแผนปัจจุบัน	j aa  ph xx n^ p a t^ c u  b a n^
+ทั่วไป	th uua  p a j^ 
+ตำรับ	t a m^ r a p^
+พืชสมุนไพร	ph vv t^ s a  m u n^ phr a j^
+แร่ธาตุ	r xx  th aa t^
+ตำรา	t a m^ r aa 
+ยาแผนโบราณ	j aa  ph xx n^ b oo  r aa n^
+รัฐมนตรี	r a t^ th a  m o n^ tr ii 
+ประกาศ	pr a  k aa t^ 
+รสประธานยา	r o t^ pr a  th aa n^ j aa 
+เภสัชวัตถุ	ph ee  s a t^ w a t^ th u 
+9	k aa w^
+รส	r o t^ 
+เหง้าว่านน้ำ	ng a w^ w aa n^ n aa m^
+รากเจตมูลเพลิง	r aa k^ c ee t^ t a  m uu n^ phl qq ng^
+รากแคแตร	r aa k^ kh xx  tr xx 
+รากนมสวรรค์	r aa k^ n o m^ s a  w a n^ 
+มาตรา	m aa t^ tr aa 
+โบราณ	b oo  r aa n^ 
+ร่างกาย	r aa ng^ k aa j^
+เมล็ดพืช	m a  l e t^ ph vv t^
+คุ้นเคย	kh u n^ kh qq j^
+แห้ง	h xx ng^
+ชง	ch o ng^ 
+เสื่อม	s vva m^
+ขาด	kh aa t^
+ความเข้าใจ	khw aa m^ kh a w^ c a j^
+ยา	j aa  
+เหยื่อ	j vva 
+โฆษณา	kh oo t^ s a  n aa  
+พืชผล	ph vv t^ ph o n^
+ข้าวโพด	kh aa w^ ph oo t^
+คู่แข่งขัน	kh uu  kh x ng^ kh a n^
+ประชากร	pr a  ch aa  k @@ n^
+รายได้	r aa j^ d aa j^
+ภาวะการณ์	ph aa  w a  k aa n^
+เช่นนี้	ch e n^ n ii 
+ประเทศที่พัฒนาแล้ว	pr a  th ee t^ th ii  ph a t^ th a  n aa  l xx w^ 
+เห็นว่า	h e n^ w aa 
+ซิงคาโน	s i ng^ kh aa  n oo 
+ควินิน	khw i  n i n^ 
+เป็นพิษ	p e n^ ph i t^
+รุนแรง	r u n^ r xx ng^
+ยาสังเคราะห์	j aa 
+และ	s a ng^ khr @ 
+สาร	l x 
+ตกค้าง	s aa n^ t o k^ kh aa ng^
+สังเคราะห์	s a ng^ khr @  
+จะ	c a  h e n^
+เห็นว่า	w aa 
+แม้แต่	m xx  t xx 
+ตระหนัก	tr a  n a k^
+คุณค่า	kh u n^ n a  kh aa 
+สมุนไพร	s a  m u n^ phr a j^ 
+การแพทย์	k aa n^ ph xx t^
+แผน	ph xx n^
+ละเลย	l a  l qq j^
+อีกครั้ง	z ii k^ khr a ng^ 
+2.1	s @@ ng^ c u t^ n v ng^
+ยาแผนโบราณ	j aa  ph xx n^ b oo  r aa n^ 
+ยาแผนปัจจุบัน	j aa  ph xx n^ p a t^ c u  b a n^ 
+พฤติกรรม	phr v t^ t i  k a m^
+เจ็บไข้	c e p^ kh a j^
+ตะวันตก	t a  w a n^ t o k^ 
+เห็น	h e n^ d aa j^
+ได้ว่า	w aa 
+พื้นบ้าน	ph vv n^ b aa n^
+ชนบท	ch o n^ n a  b o t^
+ห่างไกล	h aa ng^ kl a j^
+สถานบริการ	s a  th aa n^ b @@  r i  k aa n^
+จำกัด	c a m^ k a t^
+วินิจฉัย	w i  n i t^ ch a j^
+ชาว	ch aa w^
+เกณฑ์	k ee n^
+สาธารณสุขมูลฐาน	s aa  th aa  r a  n a  s u k^ m uu n^ th aa n^ 
+ภายนอก	ph aa j^ n @@ k^
+จ	c a 
+ะต้อง	t @ ng^
+หลักฐาน	l a k^ th aa n^
+ครบถ้วน	khr o p^ th uua n^
+เภสัชวิทยา	ph ee  s a t^ w i t^ th a  j aa 
+พิษวิทยา	ph i t^ w i t^ th a  j aa 
+คลินิก	khl ii  n i k^ 
+บุคลากร	b u k^ kh a  l aa  k @@ n^
+เหล่านี้	l a w^ n ii  
+ได้ผล	d aa j^ ph o n^
+แก่จัด	k xx  c a t^
+ตาก	t aa k^
+ฝาน	f aa n^
+หัวกระเทียม	h uua  kr a  th iia m^
+ลงไป	l o ng^ p a j^ 
+ท้องอืด	th @@ ng^ z vv t^
+ท้องเฟ้อ	th @@ ng^ f qq 
+ปวดท้อง	p uua t^ th @@ ng^
+วิธีใช้	w i  th ii  ch a j^ 
+นม	n o m^
+เด็ก	d e k^
+หั่น	h a n^
+กล้วย	kl uua j^
+ดิบ	d i p^
+ชิ้น	ch i n^
+บางๆ	b aa ng^ b aa ng^ 
+ระงับ	r a  ng a p^
+ขับ	kh a p^
+เสมหะ	s ee m^ h a  
+เหง้า	ng a w^
+ขมิ้น	kh a  m i n^
+ขูด	kh uu t^
+ยุง	j u ng^
+กัด	k a t^
+บ่อยๆ	b @ j^ b @ j^ 
+เฟ้อ	f qq 
+ทิ้ง	th i ng^
+ค้างคืน	kh aa ng^ kh vv n^
+แสบๆ	s xx p^ s xx p^
+เย็นๆ	j e n^ j e n^ 
+เช้า	ch aa w^
+อาบน้ำ	z aa p^ n aa m^
+ทุกวัน	th u k^ w a n^
+ติด	t i t^
+ท้องเฟ้อ	th @@ ng^ f qq  
+แน่น	n x n^
+จุกเสียด	c u k^ s iia t^
+เคี่ยว	kh iia w^
+ทำให้	th a m^
+แผล	h a j^ phl xx 
+สนิท	s a  n i t^
+เดียวกัน	d iia w^ k a n^ 
+โขลก	khl oo k^
+แหลก	l xx k^
+ใส่	s a j^
+ลูกประคบ	l uu k^ pr a  kh o p^ 
+เคล็ด	khl e t^
+ขัดยอก	kh a t^ j @@ k^ 
+กลืน	kl vv n^
+ก็ได้	k @@  d aa j^ 
+วุ้น	w u n^
+แปะ	p x 
+ริมฝีปาก	r i m^ f ii  p aa k^
+รัฐ	r a t^
+หลัวฮู่	l uua  h uu  
+คลุม	khl u m^
+นอก	n @@ k^
+สี	s ii  
+ยุโรป	j u  r oo p^
+วัดขุนพรหม	w a t^ kh u n^ phr o m^
+ระเบียบ	r a  b iia p^
+ละเว้น	l a  w e n^
+เคร่งครัด	khr e ng^ khr a t^ 
+เสื้อครุย	s vva  khr u j^
+กรองคอ	kr @@ ng^ kh @@ 
+กรองสังเวียน	kr @@ ng^ s a ng^ w iia n^
+กรองสมรด	 kr @@ ng^ s o m^ r o t^ 
+เหม็น	m e n^
+สาบสาง	s aa p^ s aa ng^
+เปื้อนเปรอะ	p vva n^ pr q 
+ขะมุกขะมอม	kh a  m u k^ kh a  m @@ m^ 
+วันพฤหัสบดี	w a n^ ph a  r v  h a t^ s a  b @@  d ii 
+นุ่ง	n u ng^
+เขียว	kh iia w^
+ผ้านุ่ง	ph aa  n u ng^
+ผ้าเช็ดตัว	ph aa  ch e t^ t uua 
+ผ้าเคียนพุง	ph aa  kh iia n^ ph u ng^
+ผ้าพาดไหล่	ph aa  ph aa t^ l a j^ 
+รอยสลัก	r @@ j^ s a  l a k^
+แปลกๆ	pl xx k^ pl xx k^
+ศิลาจารึก	s i  l aa  c aa  r v k^
+สักการะ	s a k^ k aa  r a 
+บูชา	b uu  ch aa 
+ทองคำเปลว	th @@ ng^ kh a m^ pl ee w^
+ศักราช	s a k^ k a  r aa t^
+จารึกเขาน้อย	c aa  r v k^ kh a w^ n @@ j^ 
+พุทธศักราช	ph u t^ th a  s a k^ k a  r aa t^
+1180	n v ng^ ph a n^ n v ng^ r @@ j^ p xx t^ s i p^ 
+โบราณ	b oo  r aa n^
+บ่งบอก	b o ng^ b @@ k^
+วัฒนธรรม	w a t^ th a  n a  th a m^
+ผืน	ph vv n^
+แผ่นดิน	ph x n^ d i n^
+จารึก	c aa  r v k^
+ขอม	kh @@ m^
+ภาคเหนือ	ph aa k^ n vva 
+ขึ้นไป	kh v n^ p a j^ 
+ขวนขวาย	kh uua n^ khw aa j^
+แสวงหา	s a  w xx ng^ h aa 
+ภูมิภาค	ph uu  m i  ph aa k^
+พระราชอาณาจักร	phr a  r aa t^ ch a  z aa  n aa  c a k^ 
+บาป	b aa p^ 
+ปึกแผ่น	p v k^ ph x n^
+ดินปืน	d i n^ p vv n^
+ดัน	d a n^
+ลูกปืน	l uu k^ p vv n^
+กระบอกปืน	kr a  b @@ k^ p vv n^ 
+วงล้อ	w o ng^ l @@ 
+เกวียน	kw iia n^
+วงล้อเพลตัน	w o ng^ l @@  phl ee  t a n^ 
+เฉ	ch ee 
+ขวา	khw aa  
+ไนโตรเจน	n a j^ tr oo  c e n^
+เหลว	l ee w^
+ท่อแก้ว	th @@  k xx w^ 
+แท่ง	th x ng^
+เชื้อเพลิงยูเรเนียม	ch vva  phl qq ng^ j uu  r ee  n iia m^ 
+นิวตรอน	n i w^ tr @ n^
+วิ่ง	w i ng^
+เข้าเฝ้า	kh a w^ f a w^ 
+ผ้าเกี้ยว	ph aa  k iia w^
+รัชกาล	r a t^ ch a  k aa n^
+ปรก	pr o k^
+ข้อพระหัตถ์	 kh @@  phr a  h a t^ 
+โจงกระเบน	c oo ng^ kr a  b ee n^
+เข่า	kh a w^
+สนับเพลา	s a  n a p^ phl a w^
+แข้ง	kh x ng^ 
+หนุ่มหนุ่ม	n u m^ n u m^
+เหล่า	l a w^
+เจ้าชู้	c a w^ ch uu 
+ลูกผู้ดี	l uu k^ ph uu  d ii 
+สตรี	s a t^ tr ii 
+งาม	ng aa m^
+พรวน	phr uua n^ 
+เครื่องแบบ	khr vva ng^ b xx p^
+พระเกียรติยศ	phr a  k iia t^ t i  j o t^
+เสื้อกระบอก	s vva  kr a  b @@ k^
+ฝรั่ง	f a  r a ng^ 
+แขน	kh xx n^
+ขลับ	khl a p^
+พับ	ph a p^
+ขลิบ	khl i p^
+รอยเย็บ	r @@ j^ j e p^ 
+เที่ยว	th iia w^
+ผลอไพล่เผล	phl @@  phl a j^ phl ee 
+เพทุบาย	ph ee  th u  b aa j^ 
+สายสร้อย	s aa j^ s @ j^
+สลึง	s a  l v ng^
+เฟื้อง	f vva ng^ 
+ผูก	ph uu k^
+ข้อมือ	kh @@  m vv 
+แล	l xx 
+อร่ามเหลือง	z a  r aa m^ l vva ng^ 
+๗	c e t^
+ขวบ	kh uua p^
+อิเล็กตรอน	z i  l e k^ tr @ n^
+เหมือนว่า	m vva n^ w aa 
+โฮล	h oo 
+บกพร่อง	b o k^ phr @ ng^
+ผลึก	ph a  l v k^
+อะตอม	z a  t @ m^ 
+โฟโตทรานซิสเตอร์	f oo  t oo  thr aa n^ s i s^ t qq 
+ตรรก	t a k^ k a 
+จำ	c a m^
+ไมโครโพรเซสเซอร์	m a j^ khr oo  phr oo  s ee t^ s qq 
+กล่าวคือ	kl aa w^ kh vv 
+เลเซอร์	l ee  s qq 
+พร้อมเพรียง	phr @@ m^ phr iia ng^ 
+เอาชนะ	z a w^ ch a  n a 
+เสถียรภาพ	s a  th iia n^ r a  ph aa p^
+เปล่ง	pl e ng^
+ปลุกเร้า	pl u k^ r a w^
+โฟตอน	f oo  t @ n^ 
+ทับทิม	th a p^ th i m^
+แย็ค	j x k^
+ผลึก	ph a  l v k^ 
+ก๊าซ	k aa s^
+ตัวกลาง	t uua  kl aa ng^
+เลเซอร์	l ee  s qq  
+พลาสมา	phl aa s^ m aa 
+๖.๑	h o k^ c u t^ n v ng^
+ของแข็ง	kh @@ ng^ kh x ng^
+ของเหลว	kh @@ ng^ l ee w^
+สาร	s aa n^
+กึ่ง	k v ng^
+ตัวนำ	t uua  n a m^ 
