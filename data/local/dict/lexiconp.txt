@@ -1,0 +1,6317 @@
+!SIL	1.0	sil
+<UNK>	1.0	sp
+การ	1.0	k aa n^ 
+แข่งขัน	1.0	kh x ng^ kh a n^ 
+จะ	1.0	c a 
+แบ่ง	1.0	b x ng^ 
+ออก	1.0	z @@ k^ 
+เป็น	1.0	p e n^ 
+สอง	1.0	s @@ ng^ 
+ครึ่ง	1.0	khr v ng^ 
+โดย	1.0	d oo j^ 
+ละ	1.0	l a 
+สี่	1.0	s ii 
+สิบ	1.0	s i p^ 
+ห้า	1.0	h aa 
+นาที	1.0	n aa th ii 
+เวลา	1.0	w ee l aa 
+มี	1.0	m ii 
+นับ	1.0	n a p^ 
+ตลอด	1.0	t a l @@ t^ 
+ความ	1.0	khw aa m^ 
+เงียบ	1.0	ng iia p^ 
+สี	1.0	s ii 
+ทอง	1.0	th @@ ng^ 
+มหาวิทยาลัย	1.0	m a h aa w i t^ th a j aa l a j^ 
+สามารถ	1.0	s a m aa t^ 
+สร้าง	1.0	s aa ng^ 
+โอกาส	1.0	z oo k aa t^ 
+ที่	1.0	th ii 
+ดี	1.0	d ii 
+ใน	1.0	n a j^ 
+เรื่อง	1.0	r vva ng^ 
+ทำ	1.0	th a m^ 
+งาน	1.0	ng aa n^ 
+ของ	1.0	kh @@ ng^ 
+คุณ	1.0	kh u n^ 
+ครั้ง	1.0	khr a ng^ 
+แรก	1.0	r xx k^ 
+ฉัน	1.0	ch a n^ 
+เคย	1.0	kh qq j^ 
+ได้ยิน	1.0	d aa j^ j i n^ 
+เกี่ยว	1.0	k iia w^ 
+กับ	1.0	k a p^ 
+ตาย	1.0	t aa j^ 
+รู้สึก	1.0	r uu s v k^ 
+ดีใจ	1.0	d ii c a j^ 
+อย่าง	1.0	j aa ng^ 
+แท้จริง	1.0	th xx c i ng^ 
+พบ	1.0	ph o p^ 
+ให้	1.0	h a j^ 
+มัน	1.0	m a n^ 
+หนัก	1.0	n a k^ 
+กิโลกรัม	1.0	k i l oo kr a m^ 
+เลียน	1.0	l iia n^ 
+แบบ	1.0	b xx p^ 
+ฉลาด	1.0	ch a l aa t^ 
+มนุษย์	1.0	m a n u t^ 
+ลง	1.0	l o ng^ 
+เครื่อง	1.0	khr vva ng^ 
+จักร	1.0	c a k^ 
+ยาก	1.0	j aa k^ 
+นก	1.0	n o k^ 
+บิน	1.0	b i n^ 
+ผ่าน	1.0	ph aa n^ 
+ท้อง	1.0	th @@ ng^ 
+ฟ้า	1.0	f aa 
+สง่า	1.0	s a ng aa 
+ผ่า	1.0	ph aa 
+เผย	1.0	ph qq j^ 
+เกิด	1.0	k qq t^ 
+ขึ้น	1.0	kh v n^ 
+ไร	1.0	r a j^ 
+ข่าว	1.0	kh aa w^ 
+ล่าสุด	1.0	l aa s u t^ 
+เจอ	1.0	c qq 
+อนาคต	1.0	z a n aa kh o t^ 
+เธอ	1.0	th qq 
+ไม่	1.0	m a j^ 
+พยายาม	1.0	ph a j aa j aa m^ 
+ถอน	1.0	th @@ n^ 
+พวก	1.0	ph uua k^ 
+เขา	1.0	kh a w^ 
+ผจญ	1.0	ph a c o n^ 
+ภัย	1.0	ph a j^ 
+มากมาย	1.0	m aa k^ m aa j^ 
+มา	1.0	m aa 
+ด้วย	1.0	d uua j^ 
+กัน	1.0	k a n^ 
+บาง	1.0	b aa ng^ 
+ที	1.0	th ii 
+พูด	1.0	ph uu t^ 
+ถูก	1.0	th uu k^ 
+แล้ว	1.0	l xx w^ 
+อะไร	1.0	z a r a j^ 
+นี่	1.0	n ii 
+ดิน	1.0	d i n^ 
+เปื้อน	1.0	p vva n^ 
+กระโปรง	1.0	kr a pr oo ng^ 
+ไหน	1.0	n a j^ 
+ขอ	1.0	kh @@ 
+เรา	1.0	r a w^ 
+ดู	1.0	d uu 
+หน่อย	1.0	n @ j^ 
+สิ	1.0	s i 
+ทั้งหมด	1.0	th a ng^ m o t^ 
+ไป	1.0	p a j^ 
+ตาม	1.0	t aa m^ 
+กำห 	1.0	k a m^ h a 
+ไว้	1.0	w a j^ 
+ปลา	1.0	pl aa 
+ว่าย	1.0	w aa j^ 
+ทวน	1.0	th uua n^ 
+น้ำ	1.0	n a m^ 
+เรือ	1.0	r vva 
+ควร	1.0	kh uua n^ 
+เทียบ	1.0	th iia p^ 
+ท่า	1.0	th aa 
+ภาย	1.0	ph aa j^ 
+เจ็ด	1.0	c e t^ 
+ถึง	1.0	th v ng^ 
+วัน	1.0	w a n^ 
+โชค	1.0	ch oo k^ 
+กริช	1.0	kr i t^ 
+เจาะ	1.0	c @ 
+เกราะ	1.0	kr @ 
+กระสุน	1.0	kr a s u n^ 
+บอก	1.0	b @@ k^ 
+ว่า	1.0	w aa 
+เอา	1.0	z a w^ 
+แค่	1.0	kh xx 
+อยาก	1.0	j aa k^ 
+อิสระ	1.0	z i t^ s a r a 
+ภูมิอากาศ	1.0	ph uu m^ z aa k aa t^ 
+ที่สุด	1.0	th ii s u t^ 
+โลก	1.0	l oo k^ 
+ซะ	1.0	s a 
+อัน	1.0	z a n^ 
+นี้	1.0	n ii 
+ใส่ใจ	1.0	s a j^ c a j^ 
+มาก	1.0	m aa k^ 
+ข้อ	1.0	kh @@ 
+บกพร่อง	1.0	b o k^ phr @@ ng^ 
+รายงาน	1.0	r aa j^ ng aa n^ 
+เหตุการณ์	1.0	h ee t^ k aa n^ 
+อาจ	1.0	z aa t^ 
+ยกเลิก	1.0	j o k^ l qq k^ 
+สงสัย	1.0	s o ng^ s a j^ 
+ซา	1.0	s aa 
+ร่า	1.0	r aa 
+เห็น	1.0	h e n^ 
+พี่	1.0	ph ii 
+ชาย	1.0	ch aa j^ 
+เที่ยว	1.0	th iia w^ 
+อิตาลี	1.0	z i t^ t aa l ii 
+กว่า	1.0	kw aa 
+ถ้า	1.0	th aa 
+ตลาด	1.0	t a l aa t^ 
+รวม	1.0	r uua m^ 
+ส่วน	1.0	s uua n^ 
+น้อย	1.0	n @@ j^ 
+หวัง	1.0	w a ng^ 
+สัปดาห์	1.0	s a p^ d aa 
+หน้า	1.0	n aa 
+ตัว	1.0	t uua 
+เอง	1.0	z ee ng^ 
+นั้น	1.0	n a n^ 
+แสง	1.0	s xx ng^ 
+พาดผ่าน	1.0	ph aa t^ ph aa n^ 
+แม่น้ำ	1.0	m xx n aa m^ 
+หยุด	1.0	j u t^ 
+ฤดู	1.0	r v d uu 
+ร้อน	1.0	r @@ n^ 
+ปี	1.0	p ii 
+พนักงาน	1.0	ph a n a k^ ng aa n^ 
+ขาย	1.0	kh aa j^ 
+โกหก	1.0	k oo h o k^ 
+ใคร	1.0	khr a j^ 
+อยู่	1.0	j u 
+มั้ย	1.0	m a j^ 
+แล่น	1.0	l x n^ 
+ไอเดีย	1.0	z a j^ d iia 
+ช่วย	1.0	ch uua j^ 
+บ้าน	1.0	b aa n^ 
+นะ	1.0	n a 
+วาดา	1.0	w aa d aa 
+หลุยส์	1.0	l u j^ 
+และ	1.0	l x 
+สจ๊วด	1.0	s a c uua t^ 
+ฝั่ง	1.0	f a ng^ 
+เชื้อสาย	1.0	ch vva s aa j^ 
+เอเซีย	1.0	z ee s iia 
+ทะเบียน	1.0	th a b iia n^ 
+เปิด	1.0	p qq t^ 
+สำหรับ	1.0	s a m^ r a p^ 
+บรรยาย	1.0	b a n^ j aa j^ 
+ลอนดอน	1.0	l @@ n^ d @@ n^ 
+หรือ	1.0	r vv 
+คือ	1.0	kh vv 
+สัญญาณ	1.0	s a n^ j aa n^ 
+หัวข้อ	1.0	h uua kh @@ 
+ถัด	1.0	th a t^ 
+ไหม	1.0	m a j^ 
+น้อง	1.0	n @@ ng^ 
+ยัง	1.0	j a ng^ 
+อาบ	1.0	z aa p^ 
+รัก	1.0	r a k^ 
+หา	1.0	h aa 
+คน	1.0	kh o n^ 
+ยาสูบ	1.0	j aa s uu p^ 
+เพื่อ	1.0	ph vva 
+ซื้อ	1.0	s vv 
+บุหรี่	1.0	b u r ii 
+ชาว	1.0	ch aa w^ 
+นา	1.0	n aa 
+จับ	1.0	c a p^ 
+ศรัทธา	1.0	s a t^ th aa 
+ผู้	1.0	ph uu 
+อ่อนแอ	1.0	z @@ n^ z xx 
+รักษา	1.0	r a k^ s aa 
+แข็งแกร่ง	1.0	kh x ng^ kr x ng^ 
+สวน	1.0	s uua n^ 
+สาธารณะ	1.0	s aa th aa r a n a 
+ถ่าย	1.0	th aa j^ 
+ฟุตเทจ	1.0	f u t^ th ee t^ 
+ทั้ง	1.0	th a ng^ 
+ผ้า	1.0	ph aa 
+คลุม	1.0	khl u m^ 
+โซฟา	1.0	s oo f aa 
+ม่าน	1.0	m aa n^ 
+ห้อง	1.0	h @ ng^ 
+โถง	1.0	th oo ng^ 
+ล้วน	1.0	l uua n^ 
+คืน	1.0	kh vv n^ 
+ต้อง	1.0	t @@ ng^ 
+ทาง	1.0	th aa ng^ 
+แม่ฮ่องสอน	1.0	m xx h @@ ng^ s @@ n^ 
+โค้ง	1.0	kh oo ng^ 
+เยอะ	1.0	j q 
+ลด	1.0	l o t^ 
+ค่า	1.0	kh aa 
+ภาษี	1.0	ph aa s ii 
+ใช่	1.0	ch a j^ 
+กด	1.0	k o t^ 
+กริ่ง	1.0	kr i ng^ 
+นำ	1.0	n a m^ 
+เหน็ดเหนื่อย	1.0	n e t^ n vva j^ 
+สนใจ	1.0	s o n^ c a j^ 
+เท่า	1.0	th a w^ 
+ไหร่	1.0	r a j^ 
+หรอก	1.0	r @@ k^ 
+ว่าอลิซ	1.0	w aa z a l i t^ 
+กล่าว	1.0	kl aa w^ 
+ปีน	1.0	p ii n^ 
+ตก	1.0	t o k^ 
+ฉับพลัน	1.0	ch a p^ phl a n^ 
+ไว้ใจ	1.0	w a j^ c a j^ 
+ตั้งแต่	1.0	t a ng^ t xx 
+ร้าน	1.0	r aa n^ 
+ยา	1.0	j aa 
+รับ	1.0	r a p^ 
+กรม	1.0	kr o m^ 
+สรรพากร	1.0	s a n^ ph aa k @@ n^ 
+ศึกษา	1.0	s v k^ s aa 
+วิเคราะห์	1.0	w i khr @ 
+กลุ่ม	1.0	kl u m^ 
+เสีย	1.0	s iia 
+แต่ละ	1.0	t xx l a 
+ละเอียด	1.0	l a z iia t^ 
+กรุณา	1.0	k a r u n aa 
+เก็บ	1.0	k e p^ 
+มือถือ	1.0	m vv th vv 
+ครับ	1.0	khr a p^ 
+จินตนาการ	1.0	c i n^ t a n aa k aa n^ 
+พิสูจน์	1.0	ph i s uu t^ 
+เพียงพอ	1.0	ph iia ng^ ph @@ 
+ค่ะ	1.0	kh a 
+ท่าน	1.0	th a n^ 
+น่า	1.0	n aa 
+เสียดาย	1.0	s iia d aa j^ 
+สูด	1.0	s uu t^ 
+ยานัตถุ์	1.0	j aa n a t^ 
+ฟิลิป	1.0	f i l i p^ 
+ติดตาม	1.0	t i t^ t aa m^ 
+อาศัย	1.0	z aa s a j^ 
+เจนีวา	1.0	c ee n ii w aa 
+เพียง	1.0	ph iia ng^ 
+เดียว	1.0	d iia w^ 
+สบายใจ	1.0	s a b aa j^ c a j^ 
+สิ่ง	1.0	s i ng^ 
+ชีวิต	1.0	ch ii w i t^ 
+กลัว	1.0	kl uua 
+คอมพิวเตอร์	1.0	kh @@ m^ ph i w^ t qq 
+ช้า	1.0	ch aa 
+กระตุก	1.0	kr a t u k^ 
+ทันใจ	1.0	th a n^ c a j^ 
+วัย	1.0	w a j^ 
+รุ่น	1.0	r u n^ 
+วิธีการ	1.0	w i th ii k aa n^ 
+จัด	1.0	c a t^ 
+ช่อ	1.0	ch @@ 
+ผลไม้	1.0	ph o n^ l a m aa j^ 
+กิน	1.0	k i n^ 
+สิ้น	1.0	s i n^ 
+เครือข่าย	1.0	khr vva kh aa j^ 
+เพียร์ทู	1.0	ph iia th uu 
+เพียร์	1.0	ph iia 
+สถาปัตยกรรม	1.0	s a th aa p a t^ t a j a k a m^ 
+ไคลเอนต์	1.0	khl a j^ z ee n^ 
+เซิร์ฟเวอร์	1.0	s qq p^ w qq 
+ดื่ม	1.0	d vv m^ 
+นม	1.0	n o m^ 
+พาสเจอร์ไรซ์	1.0	ph aa t^ c qq r a j^ 
+บ้าง	1.0	b aa ng^ 
+อาการ	1.0	z aa k aa n^ 
+ปวด	1.0	p uua t^ 
+หัว	1.0	h uua 
+ก็	1.0	k @@ 
+เชื่อ	1.0	ch vva 
+เช่น	1.0	ch e n^ 
+หญิง	1.0	j i ng^ 
+หนึ่ง	1.0	n v ng^ 
+ดวง	1.0	d uua ng^ 
+จันทร์	1.0	c a n^ 
+ดาว	1.0	d aa w^ 
+เสาร์	1.0	s a w^ 
+เรียก	1.0	r iia k^ 
+เฮลีน	1.0	h ee l ii n^ 
+ขยัน	1.0	kh a j a n^ 
+เรียน	1.0	r iia n^ 
+ยิ่ง	1.0	j i ng^ 
+ตรง	1.0	tr o ng^ 
+สม่ำเสมอ	1.0	s a m a m^ s a m qq 
+สำคัญ	1.0	s a m^ kh a n^ 
+เกลียด	1.0	kl iia t^ 
+แสดง	1.0	s a d xx ng^ 
+ยูโทเปีย	1.0	j uu th oo p iia 
+นายวูด	1.0	n aa j^ w uu t^ 
+คอร์ท	1.0	kh @@ t^ 
+ฟัง	1.0	f a ng^ 
+เสียใจ	1.0	s iia c a j^ 
+แตะ	1.0	t x 
+แก้ไข	1.0	k xx kh a j^ 
+มืด	1.0	m vv t^ 
+เกรด	1.0	kr o t^ 
+อาหาร	1.0	z aa h aa n^ 
+จาน	1.0	c aa n^ 
+ด่วน	1.0	d uua n^ 
+สะดวก	1.0	s a d uua k^ 
+แต่	1.0	t xx 
+มัก	1.0	m a k^ 
+ต่อ	1.0	t @@ 
+สุขภาพ	1.0	s u k^ kh a ph aa p^ 
+ผัก	1.0	ph a k^ 
+นิดหน่อย	1.0	n i t^ n @ j^ 
+กลาย	1.0	kl aa j^ 
+นายทัล	1.0	n aa j^ th a l^ 
+คิง	1.0	kh i ng^ 
+ฮอร์น	1.0	h @@ n^ 
+ใช้	1.0	ch a j^ 
+ดม	1.0	d o m^ 
+ขโมย	1.0	kh a m oo j^ 
+เลย	1.0	l qq j^ 
+ทุก	1.0	th u k^ 
+คู่	1.0	kh uu 
+บ่าว	1.0	b aa w^ 
+สาว	1.0	s aa w^ 
+จริง	1.0	c i ng^ 
+เงิน	1.0	ng q n^ 
+ระมัดระวัง	1.0	r a m a t^ r a w a ng^ 
+เกิน	1.0	k qq n^ 
+เมื่อ	1.0	m vva 
+วาน	1.0	w aa n^ 
+ปลอด	1.0	pl @@ t^ 
+ตอน	1.0	t @@ n^ 
+เมา	1.0	m a w^ 
+ค้าง	1.0	kh aa ng^ 
+แม่	1.0	m xx 
+สะพาน	1.0	s a ph aa n^ 
+แขวน	1.0	khw xx n^ 
+กวัด	1.0	kw a t^ 
+แกว่ง	1.0	kw x ng^ 
+แรง	1.0	r xx ng^ 
+พายุ	1.0	ph aa j u 
+ส่อง	1.0	s @ ng^ 
+สว่าง	1.0	s a w aa ng^ 
+ลดละ	1.0	l o t^ l a 
+นอน	1.0	n @@ n^ 
+ทับ	1.0	th a p^ 
+ผม	1.0	ph o m^ 
+อภัย	1.0	z a ph a j^ 
+ขัง	1.0	kh a ng^ 
+รู้	1.0	r uu 
+เชื่อมโยง	1.0	ch vva m^ j oo ng^ 
+ดูถูก	1.0	d uu th uu k^ 
+กฎหมาย	1.0	k o t^ m aa j^ 
+บริเวณ	1.0	b @@ r i w ee n^ 
+จอด	1.0	c @@ t^ 
+รถ	1.0	r o t^ 
+จักรยาน	1.0	c a k^ kr a j aa n^ 
+ยนต์	1.0	j o n^ 
+ใหม่	1.0	m a j^ 
+เต็ม	1.0	t e m^ 
+กล้าหาญ	1.0	kl aa h aa n^ 
+ยอมแพ้	1.0	j @@ m^ ph xx 
+ชนะ	1.0	ch a n a 
+โกง	1.0	k oo ng^ 
+บุฟเฟ่	1.0	b u f^ f ee 
+อารมณ์	1.0	z aa r o m^ 
+ร้าย	1.0	r aa j^ 
+นัก	1.0	n a k^ 
+หล่อน	1.0	l @ n^ 
+เหยียด	1.0	j iia t^ 
+หยาม	1.0	j aa m^ 
+ซ้ำ	1.0	s a m^ 
+โมโห	1.0	m oo h oo 
+อธิบาย	1.0	z a th i b aa j^ 
+เรื่องราว	1.0	r vva ng^ r aa w^ 
+เหมือน	1.0	m vva n^ 
+ใกล้	1.0	kl a j^ 
+สอบ	1.0	s @@ p^ 
+อ่าน	1.0	z aa n^ 
+หนังสือ	1.0	n a ng^ s vv 
+สถานี	1.0	s a th aa n ii 
+รถไฟ	1.0	r o t^ f a j^ 
+ล็อค	1.0	l @ k^ 
+ตำรวจ	1.0	t a m^ r uua t^ 
+สั่น	1.0	s a n^ 
+เพลง	1.0	phl ee ng^ 
+พรุ่ง	1.0	phr u ng^ 
+ข่าวดี	1.0	kh aa w^ d ii 
+เหลือเกิน	1.0	l vva k qq n^ 
+ลุล่วง	1.0	l u l uua ng^ 
+อลิส	1.0	z a l i t^ 
+คิด	1.0	kh i t^ 
+ทน	1.0	th o n^ 
+ยืน	1.0	j vv n^ 
+บิด	1.0	b i t^ 
+นิ้ว	1.0	n i w^ 
+เกา	1.0	k a w^ 
+กรวด	1.0	kr uua t^ 
+เท้า	1.0	th aa w^ 
+ฟอสฟอรัส	1.0	f @@ t^ f @@ r a t^ 
+เซ	1.0	s ee 
+มิ	1.0	m i 
+คอนดักเตอร์	1.0	kh @@ n^ d a k^ t qq 
+ปกครอง	1.0	p o k^ khr @@ ng^ 
+เด็ก	1.0	d e k^ 
+ทอนาโด	1.0	th @@ n aa d oo 
+กำลัง	1.0	k a m^ l a ng^ 
+โหม	1.0	h oo m^ 
+กระหน่ำ	1.0	kr a n a m^ 
+ด้าน	1.0	d aa n^ 
+บน	1.0	b o n^ 
+กังหัน	1.0	k a ng^ h a n^ 
+ลม	1.0	l o m^ 
+เตรียมตัว	1.0	tr iia m^ t uua 
+โปรด	1.0	pr oo t^ 
+อย่า	1.0	j aa 
+ภาพ	1.0	ph aa p^ 
+ขอบคุณ	1.0	kh @@ p^ kh u n^ 
+เสื้อผ้า	1.0	s vva ph aa 
+สไตล์	1.0	s a t aa j^ 
+วินเทจ	1.0	w i n^ th ee t^ 
+ใหญ่	1.0	j a j^ 
+จาก	1.0	c aa k^ 
+ราคา	1.0	r aa kh aa 
+มือ	1.0	m vv 
+ยอม	1.0	j @@ m^ 
+จัดการ	1.0	c a t^ k aa n^ 
+เสียง	1.0	s iia ng^ 
+ดัง	1.0	d a ng^ 
+ก้อง	1.0	k @ ng^ 
+กังวาล	1.0	k a ng^ w aa n^ 
+ทั่ว	1.0	th uua 
+สูง	1.0	s uu ng^ 
+ปิด	1.0	p i t^ 
+ไฟ	1.0	f a j^ 
+ประหลาดใจ	1.0	pr a l aa t^ c a j^ 
+เลือกตั้ง	1.0	l vva k^ t a ng^ 
+โบสถ์	1.0	b oo t^ 
+ตั้ง	1.0	t a ng^ 
+ติด	1.0	t i t^ 
+ปั๊ม	1.0	p a m^ 
+น้ำมัน	1.0	n aa m^ m a n^ 
+แตก	1.0	t xx k^ 
+อีก	1.0	z ii k^ 
+ส่ง	1.0	s o ng^ 
+ครวญคราง	1.0	khr uua n^ khr aa ng^ 
+ดำเนินการ	1.0	d a m^ n qq n^ k aa n^ 
+ประกอบ	1.0	pr a k @@ p^ 
+เรียกร้อง	1.0	r iia r @@ ng^ 
+แย้ง	1.0	j xx ng^ 
+นาง	1.0	n aa ng^ 
+รา	1.0	r aa 
+เชล	1.0	ch ee l^ 
+เพื่อน	1.0	ph vva n^ 
+พักผ่อน	1.0	ph a k^ ph @ n^ 
+ช่วง	1.0	ch uua ng^ 
+บ่าย	1.0	b aa j^ 
+นัด	1.0	n a t^ 
+รับประทาน	1.0	r a p^ pr a th aa n^ 
+เย็น	1.0	j e n^ 
+ร่วม	1.0	r uua m^ 
+ตอบ	1.0	t @@ p^ 
+ไง	1.0	ng a j^ 
+นั่ง	1.0	n a ng^ 
+ข้าง	1.0	kh aa ng^ 
+ถนน	1.0	th a n o n^ 
+เวียดนาม	1.0	w iia t^ n aa m^ 
+เหนือ	1.0	n vva 
+ยึด	1.0	j v t^ 
+ใต้	1.0	t aa j^ 
+หลัง	1.0	l a ng^ 
+อเมริกา	1.0	z a m ee r i k aa 
+หัน	1.0	h a n^ 
+เจ้าหน้าที่	1.0	c a w^ n aa th ii 
+สบาย	1.0	s a b aa j^ 
+หลุม	1.0	l u m^ 
+มอส	1.0	m @@ s^ 
+พลัง	1.0	ph a l a ng^ 
+มหาศาล	1.0	m a h aa s aa n^ 
+จิต	1.0	c i t^ 
+วิญาณ	1.0	w i j aa n^ 
+สงบสุข	1.0	s a ng o p^ s u k^ 
+ตัดสินใจ	1.0	t a t^ s i n^ c a j^ 
+คำ	1.0	kh a m^ 
+ช่าง	1.0	ch aa ng^ 
+โง่เง่า	1.0	ng oo ng a w^ 
+ทราบ	1.0	s aa p^ 
+กระหาย	1.0	kr a h aa j^ 
+เก้าอี้	1.0	k a w^ z ii 
+ปรับ	1.0	pr a p^ 
+เอน	1.0	z ee n^ 
+ต้องการ	1.0	t @ ng^ k aa n^ 
+ท้าทาย	1.0	th aa th aa j^ 
+แม่ครัว	1.0	m xx khr uua 
+ประจำ	1.0	pr a c a m^ 
+พูดจา	1.0	ph uu t^ c aa 
+เหลวไหล	1.0	l ee w^ l a j^ 
+กระซิบ	1.0	kr a s i p^ 
+รำคาญ	1.0	r a m^ kh aa n^ 
+ไอซีบีเอ็ม	1.0	z a j^ s ii b ii z e m^ 
+ย่อ	1.0	j @@ 
+จรวด	1.0	c a r uua t^ 
+มิสไซล์	1.0	m i t^ s a j^ 
+ข้าม	1.0	kh aa m^ 
+ทวีป	1.0	th a w ii p^ 
+สั่ง	1.0	s a ng^ 
+เชื่อฟัง	1.0	ch vva f a ng^ 
+แจ้ง	1.0	c xx ng^ 
+เร็ว	1.0	r e w^ 
+โฆษณา	1.0	kh oo s a n aa 
+ขณะ	1.0	kh a n a 
+ค้นหา	1.0	kh o n^ h aa 
+ออนไลน์	1.0	z @@ n^ l aa j^ 
+ยกย่อง	1.0	j o k^ j @ ng^ 
+ตน	1.0	t o n^ 
+แนะนำ	1.0	n x n a m^ 
+เพราะ	1.0	phr @ 
+ห้องสมุด	1.0	h @ ng^ s a m u t^ 
+พัก	1.0	ph a k^ 
+ทำไม	1.0	th a m^ m a j^ 
+ล่ะ	1.0	l a 
+เอ็ด	1.0	z e t^ 
+การ์	1.0	k aa 
+ถ้าหาก	1.0	th aa h aa k^ 
+เบอร์	1.0	b qq 
+แทรม	1.0	s xx m^ 
+ป้า	1.0	p aa 
+ชอบ	1.0	ch @@ p^ 
+ข้าว	1.0	kh aa w^ 
+ผัด	1.0	ph a t^ 
+กุ้ง	1.0	k u ng^ 
+ลิ้นชัก	1.0	l i n^ ch a k^ 
+สนิท	1.0	s a n i t^ 
+ดึง	1.0	d v ng^ 
+หน้าต่าง	1.0	n aa t aa ng^ 
+ทิ้ง	1.0	th i ng^ 
+บาน	1.0	b aa n^ 
+พัสดุ	1.0	ph a t^ s a d u 
+ทัน	1.0	th a n^ 
+นาฬิกา	1.0	n aa l i k aa 
+ดิจิตอล	1.0	d i c i t @ n^ 
+อนาล็อก	1.0	z a n aa l @ k^ 
+ใด	1.0	d a j^ 
+เบื่อหน่าย	1.0	b vva n aa j^ 
+สุข	1.0	s u k^ 
+การบ้าน	1.0	k aa n^ b aa n^ 
+ครู	1.0	khr uu 
+ภาษา	1.0	ph aa s aa 
+ไทย	1.0	th a j^ 
+เสร็จ	1.0	s e t^ 
+เรียบร้อย	1.0	r iia p^ r @@ j^ 
+ดูแล	1.0	d uu l xx 
+อัดลม	1.0	z a t^ l o m^ 
+น้ำตาล	1.0	n aa m^ t aa n^ 
+อินเทอร์เน็ต	1.0	z i n^ th qq n e t^ 
+ผิด	1.0	ph i t^ 
+ปกติ	1.0	p o k^ k a t i 
+พอใจ	1.0	ph @@ c a j^ 
+มอง	1.0	m @@ ng^ 
+แง่	1.0	ng xx 
+จำ	1.0	c a m^ 
+รหัส	1.0	r a h a t^ 
+บัญชี	1.0	b a n^ ch ii 
+เก่า	1.0	k a w^ 
+พ่อ	1.0	ph @@ 
+ตากอากาศ	1.0	t aa k^ z aa k aa t^ 
+ริม	1.0	r i m^ 
+ทะเลชะอำ	1.0	th a l ee ch a z a m^ 
+รางวัล	1.0	r aa ng^ w a n^ 
+หนู	1.0	n uu 
+พระราชา	1.0	phr a r aa ch aa 
+พร้อม	1.0	phr @@ m^ 
+ลูกขุน	1.0	l uu k^ kh u n^ 
+วิทยาลัย	1.0	w i t^ th a j aa l a j^ 
+ประสิทธิภาพ	1.0	pr a s i t^ th i ph aa p^ 
+เหลือ	1.0	l vva 
+แหวน	1.0	w xx n^ 
+แขก	1.0	kh xx k^ 
+ฆ่า	1.0	kh aa 
+ตา	1.0	t aa 
+เทา	1.0	th a w^ 
+สะดุด	1.0	s a d u t^ 
+ล้าง	1.0	l aa ng^ 
+ลึก	1.0	l v k^ 
+ช้าง	1.0	ch aa ng^ 
+ลืม	1.0	l vv m^ 
+กล่าวหา	1.0	kl aa w^ h aa 
+ฐาน	1.0	th aa n^ 
+ข่มขืน	1.0	kh o m^ kh vv n^ 
+ประกาศ	1.0	pr a k aa t^ 
+ตี	1.0	t ii 
+ขาว	1.0	kh aa w^ 
+สาม	1.0	s aa m^ 
+หมื่น	1.0	m vv n^ 
+พรรณ	1.0	ph a n^ 
+ไม้	1.0	m aa j^ 
+ถิ่น	1.0	th i n^ 
+คุย	1.0	kh u j^ 
+โทรศัพท์	1.0	th oo r a s a p^ 
+เล่น	1.0	l e n^ 
+ไวโอลิน	1.0	w a j^ z oo l i n^ 
+ศักดิ์ศรี	1.0	s a k^ s ii 
+เจ็บปวด	1.0	c e p^ p uua t^ 
+ทางตัน	1.0	th aa ng^ t a n^ 
+ปรากฏ	1.0	pr aa k o t^ 
+ทดสอบ	1.0	th o t^ s @@ p^ 
+เออร์เนสต์	1.0	z qq n ee s^ 
+เท็จจริง	1.0	th e t^ c i ng^ 
+ผล	1.0	ph o n^ 
+นั่น	1.0	n a n^ 
+ผิดพลาด	1.0	ph i t^ phl aa t^ 
+อนุญาต	1.0	z a n u j aa t^ 
+อรัญญา	1.0	z a r a n^ j aa 
+ร้อง	1.0	r @@ ng^ 
+เก่ง	1.0	k e ng^ 
+จง	1.0	c o ng^ 
+อาดา	1.0	z aa d aa 
+รีชาร์ด	1.0	r ii ch aa t^ 
+ก้ม	1.0	k o m^ 
+รู้จัก	1.0	r uu c a k^ 
+ตกใจ	1.0	t o k^ c a j^ 
+ขนาด	1.0	kh a n aa t^ 
+คง	1.0	kh o ng^ 
+เดิน	1.0	d qq n^ 
+หาก	1.0	h aa k^ 
+หมาย	1.0	m aa j^ 
+กล้า	1.0	kl aa 
+กลับ	1.0	kl a p^ 
+ประโยค	1.0	pr a j oo k^ 
+ยาว	1.0	j aa w^ 
+สับสน	1.0	s a p^ s o n^ 
+วก	1.0	w o k^ 
+วน	1.0	w o n^ 
+ถ่าน	1.0	th aa n^ 
+เผา	1.0	ph a w^ 
+จน	1.0	c o n^ 
+ขี้	1.0	kh ii 
+เถ้า	1.0	th a w^ 
+อายุ	1.0	z aa j u 
+มอบ	1.0	m @@ p^ 
+ยินยอม	1.0	j i n^ j @@ m^ 
+สิทธิ	1.0	s i t^ th i 
+ตาราง	1.0	t aa r aa ng^ 
+แน่น	1.0	n x n^ 
+เดือน	1.0	d vva n^ 
+เข้า	1.0	kh a w^ 
+เฝ้า	1.0	f a w^ 
+ประตู	1.0	pr a t uu 
+พังพาบ	1.0	ph a ng^ ph aa p^ 
+พื้น	1.0	ph vv n^ 
+เป่า	1.0	p a w^ 
+ยาง	1.0	j aa ng^ 
+ผสม	1.0	ph a s o m^ 
+กลูเตน	1.0	kl uu t ee n^ 
+ใช่ไหม	1.0	ch a j^ m a j^ 
+เหล่า	1.0	l a w^ 
+ความหมาย	1.0	khw aa m^ m aa j^ 
+ทุกข์	1.0	th u k^ 
+แนวโน้ม	1.0	n xx w^ n oo m^ 
+ก่อ	1.0	k @@ 
+ทุน	1.0	th u n^ 
+เหลือเฟือ	1.0	l vva f vva 
+ทว่า	1.0	th a w aa 
+เพิ่ม	1.0	ph qq m^ 
+กำหนด	1.0	k a m^ n o t^ 
+ฝัน	1.0	f a n^ 
+คะแนน	1.0	kh a n xx n^ 
+อาชญากร	1.0	z aa t^ ch a j aa k @@ n^ 
+กระทำ	1.0	kr a th a m^ 
+เมือง	1.0	m vva ng^ 
+เกี่ยวข้อง	1.0	k iia w^ kh @ ng^ 
+ก้อน	1.0	k @@ n^ 
+สกปรก	1.0	s o k^ k a pr o k^ 
+ขน	1.0	kh o n^ 
+สุนทรพจน์	1.0	s u n^ th @@ n^ r a ph o t^ 
+พิเศษ	1.0	ph i s ee t^ 
+ประท้วง	1.0	pr a th uua ng^ 
+จดจำ	1.0	c o t^ c a m^ 
+โชติช่วง	1.0	ch oo t^ ch uua ng^ 
+นาน	1.0	n aa n^ 
+เกียรติ	1.0	k iia t^ 
+สมควร	1.0	s o m^ kh uua n^ 
+แอปพลิเคชัน	1.0	z xx p^ phl i kh ee ch a n^ 
+ระบบ	1.0	r a b o p^ 
+บูรณาการ	1.0	b uu r a n aa k aa n^ 
+แนว	1.0	n xx w^ 
+หัวหน้า	1.0	h uua n aa 
+ชมเชย	1.0	ch o m^ ch qq j^ 
+เดิมพัน	1.0	d qq m^ ph a n^ 
+ยินดี	1.0	j i n^ d ii 
+ต้อนรับ	1.0	t @@ n^ r a p^ 
+สู่	1.0	s uu 
+กีตาร์	1.0	k ii t aa 
+เดฟ	1.0	d ee f^ 
+ธนาคาร	1.0	th a n aa kh aa n^ 
+ปฏิเสธ	1.0	p a t i s ee t^ 
+ฝาก	1.0	f aa k^ 
+สุนัข	1.0	s u n a k^ 
+อ้วน	1.0	z uua n^ 
+ร่างกาย	1.0	r aa ng^ k aa j^ 
+ชื่อเสียง	1.0	ch vv s iia ng^ 
+เบื้อง	1.0	b vva ng^ 
+เพิ่ง	1.0	ph qq ng^ 
+สังเกต	1.0	s a ng^ k ee t^ 
+แฮ	1.0	h xx 
+รี่	1.0	r ii 
+รัง	1.0	r a ng^ 
+รอ	1.0	r @@ 
+ลูก	1.0	l uu k^ 
+จบ	1.0	c o p^ 
+โรง	1.0	r oo ng^ 
+ประถม	1.0	pr a th o m^ 
+มัธยม	1.0	m a t^ th a j o m^ 
+หลักสูตร	1.0	l a k^ s uu t^ 
+เข้มข้น	1.0	kh ee m^ kh o n^ 
+เลื่อน	1.0	l vva n^ 
+สกี	1.0	s a k ii 
+ก่อน	1.0	k @@ n^ 
+พระอาทิตย์	1.0	phr a z aa th i t^ 
+อ่ะ	1.0	z a 
+ปฏิกิริยา	1.0	p a t i k i r i j aa 
+ทั่วไป	1.0	th uua p a j^ 
+แนะ	1.0	n x 
+วัคซีน	1.0	w a k^ s ii n^ 
+หยด	1.0	j o t^ 
+สนาม	1.0	s a n aa m^ 
+หญ้า	1.0	j aa 
+แน่	1.0	n xx 
+อา	1.0	z aa 
+ชน	1.0	ch o n^ 
+ขับ	1.0	kh a p^ 
+ประมาท	1.0	pr a m aa t^ 
+ซีเรีย	1.0	s ii r iia 
+เปลี่ยน	1.0	pl iia n^ 
+ชา	1.0	ch aa 
+บู	1.0	b uu 
+จัง	1.0	c a ng^ 
+ช่อง	1.0	ch @ ng^ 
+เก้า	1.0	k aa w^ 
+หก	1.0	h o k^ 
+ยี่	1.0	j ii 
+อลิซ	1.0	z a l i t^ 
+แปลกใจ	1.0	pl xx k^ c a j^ 
+อุ้ม	1.0	z u m^ 
+ประทับใจ	1.0	pr a th a p^ c a j^ 
+ยาวนาน	1.0	j aa w^ n aa n^ 
+กระตือรือร้น	1.0	kr a t vv r vv r o n^ 
+สิทธิ์	1.0	s i t^ 
+แน่ใจ	1.0	n xx c a j^ 
+โทษ	1.0	th oo t^ 
+ต้น	1.0	t o n^ 
+อินทผลัม	1.0	z i n^ th a phl a m^ 
+เปลว	1.0	pl ee w^ 
+เพลิง	1.0	phl qq ng^ 
+ธรรมชาติ	1.0	th a m^ m a ch aa t^ 
+แข็ง	1.0	kh x ng^ 
+เช้า	1.0	ch aa w^ 
+พระภิกษุ	1.0	phr a ph i k^ s u 
+บิณฑบาต	1.0	b i n^ th a b aa t^ 
+ปุบ	1.0	p u p^ 
+เริ่ม	1.0	r qq m^ 
+สันนิษฐาน	1.0	s a n^ n i t^ th aa n^ 
+เถอะ	1.0	th q 
+วิทยาศาสตร์	1.0	w i t^ th a j aa s aa t^ 
+เขียน	1.0	kh iia n^ 
+กระดาษ	1.0	kr a d aa t^ 
+อาทิตย์	1.0	z aa th i t^ 
+ตัด	1.0	t a t^ 
+ถาม	1.0	th aa m^ 
+แต่งงาน	1.0	t x ng^ ng aa n^ 
+หู	1.0	h uu 
+แหม	1.0	m xx 
+ง่าย	1.0	ng aa j^ 
+อาสา	1.0	z aa s aa 
+สมัคร	1.0	s a m a k^ 
+เขต	1.0	kh ee t^ 
+อนุรักษ์	1.0	z a n u r a k^ 
+ติดต่อ	1.0	t i t^ t @@ 
+จนถึง	1.0	c o n^ th v ng^ 
+นอก	1.0	n @@ k^ 
+ทีม	1.0	th ii m^ 
+ค่อย	1.0	kh @ j^ 
+นับถือ	1.0	n a p^ th vv 
+ญาติ	1.0	j aa t^ 
+ยีราฟ	1.0	j ii r aa p^ 
+มังสวิรัติ	1.0	m a ng^ s a w i r a t^ 
+สนุก	1.0	s a n u k^ 
+ราว	1.0	r aa w^ 
+อธิษฐาน	1.0	z a th i t^ th aa n^ 
+พระเจ้า	1.0	phr a c aa w^ 
+งู	1.0	ng uu 
+แล้วอลิซ	1.0	l xx w @@ l i t^ 
+เลิศ	1.0	l qq t^ 
+มายด์	1.0	m aa j^ 
+ผิวปาก	1.0	ph i w^ p aa k^ 
+เดินขบวน	1.0	d qq n^ kh a b uua n^ 
+เชือก	1.0	ch vva k^ 
+ตั้งใจ	1.0	t a ng^ c a j^ 
+เปลือก	1.0	pl vva k^ 
+หนา	1.0	n aa 
+สมอ	1.0	s a m @@ 
+ชุด	1.0	ch u t^ 
+เดรส	1.0	dr ee t^ 
+น้ำเงิน	1.0	n aa m^ ng q n^ 
+เข้ม	1.0	kh e m^ 
+ซึ่ง	1.0	s v ng^ 
+สวม	1.0	s uua m^ 
+บ่อย	1.0	b @ j^ 
+ฟิช	1.0	f i t^ 
+แอนด์	1.0	z xx n^ 
+ชิปส์	1.0	ch i p^ 
+คลอเลสเตอรอล	1.0	khl @@ l ee t^ t qq r @@ n^ 
+อื่น	1.0	z vv n^ 
+พิการ	1.0	ph i k aa n^ 
+รุนแรง	1.0	r u n^ r xx ng^ 
+เงี้ยว	1.0	ng iia w^ 
+เขี้ยว	1.0	kh iia w^ 
+เลื้อย	1.0	l vva j^ 
+ขยะแขยง	1.0	kh a j a kh a j xx ng^ 
+อีตัน	1.0	z ii t a n^ 
+เชื่อถือ	1.0	ch vva th vv 
+ชื่อ	1.0	ch vv 
+จดหมาย	1.0	c o t^ m aa j^ 
+ครอบครัว	1.0	khr @@ p^ khr uua 
+ร่าเริง	1.0	r aa r qq ng^ 
+ราบรื่น	1.0	r aa p^ r vv n^ 
+คว่ำ	1.0	khw a m^ 
+งั้น	1.0	ng a n^ 
+ฮาร์ดไดรฟ์	1.0	h aa t^ d a j^ 
+เรียง	1.0	r iia ng^ 
+ข้อมูล	1.0	kh @@ m uu n^ 
+วาง	1.0	w aa ng^ 
+หัวไหล่	1.0	h uua l a j^ 
+ล้ม	1.0	l o m^ 
+ล้มเลิก	1.0	l o m^ l qq k^ 
+เชื่อง	1.0	ch vva ng^ 
+ปล่อย	1.0	pl @ j^ 
+แบน	1.0	b xx n^ 
+ไร้	1.0	r a j^ 
+ประโยชน์	1.0	pr a j oo t^ 
+เจ้าของ	1.0	c a w^ kh @@ ng^ 
+แดง	1.0	d xx ng^ 
+โทรทัศน์	1.0	th oo r a th a t^ 
+เสา	1.0	s a w^ 
+อากาศ	1.0	z aa k aa t^ 
+วิทยุ	1.0	w i t^ th a j u 
+ถือ	1.0	th vv 
+โบราณ	1.0	b oo r aa n^ 
+สภาพ	1.0	s a ph aa p^ 
+ฟัน	1.0	f a n^ 
+ผุ	1.0	ph u 
+จำเป็น	1.0	c a m^ p e n^ 
+ต่ำ	1.0	t a m^ 
+ย่าน	1.0	j aa n^ 
+กึ่ง	1.0	k v ng^ 
+ที่อยู่อาศัย	1.0	th ii j uu z aa s a j^ 
+นิคม	1.0	n i kh o m^ 
+อุตสาหกรรม	1.0	z u t^ s aa h a k a m^ 
+สูตร	1.0	s uu t^ 
+ปราศจาก	1.0	pr aa t^ s a c aa k^ 
+ชื่นชม	1.0	ch vv n^ ch o m^ 
+หนทาง	1.0	h o n^ th aa ng^ 
+มุ่ง	1.0	m u ng^ 
+ชาร์ลี	1.0	ch aa l ii 
+คบ	1.0	kh o p^ 
+ลุง	1.0	l u ng^ 
+สำรวจ	1.0	s a m^ r uua t^ 
+วัสดุ	1.0	w a t^ s a d u 
+หยิบ	1.0	j i p^ 
+เต๋า	1.0	t a w^ 
+ทอย	1.0	th @@ j^ 
+แก่	1.0	k xx 
+เปรียบเทียบ	1.0	pr iia p^ th iia p^ 
+ระหว่าง	1.0	r a w aa ng^ 
+แอปเปิ้ล	1.0	z x p^ p q n^ 
+ส้ม	1.0	s o m^ 
+ล่ม	1.0	l o m^ 
+ครู่	1.0	khr uu 
+ริคาโด	1.0	r i kh aa d oo 
+ร่ำร้อง	1.0	r a m^ r @@ ng^ 
+สุก	1.0	s u k^ 
+คนตาบอด	1.0	kh o n^ t aa b @@ t^ 
+หลบหลีก	1.0	l o p^ l ii k^ 
+วัตถุ	1.0	w a t^ th u 
+เทคโนโลยี	1.0	th e k^ n oo l oo j ii 
+เคาะ	1.0	kh @ 
+เสื้อ	1.0	s vva 
+แห่	1.0	h xx 
+หลับ	1.0	l a p^ 
+หลีกเลี่ยง	1.0	l ii k^ l iia ng^ 
+ล่าง	1.0	l aa ng^ 
+เจ้า	1.0	c aa w^ 
+หนอน	1.0	n @@ n^ 
+ตะโกน	1.0	t a k oo n^ 
+ชีส	1.0	ch ii s^ 
+ขูด	1.0	kh uu t^ 
+ฝอย	1.0	f @ j^ 
+โรย	1.0	r oo j^ 
+พึ่ง	1.0	ph v ng^ 
+ไล่	1.0	l a j^ 
+เที่ยง	1.0	th iia ng^ 
+โซดาไบ	1.0	s oo d aa b a j^ 
+คาบ	1.0	kh aa p^ 
+อเนต	1.0	z a n ee t^ 
+รู้จักดี	1.0	r uu c a k^ d ii 
+ผง	1.0	ph o ng^ 
+ฟู	1.0	f uu 
+เค้ก	1.0	kh ee k^ 
+กู้	1.0	k uu 
+ภูเขา	1.0	ph uu kh a w^ 
+แพ้	1.0	ph xx 
+อนาถใจ	1.0	z a n aa t^ c a j^ 
+โอ้	1.0	z oo 
+ยกโทษ	1.0	j o k^ th oo t^ 
+เยี่ยม	1.0	j iia m^ 
+หน้ามืดตามัว	1.0	n aa m vv t^ t aa m uua 
+อุบัติเหตุ	1.0	z u b a t^ t i h ee t^ 
+ไฟฟ้า	1.0	f a j^ f aa 
+พลังงาน	1.0	phl a ng^ ng aa n^ 
+นิวเคลียร์	1.0	n i w^ khl iia 
+หาย	1.0	h aa j^ 
+จับจ้อง	1.0	c a p^ c @ ng^ 
+อบอุ่น	1.0	z o p^ z u n^ 
+เช้าตรู่	1.0	ch a w^ tr uu 
+ปลดปล่อย	1.0	pl o t^ pl @@ j^ 
+ลำ	1.0	l a m^ 
+ธาร	1.0	th aa n^ 
+ล้มเหลว	1.0	l o m^ l ee w^ 
+โซเฟีย	1.0	s oo f iia 
+บิล	1.0	b i n^ 
+สูญ	1.0	s uu n^ 
+เกือบ	1.0	k vva p^ 
+แสน	1.0	s xx n^ 
+ปอนด์	1.0	p @@ n^ 
+เอสเปอร์เจอร์ซินโดรม	1.0	z ee s^ p qq c qq s i n^ dr oo m^ 
+ออทิสติก	1.0	z @@ th i t^ t i k^ 
+คล้ายคลึง	1.0	khl aa j^ khl v ng^ 
+เท	1.0	th ee 
+ซ่อม	1.0	s @ m^ 
+คัน	1.0	kh a n^ 
+สนุกสนาน	1.0	s a n u k^ s a n aa n^ 
+โธมัส	1.0	th oo m a t^ 
+ก้าว	1.0	k aa w^ 
+สุภาพสตรี	1.0	s u ph aa p^ s a tr ii 
+พฤติกรรม	1.0	phr v t^ t i k a m^ 
+จนกระทั่ง	1.0	c o n^ kr a th a ng^ 
+รายละเอียด	1.0	r aa j^ l a z iia t^ 
+แน่นอน	1.0	n xx n @@ n^ 
+ทิวดอร์	1.0	th i w^ d @@ 
+โกรธ	1.0	kr oo t^ 
+อ๊อซฟอร์ด	1.0	z @@ t^ f @@ t^ 
+แคม	1.0	kh xx m^ 
+บริชด์	1.0	b @@ r i t^ 
+สถาบัน	1.0	s a th aa b a n^ 
+จิตวิทยา	1.0	c i t^ t a w i t^ th a j aa 
+ก้าวร้าว	1.0	k aa w^ r aa w^ 
+งุนงง	1.0	ng u n^ ng o ng^ 
+เมินเฉย	1.0	m qq n^ ch qq j^ 
+เข้าใจ	1.0	kh a w^ c a j^ 
+ปะทะ	1.0	p a th a 
+เรียนรู้	1.0	r iia n^ r uu 
+สัตววิทยา	1.0	s a t^ t a w a w i t^ th a j aa 
+สถานการณ์	1.0	s a th aa n^ k aa n^ 
+เย็บ	1.0	j e p^ 
+ซ่อมแซม	1.0	s @ m^ s xx m^ 
+กระสอบ	1.0	kr a s @@ p^ 
+ดัดแปร	1.0	d a t^ pr xx 
+รูปแบบ	1.0	r uu p^ b xx p^ 
+คงที่	1.0	kh o ng^ th ii 
+เปล่ง	1.0	pl e ng^ 
+จมูก	1.0	c a m uu k^ 
+ส่าย	1.0	s aa j^ 
+ไอลีน	1.0	z a j^ l ii n^ 
+อุป	1.0	z u p^ 
+ชื่น	1.0	ch vv n^ 
+แท่ง	1.0	th x ng^ 
+ทอด	1.0	th @@ t^ 
+มันฝรั่ง	1.0	m a n^ f a r a ng^ 
+กรอบ	1.0	kr @@ p^ 
+ถั่ว	1.0	th uua 
+อบ	1.0	z o p^ 
+ซอสมะเขือเทศ	1.0	s @@ t^ m a kh vva th ee t^ 
+ถี่	1.0	th ii 
+สเปกตรัม	1.0	s a p e k^ tr a m^ 
+ดูดซับ	1.0	d uu t^ s a p^ 
+โมเลกุล	1.0	m oo l ee k u n^ 
+ไฮโดรเจน	1.0	h a j^ dr oo c e n^ 
+ไอออน	1.0	z a j^ z @ n^ 
+ไนซ์	1.0	n a j^ 
+คำนึง	1.0	kh a m^ n v ng^ 
+ลูกค้า	1.0	l uu k^ kh aa 
+เสมอ	1.0	s a m qq 
+ปิแอร์	1.0	p i z xx 
+นึก	1.0	n v k^ 
+แรม	1.0	r xx m^ 
+ต่าง	1.0	t aa ng^ 
+ประเทศ	1.0	pr a th ee t^ 
+ผู้คน	1.0	ph uu kh o n^ 
+หลงใหล	1.0	l o ng^ l a j^ 
+กุ๊ก	1.0	k u k^ 
+จูจิตสุ	1.0	c uu c i t^ s u 
+ศิลปะ	1.0	s i n^ l a p a 
+ป้องกัน	1.0	p @ ng^ k a n^ 
+เนิน	1.0	n qq n^ 
+เปล่า	1.0	pl aa w^ 
+เดา	1.0	d a w^ 
+สัญญา	1.0	s a n^ j aa 
+นิ	1.0	n i 
+ชาร์ลีย์	1.0	ch aa l ii 
+เช่า	1.0	ch a w^ 
+กฎ	1.0	k o t^ 
+บท	1.0	b o t^ 
+ควบรวม	1.0	kh uua p^ r uua m^ 
+หน่วย	1.0	n uua j^ 
+วา	1.0	w aa 
+ด้า	1.0	d aa 
+ลู	1.0	l uu 
+อิส	1.0	z i t^ 
+สตีเวิร์ด	1.0	s a t ii w qq t^ 
+ลูกจ้าง	1.0	l uu k^ c aa ng^ 
+บริษัท	1.0	b @@ r i s a t^ 
+เอเชียทิ	1.0	z ee ch iia th i 
+คบรีด	1.0	kh o p^ r ii t^ 
+กรรไกร	1.0	k a n^ kr a j^ 
+โลหะ	1.0	l oo h a 
+อ่า	1.0	z aa 
+เกาหลีเหนือ	1.0	k a w^ l ii n vva 
+ปลด	1.0	pl o t^ 
+อาวุธ	1.0	z aa w u t^ 
+คนใช้	1.0	kh o n^ ch a j^ 
+นวนิยาย	1.0	n a w a n i j aa j^ 
+สุดท้าย	1.0	s u t^ th aa j^ 
+ฉาก	1.0	ch aa k^ 
+ปาก	1.0	p aa k^ 
+ปล่อง	1.0	pl @ ng^ 
+ไซบีเรีย	1.0	s a j^ b ii r iia 
+สัก	1.0	s a k^ 
+แผน	1.0	ph xx n^ 
+คลุมเคลือ	1.0	khl u m^ khl vva 
+ล่วง	1.0	l uua ng^ 
+เจ้านาย	1.0	c aa w^ n aa j^ 
+เฮนรี่	1.0	h e n^ r ii 
+หัวเราะ	1.0	h uua r @ 
+หมวก	1.0	m uua k^ 
+กอง	1.0	k @@ ng^ 
+ทัพ	1.0	th a p^ 
+คลัง	1.0	khl a ng^ 
+อ้าง	1.0	z aa ng^ 
+จุด	1.0	c u t^ 
+ซอฟแวร์	1.0	s @@ f^ w xx 
+ตลก	1.0	t a l o k^ 
+ถ้อยคำ	1.0	th @@ j^ kh a m^ 
+รัฐบาล	1.0	r a t^ th a b aa n^ 
+โง่	1.0	ng oo 
+คลาน	1.0	khl aa n^ 
+พง	1.0	ph o ng^ 
+บ้า	1.0	b aa 
+หลัก	1.0	l a k^ 
+บริหาร	1.0	b @@ r i h aa n^ 
+กลยุทธ์	1.0	k o n^ l a j u t^ 
+อร่อย	1.0	z a r @ j^ 
+คาดหวัง	1.0	kh aa t^ w a ng^ 
+ชื้น	1.0	ch vv n^ 
+เค้า	1.0	kh a w^ 
+โทมัส	1.0	th oo m a s^ 
+เครื่องหมาย	1.0	khr vva ng^ m aa j^ 
+อุปกรณ์	1.0	z u p^ p a k @@ n^ 
+จอย	1.0	c @@ j^ 
+สาย	1.0	s aa j^ 
+ปัญหา	1.0	p a n^ h aa 
+เชื่อม	1.0	ch vva m^ 
+ลบ	1.0	l o p^ 
+ตื่น	1.0	t vv n^ 
+รุ่งสาง	1.0	r u ng^ s aa ng^ 
+ตรวจสอบ	1.0	tr uua t^ s @@ p^ 
+วัด	1.0	w a t^ 
+ขา	1.0	kh aa 
+ภาคภูมิ	1.0	ph aa k^ ph uu m^ 
+เพนกวิ้น	1.0	ph ee n^ kw i n^ 
+ยิ้ม	1.0	j i m^ 
+ตุ่ม	1.0	t u m^ 
+ผา	1.0	ph aa 
+สุภาพ	1.0	s u ph aa p^ 
+คืบหน้า	1.0	kh vv p^ n aa 
+หลังคา	1.0	l a ng^ kh aa 
+ฝุ่น	1.0	f u n^ 
+ยก	1.0	j o k^ 
+สหรัฐ	1.0	s a h a r a t^ 
+เปิดเผย	1.0	p qq t^ ph qq j^ 
+วิธี	1.0	w i th ii 
+กำจัด	1.0	k a m^ c a t^ 
+ยุง	1.0	j u ng^ 
+ช่วยเหลือ	1.0	ch uua j^ l vva 
+ท่อน	1.0	th @ n^ 
+อุกกาบาต	1.0	z u k^ k aa b aa t^ 
+รบกวน	1.0	r o p^ k uua n^ 
+แปล	1.0	p xx 
+คัดเลือก	1.0	kh a t^ l vva k^ 
+เหนื่อย	1.0	n vva j^ 
+ยาน	1.0	j aa n^ 
+อวกาศ	1.0	z a w a k aa t^ 
+ฟอก	1.0	f @@ k^ 
+กรอง	1.0	kr @@ ng^ 
+คาร์บอนไดออกไซด์	1.0	kh aa b @@ n^ d a j^ z @@ k^ s a j^ 
+มรดก	1.0	m @@ r a d o k^ 
+รูป	1.0	r uu p^ 
+ปั้น	1.0	p a n^ 
+พินัยกรรม	1.0	ph i n a j^ k a m^ 
+ยาย	1.0	j aa j^ 
+สนอง	1.0	s a n @@ ng^ 
+ชาติ	1.0	ch aa t^ 
+เอาชนะ	1.0	z a w^ ch a n a 
+กวาง	1.0	kw aa ng^ 
+ชั้น	1.0	ch a n^ 
+หาร	1.0	h aa n^ 
+เชิง	1.0	ch qq ng^ 
+ซ้อน	1.0	s @@ n^ 
+อีเมล์	1.0	z ii m ee l^ 
+ข่มขู่	1.0	kh o m^ kh uu 
+จุดจบ	1.0	c u t^ c o p^ 
+กรีซ	1.0	kr ii t^ 
+ประชาธิปไตย	1.0	pr a ch aa th i p^ p a t a j^ 
+ประดิษฐ์	1.0	pr a d i t^ 
+โต๊ะ	1.0	t o 
+วิทยสิริเมธี	1.0	w i t^ th a j a s i r i m ee th ii 
+อุดมศึกษา	1.0	z u d o m^ s v k^ s aa 
+จังหวัด	1.0	c a ng^ w a t^ 
+ระยอง	1.0	r a j @@ ng^ 
+ภรรยา	1.0	ph a n^ r a j aa 
+ริคาร์โด้	1.0	r i kh aa d oo 
+กวน	1.0	k uua n^ 
+หนัง	1.0	n a ng^ 
+ศีรษะ	1.0	s ii s a 
+ซีเมนต์	1.0	s ii m ee n^ 
+ปลูก	1.0	pl uu k^ 
+ต้นไม้	1.0	t o n^ m aa j^ 
+ขอนแก่น	1.0	kh @@ n^ k x n^ 
+ขาดแคลน	1.0	kh aa t^ khl xx n^ 
+กุญแจ	1.0	k u n^ c xx 
+ลูกบุญธรรม	1.0	l uu k^ b u n^ th a m^ 
+จอร์จ	1.0	c @@ t^ 
+เพชร	1.0	ph e t^ 
+เก็บรักษา	1.0	k e p^ r a k^ s aa 
+สถานที่	1.0	s a th aa n^ th ii 
+เบรค	1.0	br ee k^ 
+พอดี	1.0	ph @@ d ii 
+ดับ	1.0	d a p^ 
+ท่องเที่ยว	1.0	th @@ ng^ th iia w^ 
+วุ่นวาย	1.0	w u n^ w aa j^ 
+ไฟล์	1.0	f a j^ 
+หลาย	1.0	l aa j^ 
+กิกะไบต์	1.0	k i k a b a j^ 
+กระปุก	1.0	kr a p u k^ 
+ออมสิน	1.0	z @@ m^ s i n^ 
+หัวโจก	1.0	h uua c oo k^ 
+บาสเซตต์	1.0	b aa t^ s ee t^ 
+ชัดเจน	1.0	ch a t^ c ee n^ 
+เย็นชา	1.0	j e n^ ch aa 
+ทุเรียน	1.0	th u r iia n^ 
+พืช	1.0	ph vv t^ 
+เศรษฐกิจ	1.0	s ee t^ th a k i t^ 
+สูญเสีย	1.0	s uu n^ s iia 
+ปศุสัตว์	1.0	p a s u s a t^ 
+แหละ	1.0	l x 
+ร้องไห้	1.0	r @@ ng^ h a j^ 
+ผี	1.0	ph ii 
+สว่าน	1.0	s a w aa n^ 
+สั่นสะเทือน	1.0	s a n^ s a th vva n^ 
+ควบคุม	1.0	kh uua p^ kh u m^ 
+ไกล	1.0	kl a j^ 
+ใช้จ่าย	1.0	ch a j^ c aa j^ 
+พล่าม	1.0	phl aa m^ 
+พล่อย	1.0	phl @ j^ 
+แวววาว	1.0	w xx w^ w aa w^ 
+กระจาย	1.0	kr a c aa j^ 
+อำนาจ	1.0	z a m^ n aa t^ 
+ม้า	1.0	m aa 
+ไหว	1.0	w a j^ 
+ไมโครซอฟท์	1.0	m a j^ khr oo s @@ f^ 
+ใจกว้าง	1.0	c a j^ kw aa ng^ 
+แหล่ง	1.0	l x ng^ 
+เนี่ย	1.0	n iia 
+สุด	1.0	s u t^ 
+ยอด	1.0	j @@ t^ 
+แห่ง	1.0	h x ng^ 
+วิศวกรรม	1.0	w i t^ s a w a k a m^ 
+เมาส์	1.0	m a w^ 
+ฝน	1.0	f o n^ 
+เลิก	1.0	l qq k^ 
+กว้าง	1.0	kw aa ng^ 
+อาจารย์	1.0	z aa c aa n^ 
+ทรง	1.0	s o ng^ 
+สอบถาม	1.0	s @@ p^ th aa m^ 
+แฮร์รี่	1.0	h xx r ii 
+เกม	1.0	k ee m^ 
+แลดดี้	1.0	l xx t^ d ii 
+สรุป	1.0	s a r u p^ 
+อ่อน	1.0	z @@ n^ 
+เฮลิคอปเตอร์	1.0	h ee l i kh @ p^ t qq 
+ประสบ	1.0	pr a s o p^ 
+ปฐมพยาบาล	1.0	p a th o m^ ph a j aa b aa n^ 
+เชียงใหม่	1.0	ch iia ng^ m a j^ 
+หรอ	1.0	r @@ 
+แถม	1.0	th xx m^ 
+จำนวน	1.0	c a m^ n uua n^ 
+แยก	1.0	j xx k^ 
+อะตอม	1.0	z a t @ m^ 
+ไซยาไนด์	1.0	s a j^ j aa n a j^ 
+พระคัมภีร์	1.0	phr a kh a m^ ph ii 
+กี่	1.0	k ii 
+เร่ง	1.0	r e ng^ 
+รวบรวม	1.0	r uua p^ r uua m^ 
+แผนที่	1.0	ph xx n^ th ii 
+ลา	1.0	l aa 
+ไสยศาสตร์	1.0	s a j^ j a s aa t^ 
+แข็งแรง	1.0	kh x ng^ r xx ng^ 
+สาร	1.0	s aa n^ 
+เสพ	1.0	s ee p^ 
+อันตราย	1.0	z a n^ tr aa j^ 
+หิว	1.0	h i w^ 
+ราเชล	1.0	r aa ch ee l^ 
+เขิน	1.0	kh qq n^ 
+อาย	1.0	z aa j^ 
+บี	1.0	b ii 
+เดินทาง	1.0	d qq n^ th aa ng^ 
+ท่ามกลาง	1.0	th aa m^ kl aa ng^ 
+ศูนย์	1.0	s uu n^ 
+ภาพบำบัด	1.0	ph aa p^ b a m^ b a t^ 
+บรรยากาศ	1.0	b a n^ j aa k aa t^ 
+ใจกลาง	1.0	c a j^ kl aa ng^ 
+ดั้งเดิม	1.0	d a ng^ d qq m^ 
+ถูกต้อง	1.0	th uu k^ t @ ng^ 
+แวะ	1.0	w x 
+เป็ด	1.0	p e t^ 
+ย่าง	1.0	j aa ng^ 
+ประจักษ์	1.0	pr a c a k^ 
+เก่าแก่	1.0	k a w^ k xx 
+ดินแดน	1.0	d i n^ d xx n^ 
+ฮอบ	1.0	h @@ p^ 
+บิท	1.0	b i t^ 
+นิวซีแลนด์	1.0	n i w^ s ii l xx n^ 
+ทุกข์ใจ	1.0	th u k^ c a j^ 
+ยิวยิต	1.0	j i w^ j i t^ 
+สู	1.0	s uu 
+ยูโด	1.0	j uu d oo 
+กีฬา	1.0	k ii l aa 
+ล็อก	1.0	l @ k^ 
+คุณค่า	1.0	kh u n^ n a kh aa 
+มั่นใจ	1.0	m a n^ c a j^ 
+ทักษะ	1.0	th a k^ s a 
+สอดคล้อง	1.0	s @@ t^ khl @@ ng^ 
+ลักษณะ	1.0	l a k^ s a n a 
+ซอฟต์แวร์	1.0	s @@ p^ w xx 
+เดิม	1.0	d qq m^ 
+ยังคง	1.0	j a ng^ kh o ng^ 
+ปลอม	1.0	pl @@ m^ 
+เบลเยียม	1.0	b ee l^ j iia m^ 
+ป่า	1.0	p aa 
+พุธ	1.0	ph u t^ 
+จอห์น	1.0	c @@ n^ 
+ซัพ	1.0	s a p^ 
+พอร์ต	1.0	ph @@ t^ 
+ปราถนา	1.0	pr aa t^ th a n aa 
+หุ้น	1.0	h u n^ 
+แอดวานซ์	1.0	z xx t^ w aa n^ 
+หมู	1.0	m uu 
+หมู่	1.0	m uu 
+แมว	1.0	m xx w^ 
+นายก	1.0	n aa j o k^ 
+รัฐมนตรี	1.0	r a t^ th a m o n^ tr ii 
+เลขานุการ	1.0	l ee kh aa n u k aa n^ 
+ราย	1.0	r aa j^ 
+ศตวรรษ	1.0	s a t a w a t^ 
+บีบ	1.0	b ii p^ 
+คอ	1.0	kh @@ 
+เดี๋ยว	1.0	d iia w^ 
+ฤๅษี	1.0	r vv s ii 
+ดัด	1.0	d a t^ 
+อิสิป	1.0	z i s i p^ 
+ตนมฤคทาย	1.0	t o n^ m a r v k^ kh a th aa j^ 
+หรือไง	1.0	r vv ng a j^ 
+กรุง	1.0	kr u ng^ 
+โรม	1.0	r oo m^ 
+รีบ	1.0	r ii p^ 
+พยาบาล	1.0	ph a j aa b aa n^ 
+กลืน	1.0	kl vv n^ 
+ดนตรี	1.0	d o n^ tr ii 
+จับใจ	1.0	c a p^ c a j^ 
+ไวน์	1.0	w aa j^ 
+แปลก	1.0	pl xx k^ 
+ชัด	1.0	ch a t^ 
+รสชาติ	1.0	r o t^ ch aa t^ 
+ชัยชนะ	1.0	ch a j^ ch a n a 
+ชมรม	1.0	ch o m^ r o m^ 
+เล่า	1.0	l a w^ 
+หัวใจ	1.0	h uua c a j^ 
+พอเพียง	1.0	ph @@ ph iia ng^ 
+มะเขือ	1.0	m a kh vva 
+ขบวน	1.0	kh a b uua n^ 
+เฉลิมฉลอง	1.0	ch a l qq m^ ch a l @@ ng^ 
+ถูด	1.0	th uu t^ 
+รสนิยม	1.0	r o t^ s a n i j o m^ 
+ตายตัว	1.0	t aa j^ t uua 
+ล็อบสเตอร์	1.0	l @ p^ s a t qq 
+ตึง	1.0	t v ng^ 
+พอ	1.0	ph @@ 
+ว่างเปล่า	1.0	w aa ng^ pl aa w^ 
+ลาด	1.0	l aa t^ 
+เลี้ยว	1.0	l iia w^ 
+ทันที	1.0	th a n^ th ii 
+พลาง	1.0	phl aa ng^ 
+ทักทาย	1.0	th a k^ th aa j^ 
+เสนอ	1.0	s a n qq 
+มุมมอง	1.0	m u m^ m @@ ng^ 
+กังวลใจ	1.0	k a ng^ w o n^ c a j^ 
+แทบ	1.0	th xx p^ 
+สงสาร	1.0	s o ng^ s aa n^ 
+วิสกี้	1.0	w i t^ s a k ii 
+โซดา	1.0	s oo d aa 
+แสน็กแพด	1.0	s xx n @@ k^ ph xx t^ 
+คีย์บอร์ด	1.0	kh ii b @@ t^ 
+ระดับ	1.0	r a d a p^ 
+กลาง	1.0	kl aa ng^ 
+ง่วง	1.0	ng uua ng^ 
+เสน่ห์	1.0	s a n ee 
+เหตุผล	1.0	h ee t^ ph o n^ 
+เบี้ยว	1.0	b iia w^ 
+เดี่ยว	1.0	d iia w^ 
+นาย	1.0	n aa j^ 
+แคโรลีน	1.0	kh xx r oo l ii n^ 
+ซัมเมอร์สัน	1.0	s a m^ m qq s a n^ 
+เคารพ	1.0	kh a w^ r o p^ 
+ซิกมุนด์	1.0	s i k^ m u n^ 
+ลามกอนาจาร	1.0	l aa m o k^ z a n aa c aa n^ 
+สบู่	1.0	s a b uu 
+เตือน	1.0	t vva n^ 
+ฟาง	1.0	f aa ng^ 
+ยูโร	1.0	j uu r oo 
+ร่าง	1.0	r aa ng^ 
+คล้าย	1.0	khl aa j^ 
+วิญญาณ	1.0	w i n^ j aa n^ 
+ชั่วโมง	1.0	ch uua m oo ng^ 
+วิดีโอ	1.0	w i d ii z oo 
+จริงจัง	1.0	c a r i ng^ c a ng^ 
+น้ำเสียง	1.0	n aa m^ s iia ng^ 
+เหตุ	1.0	h ee t^ 
+ค่อนข้าง	1.0	kh @@ n^ kh aa ng^ 
+ระวัง	1.0	r a w a ng^ 
+ลอง	1.0	l @@ ng^ 
+เบี่ยงเบน	1.0	b iia ng^ b ee n^ 
+มาตรฐาน	1.0	m aa t^ tr a th aa n^ 
+ถอด	1.0	th @@ t^ 
+สร้อย	1.0	s @ j^ 
+มุก	1.0	m u k^ 
+กำไล	1.0	k a m^ l a j^ 
+อ้อย	1.0	z @ j^ 
+เลี้ยง	1.0	l iia ng^ 
+มึนงง	1.0	m v n^ ng o ng^ 
+จอน	1.0	c @@ n^ 
+พา	1.0	ph aa 
+โยน	1.0	j oo n^ 
+เหรียญ	1.0	r iia n^ 
+สุนิสา	1.0	s u n i s aa 
+ราตรี	1.0	r aa tr ii 
+เครื่องมือ	1.0	khr vva ng^ m vv 
+ซับซ้อน	1.0	s a p^ s @@ n^ 
+ฟุตบอล	1.0	f u t^ b @@ n^ 
+ปรึกษา	1.0	pr v k^ s aa 
+ลืมตา	1.0	l vv m^ t aa 
+กิจการ	1.0	k i t^ c a k aa n^ 
+อม	1.0	z o m^ 
+ช็อกโกแลต	1.0	ch @ k^ k oo l x t^ 
+ลูกเกด	1.0	l uu k^ k ee t^ 
+คุ้น	1.0	kh u n^ 
+สมอง	1.0	s a m @@ ng^ 
+โตโยต้า	1.0	t oo j oo t aa 
+วิจัย	1.0	w i c a j^ 
+โตเกียว	1.0	t oo k iia w^ 
+ครรภ์	1.0	kh a n^ 
+รอย	1.0	r @@ j^ 
+ดุร้าย	1.0	d u r aa j^ 
+โดน	1.0	d oo n^ 
+กักขัง	1.0	k a k^ kh a ng^ 
+อุทาน	1.0	z u th aa n^ 
+รูปภาพ	1.0	r uu p^ ph aa p^ 
+สลัว	1.0	s a l uua 
+งาม	1.0	ng aa m^ 
+เกียวโต	1.0	k iia w^ t oo 
+มิถุนายน	1.0	m i th u n aa j o n^ 
+แซนด์วิช	1.0	s xx n^ w i t^ 
+ครุ่น	1.0	khr u n^ 
+ชั่ว	1.0	ch uua 
+นะจีเวส	1.0	n a c ii w ee t^ 
+สามี	1.0	s aa m ii 
+แม้	1.0	m xx 
+แต่ง	1.0	t x ng^ 
+ประหลาด	1.0	pr a l aa t^ 
+พูดอลิซ	1.0	ph uu d @@ l i t^ 
+ค้น	1.0	kh o n^ 
+คลุมเครือ	1.0	khl u m^ khr vva 
+กษัตริย์	1.0	k a s a t^ 
+ไม้ขีด	1.0	m aa j^ kh ii t^ 
+แพน	1.0	ph xx n^ 
+ไอ	1.0	z a j^ 
+คุง	1.0	kh u ng^ 
+มารยาท	1.0	m aa r a j aa t^ 
+เปลี่ยนแปลง	1.0	pl iia n^ pl xx ng^ 
+สิ่งทุก	1.0	s i ng^ th u k^ 
+ดอทรี	1.0	d @@ s ii 
+โชว์	1.0	ch oo 
+กล	1.0	k o n^ 
+ค็อกกี้	1.0	kh @ k^ k ii 
+พื้นที่	1.0	ph vv n^ th ii 
+แม่นยำ	1.0	m x n^ j a m^ 
+ฐานะ	1.0	th aa n a 
+ฝี	1.0	f ii 
+หนอง	1.0	n @@ ng^ 
+นางวูด	1.0	n aa ng^ w uu t^ 
+นกพิราบ	1.0	n o k^ ph i r aa p^ 
+ทรยศ	1.0	th @@ r a j o t^ 
+โน้มน้าว	1.0	n oo m^ n aa w^ 
+แมธธิว	1.0	m xx t^ th i w^ 
+รอบ	1.0	r @@ p^ 
+บี้	1.0	b ii 
+คั่ว	1.0	kh uua 
+กะทิ	1.0	k a th i 
+พิถีพิถัน	1.0	ph i th ii ph i th a n^ 
+ไหม้	1.0	m a j^ 
+กตัญญู	1.0	k a t a n^ j uu 
+สมบัติ	1.0	s o m^ b a t^ 
+จิตใจ	1.0	c i t^ c a j^ 
+เต่า	1.0	t a w^ 
+สปีชี่ส์	1.0	s a p ii ch ii 
+แตกต่าง	1.0	t xx k^ t aa ng^ 
+หนาว	1.0	n aa w^ 
+ทางการ	1.0	th aa ng^ k aa n^ 
+บรรทัด	1.0	b a n^ th a t^ 
+เพิ่มเติม	1.0	ph qq m^ t qq m^ 
+บุรุษ	1.0	b u r u t^ 
+ไปรษณีย์	1.0	pr a j^ s a n ii 
+ระแวง	1.0	r a w xx ng^ 
+สุนัขลาบราดอร์	1.0	s u n a k^ l aa p^ r aa d @@ 
+เร่	1.0	r ee 
+อนามัย	1.0	z a n aa m a j^ 
+สละ	1.0	s a l a 
+อธิปไตย	1.0	z a th i p^ p a t a j^ 
+การคลัง	1.0	k aa n^ khl a ng^ 
+โอ้ย	1.0	z oo j^ 
+แก	1.0	k xx 
+หิน	1.0	h i n^ 
+สวด	1.0	s uua t^ 
+สรรเสริญ	1.0	s a n^ s qq n^ 
+คริสต์มาส	1.0	khr i t^ m aa t^ 
+เลือด	1.0	l vva t^ 
+เว็บไซต์	1.0	w e p^ s a j^ 
+แอพ	1.0	z xx p^ 
+ระลึก	1.0	r a l v k^ 
+แซก	1.0	s xx k^ 
+นิวตัน	1.0	n i w^ t a n^ 
+อัจฉริยะ	1.0	z a t^ ch a r i j a 
+จิตวิญญาณ	1.0	c i t^ w i n^ j aa n^ 
+สวยงาม	1.0	s uua j^ ng aa m^ 
+ปรับปรุง	1.0	pr a p^ pr u ng^ 
+โรงพยาบาล	1.0	r oo ng^ ph a j aa b aa n^ 
+จ้าง	1.0	c aa ng^ 
+ดึงดูด	1.0	d v ng^ d uu t^ 
+ทำลาย	1.0	th a m^ l aa j^ 
+พยัก	1.0	ph a j a k^ 
+รอน	1.0	r @@ n^ 
+ประชุม	1.0	pr a ch u m^ 
+เน้น	1.0	n e n^ 
+ดอก	1.0	d @@ k^ 
+จัน	1.0	c a n^ 
+แผง	1.0	ph xx ng^ 
+ซูชิ	1.0	s uu ch i 
+มุม	1.0	m u m^ 
+มูลค่า	1.0	m uu n^ l a kh aa 
+ของขวัญ	1.0	kh @@ ng^ khw a n^ 
+สนามบิน	1.0	s a n aa m^ b i n^ 
+โง่เขลา	1.0	ng oo khl a w^ 
+เยี่ยมชม	1.0	j iia m^ ch o m^ 
+เมล็ด	1.0	m a l e t^ 
+พันธุ์	1.0	ph a n^ 
+อาเซียน	1.0	z aa s iia n^ 
+ร่วมมือ	1.0	r uua m^ m vv 
+ปฏิญญา	1.0	p a t i n^ j aa 
+กรุงเทพ	1.0	kr u ng^ th ee p^ 
+คุก	1.0	kh u k^ 
+สปิริต	1.0	s a p i r i t^ 
+แอนิเมชั่น	1.0	z xx n i m ee ch a n^ 
+ดำ	1.0	d a m^ 
+มะม่วง	1.0	m a m uua ng^ 
+ว่องไว	1.0	w @ ng^ w a j^ 
+ปรัชญา	1.0	pr a t^ ch a j aa 
+อนุมัติ	1.0	z a n u m a t^ 
+รัฐสภา	1.0	r a t^ th a s a ph aa 
+หมอง	1.0	m @@ ng^ 
+สบายดี	1.0	s a b aa j^ d ii 
+ท่าทาง	1.0	th aa th aa ng^ 
+รวดเร็ว	1.0	r uua t^ r e w^ 
+พฤหัสบดี	1.0	ph a r v h a t^ s a b @@ d ii 
+อูร	1.0	z uu n^ 
+ชำนาญ	1.0	ch a m^ n aa n^ 
+โอเค	1.0	z oo kh ee 
+นิด	1.0	n i t^ 
+นกขุนทอง	1.0	n o k^ kh u n^ th @@ ng^ 
+กรง	1.0	kr a ng^ 
+หวาน	1.0	w aa n^ 
+เล็กน้อย	1.0	l e k^ n @@ j^ 
+งงงวย	1.0	ng o ng^ ng uua j^ 
+จิปาถะ	1.0	c i p aa th a 
+สูงอายุ	1.0	s uu ng^ z aa j u 
+อิ่ม	1.0	z i m^ 
+ช็อค	1.0	ch @ k^ 
+สิงโต	1.0	s i ng^ t oo 
+สนทนา	1.0	s o n^ th a n aa 
+บันทึก	1.0	b a n^ th v k^ 
+จุดประสงค์	1.0	c u t^ pr a s o ng^ 
+พัฒนา	1.0	ph a t^ th a n aa 
+คุณภาพ	1.0	kh u n^ n a ph aa p^ 
+พัชรินทร์	1.0	ph a t^ ch a r i n^ 
+ขนม	1.0	kh a n o m^ 
+เตียง	1.0	t iia ng^ 
+ทัท	1.0	th a t^ 
+กะ	1.0	k a 
+ตกต่ำ	1.0	t o k^ t a m^ 
+พลาด	1.0	phl aa t^ 
+วิชา	1.0	w i ch aa 
+สำเร็จ	1.0	s a m^ r e t^ 
+น้อยนิด	1.0	n @@ j^ n i t^ 
+มืดมน	1.0	m vv t^ m o n^ 
+เฉพาะ	1.0	ch a ph @ 
+ชิ้น	1.0	ch i n^ 
+แกะ	1.0	k x 
+เหงื่อ	1.0	ng vva 
+ยิ่งใหญ่	1.0	j i ng^ j a j^ 
+ราชินี	1.0	r aa ch i n ii 
+เริ่มต้น	1.0	r qq m^ t o n^ 
+ซุบซิบ	1.0	s u p^ s i p^ 
+คานส์	1.0	kh aa n^ 
+แย่	1.0	j xx 
+หอน	1.0	h @@ n^ 
+เยาวชน	1.0	j a w^ w a ch o n^ 
+เช็ด	1.0	ch e t^ 
+ถ้วย	1.0	th uua j^ 
+ชาม	1.0	ch aa m^ 
+ผืน	1.0	ph vv n^ 
+ฟอร์ม	1.0	f @@ m^ 
+พัน	1.0	ph a n^ 
+มลพิษ	1.0	m o n^ l a ph i t^ 
+วิ่ง	1.0	w i ng^ 
+หอบ	1.0	h @@ p^ 
+ซี่โครง	1.0	s ii khr oo ng^ 
+สาหร่าย	1.0	s aa r aa j^ 
+แองเจ	1.0	z xx ng^ c ee 
+หาเรื่อง	1.0	h aa r vva ng^ 
+เหา	1.0	h a w^ 
+ใส่	1.0	s a j^ 
+มั่นคง	1.0	m a n^ kh o ng^ 
+โหดเหี้ยม	1.0	h oo t^ h iia m^ 
+เลือก	1.0	l vva k^ 
+เหล็ก	1.0	l e k^ 
+กว้างขวาง	1.0	kw aa ng^ khw aa ng^ 
+ขออภัย	1.0	kh @@ z a ph a j^ 
+กาแฟ	1.0	k aa f xx 
+ขม	1.0	kh o m^ 
+พลอย	1.0	phl @@ j^ 
+ข้า	1.0	kh aa 
+อดทน	1.0	z o t^ th o n^ 
+ไกลอลิซ	1.0	k a j^ l @@ l i t^ 
+จีน	1.0	c ii n^ 
+ระยะ	1.0	r a j a 
+แฟน	1.0	f xx n^ 
+หลอกลวง	1.0	l @@ k^ l uua ng^ 
+สุภาพบุรุษ	1.0	s u ph aa p^ b u r u t^ 
+เอ่อ	1.0	z qq 
+เกรง	1.0	kr ee ng^ 
+ห้าม	1.0	h aa m^ 
+ปู	1.0	p uu 
+อ้อนวอน	1.0	z @@ n^ w @@ n^ 
+สภา	1.0	s a ph aa 
+โจร	1.0	c oo n^ 
+ประสาน	1.0	pr a s aa n^ 
+สำนักงาน	1.0	s a m^ n a k^ ng aa n^ 
+สาธารณภัย	1.0	s aa th aa r a n a ph a j^ 
+โต	1.0	t oo 
+โต้	1.0	t oo 
+ทาน	1.0	th aa n^ 
+มื้อ	1.0	m vv 
+ค่ำ	1.0	kh a m^ 
+นิวยอร์ก	1.0	n i w^ j @@ k^ 
+ตู้	1.0	t uu 
+สปาร์	1.0	s a p aa 
+กลิ้ง	1.0	kl i ng^ 
+หน้าที่	1.0	n aa th ii 
+ก่ำ	1.0	k a m^ 
+สะดุ้ง	1.0	s a d u ng^ 
+เล่ม	1.0	l e m^ 
+คั่น	1.0	kh a n^ 
+ภูมิภาค	1.0	ph uu m^ m i ph aa k^ 
+สัตว์	1.0	s a t^ 
+เล็ก	1.0	l e k^ 
+วิเศษ	1.0	w i s ee t^ 
+ปากกา	1.0	p aa k^ k aa 
+ด้าม	1.0	d aa m^ 
+หลุดพ้น	1.0	l u t^ ph o n^ 
+บาปกรรม	1.0	b aa p^ k a m^ 
+มอ	1.0	m @@ 
+ดินแดง	1.0	d i n^ d xx ng^ 
+ทีเดียว	1.0	th ii d iia w^ 
+ซ้ำแล้วซ้ำอีก	1.0	s a m^ l xx w^ s a m^ z ii k^ 
+สวัสดี	1.0	s a w a t^ d ii 
+เบอร์ตี้	1.0	b qq t ii 
+ที่รัก	1.0	th ii r a k^ 
+อมตะ	1.0	z a m a t a 
+โจมตี	1.0	c oo m^ t ii 
+ร่ำรวย	1.0	r a m^ r uua j^ 
+หมอ	1.0	m @@ 
+กรีด	1.0	kr ii t^ 
+ตัก	1.0	t a k^ 
+แรงงาน	1.0	r xx ng^ ng aa n^ 
+เสี่ยง	1.0	s iia ng^ 
+แทน	1.0	th xx n^ 
+อัตโนมัติ	1.0	z a t^ t a n oo m a t^ 
+ขวบ	1.0	kh uua p^ 
+ป่วน	1.0	p uua n^ 
+จนกว่า	1.0	c o n^ kw aa 
+ลาว	1.0	l aa w^ 
+แผ่นดิน	1.0	ph x n^ d i n^ 
+หลอกหลอน	1.0	l @@ k^ l @@ n^ 
+นาม	1.0	n aa m^ 
+สเปน	1.0	s a p ee n^ 
+โปรตุเกส	1.0	pr oo t u k ee t^ 
+นิโคล	1.0	n i khl oo 
+สิงหาคม	1.0	s i ng^ h aa kh o m^ 
+คาปูชิโน่	1.0	kh aa p uu ch i n oo 
+งี่เง่า	1.0	ng ii ng a w^ 
+เตะ	1.0	t e 
+บุตร	1.0	b u t^ 
+เกาะ	1.0	k @ 
+อัศวิน	1.0	z a t^ s a w i n^ 
+บอล	1.0	b @ n^ 
+จ้า	1.0	c aa 
+ขี่	1.0	kh ii 
+เส้นทาง	1.0	s e n^ th aa ng^ 
+พรรค	1.0	ph a k^ 
+เหมาะสม	1.0	m @ s o m^ 
+ปกป้อง	1.0	p o k^ p @ ng^ 
+ตำแหน่ง	1.0	t a m^ n x ng^ 
+ผ่อนคลาย	1.0	ph @ n^ khl aa j^ 
+สงบ	1.0	s a ng o p^ 
+ทั้งนั้น	1.0	th a ng^ n a n^ 
+ข้าวหลาม	1.0	kh aa w^ l aa m^ 
+วง	1.0	w o ng^ 
+อาลันชอ	1.0	z aa l a n^ ch @@ 
+หน้ากาก	1.0	n aa k aa k^ 
+วิคกี้	1.0	w i k^ k ii 
+คริสตชน	1.0	khr i t^ ch o n^ 
+ตรวจ	1.0	tr uua t^ 
+เช็ค	1.0	ch e k^ 
+สินค้า	1.0	s i n^ kh aa 
+อเมริกัน	1.0	z a m ee r i k a n^ 
+บาร์บีคิว	1.0	b aa b ii kh i w^ 
+อัตรา	1.0	z a t^ tr aa 
+ว่าง	1.0	w aa ng^ 
+อุ	1.0	z u 
+ภาค	1.0	ph aa k^ 
+ยืม	1.0	j vv m^ 
+กล่อง	1.0	kl @ ng^ 
+ดินสอ	1.0	d i n^ s @@ 
+รุ่ง	1.0	r u ng^ 
+อรุณ	1.0	z a r u n^ 
+งอม	1.0	ng @@ m^ 
+ไดโนเสาร์	1.0	d a j^ n oo s a w^ 
+สาเหตุ	1.0	s aa h ee t^ 
+ใจ	1.0	c a j^ 
+นิ่ง	1.0	n i ng^ 
+ครัว	1.0	khr uua 
+ต้อย	1.0	t @ j^ 
+ติ่ง	1.0	t i ng^ 
+ฆาตกรรม	1.0	kh aa t^ t a k a m^ 
+พึงพอใจ	1.0	ph v ng^ ph @@ c a j^ 
+วิกิดาต้า	1.0	w i k i d aa t aa 
+โกดัง	1.0	k oo d a ng^ 
+เสรี	1.0	s ee r ii 
+พรม	1.0	phr o m^ 
+ปราณีต	1.0	pr aa n ii t^ 
+เป้	1.0	p ee 
+ถาวร	1.0	th aa w @@ n^ 
+ขั้ว	1.0	kh uua 
+ตอบแทน	1.0	t @@ p^ th xx n^ 
+เหงา	1.0	ng a w^ 
+ไหล	1.0	l a j^ 
+กับอลิซ	1.0	k a p^ z a l i t^ 
+แอลกอฮอล์	1.0	z xx l^ k @@ h @@ 
+ชำระ	1.0	ch a m^ r a 
+ยี่ห้อ	1.0	j ii h @@ 
+ชม	1.0	ch o m^ 
+ละแวก	1.0	l a w xx k^ 
+สืบสวน	1.0	s vv p^ s uua n^ 
+กรณี	1.0	k @@ r a n ii 
+ขยะ	1.0	kh a j a 
+รับผิดชอบ	1.0	r a p^ ph i t^ ch @@ p^ 
+สายไหม	1.0	s aa j^ m a j^ 
+ซอส	1.0	s @@ t^ 
+ห่าน	1.0	h aa n^ 
+แกนเดอร์	1.0	k xx n^ d qq 
+จึง	1.0	c v ng^ 
+ไก่	1.0	k a j^ 
+ปฏิทิน	1.0	p a t i th i n^ 
+กันยายน	1.0	k a n^ j aa j o n^ 
+ไม่ว่า	1.0	m a j^ w aa 
+ดุดัน	1.0	d u d a n^ 
+ลูคีเมีย	1.0	l uu kh ii m iia 
+อังกฤษ	1.0	z a ng^ kr i t^ 
+โรค	1.0	r oo k^ 
+วิลล่าโรส	1.0	w i n^ l aa r oo s^ 
+พิธีกรรม	1.0	ph i th ii k a m^ 
+เอกสาร	1.0	z ee k^ k a s aa n^ 
+ขั้นตอน	1.0	kh a n^ t @@ n^ 
+เนื่อง	1.0	n vva ng^ 
+ภาวะ	1.0	ph aa w a 
+ซึมเศร้า	1.0	s v m^ s a w^ 
+จิตแพทย์	1.0	c i t^ t a ph xx t^ 
+อูฐ	1.0	z uu t^ 
+หัก	1.0	h a k^ 
+สด	1.0	s o t^ 
+ตะกร้า	1.0	t a kr aa 
+ลอย	1.0	l @@ j^ 
+ล้าน	1.0	l aa n^ 
+บาท	1.0	b aa t^ 
+เซ็น	1.0	s e n^ 
+เตรียม	1.0	tr iia m^ 
+ฉลอง	1.0	ch a l @@ ng^ 
+ครบ	1.0	khr o p^ 
+บาร์	1.0	b aa 
+คาราโอเกะ	1.0	kh aa r aa z oo k e 
+โมง	1.0	m oo ng^ 
+ปลุกใจ	1.0	pl u k^ c a j^ 
+ปีศาจ	1.0	p ii s aa t^ 
+อุตุนิยมวิทยา	1.0	z u t u n i j o m^ w i t^ th a j aa 
+ปนเปื้อน	1.0	p o n^ p vva n^ 
+ทอม	1.0	th @@ m^ 
+แก้แค้น	1.0	k xx kh xx n^ 
+อินเทอร์เฟส	1.0	z i n^ th qq f ee t^ 
+โจ	1.0	c oo 
+นิ่ม	1.0	n i m^ 
+โยเกิร์ต	1.0	j oo k qq t^ 
+ห้าง	1.0	h aa ng^ 
+สรรพสินค้า	1.0	s a p^ ph a s i n^ kh aa 
+มียา	1.0	m ii j aa 
+ซุกซ่อน	1.0	s u k^ s @@ n^ 
+เวที	1.0	w ee th ii 
+รู	1.0	r uu 
+ฟกช้ำ	1.0	f o k^ ch a m^ 
+รึ	1.0	r v 
+เกรงกลัว	1.0	kr ee ng^ kl uua 
+แพ้กลูเตน	1.0	ph xx kl uu t ee n^ 
+ย่อย	1.0	j @ j^ 
+บริจาค	1.0	b @@ r i c aa k^ 
+นอร์ทโรด	1.0	n @@ t^ r oo t^ 
+คริกเกต	1.0	khr i k^ k ee t^ 
+ฮีทแมนเชสเตอร์	1.0	h ii t^ m xx n^ ch ee t^ t qq 
+ร่ม	1.0	r o m^ 
+เศษ	1.0	s ee t^ 
+เสี้ยว	1.0	s iia w^ 
+น้ำตก	1.0	n aa m^ t o k^ 
+ใส	1.0	s a j^ 
+ลดหลั่น	1.0	l o t^ l a n^ 
+ประเมิน	1.0	pr a m qq n^ 
+อุทกภัย	1.0	z u th o k^ k a ph a j^ 
+อัลบั้ม	1.0	z a n^ l a b a m^ 
+รีมิกซ์	1.0	r ii m i k^ 
+เนื้อ	1.0	n vva 
+ลึกซึ้ง	1.0	l v k^ s v ng^ 
+สุนันท์	1.0	s u n a n^ 
+ตอบสนอง	1.0	t @@ p^ s a n @@ ng^ 
+ปุ่ม	1.0	p u m^ 
+คอนกรีต	1.0	kh @@ n^ kr ii t^ 
+เที่ยงคืน	1.0	th iia ng^ kh vv n^ 
+ประมวล	1.0	pr a m uua n^ 
+คอร์	1.0	kh @@ 
+อิเนส	1.0	z i n ee t^ 
+พบเจอ	1.0	ph o p^ c qq 
+แก้	1.0	k xx 
+ฮอลลี่	1.0	h @@ n^ l ii 
+ร้อย	1.0	r @@ j^ 
+ผู้พิทักษ์	1.0	ph uu ph i th a k^ 
+เลข	1.0	l ee k^ 
+คลอด	1.0	khl @@ t^ 
+ซัก	1.0	s a k^ 
+ลาง	1.0	l aa ng^ 
+สังหรณ์	1.0	s a ng^ h @@ n^ 
+โล่ง	1.0	l oo ng^ 
+กัลปพฤกษ์	1.0	k a n^ l a p a phr v k^ 
+ดอกไม้	1.0	d @@ k^ m aa j^ 
+ยุ่ง	1.0	j u ng^ 
+อรุณสวัสดิ์	1.0	z a r u n^ s a w a t^ 
+มายากล	1.0	m aa j aa k o n^ 
+กระเป๋า	1.0	kr a p a w^ 
+ที่นกร้อง	1.0	th ii n^ kr @@ ng^ 
+นกหวีด	1.0	n o k^ w ii t^ 
+กัซซี่	1.0	k a t^ s ii 
+เจล	1.0	c ee l^ 
+โล่	1.0	l oo 
+สีหน้า	1.0	s ii n aa 
+เกรงขาม	1.0	kr ee ng^ kh aa m^ 
+พันธ์	1.0	ph a n^ 
+พึมพำ	1.0	ph v m^ ph a m^ 
+ขำขัน	1.0	kh a m^ kh a n^ 
+มาตราส่วน	1.0	m aa t^ tr aa s uua n^ 
+เซนติเกรด	1.0	s ee n^ t i kr o t^ 
+พื้นฐาน	1.0	ph vv n^ th aa n^ 
+รัฐมนตรียกย่อง	1.0	r a t^ th a m o n^ tr ii k^ j @@ ng^ 
+องค์	1.0	z o ng^ 
+แมลง	1.0	m a l xx ng^ 
+แตร	1.0	tr xx 
+ป่าไม้	1.0	p aa m aa j^ 
+เลาะ	1.0	l @ 
+กระดูก	1.0	kr a d uu k^ 
+พิมพ์	1.0	ph i m^ 
+กระต่าย	1.0	kr a t aa j^ 
+อาชีพ	1.0	z aa ch ii p^ 
+ต่ำต้อย	1.0	t a m^ t @ j^ 
+ขวนขวาย	1.0	khw uua n^ khw aa j^ 
+จำนอง	1.0	c a m^ n @@ ng^ 
+ดำเนิน	1.0	d a m^ n qq n^ 
+ธุรกิจ	1.0	th u r a k i 
+เชิญ	1.0	ch qq n^ 
+ชวน	1.0	ch uua n^ 
+ประชาชน	1.0	pr a ch aa ch o n^ 
+เทศกาล	1.0	th ee t^ s a k aa n^ 
+สงกรานต์	1.0	s o ng^ kr aa n^ 
+ขาด	1.0	kh aa t^ 
+เจลลีบาย	1.0	c ee l^ l ii b aa j^ 
+ปาสคาล	1.0	p aa t^ kh aa l^ 
+วิสัย	1.0	w i s a j^ 
+ทำนาย	1.0	th a m^ n aa j^ 
+วะ	1.0	w a 
+ขอยืม	1.0	kh @@ j vv m^ 
+ทฤษฎี	1.0	th i t^ s a d ii 
+บริสุทธิ์	1.0	b @@ r i s u t^ 
+รับรอง	1.0	r a p^ r @@ ng^ 
+เซี่ยงไฮ้	1.0	s iia ng^ h a j^ 
+พ่อแม่	1.0	ph @@ m xx 
+เกษตร	1.0	k a s ee t^ 
+ผสมผสาน	1.0	ph a s o m^ ph a s aa n^ 
+กลอุบาย	1.0	k o n^ z u b aa j^ 
+ลิง	1.0	l i ng^ 
+หนาวเหน็บ	1.0	n aa w^ n e p^ 
+ภูมิศาสตร์	1.0	ph uu m i s aa t^ 
+โค้ด	1.0	kh oo t^ 
+แอป	1.0	z xx p^ 
+พลิเคชัน	1.0	phl i kh ee ch a n^ 
+ทวีเวียลฮัลโหล	1.0	th a w ii w iia l^ h a n^ l oo 
+เวิลด์	1.0	w qq l^ 
+เคทลีน	1.0	kh ee t^ l ii n^ 
+ลัง	1.0	l a ng^ 
+ประชาสัมพันธ์	1.0	pr a ch aa s a m^ ph a n^ 
+โสด	1.0	s oo t^ 
+สอน	1.0	s @@ n^ 
+เสือ	1.0	s vva 
+โปรแกรม	1.0	pr oo kr xx m^ 
+กู	1.0	k uu 
+เกิ้ล	1.0	k qq n^ 
+บิง	1.0	b i ng^ 
+จี	1.0	c ii 
+วิส	1.0	w i t^ 
+อิสลาม	1.0	z i t^ s a l aa m^ 
+ชาริอะฮ์	1.0	ch aa r i z a 
+พูดคุย	1.0	ph uu t^ kh u j^ 
+แองเจล่า	1.0	z xx ng^ c ee l aa 
+ผลิต	1.0	ph a l i t^ 
+ยะลา	1.0	j a l aa 
+โด่งดัง	1.0	d oo ng^ d a ng^ 
+เชี่ยวชาญ	1.0	ch iia w^ ch aa n^ 
+ศัพท์	1.0	s a p^ 
+แสวงหา	1.0	s a w xx ng^ h aa 
+สมดุล	1.0	s a m a d u n^ 
+เซียน	1.0	s iia n^ 
+หลง	1.0	l o ng^ 
+เชียว	1.0	ch iia w^ 
+ตาก	1.0	t aa k^ 
+สิน	1.0	s i n^ 
+แถว	1.0	th x w^ 
+กบ	1.0	k o p^ 
+ตะกาย	1.0	t a k aa j^ 
+ตึก	1.0	t v k^ 
+ฉีก	1.0	ch ii k^ 
+โปรตีน	1.0	pr oo t ii n^ 
+ร่าย	1.0	r aa j^ 
+กาย	1.0	k aa j^ 
+ค้า	1.0	kh aa 
+จราจร	1.0	c a r aa c @@ n^ 
+ใกล้เคียง	1.0	kl a j^ kh iia ng^ 
+พลิกแพลง	1.0	phl i k^ phl xx ng^ 
+เดี๋ยวนี้	1.0	d iia w^ n ii 
+เหมียว	1.0	m iia w^ 
+พุ่ม	1.0	ph u m^ 
+จอ	1.0	c @@ 
+สิ้นเชิง	1.0	s i n^ ch qq ng^ 
+คะน้า	1.0	kh a n aa 
+ต้มยำ	1.0	t o m^ j a m^ 
+น้ำเกรวี่	1.0	n a m^ kr ee w ii 
+ยืนกราน	1.0	j vv n^ kr aa n^ 
+ซี	1.0	s ii 
+เลีย	1.0	l iia 
+งง	1.0	ng o ng^ 
+ถัก	1.0	th a k^ 
+นิตติ้ง	1.0	n i t^ t i ng^ 
+แห้ง	1.0	h xx ng^ 
+หลงเหลือ	1.0	l o ng^ l vva 
+แนบ	1.0	n xx p^ 
+หมายเลข	1.0	m aa j^ l ee k^ 
+ทหาร	1.0	th a h aa n^ 
+ชุมชน	1.0	ch u m^ ch o n^ 
+จุ	1.0	c u 
+ศัลยกรรม	1.0	s a n^ l a j a k a m^ 
+พลาสติก	1.0	phl aa t^ s a t i k^ 
+นิยม	1.0	n i j o m^ 
+คุ้มครอง	1.0	kh u m^ khr @@ ng^ 
+อะ	1.0	z a 
+เดล	1.0	d ee l^ 
+ตรงข้าม	1.0	tr o ng^ kh aa m^ 
+ไมเคิล	1.0	m a j^ kh qq l^ 
+วิด	1.0	w i t^ 
+กดดัน	1.0	k o t^ d a n^ 
+ขึ้นตอน	1.0	kh v n^ t @@ n^ 
+เหลี่ยม	1.0	l iia m^ 
+บรรจุ	1.0	b a n^ c u 
+ธรรมดา	1.0	th a m^ m a d aa 
+ยืนยัน	1.0	j vv n^ j a n^ 
+สดชื่น	1.0	s o t^ ch vv n^ 
+แฮก	1.0	h xx k^ 
+บำรุง	1.0	b a m^ r u ng^ 
+สมัย	1.0	s a m a j^ 
+วิทยา	1.0	w i t^ th a j aa 
+คำนวณ	1.0	kh a m^ n uua n^ 
+คะ	1.0	kh a 
+รื้อ	1.0	r vv 
+เป็นต้น	1.0	p e n^ t o n^ 
+อ้าว	1.0	z aa w^ 
+กลิ่น	1.0	kl i n^ 
+ปฎิเสธ	1.0	p a t i s ee t^ 
+แอร์	1.0	z xx 
+ลำปาง	1.0	l a m^ p aa ng^ 
+คึกคัก	1.0	kh v k^ kh a k^ 
+มนุษยชาติ	1.0	m a n u t^ s a j a ch aa t^ 
+อังคาร	1.0	z a ng^ kh aa n^ 
+ยากลำบาก	1.0	j aa k^ l a m^ b aa k^ 
+ก้อ	1.0	k @@ 
+ทะเล	1.0	th a l ee 
+เออ	1.0	z qq 
+สมทรง	1.0	s o m^ s o ng^ 
+ฉะนั้น	1.0	ch a n a n^ 
+กฏหมาย	1.0	k o t^ m aa j^ 
+สูบ	1.0	s uu p^ 
+คมนาคม	1.0	kh a m a n aa kh o m^ 
+ขนส่ง	1.0	kh o n^ s o ng^ 
+ผูก	1.0	ph uu k^ 
+แพทย์	1.0	ph xx t^ 
+ดอร์เม้าส์	1.0	d @@ m a w^ 
+ขุ่นเคือง	1.0	kh u n^ kh vva ng^ 
+กระทบ	1.0	kr a th o p^ 
+ทารก	1.0	th aa r o k^ 
+ท่าที	1.0	th aa th ii 
+ตรา	1.0	tr aa 
+ประทับ	1.0	pr a th a p^ 
+ซอง	1.0	s @@ ng^ 
+ตุ๊กตา	1.0	t u k^ k a t aa 
+หิมะ	1.0	h i m a 
+สตางค์	1.0	s a t aa ng^ 
+จิ้งจก	1.0	c i ng^ c o k^ 
+จิงโจ้	1.0	c i ng^ c oo 
+ปริญญา	1.0	p a r i n^ j aa 
+อักษรศาสตร์	1.0	z a k^ s @@ r a s aa t^ 
+เฮเลน	1.0	h ee l ee n^ 
+ฟราน	1.0	fr aa n^ 
+เซส	1.0	s ee t^ 
+อิจฉา	1.0	z i t^ ch aa 
+เบิร์ด	1.0	b qq t^ 
+คล่องแคล่ว	1.0	khl @ ng^ khl xx w^ 
+มิตรภาพ	1.0	m i t^ tr a ph aa p^ 
+มืออาชีพ	1.0	m vv z aa ch ii p^ 
+บริการ	1.0	b @@ r i k aa n^ 
+หัวหน่าว	1.0	h uua n aa w^ 
+เชิงกราน	1.0	ch qq ng^ kr aa n^ 
+ห้องน้ำ	1.0	h @ ng^ n a m^ 
+โทนี่	1.0	th oo n ii 
+พระเจริญ	1.0	phr a c a r qq n^ 
+นกเค้า	1.0	n o k^ kh a w^ 
+หากิน	1.0	h aa k i n^ 
+ศาล	1.0	s aa n^ 
+เดี๋ยวก่อน	1.0	d iia w^ k @@ n^ 
+วิทยาเขต	1.0	w i t^ th a j aa kh ee t^ 
+หนองคาย	1.0	n @@ ng^ kh aa j^ 
+แพง	1.0	ph xx ng^ 
+พนัน	1.0	ph a n a n^ 
+งบ	1.0	ng o p^ 
+ประมาณ	1.0	pr a m aa n^ 
+จำกัด	1.0	c a m^ k a t^ 
+ยิง	1.0	j i ng^ 
+ป่วย	1.0	p uua j^ 
+หายใจ	1.0	h aa j^ c a j^ 
+ยุค	1.0	j u k^ 
+ปัญญา	1.0	p a n^ j aa 
+บทบาท	1.0	b o t^ b aa t^ 
+หาเสียง	1.0	h aa s iia ng^ 
+องค์การ	1.0	z o ng^ k aa n^ 
+ลอสแองเจลิส	1.0	l @@ t^ z xx ng^ c ee l i t^ 
+พ่น	1.0	ph o n^ 
+พิษอกก	1.0	ph i s @@ k o k^ 
+กระทะ	1.0	kr a th a 
+ไฟแรง	1.0	f a j^ r xx ng^ 
+คำราม	1.0	kh a m^ r aa m^ 
+บ่น	1.0	b o n^ 
+ชิน	1.0	ch i n^ 
+ชิลล่า	1.0	ch i n^ l aa 
+ขนมปัง	1.0	kh a n o m^ p a ng^ 
+แผ่น	1.0	ph x n^ 
+สร้างสรรค์	1.0	s aa ng^ s a n^ 
+นกอินทรี	1.0	n o k^ z i n^ thr ii 
+โผล่	1.0	phl oo 
+แก้ว	1.0	k xx w^ 
+รายการ	1.0	r aa j^ k aa n^ 
+เน่าเสีย	1.0	n a w^ s iia 
+เลี้ยงดู	1.0	l iia ng^ d uu 
+ฮาวาย	1.0	h aa w aa j^ 
+จอร์จส่ายหัว	1.0	c @@ t^ s aa j^ h uua 
+หนักหน่วง	1.0	n a k^ n uua ng^ 
+ไข่	1.0	kh a j^ 
+นกกระทา	1.0	n o k^ kr a th aa 
+แช่	1.0	ch xx 
+บ่อ	1.0	b @@ 
+รับมือ	1.0	r a p^ m vv 
+เผชิญ	1.0	ph a ch qq n^ 
+เม่น	1.0	m e n^ 
+เหยียบ	1.0	j iia p^ 
+ตะเกียง	1.0	t a k iia ng^ 
+เจิดจ้า	1.0	c qq t^ c aa 
+ลิซ่า	1.0	l i s aa 
+แซ็กโซโฟน	1.0	s x k^ s oo f oo n^ 
+จุไรรัตน์	1.0	c u r a j^ r a t^ 
+มึ	1.0	m v 
+ซ้ำแล้วซ้ำเล่า	1.0	s a m^ l xx w^ s a m^ l a w^ 
+บริโภค	1.0	b @@ r i ph oo k^ 
+หมากฮอส	1.0	m aa k^ h @@ s^ 
+หมากรุก	1.0	m aa kr u k^ 
+ฟ้อง	1.0	f @@ ng^ 
+แพคเกจ	1.0	ph xx k^ k ee t^ 
+อ้างอิง	1.0	z aa ng^ z i ng^ 
+กลม	1.0	kl o m^ 
+จักรวาล	1.0	c a k^ kr a w aa n^ 
+งดงาม	1.0	ng o t^ ng aa m^ 
+มืดมิด	1.0	m vv t^ m i t^ 
+ป้อน	1.0	p @@ n^ 
+ขลาด	1.0	khl aa t^ 
+แจ็ค	1.0	c x k^ 
+ทึ่ม	1.0	th v m^ 
+เอ่ย	1.0	z qq j^ 
+คณิตศาสตร์	1.0	kh a n i t^ t a s aa t^ 
+ไข	1.0	kh a j^ 
+พี่น้อง	1.0	ph ii n @@ ng^ 
+อี	1.0	z ii 
+คอมเมิร์ซ	1.0	kh @@ m^ m qq t^ 
+ปลีก	1.0	pl ii k^ 
+ฝูงนกลง	1.0	f uu ng^ n o k^ l o ng^ 
+จิก	1.0	c i k^ 
+ตะขบ	1.0	t a kh o p^ 
+ระบุ	1.0	r a b u 
+ฮีตเตอร์	1.0	h ii t^ t qq 
+อะไรอลิซ	1.0	z a r a j^ z a l i t^ 
+นโยบาย	1.0	n a j oo b aa j^ 
+การเรียนการสอน	1.0	k aa n^ r iia n^ k aa n^ s @@ n^ 
+เพิกเฉย	1.0	ph qq k^ ch qq j^ 
+เอิร์น	1.0	z qq n^ 
+ก็ดี	1.0	k @@ d ii 
+แกรแฮม	1.0	kr xx h xx m^ 
+ฝึก	1.0	f v k^ 
+ซ้อม	1.0	s @@ m^ 
+อินทรีย์	1.0	z i n^ s ii 
+แรงใจ	1.0	r xx ng^ c a j^ 
+ทัศนคติ	1.0	th a t^ s a n a kh a t i 
+บวก	1.0	b uua k^ 
+นาก	1.0	n aa k^ 
+เหี่ยว	1.0	h iia w^ 
+แจกัน	1.0	c xx k a n^ 
+คุณสมบัติ	1.0	kh u n^ n a s o m^ b a t^ 
+ปอบ	1.0	p @@ p^ 
+มโนธรรม	1.0	m a n oo th a m^ 
+สหภาพ	1.0	s a h a ph aa p^ 
+ยุโรป	1.0	j u r o p^ 
+ภูมิ	1.0	ph uu m^ 
+รัฐศาสตร์	1.0	r a t^ th a s aa t^ 
+เปิดใจ	1.0	p qq t^ c a j^ 
+คอนโซล	1.0	kh @@ n^ s oo l^ 
+ไวนิล	1.0	w a j^ n i n^ 
+เท่ห์	1.0	th ee 
+คอย	1.0	kh @@ j^ 
+หน่อยสิกระต่าย	1.0	n @ j^ s i kr a t aa j^ 
+คะยั้นคะยอ	1.0	kh a j a n^ kh a j @@ 
+ฟื้น	1.0	f vv n^ 
+เซอร์เลสเตอร์	1.0	s qq l ee t^ t qq 
+เหวี่ยง	1.0	w iia ng^ 
+กระชาก	1.0	kr a ch aa k^ 
+จงใจ	1.0	c o ng^ c a j^ 
+โอ	1.0	z oo 
+เอ็กซ์	1.0	z e k^ 
+สะอาด	1.0	s a z aa t^ 
+กระดุม	1.0	kr a d u m^ 
+เม็ด	1.0	m e t^ 
+วารี	1.0	w aa r ii 
+ขุด	1.0	kh u t^ 
+แอปเปิล	1.0	z xx p^ p qq n^ 
+ซ้าย	1.0	s aa j^ 
+การแพทย์	1.0	k aa n^ ph xx t^ 
+ชี้	1.0	ch ii 
+จเรมี่	1.0	c a r ee m ii 
+แขน	1.0	kh xx n^ 
+หว	1.0	h uua 
+งั	1.0	ng a 
+ไทม์	1.0	th aa m^ 
+แมชชีน	1.0	m xx t^ ch ii n^ 
+แคบ	1.0	kh xx p^ 
+ปลุก	1.0	pl u k^ 
+อ้อม	1.0	z @@ m^ 
+แก๊ง	1.0	k x ng^ 
+ปา	1.0	p aa 
+ผิวหนัง	1.0	ph i w^ n a ng^ 
+สมุด	1.0	s a m u t^ 
+จด	1.0	c o t^ 
+กระบวนทัศน์	1.0	kr a b uua n^ th a t^ 
+ใจดี	1.0	c a j^ d ii 
+ไวกิ้ง	1.0	w a j^ k i ng^ 
+ลอด	1.0	l @@ t^ 
+อุโมงค์	1.0	z u m oo ng^ 
+ถ้ำ	1.0	th a m^ 
+ขุน	1.0	kh u n^ 
+ตาล	1.0	t aa n^ 
+ชรา	1.0	ch a r aa 
+โปรเจค	1.0	pr oo c ee k^ 
+สัมภาษณ์	1.0	s a m^ ph aa t^ 
+หน	1.0	h o n^ 
+แพร่กระจาย	1.0	phr xx kr a c aa j^ 
+แดน	1.0	d xx n^ 
+ลี้	1.0	l ii 
+ดิฉัน	1.0	d i ch a n^ 
+อุณหภูมิ	1.0	z u n^ n a h a ph uu m^ 
+ปะการัง	1.0	p a k aa r a ng^ 
+โรเจอร์	1.0	r oo c qq 
+เบอรตี้	1.0	b qq n^ t ii 
+เค	1.0	kh ee 
+บับ	1.0	b a p^ 
+ทราย	1.0	s aa j^ 
+ลำพัง	1.0	l a m^ ph a ng^ 
+แกรี่	1.0	k xx r ii 
+ฟูฟ่อง	1.0	f uu f @ ng^ 
+กระโดด	1.0	kr a d oo t^ 
+รอบสวน	1.0	r @@ p^ s uua n^ 
+ปรีชา	1.0	pr ii ch aa 
+กระดาน	1.0	kr a d aa n^ 
+คิดเห็น	1.0	kh i t^ h e n^ 
+สายตา	1.0	s aa j^ t aa 
+ประกัน	1.0	pr a k a n^ 
+แท็กซี่	1.0	th x k^ s ii 
+อยู่อาศัย	1.0	j uu z aa s a j^ 
+หงส์	1.0	h o ng^ 
+สารสนเทศ	1.0	s aa r a s o n^ th ee t^ 
+แบดมินตัน	1.0	b x t^ m i n^ t a n^ 
+กะเทย	1.0	k a th qq j^ 
+สาระ	1.0	s aa r a 
+ยักษ์	1.0	j a k^ 
+ตำนาน	1.0	t a m^ n aa n^ 
+แลกเปลี่ยน	1.0	l xx k^ pl iia n^ 
+อาภรณ์	1.0	z aa ph @@ n^ 
+เข้มงวด	1.0	kh e m^ ng uua t^ 
+สูท	1.0	s uu t^ 
+หมา	1.0	m aa 
+เส้น	1.0	s e n^ 
+อีสเตอร์	1.0	z ii t^ t qq 
+ปลาย	1.0	pl aa j^ 
+กล้วย	1.0	kl uua j^ 
+ถึงแม้	1.0	th v ng^ m xx 
+ก็ตาม	1.0	k @@ t aa m^ 
+กวี	1.0	k a w ii 
+หุ่น	1.0	h u n^ 
+กริฟฟอน	1.0	kr i p^ f @@ n^ 
+โทร	1.0	th oo 
+มัสตาร์ด	1.0	m a t^ s a t aa t^ 
+ตักเตือน	1.0	t a k^ t vva n^ 
+โต้แย้ง	1.0	t oo j xx ng^ 
+อยู่แล้ว	1.0	j uu l xx w^ 
+นีโม	1.0	n ii m oo 
+นี	1.0	n ii 
+โมน	1.0	m oo n a 
+เหรอ	1.0	l qq 
+พุ่ง	1.0	ph u ng^ 
+ตกลง	1.0	t o k^ l o ng^ 
+โคลน	1.0	khl oo n^ 
+ล่าช้า	1.0	l aa ch aa 
+ข้อความ	1.0	kh @@ khw aa m^ 
+เฮ	1.0	h ee 
+เลน	1.0	l ee n^ 
+อบรม	1.0	z o p^ r o m^ 
+โพลีกราฟ	1.0	ph oo l ii k^ r aa p^ 
+ห่วง	1.0	h uua ng^ 
+ต่อตา	1.0	t @@ t aa 
+ราส	1.0	r aa t^ 
+เบอร์รี่	1.0	b qq r ii 
+ปี่	1.0	p ii 
+เอ็มเม็ตต์	1.0	z e m^ m e t^ 
+ถอนหายใจ	1.0	th @@ n^ h aa j^ c a j^ 
+เอาจริง	1.0	z a w^ c i ng^ 
+ดิ	1.0	d i 
+ลดหย่อน	1.0	l o t^ j @@ n^ 
+แมดเดอลีนบาสเซ็ท	1.0	m xx t^ d qq l ii n^ b aa t^ s e t^ 
+หัวปักหัวปำ	1.0	h uua p a k^ h uua p a m^ 
+หล่น	1.0	l o n^ 
+หักล้าง	1.0	h a k^ l aa ng^ 
+เท็จ	1.0	th e t^ 
+สูญเปล่า	1.0	s uu n^ pl a w^ 
+อ่อนเปลี้ย	1.0	z @@ n^ pl iia 
+เพลีย	1.0	phl iia 
+พาย	1.0	ph aa j^ 
+รองรับ	1.0	r @@ ng^ r a p^ 
+แพร่หลาย	1.0	phr xx l aa j^ 
+มุข	1.0	m u k^ 
+เจ้าหญิง	1.0	c aa w^ j i ng^ 
+เทพนิยาย	1.0	th ee p^ n i j aa j^ 
+เกร	1.0	kr ee 
+สัน	1.0	s a n^ 
+ยุ่งเหยิง	1.0	j u ng^ j qq ng^ 
+ชะแลง	1.0	ch a l xx ng^ 
+งัด	1.0	ng a t^ 
+เดือด	1.0	d vva t^ 
+จาง	1.0	c aa ng^ 
+ม่วง	1.0	m uua ng^ 
+ภาระ	1.0	ph aa r a 
+หอม	1.0	h @@ m^ 
+กลบ	1.0	kl o p^ 
+หมด	1.0	m o t^ 
+โท	1.0	th oo 
+อดีต	1.0	z a d ii t^ 
+ซอลเก่ง	1.0	s @@ l^ k e ng^ 
+เยื่อ	1.0	j vva 
+บันได	1.0	b a n^ d a j^ 
+ทันใด	1.0	th a n^ d a j^ 
+ยื่น	1.0	j vv n^ 
+อัตชีวประวัติ	1.0	z a t^ t a ch ii w a pr a w a t^ 
+ลายเซ็น	1.0	l aa j^ s e n^ 
+พวง	1.0	ph uua ng^ 
+ชมพู	1.0	ch o m^ ph uu 
+เรือง	1.0	r vva ng^ 
+สัญชาตญาณ	1.0	s a n^ ch aa t^ t a j aa n^ 
+ต้ม	1.0	t o m^ 
+เสริม	1.0	s qq m^ 
+ถุง	1.0	th u ng^ 
+จอลลี่	1.0	c @@ n^ l ii 
+ประกาย	1.0	pr a k aa j^ 
+ตะวัน	1.0	t a w a n^ 
+อืม	1.0	z vv m^ 
+คู่หู	1.0	kh uu h uu 
+ภัยพิบัติ	1.0	ph a j^ ph i b a t^ 
+แวดล้อม	1.0	w xx t^ l @@ m^ 
+อิทธิพล	1.0	z i t^ th i ph o n^ 
+พื้นเมือง	1.0	ph vv n^ m vva ng^ 
+เต้น	1.0	t e n^ 
+แซม	1.0	s xx m^ 
+ประสบการณ์	1.0	pr a s o p^ k aa n^ 
+ควัน	1.0	khw a n^ 
+รับประกัน	1.0	r a p^ pr a k a n^ 
+คลุกคลี	1.0	khl u k^ khl ii 
+เชื้อ	1.0	ch vva 
+ไข้	1.0	kh a j^ 
+หวัด	1.0	w a t^ 
+คลี่คลาย	1.0	khl ii khl aa j^ 
+พล	1.0	ph o n^ 
+ต่อสู้	1.0	t @@ s uu 
+ย้ำ	1.0	j a m^ 
+แฟนซี	1.0	f xx n^ s ii 
+กิ้งก่า	1.0	k i ng^ k aa 
+ระเบิด	1.0	r a b qq t^ 
+ฉัร	1.0	ch a n^ 
+เสียบ	1.0	s iia p^ 
+ปลั๊ก	1.0	pl a k^ 
+จ่าย	1.0	c aa j^ 
+เอริก้า	1.0	z ee r i k aa 
+ซุป	1.0	s u p^ 
+พ่อครัว	1.0	ph @@ khr uua 
+ไอโฟน	1.0	z a j^ f oo n^ 
+อะไหล่	1.0	z a l a j^ 
+น่ะ	1.0	n a 
+ไมค์	1.0	m a j^ 
+อำเภอ	1.0	z a m^ ph qq 
+ฟิลิปปา	1.0	f i l i p^ p aa 
+เจน	1.0	c ee n^ 
+สินทรัพย์	1.0	s i n^ s a p^ 
+ประเภท	1.0	pr a ph ee t^ 
+พิจารณา	1.0	ph i c aa r a n aa 
+เนื้อหา	1.0	n vva h aa 
+เอสเตอร์	1.0	z ee s^ t qq 
+ลุก	1.0	l u k^ 
+เผด็จการ	1.0	ph a d e t^ k aa n^ 
+รากฐาน	1.0	r aa k^ th aa n^ 
+อุดมการณ์	1.0	z u d o m^ m a k aa n^ 
+ละคร	1.0	l a kh @@ n^ 
+โอเปร่า	1.0	z oo p ee l aa 
+วัฒนธรรม	1.0	w a t^ th a n a th a m^ 
+เสถียรภาพ	1.0	s a th iia n^ r a ph aa p^ 
+แบ่งแยก	1.0	b x ng^ j xx k^ 
+แกงกะหรี่	1.0	k xx ng^ k a r ii 
+ผักกาด	1.0	ph a k^ k aa t^ 
+ผลัด	1.0	phl a t^ 
+บรูไน	1.0	br uu n a j^ 
+มาเลเซีย	1.0	m aa l ee s iia 
+บอร์เนียว	1.0	b @@ n iia w^ 
+พระเยซู	1.0	phr a j ee s uu 
+ปลอก	1.0	pl @@ k^ 
+ต่อรอง	1.0	t @@ r @@ ng^ 
+พิษ	1.0	ph i t^ 
+พิกัด	1.0	ph i k a t^ 
+ซ้ำซาก	1.0	s a m^ s aa k^ 
+ขัด	1.0	kh a t^ 
+จังหวะ	1.0	c a ng^ w a 
+ติดตั้ง	1.0	t i t^ t a ng^ 
+ฝา	1.0	f aa 
+โครเมียม	1.0	khr oo m iia m^ 
+ตะแกรง	1.0	t a kr xx ng^ 
+บรรทุก	1.0	b a n^ th u k^ 
+ศิลปิน	1.0	s i n^ l a p i n^ 
+นิทรรศการ	1.0	n i th a t^ s a k aa n^ 
+นวัตกรรม	1.0	n a w a t^ t a k a m^ 
+มหกรรม	1.0	m a h a k a m^ 
+วิจัยแห่งชาติ	1.0	w i c a j^ h x ng^ ch aa t^ 
+สมมุติฐาน	1.0	s o m^ m u t^ t i th aa n^ 
+รอด	1.0	r @@ t^ 
+บาดเจ็บ	1.0	b aa t^ c e p^ 
+เขมือบ	1.0	kh a m vva p^ 
+หม้อ	1.0	m @@ 
+กังวล	1.0	k a ng^ w o n^ 
+ลาน	1.0	l aa n^ 
+สเก็ต	1.0	s a k e t^ 
+แตง	1.0	t xx ng^ 
+แก้ม	1.0	k xx m^ 
+เข็น	1.0	kh e n^ 
+คอนแทคเลนซ์	1.0	kh @@ n^ th xx k^ l ee n^ 
+ตู่	1.0	t uu 
+จอห์นนี่	1.0	c @@ n^ n ii 
+ฟอร์ด	1.0	f @@ t^ 
+ไนท์	1.0	n a j^ 
+ประดับ	1.0	pr a d a p^ 
+บอบบาง	1.0	b @@ p^ b aa ng^ 
+ผลาญ	1.0	phl aa n^ 
+จิ้งจอก	1.0	c i ng^ c @@ k^ 
+ไซเบอร์	1.0	s a j^ b qq 
+ปีเตอร์	1.0	p ii t qq 
+ไปเปอร์	1.0	p a j^ p qq 
+พริก	1.0	phr i k^ 
+ดอง	1.0	d @@ ng^ 
+หยิบมือ	1.0	j i p^ m vv 
+แก่น	1.0	k x n^ 
+แท้	1.0	th xx 
+อุทิศ	1.0	z u th i t^ 
+”ริคาร์โด	1.0	r i kh aa d oo 
+สังหาร	1.0	s a ng^ h aa n^ 
+ขอโทษ	1.0	kh @@ th oo t^ 
+ทองคำ	1.0	th @@ ng^ kh a m^ 
+ปาร์ตี้	1.0	p aa t ii 
+แซนดรา	1.0	s xx n^ dr aa 
+ชาญ	1.0	ch aa n^ 
+เลขา	1.0	l ee kh aa 
+สำนัก	1.0	s a m^ n a k^ 
+ปัจจุบัน	1.0	p a t^ c u b a n^ 
+ลาย	1.0	l aa j^ 
+อิฐ	1.0	z i t^ 
+เตา	1.0	t a w^ 
+เกมส์	1.0	k ee m^ 
+พลัม	1.0	phl a m^ 
+คณะ	1.0	kh a n a 
+บวช	1.0	b uua t^ 
+มาร์ช	1.0	m aa ch^ 
+แฮร์	1.0	h xx 
+กำลังใจ	1.0	k a m^ l a ng^ c a j^ 
+เขียว	1.0	kh iia w^ 
+เปียโน	1.0	p iia n oo 
+โรมิโอ	1.0	r oo m i z oo 
+จูเลียต	1.0	c uu l iia t^ 
+วิลเลียม	1.0	w i n^ l iia m^ 
+เชก	1.0	ch ee k^ 
+สเปียร์	1.0	s a p iia 
+หลบหนี	1.0	l o p^ n ii 
+หมอน	1.0	m @@ n^ 
+บาคาร่า	1.0	b aa kh aa r aa 
+ภาพยนตร์	1.0	ph aa p^ ph a j o n^ 
+ฉาย	1.0	ch aa j^ 
+ไต้หวัน	1.0	t a j^ w a n^ 
+แปรปรวน	1.0	pr xx pr uua n^ 
+แปร	1.0	pr xx 
+สุ่ม	1.0	s u m^ 
+คลั่งไคล้	1.0	khl a ng^ khl a j^ 
+เร่งรีบ	1.0	r e ng^ r ii p^ 
+นัดหมาย	1.0	n a t^ m aa j^ 
+ประชากร	1.0	pr a ch aa k @@ n^ 
+รีรัน	1.0	r ii r a n^ 
+เบื่อ	1.0	b vva 
+อธิการบดี	1.0	z a th i k aa n^ b @@ d ii 
+สถานะ	1.0	s a th aa n a 
+สันดาน	1.0	s a n^ d aa n^ 
+เลว	1.0	l ee w^ 
+พิพากษา	1.0	ph i ph aa k^ s aa 
+สังคม	1.0	s a ng^ kh o m^ 
+ฉับ	1.0	ch a p^ 
+คาด	1.0	kh aa t^ 
+อวยพร	1.0	z uua j^ ph @@ n^ 
+ฟาก	1.0	f aa k^ 
+ขั้น	1.0	kh a n^ 
+บำบัด	1.0	b a m^ b a t^ 
+มะเร็ง	1.0	m a r e ng^ 
+ลุกลาม	1.0	l u k^ l aa m^ 
+ป้าย	1.0	p aa j^ 
+เมล์	1.0	m ee 
+ทุกสิ่ง	1.0	th u k^ s i ng^ 
+ชอคโกแลต	1.0	ch @@ k^ k oo l xx t^ 
+นกแก้ว	1.0	n o k^ k xx w^ 
+โพลิกอน	1.0	ph oo l i k @@ n^ 
+พิศวงจีฟส์	1.0	ph i t^ s a w o ng^ c ii p^ 
+กวนใจ	1.0	k uua n^ c a j^ 
+กระจก	1.0	kr a c o k^ 
+ผักชี	1.0	ph a k^ ch ii 
+สำลัก	1.0	s a m^ l a k^ 
+จม	1.0	c o m^ 
+จอง	1.0	c @@ ng^ 
+บาหลี	1.0	b aa l ii 
+อินโดนีเซีย	1.0	z i n^ d oo n ii s iia 
+ฝาแฝด	1.0	f aa f xx t^ 
+อึดอัด	1.0	z v t^ z a t^ 
+ฟาร์ม	1.0	f aa m^ 
+ปราชญ์	1.0	pr aa t^ 
+ผจญภัย	1.0	ph a c o n^ ph a j^ 
+ยูเอ็น	1.0	j uu z e n^ 
+หลักฐาน	1.0	l a k^ th aa n^ 
+เจตนา	1.0	c ee t^ t a n aa 
+ปรากฏการณ์	1.0	pr aa k o t^ k aa n^ 
+แตน	1.0	t xx n^ 
+ชัวร์	1.0	ch uua 
+ประธาน	1.0	pr a th aa n^ 
+ปรุง	1.0	pr u ng^ 
+สตูว์	1.0	s a t uu 
+โค	1.0	kh oo 
+สม	1.0	s o m^ 
+สมศรี	1.0	s o m^ s ii 
+เสียเวลา	1.0	s iia w ee l aa 
+ดอลลาร์	1.0	d @ n^ l aa 
+ทวิดเดิล	1.0	th a w i t^ d qq l^ 
+เข่า	1.0	kh a w^ 
+เคราะห์	1.0	khr @ 
+ศุกร์	1.0	s u k^ 
+แค	1.0	kh xx 
+สเปอร์	1.0	s a p qq 
+ผลลัพธ์	1.0	ph o n^ l a p^ 
+หนี้	1.0	n ii 
+สะอาดสะอ้าน	1.0	s a z aa t^ s a z aa n^ 
+หมุน	1.0	m u n^ 
+โคตร	1.0	kh oo t^ 
+เจรจา	1.0	c ee r a c aa 
+ดวงจันทร์	1.0	d uua ng^ c a n^ 
+ไหว้	1.0	w aa j^ 
+พระอาจารย์	1.0	phr a z aa c aa n^ 
+ละกัน	1.0	l a k a n^ 
+โต้ตอบ	1.0	t oo t @@ p^ 
+ไผ่	1.0	ph a j^ 
+บิบิม	1.0	b i b i m^ 
+บัพ	1.0	b a p^ 
+ยำ	1.0	j a m^ 
+เกาหลี	1.0	k a w^ l ii 
+ลับ	1.0	l a p^ 
+กาฬ	1.0	k aa n^ 
+ย้อน	1.0	j @@ n^ 
+ลิซ	1.0	l i t^ 
+ไร่	1.0	r a j^ 
+ข้าวโพด	1.0	kh aa w^ ph oo t^ 
+หอ	1.0	h @@ 
+สารภาพ	1.0	s aa r a ph aa p^ 
+จรจัด	1.0	c @@ n^ c a t^ 
+นามบัตร	1.0	n aa m^ b a t^ 
+มากๆ	1.0	m aa k^ m aa k^ 
+สวย	1.0	s uua j^ 
+ขอบ	1.0	kh @@ p^ 
+ไตรมาส	1.0	tr a j^ m aa t^ 
+มุ่งมั่น	1.0	m u ng^ m a n^ 
+คิดค้น	1.0	kh i t^ kh o n^ 
+ดอกทานตะวัน	1.0	d @@ k^ th aa n^ t a w a n^ 
+มิด	1.0	m i t^ 
+คาง	1.0	kh aa ng^ 
+ขวด	1.0	kh uua t^ 
+ถัง	1.0	th a ng^ 
+คุณนาย	1.0	kh u n^ n aa j^ 
+หงุดหงิด	1.0	ng u t^ ng i t^ 
+เตะตา	1.0	t e t aa 
+โฉม	1.0	ch oo m^ 
+ต่อต้าน	1.0	t @@ t aa n^ 
+สะกด	1.0	s a k o t^ 
+สะใภ้	1.0	s a ph a j^ 
+สงคราม	1.0	s o ng^ khr aa m^ 
+หวาดกลัว	1.0	w aa t^ kl uua 
+โศกนาฏกรรม	1.0	s oo k a n aa t^ t a k a m^ 
+โขง	1.0	kh oo ng^ 
+เงย	1.0	ng qq j^ 
+นึง	1.0	n v ng^ 
+เตร็ดเตร่	1.0	tr e t^ tr ee 
+น้ำส้มสายชู	1.0	n a m^ s o m^ s aa j^ ch uu 
+สู้	1.0	s uu 
+ทวี	1.0	th a w ii 
+เดิลดัม	1.0	d qq n^ d a m^ 
+ศิวิไลซ์	1.0	s i w i l a j^ 
+โทรเลข	1.0	thr oo l ee k^ 
+เหมาะ	1.0	m @ 
+เร่ร่อน	1.0	r ee r @ n^ 
+พับ	1.0	ph a p^ 
+ลิฟท์	1.0	l i p^ 
+อินเทอร์เฟซ	1.0	z i n^ th qq f ee t^ 
+คุ้มค่า	1.0	kh u m^ kh aa 
+สุริยะ	1.0	s u r i j a 
+ไอศกรีม	1.0	z a j^ s a kr ii m^ 
+เชอร์เบท	1.0	ch qq b e t^ 
+เดท	1.0	d ee t^ 
+ครั้งนั้น	1.0	khr a ng^ n a n^ 
+แปด	1.0	p xx t^ 
+เรื่อย	1.0	r vva j^ 
+ราชการ	1.0	r aa t^ ch a k aa n^ 
+ขัดขวาง	1.0	kh a t^ khw aa ng^ 
+ก้าวหน้า	1.0	k aa w^ n aa 
+เอก	1.0	z ee k^ 
+ซะไบท์	1.0	s a b a j^ 
+เป้า	1.0	p a w^ 
+แมท	1.0	m xx t^ 
+อับอาย	1.0	z a p^ z aa j^ 
+ย่อยยับ	1.0	j @@ j^ j a p^ 
+พฤษภาทมิฬ	1.0	phr v t^ s a ph aa th a m i n^ 
+กริปเปอร์	1.0	kr i p^ p qq 
+สแตนเลส	1.0	s a t xx n^ l ee t^ 
+เบา	1.0	b a w^ 
+ย่อม	1.0	j @ m^ 
+สั่งการ	1.0	s a ng^ k aa n^ 
+ราชา	1.0	r aa ch aa 
+ยึดมั่น	1.0	j v t^ m a n^ 
+ขนุน	1.0	kh a n u n^ 
+อาวุโส	1.0	z aa w u s oo 
+หารือ	1.0	h aa r vv 
+อักเสบ	1.0	z a k^ s ee p^ 
+แหลม	1.0	l xx m^ 
+ชาร์ล	1.0	ch aa l^ 
+คุกเข่า	1.0	kh u k^ kh a w^ 
+กระแส	1.0	kr a s xx 
+เศร้าโศก	1.0	s a w^ s oo k^ 
+ร้องเรียน	1.0	r @@ ng^ r iia n^ 
+ก่อกวน	1.0	k @@ k uua n^ 
+ซึ้ง	1.0	s v ng^ 
+เบส	1.0	b ee t^ 
+ยู	1.0	j uu 
+มั๊ย	1.0	m a j^ 
+กระท่อม	1.0	kr a th @ m^ 
+เทียม	1.0	th iia m^ 
+เมฆ	1.0	m ee k^ 
+ตระหนก	1.0	tr a n o k^ 
+เหนื่อยหน่าย	1.0	n vva j^ n aa j^ 
+ลอปสเตอร์	1.0	l @@ p^ s a t qq 
+คูเปอร์	1.0	kh uu p qq 
+ยาม	1.0	j aa m^ 
+ลาบ	1.0	l aa p^ 
+ราดอร์	1.0	r aa d @@ 
+นิดเดียว	1.0	n i t^ d iia w^ 
+ยูเนี่ยน	1.0	j uu n iia n^ 
+ขายหน้า	1.0	kh aa j^ n aa 
+สันโดษ	1.0	s a n^ d oo t^ 
+ขี้เกียจ	1.0	kh ii k iia t^ 
+เหยี่ยว	1.0	j iia w^ 
+วิจิตร	1.0	w i c i t^ 
+เมนู	1.0	m ee n uu 
+สนับสนุน	1.0	s a n a p^ s a n u n^ 
+ภาวนา	1.0	ph aa w a n aa 
+ช่องทาง	1.0	ch @ ng^ th aa ng^ 
+อาคาร	1.0	z aa kh aa n^ 
+จ่า	1.0	c aa 
+อาชญากรรม	1.0	z aa t^ ch a j aa k a m^ 
+วิตกกังวล	1.0	w i t o k^ k a ng^ w o n^ 
+ตรี	1.0	tr ii 
+สาขา	1.0	s aa kh aa 
+หัวหอม	1.0	h uua h @@ m^ 
+สำเนียง	1.0	s a m^ n iia ng^ 
+ฉะฉาน	1.0	ch a ch aa n^ 
+ซิซิลี	1.0	s i s i l ii 
+พิธี	1.0	ph i th ii 
+เออร์เนส	1.0	z qq n ee t^ 
+เป็นห่วง	1.0	p e n^ h uua ng^ 
+รกร้าง	1.0	r o k^ r aa ng^ 
+เสียหาย	1.0	s iia h aa j^ 
+เฮ้	1.0	h ee 
+แน่นหนา	1.0	n x n^ n aa 
+มังสวิรัต	1.0	m a ng^ s a w i r a t^ 
+สุริยุปราคา	1.0	s u r i j u pr aa kh aa 
+ธง	1.0	th o ng^ 
+คู่มือ	1.0	kh uu m vv 
+กิ่งก้าน	1.0	k i ng^ k aa n^ 
+โอบล้อม	1.0	z oo p^ l @@ m^ 
+ปล้น	1.0	pl o n^ 
+แก้ตัว	1.0	k xx t uua 
+ภูมิใจ	1.0	ph uu m^ c a j^ 
+จ้ะ	1.0	c a 
+หนอ	1.0	n @@ 
+มหานคร	1.0	m a h aa n a kh @@ n^ 
+อึกทึก	1.0	z v k^ k a th v k^ 
+ครึกโครม	1.0	khr v k^ khr oo m^ 
+ซุกซน	1.0	s u k^ s o n^ 
+ทรัพย์สิน	1.0	s a p^ s i n^ 
+เสื่อม	1.0	s vva m^ 
+เข็ม	1.0	kh e m^ 
+หมุด	1.0	m u t^ 
+โปสเตอร์	1.0	p oo s^ t qq 
+ผนัง	1.0	ph a n a ng^ 
+อุ๊ปส์	1.0	z u p^ 
+จู่โจม	1.0	c uu c oo m^ 
+สันติภาพ	1.0	s a n^ t i ph aa p^ 
+แด่	1.0	d xx 
+พระคุณ	1.0	phr a kh u n^ 
+พระพักตร์	1.0	phr a ph a k^ 
+กระทั่ง	1.0	kr a th a ng^ 
+เพคะ	1.0	ph ee kh a 
+ฝ่า	1.0	f aa 
+ดัชเชส	1.0	d a t^ ch ee t^ 
+เปี่ยน	1.0	p iia n^ 
+มิตร	1.0	m i t^ 
+อยุธยา	1.0	z a j u t^ th a j aa 
+ไฮเทค	1.0	h a j^ th ee k^ 
+งอก	1.0	ng @@ k^ 
+หนี	1.0	n ii 
+เบน	1.0	b ee n^ 
+ท้องถิ่น	1.0	th @@ ng^ th i n^ 
+แล้ง	1.0	l xx ng^ 
+โรดีเซีย	1.0	r oo d ii s iia 
+ฮัน	1.0	h a n^ 
+วินัย	1.0	w i n a j^ 
+หนุ่มสาว	1.0	n u m^ s aa w^ 
+เทคนิค	1.0	th e k^ n i k^ 
+ท่อง	1.0	th @ ng^ 
+เขย่า	1.0	kh a j a w^ 
+จีฟ	1.0	c ii p^ 
+แพร์	1.0	ph xx 
+สะดือ	1.0	s a d vv 
+กำเริบ	1.0	k a m^ r qq p^ 
+โพล่ง	1.0	phl oo ng^ 
+สระบุรี	1.0	s a r a b u r ii 
+ถดถอย	1.0	th o t^ th @@ j^ 
+แคลคูลัสพีช	1.0	kh xx l^ kh uu l a t^ ph ii t^ 
+คณิต	1.0	kh a n i t^ 
+สถิติ	1.0	s a th i t i 
+เบย์	1.0	b ee 
+เลิร์น	1.0	l qq n^ 
+สสาร	1.0	s a s aa n^ 
+แร่ธาตุ	1.0	r xx th aa t^ 
+ดาราศาสตร์	1.0	d aa r aa s aa t^ 
+ดวงดาว	1.0	d uua ng^ d aa w^ 
+ละเมอ	1.0	l a m qq 
+แม่บ้าน	1.0	m xx b aa n^ 
+พเนจร	1.0	ph a n ee c @@ n^ 
+เข็มขัด	1.0	kh e m^ kh a t^ 
+นิรภัย	1.0	n i r a ph a j^ 
+อ่อ	1.0	z @@ 
+มัชรูม	1.0	m a t^ ch a r uu m^ 
+น้ำพักน้ำแรง	1.0	n a m^ ph a k^ n a m^ r xx ng^ 
+ขวา	1.0	khw aa 
+ตัวอย่าง	1.0	t uua j aa ng^ 
+โนเบล	1.0	n oo b ee l^ 
+ฟุต	1.0	f u t^ 
+ประเด็น	1.0	pr a d e n^ 
+เหลื่อมล้ำ	1.0	l vva m^ l a m^ 
+ถกเถียง	1.0	th o k^ th iia ng^ 
+ผิดชอบชั่วดี	1.0	ph i t^ ch @@ p^ ch uua d ii 
+ชดเชย	1.0	ch o t^ ch qq j^ 
+กระบวนการ	1.0	kr a b uua n^ k aa n^ 
+ยุติธรรม	1.0	j u t^ t i th a m^ 
+ซิการ์	1.0	s i k aa 
+มาดาม	1.0	m aa d aa m^ 
+โดนัท	1.0	d oo n a t^ 
+ผลิตภัณฑ์	1.0	ph a l i t^ t a ph a n^ 
+เสร็จสิ้น	1.0	s e t^ s i n^ 
+สถานนี	1.0	s a th aa n^ n ii 
+แกรนด์	1.0	kr xx n^ 
+เซน	1.0	s ee n^ 
+ทรัล	1.0	thr a n^ 
+ปืน	1.0	p vv n^ 
+เนิฟร์	1.0	n qq f^ 
+โครงการ	1.0	khr oo ng^ k aa n^ 
+จุฬาลงกรณ์มหาวิทยาลัย	1.0	c u l aa l o ng^ k @@ n^ m a h aa w i t^ th a j aa l a j^ 
+โปรดปราน	1.0	pr oo t^ pr aa n^ 
+ช็อคโกแลต	1.0	ch @ k^ k oo l xx t^ 
+โพ้น	1.0	ph oo n^ 
+อพยพ	1.0	z o p^ ph a j o p^ 
+เหมาเจ๋อตุง	1.0	m a w^ c qq t u ng^ 
+อ้อ	1.0	z @@ 
+คราว	1.0	khr aa w^ 
+ยูนิคอร์น	1.0	j uu n i kh @@ n^ 
+ทัก	1.0	th a k^ 
+ใคร่	1.0	khr a j^ 
+มีด	1.0	m ii t^ 
+โกน	1.0	k oo n^ 
+โหดร้าย	1.0	h oo t^ r aa j^ 
+คดี	1.0	kh a d ii 
+วิล	1.0	w i l^ 
+ล่า	1.0	l aa 
+หืม	1.0	h vv m^ 
+เอียน	1.0	z iia n^ 
+โซ่	1.0	s oo 
+อุปทาน	1.0	z u p^ p a th aa n^ 
+สมมติ	1.0	s o m^ m o t^ 
+ฆาตกร	1.0	kh aa t^ t a k @@ n^ 
+ล้อ	1.0	l @@ 
+ภูมิต้านทาน	1.0	ph uu m^ t aa n^ th aa n^ 
+ซิมมอนส์	1.0	s i m^ m @@ n^ 
+ก๊อก	1.0	k @ k^ 
+รั่ว	1.0	r uua 
+โภชนาการ	1.0	ph oo t^ ch a n aa k aa n^ 
+แดด	1.0	d xx t^ 
+แคนาดา	1.0	kh xx n^ n aa d aa 
+ถ่อม	1.0	th @ m^ 
+ฝรั่งเศส	1.0	f a r a ng^ s ee t^ 
+ฟิด	1.0	f i t^ 
+เดิ้ล	1.0	d qq n^ 
+เดอ	1.0	d qq 
+คลิก	1.0	khl i k^ 
+เนย	1.0	n qq j^ 
+การีน	1.0	k aa r ii n^ 
+หน้าจอ	1.0	n aa c @@ 
+คอรัปชัน	1.0	kh @@ r a p^ ch a n^ 
+ถลำลึก	1.0	th a l a m^ l v k^ 
+ริมฝีปาก	1.0	r i m^ f ii p aa k^ 
+เผยอ	1.0	ph a j qq 
+จูบ	1.0	c uu p^ 
+คาราเมล	1.0	kh aa r aa m ee l^ 
+ไวรัส	1.0	w a j^ r a t^ 
+โคโรน่า	1.0	kh oo r oo n aa 
+กำเนิด	1.0	k a m^ n qq t^ 
+หาว	1.0	h aa w^ 
+มุ่งหน้า	1.0	m u ng^ n aa 
+โมเต็ล	1.0	m oo t e n^ 
+ปด	1.0	p o t^ 
+ธัญพืช	1.0	th a n^ j a ph vv t^ 
+ฮาร์แลนด์	1.0	h aa l xx n^ 
+บรรจง	1.0	b a n^ c o ng^ 
+ฉงน	1.0	ch a ng o n^ 
+รองเท้า	1.0	r @@ ng^ th aa w^ 
+กัด	1.0	k a t^ 
+ต่อง	1.0	t @@ ng^ 
+คัมภีร์	1.0	kh a m^ ph ii 
+แถลง	1.0	th a l xx ng^ 
+การณ์	1.0	k aa n^ 
+ผิดเพี้ยน	1.0	ph i t^ ph iia n^ 
+คล่อง	1.0	khl @ ng^ 
+เอื้อม	1.0	z vva m^ 
+สาป	1.0	s aa p^ 
+ครอบครอง	1.0	khr @@ p^ khr @@ ng^ 
+หน้าผา	1.0	n aa ph aa 
+คุ้นเคย	1.0	kh u n^ kh qq j^ 
+นาอลิซ	1.0	n aa z a l i t^ 
+เวทนา	1.0	w ee t^ th a n aa 
+รอบคอบ	1.0	r @@ p^ kh @@ p^ 
+เบาหวาน	1.0	b a w^ w aa n^ 
+กำกับ	1.0	k a m^ k a p^ 
+จีฟส์	1.0	c ii p^ 
+ตะกุกตะกัก	1.0	t a k u k^ t a k a k^ 
+ทิศ	1.0	th i t^ 
+นิฬากา	1.0	n i l aa k aa 
+พ่อเลี้ยง	1.0	ph @@ l iia ng^ 
+เหล้า	1.0	l a w^ 
+ทองแดง	1.0	th @@ ng^ d xx ng^ 
+ซิมโฟนี	1.0	s i m^ f oo n ii 
+ต่อเนื่อง	1.0	t @@ n vva ng^ 
+กินี	1.0	k i n ii 
+หล่อ	1.0	l @@ 
+ที่อยู่	1.0	th ii j u 
+ไพเราะ	1.0	ph a j^ r @ 
+นุ่มนวล	1.0	n u m^ n uua n^ 
+หัา	1.0	h aa 
+ยอดเยี่ยม	1.0	j @@ t^ j iia m^ 
+ตื่นเต้น	1.0	t vv n^ t e n^ 
+แมน	1.0	m xx n^ 
+สวมใส่	1.0	s uua m^ s a j^ 
+ประหยัด	1.0	pr a j a t^ 
+ปิงปอง	1.0	p i ng^ p @@ ng^ 
+พังก์	1.0	ph a ng^ 
+ร็อก	1.0	r @ k^ 
+ฝูง	1.0	f uu ng^ 
+ริชาร์ด	1.0	r i ch aa t^ 
+สัมภาระ	1.0	s a m^ ph aa r a 
+เศร้า	1.0	s a w^ 
+สนิทสนม	1.0	s a n i t^ s a n o m^ 
+ปราสาท	1.0	pr aa s aa t^ 
+เห็ด	1.0	h e t^ 
+หลากหลาย	1.0	l aa k^ l aa j^ 
+ชนิด	1.0	ch a n i t^ 
+แอบ	1.0	z xx p^ 
+หาง	1.0	h aa ng^ 
+โปเก	1.0	p oo k ee 
+ทุ่มเท	1.0	th u m^ th ee 
+ยืดหยุ่น	1.0	j vv t^ j u n^ 
+ใย	1.0	j a j^ 
+แมงมุม	1.0	m xx ng^ m u m^ 
+เงื่อนงำ	1.0	ng vva n^ ng a m^ 
+บัพติศ	1.0	b a p^ t i t^ 
+ห่าง	1.0	h aa ng^ 
+หาด	1.0	h aa t^ 
+ลังเล	1.0	l a ng^ l ee 
+กรอ	1.0	kr @@ 
+เทป	1.0	th ee p^ 
+คาสเซท	1.0	kh aa t^ s ee t^ 
+ออกัสตัส	1.0	z @@ k a t^ t a t^ 
+ระแวก	1.0	r a w xx k^ 
+เห่า	1.0	h a w^ 
+ถ่องแท้	1.0	th @@ ng^ th xx 
+ฝัง	1.0	f a ng^ 
+หนังสือพิมพ์	1.0	n a ng^ s vv ph i m^ 
+สถาน	1.0	s a th aa n^ 
+ทูต	1.0	th uu t^ 
+กา	1.0	k aa 
+ริก	1.0	r i k^ 
+รังเกียจ	1.0	r a ng^ k iia t^ 
+ปากน้ำโพ	1.0	p aa k^ n a m^ ph oo 
+แมร์รี่	1.0	m xx r ii 
+เรื่องรีเคอร์	1.0	r vva ng^ r ii kh qq 
+ชัน	1.0	ch a n^ 
+ปกคลุม	1.0	p o k^ khl u m^ 
+จับตา	1.0	c a p^ t aa 
+ตั๋ว	1.0	t uua 
+แตงกวา	1.0	t xx ng^ kw aa 
+สระ	1.0	s a 
+ทศพล	1.0	th o t^ s a ph o n^ 
+ทศพร	1.0	th o t^ s a ph @@ n^ 
+ระเบียง	1.0	r a b iia ng^ 
+สัดส่วน	1.0	s a t^ s uua n^ 
+ตอบโต้	1.0	t @@ p^ t oo 
+เข้มแข็ง	1.0	kh e m^ kh x ng^ 
+ม้าอลิส	1.0	m aa z a l i t^ 
+เชฟ	1.0	ch ee p^ 
+บุคคล	1.0	b u k^ kh o n^ 
+แปรง	1.0	pr xx ng^ 
+ไข่มุก	1.0	kh a j^ m u k^ 
+ฮาโรลด์	1.0	h aa r oo l^ 
+รูปร่าง	1.0	r uu p^ r aa ng^ 
+นิทาน	1.0	n i th aa n^ 
+สมมุติ	1.0	s o m^ m u t^ 
+โค่น	1.0	kh oo n^ 
+แมคดูกัล	1.0	m xx k^ d uu k a n^ 
+ป้อม	1.0	p @ m^ 
+สั้น	1.0	s a n^ 
+หน้าผาก	1.0	n aa ph aa k^ 
+ท้าย	1.0	th aa j^ 
+พร้อมเพย์	1.0	phr @@ m^ ph ee 
+ไมล์	1.0	m a j^ 
+เฉียง	1.0	ch iia ng^ 
+ฮีโร่	1.0	h ii r oo 
+เข้าท่า	1.0	kh a w^ th aa 
+จูง	1.0	c uu ng^ 
+ซีอีโอ	1.0	s ii z ii z oo 
+ญี่ปุ่น	1.0	j ii p u n^ 
+รู้อลิซ	1.0	z uu l i t^ 
+เหลือบ	1.0	l vva p^ 
+ล็อ	1.0	l @ 
+ครึ	1.0	khr v 
+อัญมณี	1.0	z a n^ j a m a n ii 
+มะปราง	1.0	m a pr aa ng^ 
+ทีวี	1.0	th ii w ii 
+เหินห่าง	1.0	h qq n^ h aa ng^ 
+เคส	1.0	kh ee t^ 
+บุกรุก	1.0	b u k^ r u k^ 
+วูบ	1.0	w uu p^ 
+คราง	1.0	khr aa ng^ 
+ดินเนอร์	1.0	d i n^ n qq 
+โหมด	1.0	m o t^ 
+บิสกิต	1.0	b i t^ k i t^ 
+ลัด	1.0	l a t^ 
+คุณหญิง	1.0	kh u n^ j i ng^ 
+อ่อนโยน	1.0	z @@ n^ j oo n^ 
+ทบทวน	1.0	th o p^ th uua n^ 
+ญัตติ	1.0	j a t^ t i 
+สิทธิบัตร	1.0	s i t^ th i b a t^ 
+แล้ววูฟ	1.0	l xx w^ w uu p^ 
+นางฟ้า	1.0	n aa ng^ f aa 
+ร่ายรำ	1.0	r aa j^ r a m^ 
+เยาว์	1.0	j a w^ 
+หวนคืน	1.0	h uua n^ kh vv n^ 
+ปลดแอก	1.0	pl o t^ z xx k^ 
+กดขี่ข่มเหง	1.0	k o t^ kh ii kh o m^ h ee ng^ 
+สากล	1.0	s aa k o n^ 
+กล้ามเนื้อ	1.0	kl aa m^ n vva 
+บด	1.0	b o t^ 
+เคี้ยว	1.0	kh iia w^ 
+รั้ว	1.0	r uua 
+โค้ก	1.0	kh oo k^ 
+ตบ	1.0	t o p^ 
+กางเกง	1.0	k aa ng^ k ee ng^ 
+เยอรมัน	1.0	j qq r a m a n^ 
+รับฟัง	1.0	r a p^ f a ng^ 
+ศักดิ์	1.0	s a k^ 
+ฝึกซ้อม	1.0	f v k^ s @@ m^ 
+ชก	1.0	ch o k^ 
+พาสเจอไรซ์	1.0	ph aa t^ c qq r a j^ 
+ลัก	1.0	l a k^ 
+รัด	1.0	r a t^ 
+ลิ้น	1.0	l i n^ 
+พาราฟิน	1.0	ph aa r aa f i n^ 
+ก๊าด	1.0	k aa t^ 
+มูลนิธิ	1.0	m uu n^ l a n i th i 
+ค่าย	1.0	kh aa j^ 
+พักแรม	1.0	ph a k^ r xx m^ 
+เขาใหญ่	1.0	kh a w^ j a j^ 
+เครดิต	1.0	khr ee d i t^ 
+การ์ด	1.0	k aa t^ 
+ไทเลอ	1.0	th a j^ l qq 
+โน้ต	1.0	n oo t^ 
+เกลียว	1.0	kl iia w^ 
+รำพึง	1.0	r a m^ ph v ng^ 
+รำพัน	1.0	r a m^ ph a n^ 
+กระ	1.0	kr a 
+เสาะ	1.0	s @ 
+กระแสะ	1.0	kr a s x 
+อุปสรรค	1.0	z u p^ p a s a k^ 
+เขี่ย	1.0	kh iia 
+สโลวาเกีย	1.0	s a l oo w aa k iia 
+พรมแดน	1.0	phr o m^ d xx n^ 
+ยูเครน	1.0	j uu khr ee n^ 
+ฮังการี	1.0	h a ng^ k aa r ii 
+โปแลนด์	1.0	p oo l xx n^ 
+สาธารณรัฐ	1.0	s aa th aa r a n a r a t^ 
+เช็ก	1.0	ch e k^ 
+อาณานิคม	1.0	z aa n aa n i kh o m^ 
+ชีวภาพ	1.0	ch ii w a ph aa p^ 
+ล้ำ	1.0	l a m^ 
+มวล	1.0	m uua n^ 
+ขัดแย้ง	1.0	kh a t^ j xx ng^ 
+นรก	1.0	n a r o k^ 
+ขับไล่	1.0	kh a p^ l a j^ 
+ไรอลิส	1.0	r a j^ z a l i t^ 
+เป้าหมาย	1.0	p a w^ m aa j^ 
+ต่างหาก	1.0	t aa ng^ h aa k^ 
+ปริปาก	1.0	p a r i p aa k^ 
+เตาผิง	1.0	t a w^ ph i ng^ 
+วิคตอเรียน	1.0	w i k^ t @@ r iia n^ 
+แห้งแล้ง	1.0	h xx ng^ l xx ng^ 
+ปู่	1.0	p uu 
+คาเรน	1.0	kh aa r ee n^ 
+อาลัน	1.0	z aa l a n^ 
+เภสัชกร	1.0	ph ee s a t^ ch a k @@ n^ 
+รัฐ	1.0	r a t^ 
+ลูกตา	1.0	l uu k^ t aa 
+หกล้ม	1.0	h o k^ l o m^ 
+มุด	1.0	m u t^ 
+ท่อ	1.0	th @@ 
+ฝนฟ้า	1.0	f o n^ f aa 
+คะนอง	1.0	kh a n @@ ng^ 
+คางคก	1.0	kh aa ng^ kh o k^ 
+ทศวรรษ	1.0	th o t^ s a w a t^ 
+ล่อใจ	1.0	l @@ c a j^ 
+บุก	1.0	b u k^ 
+ล้า	1.0	l aa 
+แกล้ง	1.0	kl xx ng^ 
+หนวด	1.0	n uua t^ 
+แตงโม	1.0	t xx ng^ m oo 
+เวสต์เวอร์จิเนีย	1.0	w ee t^ w qq c i n iia 
+ปฏิบัติ	1.0	p a t i b a t^ 
+อั้ม	1.0	z a m^ 
+สื่อ	1.0	s vv 
+พยากรณ์	1.0	ph a j aa k @@ n^ 
+อาร์กติก	1.0	z aa k a t i k^ 
+นิค	1.0	n i k^ 
+สองแง่สองง่าม	1.0	s @@ ng^ ng xx s @@ ng^ ng aa m^ 
+อันธพาล	1.0	z a n^ th a ph aa n^ 
+อบอ้าว	1.0	z o p^ z aa w^ 
+บูด	1.0	b uu t^ 
+โจ๊ก	1.0	c oo k^ 
+เจียว	1.0	c iia w^ 
+ปิ้ง	1.0	p i ng^ 
+ปาท่องโก๋	1.0	p aa th @@ ng^ k oo 
+น่าน	1.0	n aa n^ 
+นิสสัน	1.0	n i t^ s a n^ 
+วิศวกร	1.0	w i t^ s a w a k @@ n^ 
+โหล	1.0	l oo 
+บังเอิญ	1.0	b a ng^ z qq n^ 
+ซาตาน	1.0	s aa t aa n^ 
+ตราบ	1.0	tr aa p^ 
+โดดเด่น	1.0	d oo t^ d e n^ 
+กูเกิล	1.0	k uu k qq n^ 
+สะท้าน	1.0	s a th aa n^ 
+คาร์บอน	1.0	kh aa b @@ n^ 
+แพทย์ชนบทเรียกร้อง	1.0	ph xx t^ ch o n^ n a b o t^ r iia k^ r @@ ng^ 
+กระทรวง	1.0	kr a s uua ng^ 
+พระศรีสรรเพชญ์	1.0	phr a s ii s a n^ ph e t^ 
+โบราณสถาน	1.0	b oo r aa n^ s a th aa n^ 
+กังวาน	1.0	k a ng^ w aa n^ 
+ระฆัง	1.0	r a kh a ng^ 
+ชะงัก	1.0	ch a ng a k^ 
+ติดขัด	1.0	t i t^ kh a t^ 
+ผึ้ง	1.0	ph v ng^ 
+มาตรการ	1.0	m aa t^ tr a k aa n^ 
+กระแทก	1.0	kr a th xx k^ 
+จุ๊บ	1.0	c u p^ 
+ง้อ	1.0	ng @@ 
+เวียนเทียน	1.0	w iia n^ th iia n^ 
+บ่อน	1.0	b @@ n^ 
+รูเรทท์	1.0	r uu r ee t^ 
+เคลื่อนไหว	1.0	khl vva n^ w a j^ 
+วัตถุประสงค์	1.0	w a t^ th u pr a s o ng^ 
+ชอกช้ำ	1.0	ch @@ k^ ch a m^ 
+ธันวาคม	1.0	th a n^ w aa kh o m^ 
+บวม	1.0	b uua m^ 
+ไซเรน	1.0	s a j^ r ee n^ 
+ซอย	1.0	s @@ j^ 
+ท่วม	1.0	th uua m^ 
+โกรธแค้น	1.0	kr oo t^ kh xx n^ 
+เบาบาง	1.0	b a w^ b aa ng^ 
+รอตเตอร์ดัม	1.0	r @@ t^ t qq d a m^ 
+นานา	1.0	n aa n aa 
+พิทักษ์	1.0	ph i th a k^ 
+สวิตช์	1.0	s a w i t^ 
+หมอก	1.0	m @@ k^ 
+ทึบ	1.0	th v p^ 
+บรรณารักษ์	1.0	b a n^ n aa r a k^ 
+ห่วงใย	1.0	h uua ng^ j a j^ 
+กำชับ	1.0	k a m^ ch a p^ 
+วรรณกรรม	1.0	w a n^ n a k a m^ 
+ก่อตั้ง	1.0	k @@ t a ng^ 
+วารสาร	1.0	w aa n^ s aa n^ 
+ฉบับ	1.0	ch a b a p^ 
+เนื้อเรื่อง	1.0	n vva r vva ng^ 
+เด่นชัด	1.0	d ee n^ ch a t^ 
+นวล	1.0	n uua n^ 
+แฮร์ริ่ง	1.0	h xx r i ng^ 
+คิตตี้	1.0	kh i t^ t ii 
+พอลล์	1.0	ph @@ l^ 
+ขอโทษลินดา	1.0	kh @@ th oo t^ l i n^ d aa 
+น้ำหนัก	1.0	n aa m^ n a k^ 
+บรรจุภัณฑ์	1.0	b a n^ c u ph a n^ 
+ออม	1.0	z @@ m^ 
+เสมือน	1.0	s a m vva n^ 
+จ้อง	1.0	c @ ng^ 
+อะเมซอน	1.0	z a m ee s @@ n^ 
+โอน	1.0	z oo n^ 
+เด็ดขาด	1.0	d e t^ kh aa t^ 
+มันอลิซ	1.0	m a n^ z a l i t^ 
+คาดเดา	1.0	kh aa t^ d a w^ 
+เอ็นดู	1.0	z e n^ d uu 
+วาด	1.0	w aa t^ 
+นัน	1.0	n a n^ 
+พัดลม	1.0	ph a t^ l o m^ 
+ลงมือ	1.0	l o ng^ m vv 
+ห่อ	1.0	h @@ 
+เดิล	1.0	d qq l^ 
+ตัง	1.0	t a ng^ 
+คูณ	1.0	kh uu n^ 
+ร่อน	1.0	r @ n^ 
+โครงสร้าง	1.0	khr oo ng^ s aa ng^ 
+เฉื่อยชา	1.0	ch vva j^ ch aa 
+โน้มน้าวใจ	1.0	n oo m^ n aa w^ c a j^ 
+เอ็ม	1.0	z e m^ 
+ม่า	1.0	m aa 
+ออสเตน	1.0	z @@ t^ t ee n^ 
+สมน้ำสมเนื้อ	1.0	s o m^ n a m^ s o m^ n vva 
+เต็มใจ	1.0	t e m^ c a j^ 
+ขนมสโคน	1.0	kh a n o m^ s a kh oo n^ 
+อด	1.0	z o t^ 
+อุทยานแห่งชาติ	1.0	z u t^ th a j aa n^ h x ng^ ch aa t^ 
+ภูหิน	1.0	ph uu h i n^ 
+ร่อง	1.0	r @ ng^ 
+ยืนหยัด	1.0	j vv n^ j a t^ 
+มุง	1.0	m u ng^ 
+อกหัก	1.0	z o k^ h a k^ 
+คุด	1.0	kh u t^ 
+บูชาชูชก	1.0	b uu ch aa ch uu ch o k^ 
+ปวดร้าว	1.0	p uua t^ r aa w^ 
+ทำใจแปป	1.0	th a m^ c a j^ p xx p^ 
+ร้ายแรง	1.0	r aa j^ r xx ng^ 
+อเดล	1.0	z a d ee l^ 
+ย้าย	1.0	j aa j^ 
+ถิ่นฐาน	1.0	th i n^ th aa n^ 
+แห่งชาติ	1.0	h x ng^ ch aa t^ 
+ยีนส์	1.0	j ii n^ 
+หด	1.0	h o t^ 
+หยาบคาย	1.0	j aa p^ kh aa j^ 
+หุ่นยนต์	1.0	h u n^ j o n^ 
+ย้อนกลับ	1.0	j @@ n^ kl a p^ 
+บัส	1.0	b a t^ 
+สยาม	1.0	s a j aa m^ 
+กระติก	1.0	kr a t i k^ 
+หุง	1.0	h u ng^ 
+ชัว	1.0	ch uua 
+กระตุ้น	1.0	kr a t u n^ 
+สุชา	1.0	s u ch aa 
+ติ	1.0	t i 
+โฮโนลูลูฮาวาย	1.0	h oo n oo l uu l uu h aa w aa j^ 
+แทะ	1.0	th x 
+ไบรอัน	1.0	b a j^ z a n^ 
+ละเมิด	1.0	l a m qq t^ 
+รี	1.0	r ii 
+เสิช	1.0	s qq t^ 
+เลย์เคสเตอร์	1.0	l ee kh ee t^ t qq 
+โยเกิร์ตรส	1.0	j oo k qq t^ r o t^ 
+ซุปเปอร์	1.0	s u p^ p qq 
+มาร์เก็ต	1.0	m aa k e t^ 
+ชนบท	1.0	ch o n^ n a b o t^ 
+ลูกปืน	1.0	l uu k^ p vv n^ 
+ข้อมูลข่าวสาร	1.0	kh @@ m uu n^ kh aa w^ s aa n^ 
+สูญหาย	1.0	s uu n^ h aa j^ 
+แป้น	1.0	p x n^ 
+ทดลอง	1.0	th o t^ l @@ ng^ 
+เข้ารหัส	1.0	kh a w^ r a h a t^ 
+อสมมาตร	1.0	z a s o m^ m aa t^ 
+คีย์	1.0	kh ii 
+สดใส	1.0	s o t^ s a j^ 
+โดโด้	1.0	d oo d oo 
+สวาด	1.0	s a w aa t^ 
+ความทรงจำ	1.0	khw aa m^ s o ng^ c a m^ 
+รอคอย	1.0	r @@ kh @@ j^ 
+เห็นอกเห็นใจ	1.0	h e n^ z o k^ h e n^ c a j^ 
+เดินหน้า	1.0	d qq n^ n aa 
+กับข้าว	1.0	k a p^ kh aa w^ 
+โดโรธี	1.0	d oo r oo th ii 
+ขัอ	1.0	z a 
+จอร์น	1.0	c @@ n^ 
+เล	1.0	l ee 
+ฟอร์ดคอร์ติน่า	1.0	f @@ t^ kh @@ t i n aa 
+นิเวศ	1.0	n i w ee t^ 
+ลี	1.0	l ii 
+สิงคโปร์	1.0	s i ng^ kh a p oo 
+วาเลนไทน์	1.0	w aa l ee n^ th a j^ 
+พ่อค้า	1.0	ph @@ kh aa 
+เก๋	1.0	k ee 
+นิวส์ฟอเรสต์	1.0	n i w^ f @@ r ee s^ 
+ครอบ	1.0	khr @@ p^ 
+ธุระกงการ	1.0	th u r a k o ng^ k aa n^ 
+เซอร์ไพรส์	1.0	s qq ph a j^ 
+ต่อย	1.0	t @ j^ 
+ยง	1.0	j o ng^ 
+ลูกทุ่ง	1.0	l uu k^ th u ng^ 
+ทนายความ	1.0	th a n aa j^ khw aa m^ 
+พื่อ	1.0	ph vv 
+คำคม	1.0	kh a m^ kh o m^ 
+ดีไซน์	1.0	d ii s aa j^ 
+ทุ่ง	1.0	th u ng^ 
+หน้าอก	1.0	n aa z o k^ 
+คัดค้าน	1.0	kh a t^ kh aa n^ 
+ป่ะ	1.0	p a 
+มะนาว	1.0	m a n aa w^ 
+มดวนิดาตันติวิทยาพิทักษ์	1.0	d uua n i d aa t a n^ t i w i t^ th a j aa ph i th a k^ 
+ที่ปรึกษา	1.0	th ii pr v k^ s aa 
+สมัชชา	1.0	s a m a t^ ch aa 
+เทคโนโลยีสารสนเทศ	1.0	th ee k^ n oo l oo j ii s aa r a s o n^ th ee t^ 
+ล่ขอ	1.0	l a kh @@ 
+หัวแม่มือ	1.0	h uua m xx m vv 
+เจ็บ	1.0	c e p^ 
+ดา	1.0	d aa 
+ทรัพย์	1.0	s a p^ 
+ประเสริฐ	1.0	pr a s qq t^ 
+พิล	1.0	ph i n^ 
+ศพ	1.0	s o p^ 
+ทะเลสาบ	1.0	th a l ee s aa p^ 
+ลั่น	1.0	l a n^ 
+เอี๊ยด	1.0	z iia t^ 
+แผ่วเบา	1.0	ph x w^ b a w^ 
+ระบาย	1.0	r a b aa j^ 
+หลังขดหลังแข็ง	1.0	l a ng^ kh o t^ l a ng^ kh x ng^ 
+บู๊ต	1.0	b uu t^ 
+หีบ	1.0	h ii p^ 
+ร่วง	1.0	r uua ng^ 
+ชาน	1.0	ch aa n^ 
+ค้อน	1.0	kh @@ n^ 
+ตอก	1.0	t @@ k^ 
+ตะปู	1.0	t a p uu 
+กาว	1.0	k aa w^ 
+เจลลี่	1.0	c ee l^ l ii 
+บัน	1.0	b a n^ 
+พินิจ	1.0	ph i n i t^ 
+เคลวิน	1.0	kh ee l^ w i n^ 
+ฟาเรนไฮต์	1.0	f aa r ee n^ h a j^ 
+เซลเซียส	1.0	s ee l^ s iia t^ 
+แรคคูน	1.0	r xx k^ kh uu n^ 
+แข่ง	1.0	kh x ng^ 
+ริบหรี่	1.0	r i p^ r ii 
+คิว	1.0	kh i w^ 
+ฮัมตี้ดัมตี้	1.0	h a m^ t ii d a m^ t ii 
+คลัทช์	1.0	khl a t^ 
+เดิ่น	1.0	d qq n^ 
+อีโม	1.0	z ii m oo 
+จิ	1.0	c i 
+หดหู่ใจ	1.0	h o t^ h uu c a j^ 
+เศร้าใจ	1.0	s a w^ c a j^ 
+เพทรอฟ	1.0	ph ee thr @@ p^ 
+เกษียณ	1.0	k a s iia n^ 
+ฟิล	1.0	f i l^ 
+เรียบง่าย	1.0	r iia p^ ng aa j^ 
+เหมือง	1.0	m vva ng^ 
+หยาบ	1.0	j aa p^ 
+พลั่ว	1.0	phl uua 
+สามัคคี	1.0	s aa m a k^ kh ii 
+เซล	1.0	s ee l^ 
+สำรับ	1.0	s a m^ r a p^ 
+ชอว์	1.0	ch @@ 
+เซอร์	1.0	s qq 
+คอม	1.0	kh @@ m^ 
+มิซ	1.0	m i s^ 
+แซ	1.0	s xx 
+ปะ	1.0	p a 
+เรซูเม่	1.0	r ee s uu m ee 
+แย่ง	1.0	j xx ng^ 
+สมมติฐาน	1.0	s o m^ m o t^ t i th aa n^ 
+เซอร์เอ็ดเวิร์ด	1.0	s qq z e t^ w qq t^ 
+ฟิสิกส์	1.0	f i s i k^ 
+วัว	1.0	w uua 
+พฤษภาคม	1.0	phr v t^ s a ph aa kh o m^ 
+โลหิต	1.0	l oo h i t^ 
+พลูโต	1.0	phl uu t oo 
+แคระ	1.0	khr x 
+มด	1.0	m o t^ 
+กลางคัน	1.0	kl aa ng^ kh a n^ 
+สมบูรณ์	1.0	s o m^ b uu n^ 
+ปิดกั้น	1.0	p i t^ k a n^ 
+ฟี่	1.0	f ii 
+เยือน	1.0	j vva n^ 
+เหลือง	1.0	l vva ng^ 
+ภู	1.0	ph uu 
+เบิก	1.0	b qq k^ 
+ตุรกี	1.0	t u r a k ii 
+ไก่งวง	1.0	k a ng^ w o ng^ 
+พอล	1.0	ph @@ l^ 
+พุ	1.0	ph u 
+สีสัน	1.0	s ii s a n^ 
+ใบไม้	1.0	b a j^ m aa j^ 
+บุญ	1.0	b u n^ 
+บุรีรัมย์	1.0	b u r ii r a m^ 
+เต็มที่	1.0	t e m^ th ii 
+การบัญชี	1.0	k aa n^ b a n^ ch ii 
+ดื่มด่ำ	1.0	d vv m^ d a m^ 
+ระเบียบ	1.0	r a b iia p^ 
+ชีพ	1.0	ch ii p^ 
+ประวัติ	1.0	pr a w a t^ 
+สก๊อต	1.0	s a k @@ t^ 
+รับดีล	1.0	r a p^ d ii n^ 
+โหยหวน	1.0	h oo j^ h uua n^ 
+เยาะ	1.0	j @ 
+เกียจคร้าน	1.0	k iia c o n^ r aa n^ 
+ซ่อน	1.0	s @@ n^ 
+ห่างไกล	1.0	h aa ng^ kl a j^ 
+เกาลัด	1.0	k a w^ l a t^ 
+หินอ่อน	1.0	h i n^ z @@ n^ 
+ตรงไปตรงมา	1.0	tr o ng^ p a j^ tr o ng^ m aa 
+ลูกผู้	1.0	l uu k^ ph uu 
+เพียบพร้อม	1.0	ph iia p^ phr @@ m^ 
+สำเร็จรูป	1.0	s a m^ r e t^ r uu p^ 
+เกาหลีใต้	1.0	k a w^ l ii t aa j^ 
+ข้อสอบ	1.0	kh @@ s @@ p^ 
+มึง	1.0	m v ng^ 
+ตีน	1.0	t ii n^ 
+ใจลอย	1.0	c a j^ l @@ j^ 
+แบก	1.0	b xx k^ 
+ประพันธ์	1.0	pr a ph a n^ 
+ฮันเดลโมสาร์ท	1.0	h a n^ d ee l^ m oo s aa t^ 
+ปุชชีนี	1.0	p u t^ ch ii n ii 
+ดารา	1.0	d aa r aa 
+โบท็อกซ์	1.0	b oo th @ k^ 
+เจสซี่	1.0	c ee t^ s ii 
+ฟื้นฟู	1.0	f vv n^ f uu 
+กุม	1.0	k u m^ 
+ไปป์	1.0	p a j^ 
+แว่น	1.0	w x n^ 
+รูม	1.0	r uu m^ 
+เซอร์วิส	1.0	s qq w i t^ 
+ไทเกอร์	1.0	th a j^ k qq 
+ลิลลี่	1.0	l i n^ l ii 
+ชะตากรรม	1.0	ch a t aa k a m^ 
+โรงแรม	1.0	r oo ng^ r xx m^ 
+แม่เหล็ก	1.0	m xx l e k^ 
+อัศจรรย์	1.0	z a t^ s a c a n^ 
+นีโอได	1.0	n ii z oo d a j^ 
+เมีย	1.0	m iia 
+ล้อเล่น	1.0	l @@ l e n^ 
+เทคโนโลยี่	1.0	th ee k^ n oo l oo j ii 
+อัด	1.0	z a t^ 
+เพศ	1.0	ph ee t^ 
+ลึกลับ	1.0	l v k^ l a p^ 
+บาด	1.0	b aa t^ 
+อ่อนหวาน	1.0	z @@ n^ w aa n^ 
+หวล	1.0	h uua n^ 
+ลาเวนเดอร์	1.0	l aa w ee n^ d qq 
+กำแพง	1.0	k a m^ ph xx ng^ 
+โห่	1.0	h oo 
+ถูกใจ	1.0	th uu k^ c a j^ 
+ยุ้ง	1.0	j u ng^ 
+ฉาง	1.0	ch aa ng^ 
+ลอรา	1.0	l @@ r aa 
+รับผิด	1.0	r a p^ ph i t^ 
+เกียรตินิยม	1.0	k iia t^ n i j o m^ 
+อันดับ	1.0	z a n^ d a p^ 
+เสียสละ	1.0	s iia s a l a 
+วิลัยพร	1.0	w i l a j^ ph @@ n^ 
+กอด	1.0	k @@ t^ 
+ค้ำยัน	1.0	kh a m^ j a n^ 
+ไตร่ตรอง	1.0	tr a j^ tr @@ ng^ 
+ร่วมใจ	1.0	r uua m^ c a j^ 
+ส่งเสริม	1.0	s o ng^ s qq m^ 
+บรรดา	1.0	b a n^ d aa 
+พก	1.0	ph o k^ 
+เอว	1.0	z e w^ 
+สาระอลิซ	1.0	s aa r a z a l i t^ 
+สารบัญ	1.0	s aa n^ b a n^ 
+โคม	1.0	kh oo m^ 
+แน่ชัด	1.0	n xx ch a t^ 
+ซาบซึ้ง	1.0	s aa p^ s v ng^ 
+นั้นอลิซ	1.0	n a n^ z a l i t^ 
+อุดตัน	1.0	z u t^ t a n^ 
+แดฟโฟดิล	1.0	d xx f^ f oo d i n^ 
+ตอบรับ	1.0	t @@ p^ r a p^ 
+วิกฤติ	1.0	w i kr i t^ 
+ล้มละลาย	1.0	l o m^ l a l aa j^ 
+วินิจฉัย	1.0	w i n i t^ ch a j^ 
+ปัด	1.0	p a t^ 
+โชคชะตา	1.0	ch oo k^ ch a t aa 
+บอด	1.0	b @@ t^ 
+เจริญ	1.0	c a r qq n^ 
+แพ็คเกจ	1.0	ph x k^ k ee t^ 
+กำกวม	1.0	k a m^ k uua m^ 
+อีสเทอร์	1.0	z ii t^ th qq 
+โค้ช	1.0	kh oo t^ 
+ไงร	1.0	ng a j^ 
+สัมพันธ์	1.0	s a m^ ph a n^ 
+สำนึก	1.0	s a m^ n v k^ 
+เปราะ	1.0	pr @ 
+ยุ	1.0	j u 
+พิน	1.0	ph i n^ 
+กรรมการ	1.0	k a m^ m a k aa n^ 
+พินิจพิเคราะห์	1.0	ph i n i t^ ph i khr @ 
+ประกวด	1.0	pr a k uua t^ 
+ละเอียดถี่ถ้วน	1.0	l a z iia t^ th ii th uua n^ 
+อับราฮัม	1.0	z a p^ r aa h a m^ 
+แนวทาง	1.0	n xx w^ th aa ng^ 
+คม	1.0	kh o m^ 
+เฮอร์ริง	1.0	h qq r i ng^ 
+เทศบาลเมือง	1.0	th ee t^ s a b aa n^ m vva ng^ 
+พัด	1.0	ph a t^ 
+หมาก	1.0	m aa k^ 
+รุก	1.0	r u k^ 
+ลิมา	1.0	l i m aa 
+หลวง	1.0	l uua ng^ 
+เปรู	1.0	p ee r uu 
+แครอลซ่อน	1.0	kh xx r @@ n^ s @@ n^ 
+วู	1.0	w uu 
+ไบเซ็กชวล	1.0	b a j^ s e k^ ch uua n^ 
+แจ็คเก็ต	1.0	c x k^ k e t^ 
+แอด	1.0	z xx t^ 
+แอดเวอร์ไทส์เมนท์	1.0	z xx t^ w qq th a j^ m ee n^ 
+ศาสตร์	1.0	s aa t^ 
+สไลเดอร์	1.0	s a l a j^ d qq 
+ชิงช้า	1.0	ch i ng^ ch aa 
+แอสไพริน	1.0	z xx t^ ph a j^ r i n^ 
+เหลว	1.0	l ee w^ 
+หนุ่ม	1.0	n u m^ 
+อัพเดตเฟิร์มแวร์	1.0	z a p^ d ee t^ f qq m^ w xx 
+ป้อง	1.0	p @ ng^ 
+ฮับ	1.0	h a p^ 
+ชำรุด	1.0	ch a m^ r u t^ 
+จดจ่อ	1.0	c o t^ c @@ 
+ตีพิมพ์	1.0	t ii ph i m^ 
+รด	1.0	r o t^ 
+อโวคาโด	1.0	z a w oo kh aa d oo 
+เผอิญ	1.0	ph a z qq n^ 
+กีต้าร์	1.0	k ii t aa 
+อะไรอลิสไตร่ตรอง	1.0	z a r a j^ z a l i t^ tr a j^ tr @@ ng^ 
+คอมมอน	1.0	kh @@ m^ m @@ n^ 
+วอยซ์	1.0	w @@ j^ 
+รอง	1.0	r @@ ng^ 
+กัก	1.0	k a k^ 
+เบอร์ลิน	1.0	b qq l i n^ 
+ชิ้นส่วน	1.0	ch i n^ s uua n^ 
+นีออน	1.0	n ii z @@ n^ 
+กะพริบ	1.0	k a phr i p^ 
+ควาญ	1.0	khw aa n^ 
+ซ่า	1.0	s aa 
+ประวัติศาสตร์	1.0	pr a w a t^ t i s aa t^ 
+รุ่งเรือง	1.0	r u ng^ r vva ng^ 
+พ่อมด	1.0	ph @@ m o t^ 
+บทความ	1.0	b o t^ khw aa m^ 
+ละหุ่ง	1.0	l a h u ng^ 
+ดอกฟ้า	1.0	d @@ k^ f aa 
+บัว	1.0	b uua 
+สวรรค์	1.0	s a w a n^ 
+สลัก	1.0	s a l a k^ 
+กาบ	1.0	k aa p^ 
+ลวดลาย	1.0	l uua t^ l aa j^ 
+หยอด	1.0	j @@ t^ 
+บราซิล	1.0	br aa s i n^ 
+แน่อลิส	1.0	z xx l i t^ 
+เอล	1.0	z ee l^ 
+ขากรรไกร	1.0	kh aa k a n^ kr a j^ 
+แมคฟี	1.0	m xx k^ f ii 
+ทรัพยากร	1.0	s a p^ ph a j aa k @@ n^ 
+ผลิตผล	1.0	ph a l i t^ t a ph o n^ 
+ครีม	1.0	khr ii m^ 
+โชเฟอร์	1.0	ch oo f qq 
+ตัดสิน	1.0	t a t^ s i n^ 
+ควิเบก	1.0	khw i b ee k^ 
+เซลล์	1.0	s ee n^ 
+อัลก	1.0	z o k^ 
+อริ	1.0	z a r i 
+ทึม	1.0	th v m^ 
+โดยสาร	1.0	d oo j^ s aa n^ 
+สมบูรณ์แบบ	1.0	s o m^ b uu n^ b xx p^ 
+ไอ่	1.0	z a j^ 
+ซีเรียลวีททบิกซ์	1.0	s ii r iia l a w ii t^ th a b i k^ 
+ลอกเลียน	1.0	l @@ k^ l iia n^ 
+กระดิ่ง	1.0	kr a d i ng^ 
+เอสเปรสโซ่	1.0	z ee s^ pr ee t^ s oo 
+คำนับ	1.0	kh a m^ n a p^ 
+โม้	1.0	m oo 
+บันดาลใจ	1.0	b a n^ d aa n^ c a j^ 
+เสวนา	1.0	s a w a n a w^ 
+แม่ชี	1.0	m xx ch ii 
+หลั่งไหล	1.0	l a ng^ l a j^ 
+เข้าวาติ	1.0	kh a w^ w aa t^ 
+ลอก	1.0	l @@ k^ 
+ชั่วคราว	1.0	ch uua khr aa w^ 
+กระบวน	1.0	kr a b uua n^ 
+วิกิพีเดีย	1.0	w i k i ph ii d iia 
+จิบ	1.0	c i p^ 
+ของเล่น	1.0	kh @@ ng^ l e n^ 
+ไทยคู่ฟ้า	1.0	th a j^ kh uu f aa 
+วิทยานิพนธ์	1.0	w i t^ th a j aa n i ph o n^ 
+หลอน	1.0	l @@ n^ 
+ถ่ายทอด	1.0	th aa j^ th @@ t^ 
+คลับ	1.0	khl a p^ 
+ทรุดโทรม	1.0	s u t^ s oo m^ 
+ปน	1.0	p o n^ 
+ไม้แดง	1.0	m aa j^ d xx ng^ 
+ครอง	1.0	khr @@ ng^ 
+สัมผัส	1.0	s a m^ ph a t^ 
+จำลอง	1.0	c a m^ l @@ ng^ 
+หมั้น	1.0	m a n^ 
+เวลส์	1.0	w ee l^ 
+ตุตัน	1.0	t u t a n^ 
+คา	1.0	kh aa 
+เมน	1.0	m ee n^ 
+ฟาโรห์	1.0	f aa r oo 
+อียิปต์	1.0	z ii j i p^ 
+ซี้	1.0	s ii 
+เลี่ยม	1.0	l iia m^ 
+สกิน	1.0	s a k i n^ 
+ซีด	1.0	s ii t^ 
+บังคับ	1.0	b a ng^ kh a p^ 
+กลาสโกว	1.0	kl aa t^ k oo w^ 
+ยัย	1.0	j a j^ 
+ไทยแลนด์	1.0	th a j^ l xx n^ 
+ผ่าตัด	1.0	ph aa t a t^ 
+ต้อกระจก	1.0	t @@ kr a c o k^ 
+เผ่า	1.0	ph a w^ 
+อ่าง	1.0	z aa ng^ 
+กริยา	1.0	kr i j aa 
+กราฟิคดีไซน์	1.0	kr aa f i kh a d ii s a j^ 
+มูเซอ	1.0	m uu s qq 
+กะเหรี่ยง	1.0	k a r iia ng^ 
+ลีซอ	1.0	l ii s @@ 
+น้า	1.0	n aa 
+ศาสนา	1.0	s aa t^ s a n aa 
+อัลไซเมอร์	1.0	z a n^ s a j^ m qq 
+ถ้าโลก	1.0	th aa l oo k^ 
+เฮเลนา	1.0	h ee l ee n aa 
+ผูกมัด	1.0	ph uu k^ m a t^ 
+แม่พิมพ์	1.0	m xx ph i m^ 
+หมู่เกาะ	1.0	m uu k @ 
+พารา	1.0	ph aa r aa 
+พิพาท	1.0	ph i ph aa t^ 
+โอบกอด	1.0	z oo p^ k @@ t^ 
+ตำหนิ	1.0	t a m^ n i 
+องศา	1.0	z o ng^ s aa 
+ซ่อง	1.0	s @ ng^ 
+คิด่วา	1.0	kh i d a w aa 
+ดิอาซ	1.0	d i z aa t^ 
+เท่าเทียม	1.0	th a w^ th iia m^ 
+การ์ตูน	1.0	k aa t uu n^ 
+ลายมือ	1.0	l aa j^ m vv 
+บัตร	1.0	b a t^ 
+เหม็น	1.0	m e n^ 
+มีนาคม	1.0	m ii n aa kh o m^ 
+เทอม	1.0	th qq m^ 
+จัดหา	1.0	c a t^ h aa 
+ลิงกอริลลา	1.0	l i ng^ k @@ r i n^ l aa 
+ดัก	1.0	d a k^ 
+สวนสัตว์	1.0	s uua n^ s a t^ 
+จริยธรรม	1.0	c a r i j a th a m^ 
+เมตตา	1.0	m ee t^ t aa 
+ดาวเทียม	1.0	d aa w^ th iia m^ 
+ไทยคม	1.0	th a j^ kh o m^ 
+เซรามิก	1.0	s ee r aa m i k^ 
+เคลื่อน	1.0	khl vva n^ 
+กฏ	1.0	k o t^ 
+น้ำลึก	1.0	n a m^ l v k^ 
+ตื้น	1.0	t vv n^ 
+ออฟฟิศ	1.0	z @ p^ f i t^ 
+ซินโดรม	1.0	s i n^ dr oo m^ 
+มะรืน	1.0	m a r vv n^ 
+ดุลพินิจ	1.0	d u n^ l a ph i n i t^ 
+มกราคม	1.0	m a k a r aa kh o m^ 
+อิง	1.0	z i ng^ 
+ร้อนใจ	1.0	r @@ n^ c a j^ 
+ไลออน	1.0	l a j^ z @@ n^ 
+กวาด	1.0	kw aa t^ 
+สภาวะ	1.0	s a ph aa w a 
+บะหมี่	1.0	b a m ii 
+จุใจ	1.0	c u c a j^ 
+ขมวด	1.0	kh a m uua t^ 
+คิ้ว	1.0	kh i w^ 
+ยานพาหนะ	1.0	j aa n^ ph aa h a n a 
+หลอม	1.0	l @@ m^ 
+สาหัส	1.0	s aa h a t^ 
+เปียก	1.0	p iia k^ 
+หม่น	1.0	m o n^ 
+ไวยากรณ์	1.0	w a j^ j aa k @@ n^ 
+เฟิล	1.0	f qq l^ 
+ขมขื่น	1.0	kh o m^ kh vv n^ 
+ควัก	1.0	khw a k^ 
+ปอก	1.0	p @@ k^ 
+ส้มโอ	1.0	s o m^ z oo 
+มัล	1.0	m a n^ 
+คอล์ม	1.0	kh @@ m^ 
+เนท	1.0	n ee t^ 
+จุดหมาย	1.0	c u t^ m aa j^ 
+ไดอารี่	1.0	d a j^ z aa r ii 
+พยัญชนะ	1.0	ph a j a n^ ch a n a 
+วิพากษ์วิจารณ์	1.0	w i ph aa k^ w i c aa n^ 
+กฎระเบียบ	1.0	k a d a r a b iia p^ 
+ดุลยพินิจ	1.0	d u n^ l a j a ph i n i t^ 
+วิดีทัศน์	1.0	w i d ii th a t^ 
+อุดมคติ	1.0	z u d o m^ m a kh a t i 
+ใจร้าย	1.0	c a j^ r aa j^ 
+โค้ท	1.0	kh oo t^ 
+ซิเลีย	1.0	s i l iia 
+ระอุ	1.0	r a z u 
+บรรพบุรุษ	1.0	b a n^ ph a b u r u t^ 
+ชักจูง	1.0	ch a k^ c uu ng^ 
+แพท	1.0	ph xx t^ 
+ตรัสรู้	1.0	tr a t^ s a r uu 
+ตอง	1.0	t @@ ng^ 
+กาลกิณี	1.0	k aa l a k i n ii 
+ดูด	1.0	d uu t^ 
+เต้า	1.0	t a w^ 
+ยัด	1.0	j a t^ 
+ไส้	1.0	s a j^ 
+คลื่น	1.0	khl vv n^ 
+สึนา	1.0	s v n aa 
+ชั่วพริบตา	1.0	ch uua phr i p^ t aa 
+เงื่อนไข	1.0	ng vva n^ kh a j^ 
+เรื้อรัง	1.0	r vva r a ng^ 
+โคลสอัพ	1.0	khl oo t^ z a p^ 
+ติ่มซำ	1.0	t i m^ s a m^ 
+ลำไย	1.0	l a m^ j a j^ 
+อัตนัย	1.0	z a t^ t a n a j^ 
+เอลซ่า	1.0	z ee l^ s aa 
+ฟืน	1.0	f vv n^ 
+โควิด	1.0	kh oo w i t^ 
+ไทเกอร์ส	1.0	th a j^ k qq 
+ชู	1.0	ch uu 
+วงเล็บ	1.0	w o ng^ l e p^ 
+ปีก	1.0	p ii k^ 
+โนรา	1.0	n oo r aa 
+สิว	1.0	s i w^ 
+สตอเบอร์รี่	1.0	s a t @@ b qq r ii 
+เผื่อ	1.0	ph vva 
+ปิดตา	1.0	p i t^ t aa 
+โฟร์	1.0	f oo 
+เลียม	1.0	l iia m^ 
+ทุกหนทุกแห่ง	1.0	th u k^ h o n^ th u k^ h x ng^ 
+ฉุกเฉิน	1.0	ch u k^ ch qq n^ 
+แว	1.0	w xx 
+วาว	1.0	w aa w^ 
+ระยิบระยับ	1.0	r a j i p^ r a j a p^ 
+อัศวินแดง	1.0	z a t^ s a w i n^ d xx ng^ 
+คารากัส	1.0	kh aa r aa k a t^ 
+อ้า	1.0	z aa 
+ซักถาม	1.0	s a k^ th aa m^ 
+ชี	1.0	ch ii 
+นุก	1.0	n u k^ 
+ริค	1.0	r i k^ 
+พิณ	1.0	ph i n^ 
+ยิว	1.0	j i w^ 
+ป่าเถื่อน	1.0	p aa th vva n^ 
+เพนนิซิลิน	1.0	ph ee n^ n i s i l i n^ 
+ซัมเมอร์	1.0	s a m^ m qq 
+ซัน	1.0	s a n^ 
+เข้าหู	1.0	kh a w^ h uu 
+ทะลุ	1.0	th a l u 
+หูขวา	1.0	h uu khw aa 
+ทัศนศึกษา	1.0	th a t^ s a n a s v k^ s aa 
+พิพิฒพันธ์	1.0	ph i ph i t^ ph a n^ 
+เครา	1.0	khr a w^ 
+กระวนกระวายใจ	1.0	kr a w o n^ kr a w aa j^ c a j^ 
+ภูมิปัญญา	1.0	ph uu m^ p a n^ j aa 
+ลูกหลาน	1.0	l uu k^ l aa n^ 
+สืบทอด	1.0	s vv p^ th @@ t^ 
+แม่มด	1.0	m xx m o t^ 
+โครม	1.0	khr oo m^ 
+ครืน	1.0	khr vv n^ 
+ล่อง	1.0	l @ ng^ 
+แพ	1.0	ph xx 
+สวิตเซอร์แลนด์	1.0	s a w i t^ s qq l xx n^ 
+อัลไพน์	1.0	z a n^ ph a j^ 
+ออสเตรีย	1.0	z @ t^ s a tr iia 
+ผลิ	1.0	ph a l i 
+ม้วน	1.0	m uua n^ 
+จี๊ด	1.0	c ii t^ 
+พัง	1.0	ph a ng^ 
+ลูกเต๋า	1.0	l uu k^ t a w^ 
+ย่อง	1.0	j @ ng^ 
+โถ	1.0	th oo 
+ขุนทอง	1.0	kh u n^ th @@ ng^ 
+ปิดปาก	1.0	p i t^ p aa k^ 
+เปิดตา	1.0	p qq t^ t aa 
+ข่อย	1.0	kh @ j^ 
+เก่าคร่ำคร่า	1.0	k a w^ khr a m^ khr aa 
+เสียดทาน	1.0	s iia t^ th aa n^ 
+จลน์	1.0	c o n^ 
+แผล	1.0	phl xx 
+กรด	1.0	kr o t^ 
+ทาส	1.0	th aa t^ 
+นิรโทษกรรม	1.0	n i r a th oo t^ s a k a m^ 
+ล่วงหน้า	1.0	l uua ng^ n aa 
+ลืมเลือน	1.0	l vv m^ l vva n^ 
+พ่วง	1.0	ph uua ng^ 
+ซาก	1.0	s aa k^ 
+ปรักหักพัง	1.0	pr a k^ h a k^ ph a ng^ 
+น้าอ้อย	1.0	n aa z @@ j^ 
+แจ่ม	1.0	c x m^ 
+เจ๊	1.0	c ee 
+ไฝ	1.0	f a j^ 
+มิชลิน	1.0	m i t^ l i n^ 
+ขยาย	1.0	kh a j aa j^ 
+มาร์ติน	1.0	m aa t i n^ 
+เสิร์ฟ	1.0	s qq p^ 
+ยูเรเนียม	1.0	j uu r ee n iia m^ 
+พลูโตเนียม	1.0	phl uu t oo n iia m^ 
+กัมมันตรังสี	1.0	k a m^ m a n^ t a r a ng^ s ii 
+ตับ	1.0	t a p^ 
+คาเฟ่	1.0	kh aa f ee 
+ยับยั้ง	1.0	j a p^ j a ng^ 
+วัวแดง	1.0	w uua d xx ng^ 
+โชย	1.0	ch oo j^ 
+โลโก้	1.0	l oo k oo 
+ปอด	1.0	p @@ t^ 
+โห	1.0	h oo 
+เสนอแนะ	1.0	s a n qq n x 
+ดูแคลน	1.0	d uu khl xx n^ 
+เคร่งเครียด	1.0	khr e ng^ khr iia t^ 
+ชะมัด	1.0	ch a m a t^ 
+ว่าแนน	1.0	w aa n xx n^ 
+ซี่	1.0	s ii 
+ซับ	1.0	s a p^ 
+คุกคาม	1.0	kh u k^ kh aa m^ 
+พักฟื้น	1.0	ph a k^ f vv n^ 
+แตงอ่อน	1.0	t xx ng^ z @@ n^ 
+ธรณี	1.0	th @@ r a n ii 
+กาล	1.0	k aa n^ 
+กะทะ	1.0	k a th a 
+แอนตาร์กติก	1.0	z xx n^ t aa k a t i k^ 
+อับอายขายหน้า	1.0	z a p^ z aa j^ kh aa j^ n aa 
+ยกเว้น	1.0	j o k^ w e n^ 
+ซาบซึ้งใจ	1.0	s aa p^ s v ng^ c a j^ 
+ตะเข็บ	1.0	t a kh e p^ 
+คลี่	1.0	khl ii 
+สังเกตุ	1.0	s a ng^ k ee t^ 
+สตาร์	1.0	s a t aa 
+บัค	1.0	b a k^ 
+โปรโมชั่น	1.0	pr oo m oo ch a n^ 
+ลำดับ	1.0	l a m^ d a p^ 
+ง่ายดาย	1.0	ng aa j^ d aa j^ 
+ศิลปศาสตร์	1.0	s i n^ l a p a s aa t^ 
+คุณประโยชน์	1.0	kh u n^ pr a j oo t^ 
+วิงเวียน	1.0	w i ng^ w iia n^ 
+พลศึกษา	1.0	ph a l a s v k^ s aa 
+โมดูล	1.0	m oo d uu n^ 
+ฟิลลิปรู้สึก	1.0	f i n^ l i p^ r uu s v k^ 
+แจ่มใส	1.0	c x m^ s a j^ 
+อีเมล	1.0	z ii m ee l^ 
+โคลัมเบีย	1.0	kh oo l a m^ b iia 
+ชิลี	1.0	ch i l ii 
+อาร์เจนตินา	1.0	z aa c e n^ t i n aa 
+เวเนซุเอลา	1.0	w ee n ee s u z ee l aa w^ 
+เหมา	1.0	m a w^ 
+ว่าว	1.0	w aa w^ 
+เอียง	1.0	z iia ng^ 
+สาดส่อง	1.0	s aa t^ s @@ ng^ 
+เยลลี่	1.0	j ee l^ l ii 
+สกุล	1.0	s a k u n^ 
+สมุนไพร	1.0	s a m u n^ phr a j^ 
+สหรัฐอเมริกา	1.0	s a h a r a t^ z a m ee r i k aa 
+แป้ง	1.0	p xx ng^ 
+แกง	1.0	k xx ng^ 
+มอเตอร์เวย์	1.0	m @@ t qq w ee 
+ฮัมบูร์ก	1.0	h a m^ b uu k^ 
+มิวนิค	1.0	m i w^ n i k^ 
+กรุงเทพมหานคร	1.0	kr u ng^ th ee p^ m a h aa n a kh @@ n^ 
+ฮันนีมูน	1.0	h a n^ n ii m uu n^ 
+ใหญ่โต	1.0	j a j^ t oo 
+เต็มตัว	1.0	t e m^ t uua 
+งด	1.0	ng o t^ 
+เกณฑ์	1.0	k ee n^ 
+กุมภาพันธ์	1.0	k u m^ ph aa ph a n^ 
+ตุ๊กแก	1.0	t u k^ k xx 
+ศัตรู	1.0	s a t^ tr uu 
+อีสาน	1.0	z ii s aa n^ 
+อยู่ม	1.0	j uu m^ 
+สลด	1.0	s a l o t^ 
+ประจวบคีรีขันธ์	1.0	pr a c uua p^ kh ii r ii kh a n^ 
+จิน	1.0	c i n^ 
+บ้านเรือน	1.0	b aa n^ r vva n^ 
+เพียร	1.0	ph iia n^ 
+ทวง	1.0	th uua ng^ 
+เล็บ	1.0	l e p^ 
+ถล่ม	1.0	th a l o m^ 
+ไต้ฝุ่น	1.0	t a j^ f u n^ 
+โรคี	1.0	r oo kh ii 
+แคริบเบียน	1.0	kh xx r i p^ b iia n^ 
+ดุ	1.0	d u 
+แวว	1.0	w xx w^ 
+เผ็ด	1.0	ph e t^ 
+ขาไก่	1.0	kh aa k a j^ 
+ภูมิทัศน์	1.0	ph uu m^ th a t^ 
+สะเด็ด	1.0	s a d e t^ 
+ราง	1.0	r aa ng^ 
+รัตนโกสินทร์	1.0	r a t^ t a n a k oo s i n^ 
+พยาน	1.0	ph a j aa n^ 
+ลาก	1.0	l aa k^ 
+ปลูกฝัง	1.0	pl uu k^ f a ng^ 
+อุปนิสัย	1.0	z u p a n i s a j^ 
+ไดอา	1.0	d a j^ z aa 
+ทุกข์ทรมาน	1.0	th u k^ th @@ r a m aa n^ 
+ไมเกรน	1.0	m a j^ kr ee n^ 
+ศัลยแพทย์	1.0	s a n^ l a j a ph xx t^ 
+เบรก	1.0	br ee k^ 
+กรรมาธิการ	1.0	k a m^ m aa th i k aa n^ 
+โคจร	1.0	kh oo c @@ n^ 
+ลดทอน	1.0	l o t^ th @@ n^ 
+โหวต	1.0	w oo t^ 
+อุ่น	1.0	z u n^ 
+พุด	1.0	ph u t^ 
+ดิ้ง	1.0	d i ng^ 
+กอล์ฟ	1.0	k @@ f^ 
+ตื่นตะหนก	1.0	t vv n^ t a n o k^ 
+นิม	1.0	n i m^ 
+กระซิบกระซาบ	1.0	kr a s i p^ kr a s aa p^ 
+ฉลาม	1.0	ch a l aa m^ 
+แองเจลา	1.0	z xx ng^ c ee l aa 
+ชิพมังค์	1.0	ch i p^ m a ng^ 
+กระรอก	1.0	kr a r @@ k^ 
+แถบ	1.0	th xx p^ 
+บัก	1.0	b a k^ 
+จี้	1.0	c ii 
+จั้มป์	1.0	c a m^ 
+ห้อย	1.0	h @ j^ 
+เกียรติยศ	1.0	k iia t^ t i j o t^ 
+แฟร์	1.0	f xx 
+ศักยภาพ	1.0	s a k^ k a j a ph aa p^ 
+คลอง	1.0	khl @@ ng^ 
+เมก	1.0	m ee k^ 
+สเวตเตอร์	1.0	s a w ee t^ t qq 
+มวน	1.0	m uua n^ 
+บาร์เทนเดอร์	1.0	b aa th ee n^ d qq 
+อันเดอร์	1.0	z a n^ d qq 
+โทน	1.0	th oo n^ 
+สัตย์	1.0	s a t^ 
+วิคตอเรีย	1.0	w i k^ t @@ r iia 
+ตามหา	1.0	t aa m^ h aa 
+ออสเตรเลีย	1.0	z @ t^ s a tr ee l iia 
+เอกซาไบท์	1.0	z ee k^ s aa b a j^ 
+สมาธิ	1.0	s a m aa th i 
+ไอแซค	1.0	z a j^ s xx k^ 
+แปลง	1.0	pl xx ng^ 
+โคไซน์	1.0	kh oo s aa j^ 
+บล็อก	1.0	bl @ k^ 
+พิก	1.0	ph i k^ 
+มัฟฟิน	1.0	m a p^ f i n^ 
+กายวิภาคศาสตร์	1.0	k aa j^ j a w i ph aa k^ kh a s aa t^ 
+สุดา	1.0	s u d aa 
+คอหอย	1.0	kh @@ h @ j^ 
+ตะลึง	1.0	t a l v ng^ 
+มองโกเลีย	1.0	m @@ ng^ k oo l iia 
+รีไซเคิล	1.0	r ii s a j^ kh qq l^ 
+มัง	1.0	m a ng^ 
+กร	1.0	k @@ n^ 
+ชิม	1.0	ch i m^ 
+เงาะ	1.0	ng @ 
+มังคุด	1.0	m a ng^ kh u t^ 
+พ็อดแคสต์	1.0	ph @ t^ kh xx s^ 
+เปรียบ	1.0	pr iia p^ 
+ลุค	1.0	l u k^ 
+คลาสสิค	1.0	khl aa s^ s i k^ 
+ค้นคว้า	1.0	kh o n^ khw aa 
+หุบปาก	1.0	h u p^ p aa k^ 
+อสิซ	1.0	z a s i t^ 
+ตุลาคม	1.0	t u l aa kh o m^ 
+ผ่อน	1.0	ph @ n^ 
+ดีบักเกอร์	1.0	d ii b a k^ k qq 
+บัฟเฟอร์	1.0	b a p^ f qq 
+ล้น	1.0	l o n^ 
+คาดคิด	1.0	kh aa t^ kh i t^ 
+ทิวทัศน์	1.0	th i w^ th a t^ 
+แหย่	1.0	j xx 
+อุดมสมบูรณ์	1.0	z u d o m^ s o m^ b uu n^ 
+ศิริราชราคา	1.0	s i r i r aa t^ ch a r aa kh aa 
+มหัศจรรย์	1.0	m a h a t^ s a c a n^ 
+เบิกบาน	1.0	b qq k^ b aa n^ 
+ดูหมิ่น	1.0	d uu m i n^ 
+ขอบใจ	1.0	kh @@ p^ c a j^ 
+แฮม	1.0	h x m^ 
+ฟรี	1.0	fr ii 
+รักดี	1.0	r a k^ d ii 
+พูริตัน	1.0	ph uu r i t a n^ 
+อาฆาต	1.0	z aa kh aa t^ 
+พยาบาท	1.0	ph a j aa b aa t^ 
+ขี้หน้า	1.0	kh ii n aa 
+ชูชีพ	1.0	ch uu ch ii p^ 
+ภารกิจ	1.0	ph aa r a k i t^ 
+ทุกข์ยาก	1.0	th u k^ j aa k^ 
+เห็นนีล	1.0	h e n^ n ii n^ 
+แต่ทว่า	1.0	t xx th a w aa 
+สิ้นสุด	1.0	s i n^ s u t^ 
+โรฮิงญา	1.0	r oo h i ng^ j aa 
+พม่า	1.0	ph a m aa 
+บังคลาเทศ	1.0	b a ng^ kh a l aa th ee t^ 
+หย่อนยาน	1.0	j @@ n^ j aa n^ 
+กิจกรรม	1.0	k i t^ c a k a m^ 
+ปกคอ	1.0	p o k^ kh @@ 
+โปโล	1.0	p oo l oo 
+ลื่น	1.0	l vv n^ 
+อิน	1.0	z i n^ 
+จุก	1.0	c u k^ 
+หลอก	1.0	l @@ k^ 
+ชีววิทยา	1.0	ch ii w a w i t^ th a j aa 
+คลินิก	1.0	khl i n i k^ 
+ต่ด	1.0	t o t^ 
+สัมพันธุ์	1.0	s a m^ ph a n^ 
+เริม	1.0	r qq m^ 
+ที่ดิน	1.0	th ii d i n^ 
+เป็นธรรม	1.0	p e n^ th a m^ 
+พาสต้า	1.0	ph aa t^ t aa 
+เยน	1.0	j ee n^ 
+แตะต้อง	1.0	t x t @@ ng^ 
+เดินเรือ	1.0	d qq n^ r vva 
+เอสเปรสโซ	1.0	z ee s^ pr ee t^ s oo 
+ย่า	1.0	j aa 
+อนุภาค	1.0	z a n u ph aa k^ 
+แม่ค้า	1.0	m xx kh aa 
+พื้นบ้าน	1.0	ph vv n^ b aa n^ 
+ฤดูกาล	1.0	r v d uu k aa n^ 
+ไทรันโนซอรัส	1.0	th a j^ r a n^ n oo s @@ r a t^ 
+เร็กซ์	1.0	r e k^ 
+เหนียว	1.0	n iia w^ 
+ปกปิด	1.0	p o k^ p i t^ 
+วิภา	1.0	w i ph aa 
+ช็อป	1.0	ch @ p^ 
+ทอดทิ้ง	1.0	th @@ t^ th i ng^ 
+เอสเธอร์	1.0	z ee t^ th qq 
+ค้าขาย	1.0	kh aa kh aa j^ 
+เติบโต	1.0	t qq p^ t oo 
+หย่อน	1.0	j @ n^ 
+รีบร้อน	1.0	r ii p^ r @@ n^ 
+กลับใจ	1.0	kl a p^ c a j^ 
+คริสมาสต์	1.0	khr i t^ m aa t^ 
+จอนลิว	1.0	c @@ n^ l i w^ 
+อีส	1.0	z ii t^ 
+สอบสวน	1.0	s @@ p^ s uua n^ 
+ดอกเบี้ย	1.0	d @@ k^ b iia 
+กระดิก	1.0	kr a d i k^ 
+ลอตเตอรี	1.0	l @@ t^ t qq r ii 
+รูปทรง	1.0	r uu p^ s o ng^ 
+ครบถ้วน	1.0	khr o p^ th uua n^ 
+วิไล	1.0	w i l a j^ 
+ยังอลิสโพล่ง	1.0	j a ng^ z a l i t^ phl oo ng^ 
+รู้แล้วรู้รอด	1.0	r uu l xx w^ r uu r @@ t^ 
+เช็คเกอร์	1.0	ch e k^ k qq 
+หลา	1.0	l aa 
+กิโลเมตร	1.0	k i l oo m ee t^ 
+เมตร	1.0	m ee t^ 
+กับอลิส	1.0	k a p^ z a l i t^ 
+วิทยาการ	1.0	w i t^ th a j aa k aa n^ 
+รหัสลับ	1.0	r a h a t^ s a l a p^ 
+ไอเฟล	1.0	z a j^ f ee l^ 
+ดั่ง	1.0	d a ng^ 
+เวทมนตร์	1.0	w ee t^ m o n^ 
+นินทา	1.0	n i n^ th aa 
+ใบพัด	1.0	b a j^ ph a t^ 
+สลับ	1.0	s a l a p^ 
+นางงาม	1.0	n aa ng^ ng aa m^ 
+ดึก	1.0	d v k^ 
+มัว	1.0	m uua 
+มั้ง	1.0	m a ng^ 
+โยคะ	1.0	j oo kh a 
+ยิม	1.0	j i m^ 
+ปริศนา	1.0	pr i t^ s a n aa 
+เล็ต	1.0	l e t^ 
+รัสเซีย	1.0	r a t^ s iia 
+ไอกิส	1.0	z a j^ k i t^ 
+เกียร์	1.0	k iia 
+ซามูไร	1.0	s aa m uu r a j^ 
+เด็ดเดี่ยว	1.0	d e t^ d iia w^ 
+คลัตช์	1.0	khl a t^ 
+ลัทธิ	1.0	l a t^ th i 
+โรมาเนีย	1.0	r oo m aa n iia 
+แฟลต	1.0	fl x t^ 
+เลานจ์	1.0	l a w^ 
+ยืด	1.0	j vv t^ 
+ผุด	1.0	ph u t^ 
+นิเฟอร์	1.0	n i f qq 
+ว่าเซีย	1.0	w aa s iia 
+เนวาดา	1.0	n ee w aa d aa 
+ชดใช้	1.0	ch o t^ ch a j^ 
+ชั่วร้าย	1.0	ch uua r aa j^ 
+ละเลย	1.0	l a l qq j^ 
+อวัยวะ	1.0	z a w a j^ j a w a 
+กาฬสินธุ์	1.0	k aa l a s i n^ 
+เถียง	1.0	th iia ng^ 
+คลาส	1.0	khl aa t^ 
+ก้อย	1.0	k @ j^ 
+สะใจ	1.0	s a c a j^ 
+ทรมาน	1.0	th @@ r a m aa n^ 
+เฟสบุ๊ค	1.0	f ee s^ b u k^ 
+สตาแกรม	1.0	s a t aa kr o m^ 
+ทวิตเตอร์ไลน์	1.0	th a w i t^ t qq l a j^ 
+โบ	1.0	b oo 
+ฮีเมียน	1.0	h ii m iia n^ 
+ซานฟรานซิสโก	1.0	s aa n^ fr aa n^ s i t^ k oo 
+ลูกเรือ	1.0	l uu k^ r vva 
+ปัน	1.0	p a n^ 
+จริงใจ	1.0	c a r i ng^ c a j^ 
+สง่างาม	1.0	s a ng aa ng aa m^ 
+บอลลูน	1.0	b @@ n^ l uu n^ 
+กระพือ	1.0	kr a ph vv 
+ร้าง	1.0	r aa ng^ 
+เมษายน	1.0	m ee s aa j o n^ 
+ชุบ	1.0	ch u p^ 
+เกล็ด	1.0	kl e t^ 
+ลูกพี่ลูกน้อง	1.0	l uu k^ ph ii l uu k^ n @@ ng^ 
+พิพิธภัฑณฑ์	1.0	ph i ph i t^ th a ph a t^ 
+ฮิปเสตอร์	1.0	h i p^ s ee t @@ 
+ดาบ	1.0	d aa p^ 
+แกะสลัก	1.0	k x s a l a k^ 
+โรแมนติก	1.0	r oo m xx n^ t i k^ 
+สังสรรค์	1.0	s a ng^ s a n^ 
+รูปลักษณ์	1.0	r uu p^ l a k^ 
+เซอร์เลอเซสเตอร์	1.0	s qq l qq s ee t^ t qq 
+โอ๊ก	1.0	z oo k^ 
+ผลัก	1.0	phl a k^ 
+ทองเหลือง	1.0	th @@ ng^ l vva ng^ 
+ปรับเปลี่ยน	1.0	pr a p^ pl iia n^ 
+เป็นอยู่	1.0	p e n^ j u 
+เชื้อชาติ	1.0	ch vva ch aa t^ 
+เกลี้ยกล่อม	1.0	kl iia kl @ m^ 
+เคล็ด	1.0	khl e t^ 
+ทิศทาง	1.0	th i t^ th aa ng^ 
+ยุคสมัย	1.0	j u k^ s a m a j^ 
+นาโอมิ	1.0	n aa z oo m i 
+มันสมอง	1.0	m a n^ s a m @@ ng^ 
+หนุนหลัง	1.0	n u n^ l a ng^ 
+ไขว่ห้าง	1.0	khw a j^ h aa ng^ 
+จอร์จนะ	1.0	c @@ c a n a 
+ลองใจ	1.0	l @@ ng^ c a j^ 
+แจก	1.0	c xx k^ 
+ต้องสอน	1.0	t @@ ng^ s @@ n^ 
+หลาน	1.0	l aa n^ 
+มิฉะนั้น	1.0	m i ch a n a n^ 
+โซเดียมคลอไรด์	1.0	s oo d iia m^ khl @@ r aa j^ 
+เกลือ	1.0	kl vva 
+พ้น	1.0	ph o n^ 
+ปฏิวัติ	1.0	p a t i w a t^ 
+ปารากวัย	1.0	p aa r aa k^ w a j^ 
+โบลิเวีย	1.0	b oo l i w iia 
+อุรุกวัย	1.0	z u r u k^ w a j^ 
+แกลอรี่	1.0	k xx l @@ r ii 
+ดิทโต้ดิท	1.0	d i t^ t oo d i t^ 
+ทวีต	1.0	th a w ii t^ 
+เลดดี้	1.0	l ee t^ d ii 
+กาก	1.0	k aa k^ 
+ประชดประชัน	1.0	pr a ch o t^ pr a ch a n^ 
+เลวร้าย	1.0	l ee w^ r aa j^ 
+เคท	1.0	kh ee t^ 
+ยอมอลิซ	1.0	j @@ m^ z a l i t^ 
+ชอบธรรม	1.0	ch @@ p^ th a m^ 
+มุมานะ	1.0	m u m aa n a 
+บากบั่น	1.0	b aa k^ b a n^ 
+เข็มทิศ	1.0	kh e m^ th i t^ 
+เลกเชอร์	1.0	l ee k^ ch qq 
+เชดดาร์	1.0	ch ee t^ d aa 
+ผงก	1.0	ng a k^ 
+หอย	1.0	h @ j^ 
+พระราชินี	1.0	phr a r aa ch i n ii 
+โคบอลต์	1.0	kh oo b @@ n^ 
+ปลอมแปลง	1.0	pl @@ m^ pl xx ng^ 
+ธนบัตร	1.0	th a n a b a t^ 
+ไอโอ	1.0	z a j^ z oo 
+เทค	1.0	th ee k^ 
+เบือน	1.0	b vva n^ 
+ชาค	1.0	ch aa k^ 
+ต้นฉบับ	1.0	t o n^ ch a b a p^ 
+ลินัส	1.0	l i n a t^ 
+เขื่อน	1.0	kh vva n^ 
+ตั้งตา	1.0	t a ng^ t aa 
+ไส้กรอก	1.0	s a j^ kr @@ k^ 
+โคร	1.0	khr oo 
+เก้	1.0	k ee 
+โคลี่	1.0	kh oo l ii 
+เค้น	1.0	kh e n^ 
+สุรา	1.0	s u r aa 
+คริสโตเฟอร์	1.0	khr i t^ t oo f qq 
+วิถีทาง	1.0	w i th ii th aa ng^ 
+เซื่อง	1.0	s vva ng^ 
+ซึม	1.0	s v m^ 
+หิวโหย	1.0	h i w^ h oo j^ 
+ฝ่าย	1.0	f aa j^ 
+ซุก	1.0	s u k^ 
+ประติมากรรม	1.0	pr a t i m aa k a m^ 
+พิจารณาการ	1.0	ph i c aa r a n aa k aa n^ 
+เปีย	1.0	p iia 
+ฝัก	1.0	f a k^ 
+หมัก	1.0	m a k^ 
+เติม	1.0	t qq m^ 
+เส้นใย	1.0	s e n^ j a j^ 
+ฝ้าย	1.0	f aa j^ 
+ลินิน	1.0	l i n i n^ 
+ประจาน	1.0	pr a c aa n^ 
+จิตรภูมิศักดิ์	1.0	c i t^ ph uu m^ s a k^ 
+ภาษาศาสตร์	1.0	ph aa s aa s aa t^ 
+สำแดง	1.0	s a m^ d xx ng^ 
+เดช	1.0	d ee t^ 
+โครง	1.0	khr oo ng^ 
+ไปไหนมาไหน	1.0	p a j^ n a j^ m aa n a j^ 
+กลอน	1.0	kl @@ n^ 
+ต่างหู	1.0	t aa ng^ h uu 
+อั้น	1.0	z a n^ 
+เบียร์	1.0	b iia 
+เยอรม	1.0	j qq r o m^ 
+บาวาเรีย	1.0	b aa w aa r iia 
+เทียน	1.0	th iia n^ 
+คะอลิซ	1.0	kh a z a l i t^ 
+กลีบ	1.0	kl ii p^ 
+กุหลาบ	1.0	k u l aa p^ 
+พรวด	1.0	phr uua t^ 
+ผูกพัน	1.0	ph uu k^ ph a n^ 
+มอเตอร์ไซค์	1.0	m @@ t qq s a j^ 
+คือพเต	1.0	kh vv p^ t ee 
+เรอ	1.0	r qq 
+แดกติล	1.0	d xx k a t i n^ 
+คุ้มกัน	1.0	kh u m^ k a n^ 
+สมเพช	1.0	s o m^ ph e t^ 
+แลคโตส	1.0	l xx k^ t oo t^ 
+รุ้ง	1.0	r u ng^ 
+คลิป	1.0	khl i p^ 
+ศรีสะเกษ	1.0	s ii s a k ee t^ 
+บุญคุณ	1.0	b u n^ kh u n^ 
+สกิล	1.0	s a k i n^ 
+ล้วง	1.0	l uua ng^ 
+อาเจียน	1.0	z aa c iia n^ 
+จีนน์	1.0	c ii n^ 
+แคนู	1.0	kh xx n uu 
+เหลา	1.0	l a w^ 
+ทฤษฎีบท	1.0	thr i t^ s a d ii b o t^ 
+อนุมาน	1.0	z a n u m aa n^ 
+สโมสร	1.0	s a m oo s @@ n^ 
+แมนเชสเตอร์ยูไนเต็ด	1.0	m xx n^ ch ee t^ t qq j uu n a j^ t e t^ 
+แท่น	1.0	th x n^ 
+ซัลโว	1.0	s a n^ w oo 
+บริวาร	1.0	b @@ r i w aa n^ 
+เคียงข้าง	1.0	kh iia ng^ kh aa ng^ 
+ไมโครโฟน	1.0	m a j^ khr oo f oo n^ 
+อู้อี้	1.0	z uu z ii 
+หมี	1.0	m ii 
+มนุษยชน	1.0	m a n u t^ s a j a ch o n^ 
+หลักการ	1.0	l a k^ k aa n^ 
+เมล	1.0	m ee l^ 
+ขรึม	1.0	khr v m^ 
+จํา	1.0	c aa ng^ 
+ทํา	1.0	th aa ng^ 
+ฟรานซิส	1.0	fr aa n^ s i t^ 
+ใกล้ชิด	1.0	kl a j^ ch i t^ 
+โบก	1.0	b oo k^ 
+ยัก	1.0	j a k^ 
+ไหล่	1.0	l a j^ 
+มาร์ค	1.0	m aa k^ 
+วิจารณ์	1.0	w i c aa n^ 
+บรรเทา	1.0	b a n^ th a w^ 
+พระราชทาน	1.0	phr a r aa t^ ch a th aa n^ 
+คอมไพล์	1.0	kh @@ m^ ph a j^ 
+หมวดหมู่	1.0	m uua t^ m uu 
+แตกตื่น	1.0	t xx k^ t vv n^ 
+ภาร	1.0	ph aa n^ 
+ช่องว่าง	1.0	ch @ ng^ w aa ng^ 
+เสื่อมถอย	1.0	s vva m^ th @ j^ 
+แก๊งค์	1.0	k xx ng^ 
+เย็บปักถักร้อย	1.0	j e p^ p a k^ th a k^ r @@ j^ 
+เบาะ	1.0	b @ 
+อึ่ง	1.0	z v ng^ 
+เจริญเติบโต	1.0	c a r qq n^ t qq p^ t oo 
+ปรารถนา	1.0	pr aa t^ th a n aa 
+ไว	1.0	w a j^ 
+ปลาดุก	1.0	pl aa d u k^ 
+ออเคสตรา	1.0	z @@ kh ee t^ tr aa 
+คุกกี้	1.0	kh u k^ k ii 
+ลองจิจูด	1.0	l @@ ng^ c i c uu t^ 
+ละติจูด	1.0	l a t i c uu t^ 
+สอดคล้องกัน	1.0	s @@ t^ khl @@ ng^ k a n^ 
+ตะเกียบ	1.0	t a k iia p^ 
+สงวน	1.0	s a ng uua n^ 
+ปรากฎ	1.0	pr aa k o t^ 
+เงียบงัน	1.0	ng iia p^ ng a n^ 
+ภูตผี	1.0	ph uu t^ ph ii 
+เฮอริเคน	1.0	h qq r i kh ee n^ 
+ได	1.0	d a j^ 
+เพ	1.0	ph ee 
+ปรบ	1.0	pr o p^ 
+โรบิน	1.0	r oo b i n^ 
+พบเห็น	1.0	ph o p^ h e n^ 
+แบตเตอรี่	1.0	b x t^ t qq r ii 
+สุมาลี	1.0	s u m aa l ii 
+ยุว	1.0	j u w a 
+กาชาด	1.0	k aa ch aa t^ 
+ละอายใจ	1.0	l a z aa j^ c a j^ 
+โลกาภิวัฒน์	1.0	l oo k aa ph i w a t^ 
+วินิฉัย	1.0	w i n i ch a j^ 
+มดลูก	1.0	m o t^ l uu k^ 
+เมือก	1.0	m vva k^ 
+กร่อน	1.0	kr @@ n^ 
+อัธยาศัย	1.0	z a t^ th a j aa s a j^ 
+โดนใจ	1.0	d oo n^ c a j^ 
+ล๊อคเกอร์	1.0	l @@ k^ k qq 
+ข้น	1.0	kh o n^ 
+บังเกิด	1.0	b a ng^ k qq t^ 
+แจ็กเก็ต	1.0	c x k^ k e t^ 
+อสูร	1.0	z a s uu n^ 
+เหว	1.0	h ee w^ 
+เจ็บป่วย	1.0	c e p^ p uua j^ 
+ทาบทาม	1.0	th aa p^ th aa m^ 
+รัฐธรรมนูญ	1.0	r a t^ th a th a m^ m a n uu n^ 
+ดื่มกิน	1.0	d vv m^ k i n^ 
+ดีวีดี	1.0	d ii w ii d ii 
+ใหญ	1.0	j a j^ 
+สะสม	1.0	s a s o m^ 
+เยิน	1.0	j qq n^ 
+ยอ	1.0	j @@ 
+ปัดเป่า	1.0	p a t^ p a w^ 
+สลัด	1.0	s a l a t^ 
+โต้เถียง	1.0	t oo th iia ng^ 
+ประจำการ	1.0	pr a c a m^ k aa n^ 
+ตัดใจ	1.0	t a t^ c a j^ 
+จับต้อง	1.0	c a p^ t @@ ng^ 
+ภูมิแพ้	1.0	ph uu m^ ph xx 
+หมึก	1.0	m v k^ 
+คึกคะนอง	1.0	kh v k^ kh a n @@ ng^ 
+พิซซ่า	1.0	ph i t^ s aa 
+หน้าตา	1.0	n aa t aa 
+นาย	1.0	n aa j^
+สง่า	1.0	s a  ng aa 
+สรรพศรี	1.0	s a p^ ph a  s ii 
+รศ.ดร.	1.0	r @@ ng^ s aa t^ tr aa  c aa n^ d @ k^ t qq 
+สมเกียรติ	1.0	s o m^ k iia t^
+ศุภเดช	1.0	s u p^ ph a  d ee t^
+ใน	1.0	n a j^
+การ	 1.0	k aa n^
+พล็อต	 1.0	phl @ t^ kr aa f^
+กราฟ	 1.0	p aa k^ k aa 
+ปากกา	1.0	c a 
+จะ	1.0	pl iia n^ pl xx ng^
+เปลี่ยนแปลง	1.0	t a m^ n x ng^
+ตำแหน่ง	1.0	t aa m^
+ตาม	1.0	n a j^
+ใน	1.0	n xx w^ t a ng^
+แนวตั้ง	1.0	t aa m^
+ตาม	1.0	s a k^ d aa  f a j^ f aa 
+ศักดาไฟฟ้า	1.0	th ii 
+ที่	1.0	w a t^
+วัด	1.0	d aa j^
+ได้	1.0	kh a  n a  th ii 
+ขณะที่	1.0	kr a  d aa t^
+กระดาษ	1.0	khl vva n^ th ii 
+เคลื่อนที่	1.0	t aa m^
+ตาม	1.0	n xx w^
+แนวนอน	1.0	n @@ n^
+ด้วย	1.0	d uua j^
+ความ	1.0	khw aa m^
+เร็ว	1.0	r e w^
+การ	1.0	k aa n^
+บันทึก	1.0	b a n^ th v k^
+25	1.0	j ii  s i p^ h aa 
+มิลลิเมตร	1.0	m i n^ l i  m ee t^
+วินาที	1.0	w i  n aa  th ii  
+สิ้นเปลือง	1.0	s i n^ pl vva ng^
+ค่าใช้จ่าย	1.0	kh aa  ch a j^ c aa j^
+กับ	1.0	k a p^
+กระดาษ	1.0	kr a  d aa t^
+กราฟ	1.0	kr aa f^
+โดย	1.0	d oo j^
+ไม่	1.0	m a j^
+รายละเอียด	1.0	r aa j^ l a  z iia t^
+ของ	1.0	kh @@ ng^
+ไมโครคอมพิวเตอร์	1.0	m a j^ khr oo  kh @ m^ ph i w^ t qq 
+ชุด	1.0	ch u t^
+แรก	1.0	r xx k^
+ดังนี้	1.0	d a ng^ n ii  
+ทฤษฎี	1.0	thr i t^ s a  d ii 
+ภาษาศาสตร์	1.0	ph aa  s aa  s aa t^
+เหมาะสม	1.0	m @  s o m^
+ได้รับ	1.0	d aa j^ r a p^
+พัฒนา	1.0	ph a t^ th a  n aa 
+ความ	1.0	khw aa m^ kh i t^
+คิด	1.0	n a j^
+ใน	1.0	k aa n^
+การ	1.0	ch a j^
+ใช้	1.0	kh @ m^ ph i w^ t qq 
+คอมพิวเตอร์	1.0	pl xx 
+แปล	1.0	ph aa  s aa 
+ภาษา	1.0	c v ng^
+จึง	1.0	d aa j^ r a p^
+ได้รับ	1.0	k aa n^
+การ	1.0	f vv n^ f uu 
+ฟื้นฟู	1.0	kh v n^
+ขึ้น	1.0	z ii k^
+อีกครั้ง	1.0	khr a ng^ 
+เปลี่ยน	1.0	pl iia n^
+ภาษา	1.0	ph aa  s aa 
+ฝรั่งเศส	 1.0	f a  r a ng^ s ee t^ 
+มหาวิทยาลัย	1.0	m a  h aa  w i t^ th a  j aa  l a j^
+7	1.0	c e t^
+แห่ง	1.0	h x ng^
+ประเทศไทย	1.0	pr a  th ee t^ th a j^
+ได้	1.0	d aa j^
+เข้า	1.0	kh a w^
+ร่วม	1.0	r uua m^
+ทำงาน	1.0	th a m^ ng aa n^
+นาม	1.0	n aa m^
+ทบวง	1.0	th a  b uua ng^
+มหาวิทยาลัย	1.0	m a  h aa  w i t^ th a  j aa  l a j^ 
+ดร.	1.0	d @ k^ t qq 
+อุดม	1.0	z u  d o m^
+วโรตม์สิกขดิตถ์	1.0	w a  r oo  t a  m a  s i k^ kh a  d i t^
+นิตยา	1.0	n i t^ t a  j aa 
+กาญจนะวรรณ	1.0	k aa n^ c a  n a  w a n^
+ประธาน	1.0	pr a  th aa n^
+แล้ว	1.0	l xx w^
+จึง	1.0	c v ng^
+ถ่ายทอด	1.0	th aa j^ th @@ t^
+คำ	1.0	kh a m^
+โครงสร้าง	1.0	khr oo ng^ s aa ng^
+ต้นฉบับ	1.0	t o n^ ch a  b a p^
+อังกฤษ	1.0	z a ng^ kr i t^
+เป้าหมาย	1.0	p a w^ m aa j^
+ต้อง	1.0	t @ ng^
+ตัด	1.0	t a t^
+คำกำกวม	1.0	kh a m^ k a m^ k uua m^ 
+เลือก	1.0	l vva k^
+ตัวอักษร	1.0	t uua  z a k^ s @@ n^
+แต่ละ	1.0	t xx  l a 
+บล๊อค	1.0	bl @ k^
+โมเสด	1.0	m oo  s ee t^
+ได้	 1.0	d aa j^ 
+ข้อกำหนด	1.0	kh @@ k a m^ n o t^
+เวิร์ดโปรเซสเซอร์	1.0	w q t^ pr oo  s ee t^ s qq  
+4.1.1	1.0	s ii  c u t^ n v ng^ c u t^ n v ng^
+ข้อมูล	1.0	kh @@  m uu n^
+อินพุต	1.0	z i n^ ph u t^
+ผลลัพธ์	1.0	ph o n^ l a p^
+ย่อม	1.0	j @ m^
+เหมือนกัน	1.0	m vva n^ k a n^ 
+เนื่อง	1.0	n vva ng^
+จาก	1.0	c aa k^
+คลาดเคลื่อน	1.0	khl aa t^ khl vva n^
+จัด	1.0	c a t^
+กระดาษ	1.0	kr a  d aa t^ 
+4.3.1	1.0	s ii  c u t^ s aa m^ c u t^ n v ng^
+ส่วน	 1.0	s uua n^
+ของ	 1.0	kh @@ ng^
+ซอฟต์แวร์	1.0	s @@ p^ w xx  
+คำเชื่อม	1.0	kh a m^ ch vva m^
+แสดง	1.0	s a  d xx ng^
+สิ่ง	1.0	s i ng^
+ผู้กระทำ	1.0	ph uu  kr a  th a m^
+ใช้	1.0	ch a j^
+กระทำ	1.0	kr a  th a m^ 
+น.ส.	1.0	n aa ng^ s aa w^
+วรนุช	1.0	w @@  r a  n u t^
+เตียวตระกูล	1.0	t iia w^ tr a  k uu n^ 
+ศูนย์	1.0	s uu n^
+วิจัย	1.0	w i  c a j^
+อิเล็กทรอนิกส์	1.0	z i  l e k^ thr @@  n i k^
+ภาควิชา	1.0	ph aa k^ w i  ch aa 
+อิเล็กทรอนิกส์	1.0	z i  l e k^ thr @@  n i k^ 
+สร้าง	1.0	s aa ng^
+ส่วน	1.0	s uua n^
+ซอส	1.0	s @@ t^
+เดรน	1.0	dr ee n^
+ทรานซิสเตอร์	1.0	thr aa n^ s i s^ t qq  
+เกิด	1.0	k qq t^
+ผิดพลาด	1.0	ph i t^ phl aa t^
+ง่าย	1.0	ng aa j^
+สถาบันเทคโนโลยีพระจอมเกล้าลาดกระบัง	1.0	s a  th aa  b a n^ th e k^ n oo  l oo  j ii  phr a  c @@ m^ kl aa w^ l aa t^ kr a  b a ng^ 
+ประสาร	1.0	pr a  s aa n^
+อ่านเปรื่อง	1.0	z aa n^ pr vva ng^ 
+วุฒิพงศ์	1.0	w u t^ th i  ph o ng^
+เตชะดำรงสิน	1.0	t ee  ch a  d a m^ r o ng^ s i n^
+2.1.4	1.0	s @@ ng^ c u t^ n v ng^ c u t^ s ii 
+จ่ายเงิน	1.0	c aa j^ ng q n^ 
+2.1.5	1.0	s @@ ng^ c u t^ n v ng^ c u t^ h aa 
+ระบบ	1.0	r a  b o p^
+จัดการ	1.0	c a t^ k aa n^
+ประกอบด้วย	1.0	pr a  k @@ p^ d uua j^ 
+อย่างไรก็ตาม	1.0	j aa ng^ r a j^ k @@  t aa m^
+นำ	1.0	n a m^
+ไป	1.0	p a j^
+ใช้งาน	1.0	ch a j^ ng aa n^
+ร้านอาหาร	1.0	r aa n^ z aa  h aa n^
+ขนาด	1.0	kh a  n aa t^
+ใหญ่	1.0	j a j^
+มาก	1.0	m aa k^
+จำนวน	1.0	c a m^ n uua n^
+50	1.0	h aa  s i p^
+ขึ้นไป	1.0	kh v n^ p a j^
+อาจ	1.0	z aa t^
+ถ่ายเท	1.0	th aa j^ th ee 
+ครั้งละ	1.0	khr a ng^ l a 
+8	1.0	p xx t^ 
+เครื่องต้นแบบ	1.0	khr vva ng^ t o n^ b xx p^
+เครื่อง	1.0	khr vva ng^
+ไดอะแกรม	1.0	d a j^ z a  kr xx m^ 
+รูป	1.0	r uu p^
+เห็น	1.0	h e n^
+ประกอบ	1.0	pr a  k @@ p^
+ต่างๆ	1.0	t aa ng^ t aa ng^
+11	1.0	s i p^ z e t^
+คือ	1.0	kh vv  
+กฤษณพงศ์	1.0	kr i t^ s a  n a  ph o ng^
+กีรติกร	1.0	k ii  r a  t i  k @@ n^ 
+ซึ่ง	1.0	s v ng^
+โปรแกรม	1.0	pr oo  kr xx m^
+ทำ	1.0	th a m^
+หน้าที่	1.0	n aa  th ii 
+เลียนแบบ	1.0	l iia n^ b xx p^
+เหมือน	1.0	m vva n^
+วงจรรีเลย์	1.0	w o ng^ c @@ n^ r ii  l ee 
+ตัวตั้งเวลา	1.0	t uua  t a ng^ w ee  l aa 
+ตัวนับ	1.0	t uua  n a p^ 
+ซอฟท์แวร์	1.0	s @@ p^ w xx 
+ตัวตน	1.0	t uua  t o n^
+เคลื่อนที่	1.0	khl vva n^ th ii 
+ทาง	1.0	th aa ng^
+นอกจากนี้	1.0	n @@ k^ c aa k^ n ii 
+แก้ไข	1.0	k xx  kh a j^
+เปลี่ยนแปลง	1.0	pl iia n^ pl xx ng^
+ควบคุม	1.0	kh uua p^ kh u m^
+ผู้ใช้	1.0	ph uu  ch a j^
+เคลียร์	1.0	khl iia 
+ทิ้ง	 1.0	th i ng^
+อ่าน	1.0	z aa n^
+แอดเดรส	1.0	z x t^ dr ee t^
+คำสั่ง	1.0	kh a m^ s a ng^ 
+เขียน	1.0	kh iia n^
+แอสเซมบลี	1.0	z xx t^ s e m^ bl ii  
+ยังมี	1.0	j a ng^ m ii 
+นักศึกษา	1.0	n a k^ s v k^ s aa 
+ช่วย	1.0	ch uua j^
+ทดสอบ	1.0	th o t^ s @@ p^
+วงจร	1.0	w o ng^ c @@ n^
+จิระศักดิ์	1.0	c i  r a  s a k^
+ตันปรียชญา	1.0	t a n^ pr ii  j a  ch a  j aa 
+กิตติ	1.0	k i t^ t i 
+งามเจตนรมณ์	1.0	ng aa m^ c ee t^ t a  n a  r o m^
+กิติพจน์	1.0	k i  t i  ph o t^
+สิทธิเลิศพิศาล	1.0	s i t^ th i  l qq t^ ph i  s aa n^ 
+ต่อมา	1.0	t @@  m aa 
+ตาชั่ง	1.0	t aa  ch a ng^
+ดิจิตอล	 1.0	d i  c i  t @ l
+อิเล็คโทรนิคส์	1.0	z i  l e k^ thr oo  n i k^
+เข้ามา	1.0	kh a w^
+ใช้	1.0	m aa  ch a j^ 
+ต้องการ	1.0	t @ ng^ k aa n^
+แสง	1.0	s xx ng^
+สเปคตรัม	1.0	s a  p e k^ tr a m^
+ทิศทาง	1.0	th i t^ th aa ng^
+ความเข้ม	1.0	khw aa m^ kh e m^
+3	1.0	s aa m^
+เส้นกราฟ	1.0	s e n^ kr aa f^
+อุณหภูมิ	1.0	z u n^ h a  ph uu m^
+เตาเอพิแทกซี	1.0	t a w^ z ee  ph i  th x k^ s ii  
+ลด	1.0	l o t^
+ขั้วโลหะ	1.0	kh uua  l oo  h a 
+ลง	1.0	l o ng^
+น้อย	1.0	n @@ j^
+ไมครอน	1.0	m a j^ khr @ n^ 
+6	1.0	h o k^
+เอกสารอ้างอิง	1.0	z ee k^ k a  s aa n^ z aa ng^ z i ng^
+ทดลอง	1.0	th o t^ l @@ ng^
+พบ	1.0	ph o p^
+สารตัวนำยิ่งยวด	1.0	s aa n^ t uua  n a m^ j i ng^ j uua t^
+เตรียม	1.0	tr iia m^
+อยู่	1.0	j uu 
+ออโธรอมบิด	1.0	z @@  th oo  r @@ m^ b i t^ 
+ขณะนี้	1.0	kh a  n a  n ii 
+โครงการ	1.0	khr oo ng^ k aa n^
+ระหว่าง	1.0	r a  w aa ng^
+เครื่องสปัตเตอริง	1.0	khr vva ng^ s a  p a t^ t qq  r i ng^
+แบบ	 1.0	b xx p^
+ดี.ซี.	1.0	d ii  s ii 
+พลานาร์แมกนิตรอย	1.0	phl aa  n aa  m x k^ n i  tr @@ j^ 
+ใช้	 1.0	ch a j^
+เคลือบ	1.0	khl vva p^
+ฟิล์ม	1.0	f ii m^
+บาง	1.0	b aa ng^
+ต่อไป	 1.0	t @@  p a j^ 
+ยึด	1.0	j v t^
+แผ่น	1.0	ph x n^
+สาร	 1.0	s aa n^
+ตัวนำยิ่งยวด	1.0	t uua  n a m^ j i ng^ j uua t^ 
+ช่วง	1.0	ch uua ng^
+กระแส	1.0	kr a  s xx 
+เครน	1.0	khr ee n^
+เพิ่ม	 1.0	ph qq m^
+ขึ้น	1.0	kh v n^
+อย่าง	1.0	j aa ng^
+รวดเร็ว	1.0	r uua t^ r e w^
+ตาม	1.0	t aa m^
+แรงดันไฟฟ้า	1.0	r xx ng^ d a n^ f a j^ f aa 
+เครน	1.0	khr ee n^ 
+ให้	1.0	h a j^
+แชนแนล	1.0	ch x n^ n x w^
+กราฟ	1.0	kr aa f^ 
+สำหรับ	1.0	s a m^ r a p^
+บทความ	1.0	b o t^ khw aa m^
+อธิบาย	1.0	z a  th i  b aa j^
+ผลงาน	1.0	ph o n^ ng aa n^
+ปีงบประมาณ	1.0	p ii  ng o p^ pr a  m aa n^
+2532	1.0	s @@ ng^ ph a n^ h aa  r @@ j^ s aa m^ s i p^ s @@ ng^
+ทบทวน	1.0	th o p^ th uua n^
+เข้าใจ	1.0	kh a w^ c a j^
+ทุก	1.0	th u k^
+ฝ่าย	1.0	f aa j^
+เกี่ยวข้อง	1.0	k iia w^ kh @ ng^
+ทั้ง	1.0	th a ng^
+ภาค	1.0	ph aa k^
+รัฐบาล	1.0	r a t^ th a  b aa n^
+เอกชน	1.0	z ee k^ k a  ch o n^
+ศูนย์เทคโนโลยีอิเล็กทรอนิกส์และคอมพิวเตอร์แห่งชาติ	1.0	s uu n^ th e k^ n oo  l oo  j ii  z i  l e k^ thr @@  n i k^ l x  kh @ m^ ph i w^ t qq  h x ng^ ch aa t^
+ความเป็นมา	1.0	khw aa m^ p e n^ m aa 
+อย่างไร	1.0	j aa ng^ r a j^ 
+เดิม	1.0	d qq m^
+ซ้ำ	1.0	s a m^
+ตอนนี้	1.0	t @@ n^ n ii 
+ตั้ง	1.0	t a ng^
+อยู่	 1.0	j uu 
+ชั้น	1.0	ch a n^
+อาคาร	1.0	z aa  kh aa n^
+สำนักงานปลัดกระทรวงวิทยาศาสตร์เทคโนโลยีและการพลังงาน	1.0	s a m^ n a k^ ng aa n^ p a  l a t^ kr a  s uua ng^ w i t^ th a  j aa  s aa t^ th e k^ n oo  l oo  j ii  l x  k aa n^ ph a  l a ng^ ng aa n^
+ถนนพระราม6	1.0	th a  n o n^ phr a  r aa m^ h o k^
+พญาไท		1.0	ph a  j aa  th a j^
+กรุงเทพฯ	1.0	kr u ng^ th ee p^
+10400	1.0	n v ng^ s uu n^ s ii  s uu n^ s uu n^
+ตาราง	1.0	t aa  r aa ng^
+ศูนย์ฯ	1.0	s uu n^
+คณะกรรมการ	1.0	kh a  n a  k a m^ m a  k aa n^
+นโยบาย	1.0	n a  j oo  b aa j^
+กรรมการ	1.0	k a m^ m a  k aa n^
+กำหนด	1.0	k a m^ n o t^
+ตลอดจน	1.0	t a  l @@ t^ c o n^
+กำกับ	1.0	k a m^ k a p^
+ดำเนินงาน	1.0	d a m^ n qq n^ ng aa n^ 
+ดังกล่าว	1.0	d a ng^ kl aa w^
+รัฐมนตรีว่าการ	1.0	r a t^ th a  m o n^ tr ii w aa  k aa n^
+กระทรวง	1.0	kr a  s uua ng^
+วิทยาศาสตร์	1.0	w i t^ th a  j aa  s aa t^
+เทคโนโลยี	1.0	th e k^ n oo  l oo  j ii 
+การพลังงาน	1.0	k aa n^ ph a  l a ng^ ng aa n^
+ประธาน	1.0	pr a  th aa n^ 
+บริหาร	1.0	b @@  r i  h aa n^
+นั้น	1.0	n a n^
+คณะกรรมการบริหาร	1.0	kh a  n a  k a m^ m a  k aa n^ b @@  r i  h aa n^
+ซึ่ง	 1.0	s v ng^
+ประกอบด้วย	1.0	pr a  k @@ p^ d uua j^
+รัฐบาล	1.0	r a t^ th a  b aa n^ 
+เอกชน	1.0	z ee k^ k a  ch o n^ 
+รัฐมนตรีว่าการ	1.0	r a t^ th a  m o n^ tr ii  w aa  k aa n^
+กระทรวงฯ	1.0	kr a  s uua ng^
+เช่นกัน	1.0	ch e n^ k a n^ 
+รวมทั้ง	1.0	r uua m^ th a ng^
+ติดตาม	1.0	t i t^ t aa m^
+ประเมินผล	1.0	pr a  m qq n^ ph o n^
+ดำเนินงาน	1.0	d a m^ n qq n^ ng aa n^
+ศูนย์ฯ	1.0	s uu n^ 
+องค์ประกอบ	1.0	z o ng^ pr a  k @@ p^
+2	1.0	s @@ ng^
+บทบาท	1.0	b o t^ b aa t^
+สำคัญ	1.0	s a m^ kh a n^
+ประการ	1.0	pr a  k aa n^
+กลไก	1.0	k o n^ k a j^
+ประสานงาน	1.0	pr a  s aa n^ ng aa n^
+ภาค	 1.0	ph aa k^
+สอง	1.0	s @@ ng^
+สามารถ	1.0	s aa  m aa t^
+รับ	1.0	r a p^
+เสนอ	1.0	s a  n qq 
+ด้าน	1.0	d aa n^
+คอมพิวเตอร์	1.0	kh @ m^ ph i w^ t qq 
+คณะรัฐมนตรี	1.0	kh a  n a  r a t^ th a  m o n^ tr ii 
+ภารกิจ	1.0	ph aa  r a  k i t^
+มอบหมาย	1.0	m @@ p^ m aa j^
+ภายใต้	1.0	ph aa j^ t aa j^
+สำนักงานปลัดกระทรวงฯ	1.0	s a m^ n a k^ ng aa n^ p a  l a t^ kr a  s uua ng^ 
+คอมพิวเตอร์	1.0	kh @ m^ ph i w^ t qq  
+ออกแบบ	1.0	z @@ k^ b xx p^
+วงจรรวม	1.0	w o ng^ c @@ n^ r uua m^
+ผลิต	1.0	ph a  l i t^
+มอเตอร์	1.0	m @@  t qq 
+อุตสาหกรรม	1.0	z u t^ s aa  h a  k a m^
+เครื่องใช้	1.0	khr vva ng^ ch a j^
+ไฟฟ้า	1.0	f a j^ f aa  
+4	1.0	s ii 
+โครงการ	 1.0	khr oo ng^ k aa n^
+5	1.0	h aa 
+วงจรอิเล็กทรอนิกส์	1.0	w o ng^ c @@ n^ z i  l e k^ thr @@  n i k^
+อุตสาหกรรม	 1.0	z u t^ s aa  h a  k a m^ 
+เกษตรศาสตร์	1.0	k a  s ee t^ tr a  s aa t^
+หมายถึง	1.0	m aa j^ th v ng^
+วิชา	1.0	w i  ch aa 
+พืชสวน	1.0	ph vv t^ s uua n^
+วนศาสตร์	1.0	w a  n a  s aa t^
+ประมง	1.0	pr a  m o ng^
+ฟาร์มโคนม	1.0	f aa m^ kh oo  n o m^
+สัตวแพทยศาสตร์	1.0	s a t^ t a  w a  ph xx t^ s aa t^
+สาขา	1.0	s aa  kh aa 
+อื่นๆ	1.0	z vv n^ z vv n^
+คล้ายคลึง	1.0	khl aa j^ khl v ng^
+จากนั้น	1.0	c aa k^ n a n^
+วงจร	 1.0	w o ng^ c @@ n^
+วีแอลเอสไอ	1.0	w ii  z xx w^ z ee s^ z a j^ 
+ยัง	 1.0	j a ng^
+สามารถ	 1.0	s aa  m aa t^
+สั่ง	 1.0	s a ng^
+พิมพ์	1.0	ph i m^
+ออก	1.0	z @@ k^
+เครื่องพิมพ์	1.0	khr vva ng^ ph i m^
+ได้	1.0	d aa j^ z ii k^
+อีกด้วย	1.0	d uua j^ 
+อลูมิเนียม	1.0	z a  l uu  m i  n iia m^
+ได้เปรียบ	1.0	d aa j^ pr iia p^
+ความจุ	1.0	khw aa m^ c u 
+ความร้อน	1.0	khw aa m^ r @@ n^
+เท่ากัน	1.0	th a w^ k a n^ 
+กำลัง	1.0	k a m^ l a ng^
+ทรานซิสเตอร์	1.0	thr aa n^ s i s^ t qq 
+เกิน	1.0	k qq n^
+ร่วมกัน	1.0	r uua m^ k a n^ 
+ปัจจุบัน	1.0	p a t^ c u  b a n^
+หน่วยงาน	1.0	n uua j^ ng aa n^
+สารนิเทศ	1.0	s aa  r a  n i  th ee t^
+ศัพท์สัมพันธ์	1.0	s a p^ s a m^ ph a n^
+ราชบัณฑิตยสถาน	1.0	r aa t^ ch a  b a n^ d i t^ t a  j a  s a  th aa n^ 
+นอกจาก	1.0	n @@ k^ c aa k^
+ข้อเสนอ	1.0	kh @@  s a  n qq 
+เรื่อง	1.0	r vva ng^
+ศัพท์	1.0	s a p^
+สมาคม	1.0	s a  m aa  kh o m^
+วิชาการ	1.0	w i  ch aa  k aa n^
+ราชบัณฑิตยสถาน	1.0	r aa t^ ch a  b a n^ d i t^ t a  j a  s a  th aa n^
+ยัง	1.0	j a ng^
+อนุกรรมการ	1.0	z a  n u  k a m^ m a  k aa n^
+หน้าที่	 1.0	n aa  th ii 
+บัญญัติศัพท์	1.0	b a n^ j a t^ s a p^
+ภาษาไทย	1.0	ph aa  s aa  th a j^ 
+ผศ.	1.0	ph uu  ch uua j^ s aa t^ tr aa  c aa n^
+ชัยวัฒน์	1.0	ch a j^ w a t^
+ชัยกุล	1.0	ch a j^ k u n^ 
+เร็คติไฟร์	1.0	r e k^ t i  f aa j^
+เต็ม	1.0	t e m^
+คลื่น	 1.0	khl vv n^
+ความถี่	1.0	khw aa m^ th ii 
+ไฟ	1.0	f a j^
+เฮิรทซ์	1.0	h qq t^ 
+ตัวเอ็นโค้คเดอร์	1.0	t uua  z e n^ kh oo t^ d qq 
+หมุน	1.0	m u n^
+แกน	1.0	k xx n^
+ทรี	1.0	thr ii  
+วาง	1.0	w aa ng^
+ตัว	1.0	t uua  
+อุปกรณ์	1.0	z u p^ p a  k @@ n^
+พิจารณา	1.0	ph i  c aa  r a  n aa 
+ได้แก่	1.0	d aa j^ k xx 
+ตัวความต้านทาน	1.0	t uua  khw aa m^ t aa n^ th aa n^
+คาปาซิเตอร์ทรานซิสเตอร์	1.0	kh aa  p aa  s i  t qq  thr aa n^ s i s^ t qq 
+ไอซี	1.0	z a j^ s ii 
+2.2	1.0	s @@ ng^ c u t^ s @@ ng^
+รูปร่าง	1.0	r uu p^ r aa ng^
+จุดเชื่อม	1.0	c u t^ ch vva m^
+5	1.0	h aa k aa n^
+การ	1.0	j o t^
+หยด	1.0	khr ii m^
+ครีมเชื่อม	 1.0	ch vva m^ 
+วิภา	1.0	w i  ph aa 
+โกยสุโข	1.0	k oo  j a  s u  kh oo  
+พิบูลศิลป์	1.0	ph i  b uu n^ s i n^
+วัฑฒนะพงศ์	1.0	w a t^ th a  n a  ph o ng^ 
+สุรีย์	1.0	s u  r ii 
+บุหงามงคล	1.0	b u  ng aa  m o ng^ kh o n^ 
+โฟลว์ชาร์ต	1.0	fl oo w^ ch aa t^
+คำนวน	1.0	kh a m^ n uua n^
+ความกว้าง	1.0	khw aa m^ kw aa ng^
+ความสูง	1.0	khw aa m^ s uu ng^
+ภาพ	1.0	ph aa p^
+13	1.0	s i p^ s aa m^
+สมภพ	1.0	s o m^ ph o p^
+อมาตยกุล	1.0	z a  m aa t^ t a  j a  k u n^ 
+14	1.0	s i p^ s ii 
+วิกรม	1.0	w i  kr o m^
+ชัยสินธพ	1.0	ch a j^ s i n^ th o p^ 
+ตย.	1.0	t uua  j aa ng^
+โต๊ะกินข้าว	1.0	t o  k i n^ kh aa w^
+เครื่องซักผ้า	1.0	khr vva ng^ s a k^ ph aa  
+เรา	1.0	r a w^
+ต่อไปนี้	1.0	t @@  p a j^ n ii  
+เกย	1.0	k qq j^
+หินโสโครก	1.0	h i n^ s oo  khr oo k^
+1	1.0	n v ng^ 
+วิเคราะห์	1.0	w i  khr @
+ประโยคความเดียว	1.0	pr a  j oo k^ khw aa m^ d iia w^ 
+โลก	1.0	l oo k^
+รองศาสตราจารย์	1.0	r @@ ng^ s aa t^ tr aa  c aa n^
+ผู้ช่วยศาสตราจารย์	1.0	ph uu  ch uua j^ s aa t^ tr aa  c aa n^
+เปลี่ยนเป็น	1.0	pl iia n^ p e n^
+สังคมสารสนเทศ	1.0	s a ng^ kh o m^ s aa  r a  s o n^ th ee t^ 
+ผล	1.0	ph o n^
+บรรณารักษ์	1.0	b a n^ n aa  r a k^
+อาจารย์	1.0	z aa  c aa n^
+คณะ	1.0	kh a  n a 
+อักษรศาสตร์	1.0	z a k^ s @@ n^ s aa t^
+ว่า	1.0	w aa  
+เข้าร่วม	1.0	kh a w^ r uua m^
+เครือข่าย	1.0	khr vva  kh aa j^
+พ.ศ.	1.0	ph u t^ th a  s a k^ k a  r aa t^
+2531	1.0	s @@ ng^ ph a n^ h aa  r @@ j^ s aa m^ s i p^ z e t^
+2533	1.0	s @@ ng^ ph a n^ h aa  r @@ j^ s aa m^ s i p^ s aa m^
+คล่องตัว	1.0	khl @ ng^ t uua 
+เคเบิล	1.0	kh ee  b q n^ 
+ระวีวรรณ	1.0	r a  w ii  w a n^
+เอื้อพันธ์วิริยะกุล	1.0	z vva  ph a n^ w i  r i  j a  k u n^ 
+สุชาติ	1.0	s u  ch aa t^
+วุฒิวะชาติกุล	1.0	w u t^ th i  w a  ch aa t^ k u n^ 
+จอภาพ	1.0	c @@  ph aa p^
+ครึ่ง	1.0	khr v ng^
+จอภาพ	1.0	c @@  ph aa p^ 
+70	1.0	c e t^ s i p^
+ยาว	1.0	j aa w^
+แฟ้ม	1.0	f xx m^ 
+อินพุท	1.0	z i n^ ph u t^
+เอ้าท์พุท	 1.0	z a w^ ph u t^
+ไดร์ฟเวอร์	1.0	dr a j^ w qq 
+เฉพาะ	1.0	ch a  ph @ 
+ตนเอง	1.0	t o n^ z ee ng^ 
+ทราบ	1.0	s aa p^
+กัน	1.0	k a n^
+จานสายอากาศ	1.0	c aa n^ s aa j^ z aa  k aa t^
+ทึบ	1.0	th v p^
+ระยะทาง	1.0	r a  j a  th aa ng^
+ดาวเทียม	1.0	d aa w^ th iia m^
+สถานี	1.0	s a  th aa  n ii 
+สัญญาณ	1.0	s a n^ j aa n^
+พื้นดิน	1.0	ph vv n^ d i n^ 
+ดังนั้น	1.0	d a ng^ n a n^
+ศูนย์กลาง	1.0	s uu n^ kl aa ng^
+เดียวกัน	1.0	d iia w^ k a n^
+ต่าง	1.0	t aa ng^
+เหตุผล	1.0	h ee t^ ph o n^
+แนวทาง	1.0	n xx w^ th aa ng^
+ทฤษฎี	1.0	thr i t^ s a  d ii  
+รวม	1.0	r uua m^
+ทั้งหมด	1.0	th a ng^ m o t^
+ขยาย	1.0	kh a  j aa j^
+ลดลง	1.0	l o t^ l o ng^
+เป็น	 1.0	p e n^
+ยอมรับ	1.0	j @@ m^ r a p^
+สมการ	 1.0	s a  m a  k aa n^
+ผล	 1.0	ph o n^
+ข้างล่าง	1.0	kh aa ng^ l aa ng^
+นี้	1.0	n ii  
+เปรียบเทียบ	1.0	pr iia p^ th iia p^
+ขนาด	 1.0	kh a  n aa t^
+ตะแกรง	1.0	t a  kr xx ng^
+ขนาด	1.0	kh a  n aa t^ 
+ใกล้เคียง	1.0	kl a j^ kh iia ng^
+เพียง	1.0	ph iia ng^
+เส้นลวดตัวนำ	1.0	s e n^ l uua t^ t uua  n a m^
+ลวดทองแดง	1.0	l uua t^ th @@ ng^ d xx ng^
+เส้นผ่าศูนย์กลาง	1.0	s e n^ ph aa  s uu n^ kl aa ng^
+1.3	1.0	n v ng^ c u t^ s aa m^
+มม.	1.0	m i n^ l i  m ee t^
+0.65	1.0	s uu n^ c u t^ h o k^ h aa  
+เท่านั้น	1.0	th a w^ n a n^ 
+สังเคราะห์	1.0	s a ng^ khr @ 
+ย่าน	1.0	j aa n^
+ยูเอชเอฟ	1.0	j uu  z ee ch^ z ee f^ 
+ชนินทร์	1.0	ch a  n i n^
+วงศ์งามขำ	1.0	w o ng^ ng aa m^ kh a m^
+คณะ	1.0	kh a  n a  
+เครื่องรับวิทยุ	1.0	khr vva ng^ r a p^ w i t^ th a  j u 
+สื่อสาร	1.0	s vv  s aa n^
+คมนาคม	1.0	kh a  m a  n aa  kh o m^
+ผ่าน	1.0	ph aa n^
+ยูเอชเอฟ	1.0	j uu  z ee ch^ z ee f^
+นับวัน	1.0	n a p^ w a n^
+มากขึ้น	1.0	m aa k^ kh v n^ 
+ทำให้	1.0	th a m^ h a j^
+วิทยุ	1.0	w i t^ th a  j u 
+โทรคมนาคม	 1.0	th oo  r a  kh a  m a  n aa  kh o m^
+หลาย	1.0	l aa j^
+เช่น	1.0	ch e n^
+วิทยุโทรทัศน์	1.0	w i t^ th a  j u th oo  r a  th a t^
+เซลลูล่าร์	1.0	s e w^ l uu  l aa 
+วิทยุตามตัว	1.0	w i t^ th a  j u  t aa m^ t uua 
+ฯลฯ	1.0	l x  z vv n^ z vv n^
+มุ่ง	1.0	m u ng^
+บล๊อกไดอะแกรม	1.0	bl @ k^ d a j^ z a  kr x m^
+ฮาร์ดแวร์	1.0	h aa t^ w xx 
+สังเคราะห์	 1.0	s a ng^ khr @ 
+ความถี่	1.0	khw aa m^ th ii  
+รูป	 1.0	r uu p^
+ถึง	1.0	th v ng^
+ลักษณะ	1.0	l a k^ s a  n a 
+โหมด	1.0	m oo t^
+หน้าปัทม์	1.0	n aa  p a t^ 
+ภายใน	1.0	ph aa j^ n a j^
+ใน	 1.0	n a j^
+3	1.0	s aa m^ 
+หลัก	1.0	l a k^
+กะพริบ	1.0	k a  phr i p^
+เลื่อน	1.0	l vva n^
+โฟลวชาร์ท	1.0	fl oo w^ ch aa t^
+หลัก	 1.0	l a k^ 
+ตรวจสอบ	1.0	tr uua t^ s @@ p^
+กด	1.0	k o t^
+คีย์บอร์ด	1.0	kh ii  b @@ t^ 
+ประเทศ	1.0	pr a  th ee t^
+ดิจิตอล	1.0	d i  c i  t @ n^
+บริการ	1.0	b @@  r i  k aa n^
+อย่างยิ่ง	1.0	j aa ng^ j i ng^ 
+ชูชาติ	1.0	ch uu  ch aa t^
+ปิติปัญญาวงศ์	1.0	p i  t i  p a n^ j aa  w o ng^ 
+กระบวนการ	1.0	kr a  b uua n^ k aa n^
+แผ่นวงจรพิมพ์	1.0	ph x n^ w o ng^ c @@ n^ ph i m^
+ทรูโฮล	 1.0	thr uu  h oo w^
+ขั้นตอน	1.0	kh a n^ t @@ n^
+ชุบ	1.0	ch u p^
+ดัง	1.0	d a ng^
+แผนภาพ	1.0	ph xx n^ ph aa p^
+ภาคตัดขวาง	1.0	ph aa k^ t a t^ khw aa ng^
+รูเจาะ	1.0	r uu  c @  
+ตรวจ	1.0	tr uua t^
+โอกาส	1.0	z oo  k aa t^
+ถูก	1.0	th uu k^
+มากกว่า	1.0	m aa k^ kw aa  
+จับผิด	1.0	c a p^ ph i t^ 
+เบลอ	1.0	bl qq 
+ลบ	1.0	l o p^
+สมชัย	1.0	s o m^ ch a j^
+ฤชุพันธุ์	1.0	r v  ch u  ph a n^
+กรรมการ	1.0	k a m^ m a  k aa n^ 
+ฐานข้อมูล	1.0	th aa n^ kh @@  m uu n^
+พจนานุกรม	1.0	ph o t^ c a  n aa  n u  kr o m^
+ไทย	1.0	th a j^
+ทรัย	 1.0	thr a j^
+แถว	1.0	th x w^
+ดรรชนี	1.0	d a t^ ch a  n ii 
+197	1.0	n v ng^ r @@ j^ k aa w^ s i p^ c e t^ 
+โยธิน	1.0	j oo  th i n^
+เปรมปราณีรัชต์	1.0	pr ee m^ pr aa  n ii  r a t^ 
+ข้อมูล	1.0	kh @@  m uu n^ 
+บ่อยครั้ง	1.0	b @ j^ khr a ng^
+วิเคราะห์	1.0	w i  khr @ 
+นิยม	1.0	n i  j o m^
+แพร่หลาย	1.0	phr xx  l aa j^
+นักวิจัย	1.0	n a k^ w i  c a j^ 
+สถิติ	1.0	s a  th i  t i 
+เครื่องไมโครคอมพิวเตอร์	1.0	khr vva ng^ m a j^ khr oo  kh @ m^ ph i w^ t qq  
+เครื่องไมโครคอมพิวเตอร์	1.0	khr vva ng^ m a j^ khr oo  kh @ m^ ph i w^ t qq 
+พร้อม	1.0	phr @@ m^
+เครื่องพิมพ์	1.0	khr vva ng^ ph i m^ 
+คำนวณ	1.0	kh a m^ n uua n^
+เกี่ยวกับ	1.0	k iia w^ k a p^
+ตัวแปร	1.0	t uua  pr xx 
+เดียว	1.0	d iia w^
+ทั่วไป	1.0	th uua  p a j^
+ความ	1.0	khw aa m^ th ii 
+ถี่	1.0	c aa k^
+จาก	1.0	khr vva ng^ w a t^
+เครื่องวัด	1.0	kh a w^
+เข้า	1.0	m aa 
+มา	1.0	s a  d xx ng^
+แสดง	1.0	p e n^
+เป็น	1.0	kr aa f^
+กราฟ	1.0	b o n^
+บน	1.0	c @@ 
+จอมอนิเตอร์	1.0	m @@  n i  t qq  
+อุปกรณ์	1.0	z u  p a  k @@ n^
+อินเตอร์เฟอโรมิเตอร์	1.0	z i n^ t qq  f qq  r oo  m i  t qq  
+สัมประสิทธิ์	1.0	s a m^ pr a  s i t^
+แปรเปลี่ยน	1.0	pr xx  pl iia n^
+ต่ำ	1.0	t a m^
+วัด	1.0	w a t^
+น้ำตาลกลูโคส	1.0	n aa m^ t aa n^ kl uu  kh oo s^
+ทาง	 1.0	th aa ng^
+เทคโนโลยีชีวภาพ	1.0	th e k^ n oo  l oo  j ii  ch ii  w a  ph aa p^
+เกรียงชัย	1.0	kr iia ng^ ch a j^
+จันทร์แสนวิไล	1.0	c a n^ s xx n^ w i  l a j^ 
+นิแวเต๊ะ	1.0	n i  w xx  t e 
+หะยีวามิง	1.0	h a  j ii  w aa  m i ng^ 
+คุณสมบัติ	1.0	kh u n^ n a  s o m^ b a t^
+เทคนิค	1.0	th e k^ n i k^
+นำเสนอ	1.0	n a m^ s a  n qq 
+บทเรียน	 1.0	b o t^ r iia n^
+หัวข้อ	1.0	h uua  kh @@ 
+เฟรม	1.0	fr ee m^
+คล้าย	1.0	khl aa j^
+ฉาย	1.0	ch aa j^
+สไลด์	1.0	s a  l a j^ 
+พอ	 1.0	ph @@ 
+สังเขป	1.0	s a ng^ kh ee p^
+โปรแกรม	 1.0	pr oo  kr xx m^ 
+รวมถึง	1.0	r uua m^ th v ng^
+ให้	 1.0	h a j^
+สอดคล้อง	 1.0	s @@ t^ khl @@ ng^
+พื้นฐาน	1.0	ph vv n^ th aa n^
+ไมโครคอนโทรเลอร	1.0	m a j^ khr oo  kh @ n^ th oo  l qq 
+์เบอร์	1.0	b qq 
+8096	1.0	p xx t^ ph a n^ k aa w^ s i p^ h o k^ 
+เนื้อหา	1.0	n vva  h aa 
+สรุป	1.0	s a  r u p^
+ดังนี้	1.0	d a ng^ n ii 
+บทเรียน	1.0	b o t^ r iia n^
+ปฏิบัติ	1.0	p a  t i  b a t^ 
+คู่มือ	1.0	kh uu  m vv 
+ฝึกสอน	1.0	f v k^ s @@ n^
+พัฒนา	1.0	ph a t^ th a  n aa  
+ปฏิบัติ	1.0	p a  t i  b a t^
+กล่าว	1.0	kl aa w^
+3.1	1.0	s aa m^ c u t^ n v ng^
+3.2	1.0	s aa m^ c u t^ s @@ ng^
+วิธีใช้	1.0	w i  th ii  ch a j^
+อีกด้วย	1.0	z ii k^ d uua j^ 
+ชุดฝึกสอน	1.0	ch u t^ f v k^ s @@ n^
+ไมโครคอนโทรเลอร์	1.0	m a j^ khr oo  kh @ n^ thr oo  l qq 
+16	1.0	s i p^ h o k^
+บิท	1.0	b i t^
+ระยะ	1.0	r a  j a 
+ดำเนินการ	1.0	d a m^ n qq n^ k aa n^
+จน	1.0	c o n^
+เกือบ	1.0	k vva p^
+เสร็จ	1.0	s e t^
+ผู้วิจัย	1.0	ph uu  w i  c a j^
+ตั้งใจ	1.0	t a ng^ c a j^
+ต่อเนื่อง	1.0	t @@  n vva ng^ 
+ผลผลิต	1.0	ph o n^ ph a  l i t^
+ตระกูล	1.0	tr a  k uu n^
+ต่อไป	1.0	t @@  p a j^ 
+อนุเคราะห์	1.0	z a  n u  khr @ 
+อาคาร	 1.0	z aa  kh aa n^
+สถานที่	1.0	s a  th aa n^
+และ	1.0	th ii 
+เครื่องมือ	1.0	l x  khr vva ng^ m vv 
+วิศวกรรมศาสตร์	1.0	w i t^ s a  w a  k a m^ m a  s aa t^
+มหาวิทยาลัยเชียงใหม่	1.0	m a  h aa  w i t^ th a  j aa  l a j^ ch iia ng^ m a j^ 
+เอกสารอ้างอิง	1.0	z ee k^ k a  s aa n^ z aa ng^ z i ng^ 
+ตัวอย่าง	1.0	t uua  j aa ng^
+บน	1.0	b o n^
+เชื่อมต่อ	1.0	ch vva m^ t @@ 
+จุด	1.0	c u t^
+ต่อไปนี้	1.0	t @@  p a j^ n ii 
+กล่าวถึง	1.0	kl aa w^ th v ng^
+เสียง	1.0	s iia ng^
+พีซีเอ็ม	1.0	ph ii  s ii  z e m^ 
+ส่วนประกอบ	1.0	s uua n^ pr a  k @@ p^
+เครื่องส่ง	1.0	khr vva ng^ s o ng^
+เครื่องรับ	1.0	khr vva ng^ r a p^
+ไอเพล็กเซอร์	1.0	z a j^ phl e k^ s qq 
+พ่วง	1.0	ph uua ng^
+อื่นๆ	1.0	z vv n^ z vv n^ 
+งาน	1.0	ng aa n^
+ขั้นต้น	1.0	kh a n^ t o n^ 
+รายงาน	1.0	r aa j^ ng aa n^
+กล่าวถึง	1.0	kl aa w^
+การ	1.0	th v ng^
+ออกแบบ	1.0	k aa n^ z @@ k^ b xx p^
+โดยส่วนรวม	1.0	d oo j^ s uua n^ r uua m^ 
+ฉบับ	 1.0	ch a  b a p^
+ต่างๆ	1.0	t aa ng^ t aa ng^ 
+หลังจาก	1.0	l a ng^ c aa k^
+ดำเนิน	1.0	d a m^ n qq n^
+กรรมวิธี	1.0	k a m^ m a  w i  th ii 
+พีซีเอ็ม	1.0	ph ii  s ii  z e m^
+ผสม	1.0	ph a  s o m^
+ไอเอฟ	1.0	z a j^ z ee f^ 
+บล๊อคไดอะแกรม	1.0	bl @ k^ d a j^ z a  kr x m^
+เครื่องส่งวิทยุ	1.0	khr vva ng^ s o ng^ w i t^ th a  j u 
+แบ่ง	1.0	b x ng^
+1.2	1.0	n v ng^ c u t^ s @@ ng^
+วงจรไดอะแกรม	1.0	w o ng^ c @@ n^ d a j^ z a  kr xx m^
+โปรเซส	1.0	pr oo  s ee t^
+สัญญาณเบสแบนด์	1.0	s a n^ j aa n^ b ee t^ b xx n^ 
+เฟส	1.0	f ee t^
+ลอจิก	1.0	l @@  c i k^
+เสมอ	1.0	s a  m qq  
+ดึง	1.0	d v ng^
+เอา	1.0	z a w^
+นาฬิกา	1.0	n aa  l i  k aa 
+ออกมา	1.0	z @@ k^ m aa  
+อนุกรม	1.0	z a  n u  kr o m^
+ขนาน	1.0	kh a  n aa n^ 
+ไดอะแกรม	1.0	d a j^ z a  kr xx m^
+ทั้งสอง	1.0	th a ng^ s @@ ng^
+90	1.0	k aa w^ s i p^
+องศา	1.0	z o ng^ s aa  
+ภาคผสมสัญญาณ	1.0	ph aa k^ ph a  s o m^ s a n^ j aa n^
+คลื่นพาห์	1.0	khl vv n^ ph aa  
+2.5	1.0	s @@ ng^ c u t^ h aa  
+หาร	1.0	h aa n^
+วีซีโอ	1.0	w ii  s ii  z oo 
+เท่า	1.0	th a w^
+ไอเอฟ	1.0	z a j^ z ee f^
+ลดทอน	1.0	l o t^ th @@ n^
+สูง	1.0	s uu ng^
+ปรับ	1.0	pr a p^
+ดิจิตอล	1.0	d i  c i  t @ n^ 
+ระดับ	1.0	r a  d a p^
+กำลังส่ง	1.0	k a m^ l a ng^ s o ng^
+20	1.0	j ii  s i p^
+ดีบี	1.0	d ii  b ii  
+2.6	1.0	s @@ ng^ c u t^ h o k^
+อีก	1.0	z ii k^
+ปลาย	1.0	pl aa j^
+สายอากาศ	1.0	s aa j^ z aa  k aa t^
+ไดเพล็กเซอร์	1.0	d a j^ phl e k^ s qq  
+เช่นเดียว	1.0	ch e n^ d iia w^
+เครื่องส่ง	1.0	khr vva ng^ s o ng^ 
+อิมเมจ	1.0	z i m^ m ee t^
+กำจัด	1.0	k a m^ c a t^
+มิกเซอร์	1.0	m i k^ s qq 
+ดีมอดูเลท	1.0	d ii  m @@  d uu  l ee t^
+ซิงโครนัส	1.0	s i ng^ khr oo  n a t^ 
+ไดเพล็กเซอร์	1.0	d a j^ phl e k^ s qq 
+ออกอากาศ	1.0	z @@ k^ z aa  k aa t^
+สายอากาศ	1.0	s aa j^ z aa  k aa t^ 
+งานวิจัย	1.0	ng aa n^ w i  c a j^
+ขณะ	1.0	kh a  n a 
+จัดซื้อ	1.0	c a t^ s vv 
+วัสดุ	1.0	w a t^ s a  d u 
+วิจัย	1.0	w i  c a j^ 
+จำเป็น	1.0	c a m^ p e n^
+สั่งซื้อ	1.0	s a ng^ s vv 
+ต่างประเทศ	1.0	t aa ng^ pr a  th ee t^ 
+พิเชษฐ	1.0	ph i  ch ee t^
+ลิ้มสุวรรณ	1.0	l i m^ s u  w a n^ 
+วัตถุประสงค์	1.0	w a t^ th u  pr a  s o ng^
+เครื่องฮีเลียมนีออนเลเซอร์	1.0	khr vva ng^ h ii  l iia m^ n ii  z @@ n^ l ee  s qq 
+ตรง	1.0	tr o ng^
+หน่วย	1.0	n uua j^
+สลับ	1.0	s a  l a p^
+คู่สาย	1.0	kh uu  s aa j^
+โทรศัพท์	1.0	th oo  r a  s a p^
+ส่ง	1.0	s o ng^
+ดิจิตอล	1.0	d i  c i  t @ l
+ไทยสาร	1.0	th a j^ s aa n^
+แพทย์	1.0	ph xx t^
+ประวัติ	1.0	pr a  w a t^
+เก่า	1.0	k a w^
+ดู	1.0	d uu  
+แปลง	1.0	pl xx ng^
+ข้อความ	1.0	kh @@  khw aa m^
+ระบบ	1.0	r a  b o p^ 
+ป้อน	1.0	p @@ n^
+หน้าจอ	1.0	n aa  c @@ 
+หน่วยรังสีรักษา	1.0	n uua j^ r a ng^ s ii  r a k^ s aa 
+จนถึง	1.0	c o n^ th v ng^
+หน้าจอ	1.0	n aa  c @@  
+ย่อย	1.0	j @ j^
+เจ้าหน้าที่	1.0	c a w^ n aa  th ii 
+ลอง	1.0	l @@ ng^
+ภายหลัง	1.0	ph aa j^ l a ng^
+ประจำ	1.0	pr a  c a m^
+เครือข่าย	1.0	khr vva  kh aa j^ 
+หลังจากนั้น	1.0	l a ng^ c aa k^ n a n^
+ทุกคน	1.0	th u k^ kh o n^
+เรียก	1.0	r iia k^
+เอง	 1.0	z ee ng^ 
+ข้อผิดพลาด	1.0	kh @@  ph i t^ phl aa t^
+ไม่ได้	1.0	m a j^ d aa j^
+กรอก	1.0	kr @@ k^
+รักษา	1.0	r a k^ s aa  
+หาก	1.0	h aa k^
+หลงลืม	1.0	l o ng^ l vv m^ 
+อบรม	1.0	z o p^ r o m^
+ผู้เกี่ยวข้อง	1.0	ph uu  k iia w^ kh @ ng^
+จุดสำคัญ	1.0	c u t^ s a m^ kh a n^
+ถ่องแท้	1.0	th @ ng^ th xx  
+ตอบสนอง	1.0	t @@ p^ s a  n @@ ng^
+สูงสุด	1.0	s uu ng^ s u t^ 
+ใหม่	1.0	m a j^
+อีกทั้ง	1.0	z ii k^ th a ng^
+ปรับปรุง	1.0	pr a p^ pr u ng^
+ข้อบกพร่อง	1.0	kh @@  b o k^ phr @ ng^
+สมบูรณ์	1.0	s o m^ b uu n^
+ยิ่งขึ้น	1.0	j i ng^ kh v n^
+ตก	1.0	t o k^
+กระทบ	1.0	kr a  th o p^
+รังสี	1.0	r a ng^ s ii 
+เซ็นเซอร์	1.0	s e n^ s qq 
+เรียง	1.0	r iia ng^
+แนว	1.0	n xx w^
+เส้นตรง	1.0	s e n^ tr o ng^
+ห่าง	1.0	h aa ng^
+เท่าๆ	1.0	th a w^ th a w^
+เรียกว่า	1.0	r iia k^ w aa 
+หนึ่ง	1.0	n v ng^
+โปรเจคชัน	1.0	pr oo  c e k^ ch a n^ 
+ถ่ายภาพ	1.0	th aa j^ ph aa p^
+สมอง	1.0	s a  m @@ ng^
+มนุษย์	1.0	m a  n u t^ 
+ภาพตัดขวาง	1.0	ph aa p^ t a t^ khw aa ng^
+แตกต่าง	1.0	t xx k^ t aa ng^
+เนื้อเยื่อ	1.0	n vva  j vva 
+อวัยวะ	1.0	z a  w a j^ j a  w a 
+ดูดซับ	1.0	d uu t^ s a p^
+รังสีเอ็กซ์	1.0	r a ng^ s ii  z e k^
+จุดมุ่งหมาย	1.0	c u t^ m u ng^ m aa j^
+ต้นแบบ	1.0	t o n^ b xx p^
+มนุษย์	1.0	m a  n u t^
+จริง	1.0	c i ng^
+คุณภาพ	1.0	kh u n^ n a  ph aa p^
+โรงพยาบาล	1.0	r oo ng^ ph a  j aa  b aa n^ 
+คำสั่ง	1.0	kh a m^ s a ng^
+ส่วนหนึ่ง	1.0	s uua n^ n v ng^
+เกรง	1.0	kr ee ng^
+ประสบ	1.0	pr a  s o p^
+ขาดแคลน	1.0	kh aa t^ khl xx n^
+บุคคลากร	1.0	b u k^ kh a  l aa  k @@ n^
+สามารถ	1.0	s aa  m aa t^ 
+พล๊อต	1.0	phl @ t^
+วิเคราะห์	1.0	w i  khr @  
+ยิ่ง	1.0	j i ng^
+เล็ก	1.0	l e k^
+เท่าไร	1.0	th a w^ r a j^
+เกร็งตัว	1.0	kr e ng^ t uua 
+เพิ่ม	1.0	ph qq m^
+ตัวตรวจจับ	1.0	t uua  tr uua t^ c a p^
+เปียโชอิเล็คตริก	1.0	p iia  ch oo  z i  l e k^ tr i k^
+มา	 1.0	m aa 
+ประมวล	1.0	pr a  m uua n^
+ฝึก	1.0	f v k^
+เครื่องกลึง	1.0	khr vva ng^ kl v ng^
+ซีเอ็นซี	1.0	s ii  z e n^ s ii  
+เบรก	1.0	br ee k^
+หยุด	1.0	j u t^
+เก็บ	1.0	k e p^
+สัญลักษณ์	1.0	s a n^ j a  l a k^
+ภาษาไทย	1.0	ph aa  s aa  th a j^
+ภาษาอังกฤษ	1.0	ph aa  s aa  z a ng^ kr i t^
+บล็อก	1.0	bl @ k^
+กราฟิก	1.0	kr aa f^ f i k^ 
+เวลา	1.0	w ee  l aa 
+ข้อสอบ	1.0	kh @@  s @@ p^ 
+อากาศ	1.0	z aa  k aa t^
+อัตโนมัติ	1.0	z a t^ t a  n oo  m a t^ 
+ราคา	1.0	r aa  kh aa 
+กลับ	1.0	kl a p^
+โดยเฉพาะ	1.0	d oo j^ ch a  ph @ 
+อย่างยิ่ง	1.0	j aa ng^ j i ng^
+เรียน	1.0	r iia n^
+ตนเอง	1.0	t o n^ z ee ng^
+เอกสาร	1.0	z ee k^ k a  s aa n^
+วิดีโอ	1.0	w ii  d ii  z oo 
+กลายเป็น	1.0	kl aa j^ p e n^
+โต้ตอบ	1.0	t oo  t @@ p^
+เข้าใจผิด	1.0	kh a w^ c a j^ ph i t^
+ถิ่นอาศัย	1.0	th i n^ z aa  s a j^
+แพร่กระจาย	1.0	phr xx  kr a  c aa j^
+ชีวประวัติ	1.0	ch ii  w a  pr a  w a t^
+เพาะเลี้ยง	1.0	ph @  l iia ng^
+ปลา	1.0	pl aa  
+สืบค้น	1.0	s vv p^ kh o n^
+สะดวก	1.0	s a  d uua k^
+ชนิด	1.0	ch a  n i t^
+พ้อง	1.0	ph @@ ng^
+นักวิชาการ	1.0	n a k^ w i  ch aa  k aa n^
+ท่าน	1.0	th a n^
+ผนวก	1.0	ph a  n uua k^
+สอบถาม	1.0	s @@ p^ th aa m^
+แสดงผล	1.0	s a  d xx ng^ ph o n^
+ทั้งนี้	1.0	th a ng^ n ii 
+ลง	 1.0	l o ng^
+ช่องว่าง	1.0	ch @ ng^ w aa ng^
+เพิ่มเติม	1.0	ph qq m^ t qq m^
+อย่างใด	1.0	j aa ng^ d a j^ 
+พยายาม	1.0	ph a  j aa  j aa m^
+ฮาร์ดดิสต์	1.0	h aa t^ d i t^
+อย่างต่ำ	1.0	j aa ng^ t a m^
+เพียงแต่	1.0	ph iia ng^ t xx 
+ทำงาน	1.0	th a m^ ng aa n^ 
+สวยงาม	1.0	s uua j^ ng aa m^
+คมชัด	1.0	kh o m^ ch a t^
+บ้าง	1.0	b aa ng^
+ขีด	1.0	kh ii t^
+รายการ	1.0	r aa j^ k aa n^
+เมนู	 1.0	m ee  n uu 
+ปรากฏ	1.0	pr aa  k o t^
+ค้น	1.0	kh o n^
+ประเภท	1.0	pr a  ph ee t^
+ปรุงอาหาร	1.0	pr u ng^ z aa  h aa n^ 
+1 	1.0	n v ng^
+อนุกรมวิธาน	1.0	z a  n u  kr o m^ w i  th aa n^
+2 	1.0	s @@ ng^
+3 	1.0	s aa m^
+4 	1.0	s ii 
+5 	1.0	h aa 
+ยิ่งขึ้น	1.0	j i ng^ kh v n^ 
+เพาะเลี้ยง	1.0	ph @  l iia ng^ 
+กระจาย	1.0	kr a  c aa j^
+คลื่น	1.0	khl vv n^
+5	1.0	h aa  
+แบบแปลน	1.0	b xx p^ pl x n^
+แคสซิเกรน	1.0	kh x t^ s i  kr ee n^
+เซนติเมตร	1.0	s e n^ t i  m ee t^ 
+จำหน่าย	1.0	c a m^ n aa j^
+ยุโรป	1.0	j u  r oo p^ 
+ส่งเสริม	1.0	s o ng^ s qq m^
+ขาย	1.0	kh aa j^
+ตลาด	1.0	t a  l aa t^
+แผ่นวงจร	1.0	ph x n^ w o ng^ c @@ n^
+เสียงพูด	1.0	s iia ng^ ph uu t^
+หน่วยความจำ	1.0	n uua j^ khw aa m^ c a m^ 
+กระแสไฟฟ้า	1.0	kr a  s xx  f a j^ f aa 
+สัญญาณเตือน	1.0	s a n^ j aa n^ t vva n^
+เตือน	1.0	t vva n^
+เกิดขึ้น	1.0	k qq t^ kh v n^ 
+วิลาศ	1.0	w i  l aa t^
+วูวงศ์	1.0	w uu  w o ng^ 
+พร้อมๆ	1.0	phr @@ m^ phr @@ m^
+รูปแบบ	1.0	r uu p^ b xx p^
+เครื่องกัด	1.0	khr vva ng^ k a t^
+แนวดิ่ง	1.0	n xx w^ d i ng^
+ซีเอ็นซี	1.0	s ii  z e n^ s ii 
+ชุดฝึก	1.0	ch u t^ f v k^
+กองวิทยาลัยเทคนิค	1.0	k @@ ng^ w i t^ th a  j aa  l a j^ th e k^ n i k^ 
+เทียบ	1.0	th iia p^
+ต่างประเทศ	1.0	t aa ng^ pr a  th ee t^
+ประมาณ	1.0	pr a  m aa n^
+40	1.0	s ii  s i p^
+50	1.0	h aa  s i p^ 
+สมมติ	1.0	s o m^ m o t^ t i 
+เรื่อยๆ	1.0	r vva j^ r vva j^ 
+ดิสชาร์จ	1.0	d i s^ ch aa t^
+สม่ำเสมอ	1.0	s a  m a m^ s a  m qq  
+ระบบขับเคลื่อน	1.0	r a  b o p^ kh a p^ khl vva n^
+แนวแกน	1.0	n xx w^ k xx n^
+ดีซีเซอร์โวมอเตอร์	1.0	d ii  s ii  s qq  w oo  m @@  t qq  
+สมการ	1.0	s a  m a  k aa n^
+ทรานเฟอร์ฟังชันก์	1.0	thr aa n^ f qq  f a ng^ ch a n^
+เปิด	1.0	p qq t^
+ลูป	1.0	l uu p^
+เศษ	1.0	s ee t^
+อาหาร	1.0	z aa  h aa n^
+ใบตอง	1.0	b a j^ t @@ ng^
+ถุงพลาสติก	1.0	th u ng^ phl aa s^ s a  t i k^
+กิ่งไม้	1.0	k i ng^ m aa j^
+ใบไม้แห้ง	1.0	b a j^ m aa j^ h xx ng^
+หลอดไฟฟ้า	1.0	l @@ t^ f a j^ f aa 
+หักพัง	1.0	h a k^ ph a ng^
+โลหะ	1.0	l oo  h a 
+แก้ว	1.0	k xx w^
+มากมาย	1.0	m aa k^ m aa j^
+อาการ	1.0	z aa  k aa n^
+ผิดปกติ	1.0	ph i t^ p a  k a  t i 
+ประสาท	1.0	pr a  s aa t^
+เพ้อ	1.0	ph qq 
+คลั่ง	1.0	khl a ng^
+ชัก	1.0	ch a k^ 
+ปวด	1.0	p uua t^
+กระดูก	1.0	kr a  d uu k^
+เปราะ	1.0	pr @  
+กัดกร่อน	1.0	k a t^ kr @ n^
+เสียหาย	1.0	s iia  h aa j^
+วัสดุ	1.0	w a t^ s a  d u  
+ของเสีย	1.0	kh @@ ng^ s iia 
+อันตราย	1.0	z a n^ t a  r aa j^
+ชนิด	1.0	ch a  n i t^ 
+ทรง	1.0	s o ng^
+กรด	1.0	kr o t^
+ควร	1.0	kh uua n^
+ไว้	1.0	w a j^
+ภาชนะ	1.0	ph aa  ch a  n a 
+ด่าง	1.0	d aa ng^
+สารติดไฟ	1.0	s aa n^ t i t^ f a j^
+โพแทสเซียม	1.0	ph oo  th x t^ s iia m^
+คลอรีน	1.0	khl @@  r ii n^
+แอลกอฮอล์	1.0	z xx n^ k @@  h @@ 
+ฝัง	1.0	f a ng^
+อนึ่ง	1.0	z a  n v ng^
+กดดัน	1.0	k o t^ d a n^
+ก๊าซ	1.0	k aa t^
+ไอ	1.0	z a j^
+บีบ	1.0	b ii p^
+ปริมาตร	1.0	p a  r i  m aa t^
+เรื่อย	1.0	r vva j^
+ร้อน	1.0	r @@ n^
+ธาตุ	1.0	th aa t^
+ไฮโดรเจน	1.0	h a j^ dr oo  c e n^
+ส่วนใหญ่	1.0	s uua n^ j a j^ 
+คลื่นแสง	1.0	khl vv n^ s xx ng^
+ชัดเจน	1.0	ch a t^ c ee n^
+พิเศษ	1.0	ph i  s ee t^ 
+ตรงกลาง	1.0	tr o ng^ kl aa ng^
+ดอกดวง	1.0	d @@ k^ d uua ng^
+เนื้อสาร	1.0	n vva  s aa n^
+พลุ่ง	1.0	phl u ng^
+ขึ้นมา	1.0	kh v n^ m aa 
+ความเร็ว	1.0	khw aa m^ r e w^
+เฉลี่ย	1.0	ch a  l iia 
+900	1.0	k aa w^ r @@ j^
+เมตร	1.0	m ee t^
+กลุ่ม	1.0	kl u m^
+แฟคิวเล	1.0	f xx  kh i w^ l ee  
+โฟโตสเฟียร์	1.0	f oo  t oo t^ f iia 
+สว่าง	1.0	s a  w aa ng^
+นก	1.0	n o k^
+เดินทาง	1.0	d qq n^ th aa ng^
+เก่ง	1.0	k e ng^
+ที่สุด	1.0	th ii  s u t^
+นางนวลแกลบ	1.0	n aa ng^ n uua n^ kl xx p^
+ขั้วโลกเหนือ	1.0	kh uua  l oo k^ n vva  
+ปาก	1.0	p aa k^
+แหลม	1.0	l xx m^
+โดยมาก	1.0	d oo j^ m aa k^
+มัก	1.0	m a k^
+อาศัย	1.0	z aa  s a j^
+นอน	1.0	n @@ n^
+ทะเล	1.0	th a  l ee 
+ริม	1.0	r i m^
+ฝั่ง	1.0	f a ng^
+พวก	1.0	ph uua k^
+น้ำตาล	1.0	n aa m^ t aa n^
+อม	1.0	z o m^
+เทา	1.0	th a w^
+ทึมๆ	1.0	th v m^ th v m^ 
+พัง	1.0	ph a ng^
+ลงมา	1.0	l o ng^ m aa 
+บิน	1.0	b i n^
+ถลา	1.0	th a  l aa 
+พึบพับ	1.0	ph v p^ ph a p^
+อ้วน	1.0	z uua n^
+แบน	1.0	b xx n^
+กว้าง	1.0	kw aa ng^
+ตัวเมีย	1.0	t uua  m iia 
+หาเลี้ยง	1.0	h aa  l iia ng^ 
+อุดอู้	1.0	z u t^ z uu 
+โพรง	1.0	phr oo ng^ 
+งอ	1.0	ng @@ 
+โค้ง	1.0	kh oo ng^
+ไล่	1.0	l a j^
+จับ	1.0	c a p^
+แมลง	1.0	m a  l xx ng^ 
+โพระดก	1.0	h oo  r a  d o k^
+โประดก	1.0	p oo  r a  d o k^ 
+กางเขน	1.0	k aa ng^ kh ee n^ 
+ชอบ	1.0	ch @@ p^
+กิน	1.0	k i n^
+ผลไม้	1.0	ph o n^ l a  m aa j^
+สุก	1.0	s u k^
+เละๆ	1.0	l e  l e  
+ร้องเพลง	1.0	r @@ ng^ phl ee ng^
+เท่าที่	1.0	th a w^ th ii 
+ข้างต้น	1.0	kh aa ng^ t o n^
+จำแนก	1.0	c a m^ n xx k^
+สัตวศาสตร์	1.0	s a t^ t a  w a  s aa t^
+สากล	1.0	s aa  k o n^ 
+คง	1.0	kh o ng^
+ปล่อย	1.0	pl @ j^
+เลอะเทอะ	1.0	l q  th q 
+กลิ่น	1.0	kl i n^
+ตัวผู้	1.0	t uua  ph uu  
+ซุก	1.0	s u k^
+เงียบๆ	1.0	ng iia p^ ng iia p^
+มุม	1.0	m u m^
+กรง	1.0	kr o ng^ 
+ตอน	1.0	t @@ n^
+เช้าตรู่	1.0	ch aa w^ tr uu 
+เริ่ม	1.0	r qq m^
+สว่าง	1.0	s a  w aa ng^ 
+กลางแจ้ง	1.0	kl aa ng^ c xx ng^
+ดวงอาทิตย์	1.0	d uua ng^ z aa  th i t^ 
+เงา	1.0	ng a w^
+สั้น	1.0	s a n^
+ที่สุด	1.0	th ii  s u t^ 
+ขณะที่	1.0	kh a  n a  th ii 
+เขา	1.0	kh a w^
+ท่องเที่ยว	1.0	th @ ng^ th iia w^
+ภูมิประเทศ	1.0	ph uu  m i  pr a  th ee t^
+สปริง	1.0	s a  pr i ng^
+เสวยราชย์	1.0	s a  w qq j^ r aa t^
+มหาอาณาจักร	1.0	m a  h aa  z aa  n aa  c a k^
+ฟากฟ้า	1.0	f aa k^ f aa  
+ยกเลิก	1.0	j o k^ l qq k^
+ชั่วโมง	1.0	ch uua  m oo ng^
+รุ่งอรุณ	1.0	r u ng^ z a  r u n^
+โพล้เพล้	1.0	phl oo  phl ee  
+พฤษภาคม	1.0	phr v t^ s a  ph aa  kh o m^
+ดวงอาทิตย์	1.0	d uua ng^ z aa  th i t^
+ราศี	1.0	r aa  s ii 
+พฤษภ	1.0	phr v  s o p^
+ความรู้	1.0	khw aa m^ r uu 
+นักปราชญ์	1.0	n a k^ pr aa t^
+ชาวกรีก	1.0	ch aa w^ kr ii k^ 
+วงขนานลองติจูด	1.0	w o ng^ kh a  n aa n^ l @@ ng^ t i  c uu t^
+วง	1.0	w o ng^
+ได้ฉาก	1.0	d aa j^ ch aa k^
+ศูนย์สูตร	1.0	s uu n^ s uu t^
+ขั้วโลก	1.0	kh uua  l oo k^ 
+ละติจูด	1.0	l a  t i  c uu t^
+ใด	1.0	d a j^
+หลักการ	1.0	l a k^ k aa n^
+ง่ายๆ	1.0	ng aa j^ ng aa j^ 
+ใคร	1.0	khr a j^
+ลองจิจูด	1.0	l @@ ng^ c i  c uu t^ 
+ทะเลใต้	1.0	th a  l ee  t aa j^
+เกาะ	1.0	k @  
+ออสเตรเลีย	1.0	z @ s^ tr ee  l iia  
+แกว่ง	1.0	kw x ng^
+อายุ	1.0	z aa  j u 
+ดาวพระเคราะห์	1.0	d aa w^ phr a  khr @ 
+รอบ	1.0	r @@ p^
+วัน	1.0	w a n^
+เหล็ก	1.0	l e k^
+นิกเกิล	1.0	n i k^ k q n^ 
+เดิน	1.0	d qq n^
+๖	1.0	h o k^
+สัปดาห์	1.0	s a p^ d aa  
+นครลิสบอน	1.0	n a  kh @@ n^ l i s^ b @ n^
+โปรตุเกส	1.0	pr oo  t u  k ee t^
+๒๒๗๙	1.0	s @@ ng^ ph a n^ s @@ ng^ r @@ j^ c e t^ s i p^ k aa w^
+ค.ศ.	1.0	khr i t^ s a k^ k a  r aa t^
+๑๗๓๖	1.0	n v ng^ ph a n^ c e t^ r @@ j^ s aa m^ s i p^ h o k^ 
+ผู้มีชื่อ	1.0	ph uu  m ii  ch vv 
+คน	1.0	kh o n^
+ต้น	1.0	t o n^
+คริสต์ศตวรรษ	1.0	khr i t^ s a t^ t a  w a t^
+๑๙	1.0	s i p^ k aa w^
+มาตรเวลา	1.0	m aa t^ w ee  l aa 
+ทะเล	1.0	th a  l ee  
+ธรรมชาติ	1.0	th a m^ m a  ch aa t^
+ปรมาณู	1.0	p @@  r a  m aa  n uu 
+รูบิเดียม	1.0	r uu  b i  d iia m^ 
+ชาวนา	1.0	ch aa w^ n aa 
+นวด	1.0	n uua t^
+ข้าว	1.0	kh aa w^
+ควาย	1.0	khw aa j^
+แทรกเตอร์	1.0	thr x k^ t qq 
+เหยียบย่ำ	1.0	j iia p^ j a m^ 
+เคียว	1.0	kh iia w^
+กรูด	1.0	kr uu t^
+เก็บเกี่ยว	1.0	k e p^ k iia w^
+รวงข้าว	1.0	r uua ng^ kh aa w^
+ครั้ง	1.0	khr a ng^
+หลายๆ	1.0	l aa j^ l aa j^
+รวง	1.0	r uua ng^ 
+พู่	1.0	ph uu 
+หาง	1.0	h aa ng^
+กระรอก	1.0	kr a  r @@ k^ 
+เพอริคาร์พเลเยอร์	1.0	ph qq  r i  kh aa  l ee  j qq 
+ฝน	1.0	f o n^
+ล่า	1.0	l aa  
+ปลูก	1.0	pl uu k^
+ฤดู	1.0	r v  d uu 
+นาปรัง	1.0	n aa  pr a ng^ 
+กลบ	1.0	kl o p^
+ปุ๋ย	1.0	p u j^
+ไถ	1.0	th a j^
+รถแทรกเตอร์	1.0	r o t^ thr x k^ t qq 
+แอฟริกา	1.0	z x p^ fr i  k aa 
+ใต้	1.0	t aa j^
+ข้าวเจ้า	1.0	kh aa w^ c aa w^
+ปักดำ	1.0	p a k^ d a m^
+ไส้เดือนฝอย	1.0	s a j^ d vva n^ f @ j^
+มอง	1.0	m @@ ng^
+เปล่า	1.0	pl aa w^
+ต้นข้าว	1.0	t o n^ kh aa w^
+โรค	1.0	r oo k^
+ปกติ	1.0	p a  k a  t i 
+ขอบ	1.0	kh @@ p^
+พาหะ	1.0	ph aa  h a 
+เชื้อไวรัส	1.0	ch vva  w a j^ r a s^ 
+เหลือง	1.0	l vva ng^
+แกร็น	1.0	kr x n^ 
+งอ	1.0	ng @@  
+แมลง	1.0	m a  l xx ng^
+เพลี้ยกระโดด	1.0	phl iia  kr a  d oo t^
+นิลาพาร์วาทาลูเยนส์	1.0	n i  l aa  ph aa  w aa  th aa  l uu  j e n^
+พาหะ	1.0	ph aa  h a  
+แมลงบั่ว	1.0	m a  l xx ng^ b uua 
+ตัวแก่	1.0	t uua  k xx 
+ฉะนั้น	1.0	ch a  n a n^
+หนอนกอ	1.0	n @@ n^ k @@ 
+ผลิตผล	1.0	ph a  l i t^ t a  ph o n^
+๑	1.0	n v ng^
+ทำลาย	1.0	th a m^ l aa j^
+ตัวหนอน	1.0	t uua  n @@ n^
+ตอ	1.0	t @@ 
+ซัง	1.0	s a ng^
+หลัง	1.0	l a ng^
+เกี่ยว	1.0	k iia w^
+๔	1.0	s ii 
+พันธุ์	1.0	ph a n^
+ต้านทาน	1.0	t aa n^ th aa n^
+กข.๙	1.0	k @@  kh @@  k aa w^ 
+ห่อหุ้ม	1.0	h @@  h u m^
+มัน	1.0	m a n^
+เอง	1.0	z ee ng^
+สารเคมี	1.0	s aa n^ kh ee  m ii 
+พ่น	1.0	ph o n^
+๒	1.0	s @@ ng^
+สะอาด	1.0	s a  z aa t^
+นา	1.0	n aa  
+ผีเสื้อ	1.0	ph ii  s vva  
+ตัวอ่อน	1.0	t uua  z @@ n^
+หนูพุกเล็ก	1.0	n uu  ph u k^ l e k^
+หนูนา	1.0	n uu  n aa 
+หนูสวน	1.0	n uu  s uua n^
+หนูจิ๊ด	1.0	n uu  c i t^
+หนูขยะ	1.0	n uu  kh a  j a 
+หนูหริ่ง	1.0	n uu  r i ng^ 
+เหล่านี้	1.0	l a w^ n ii 
+ขน	1.0	kh o n^
+ที่นา	1.0	th ii  n aa 
+เรียบ	1.0	r iia p^
+วัชพืช	 1.0	w a t^ ch a  ph vv t^
+วัชพืช	1.0	w a t^ ch a  ph vv t^
+บ้าน	1.0	b aa n^
+๓	1.0	s aa m^
+ป้องกัน	1.0	p @ ng^ k a n^
+ก่อน	1.0	k @@ n^
+ออกรวง	1.0	z @@ k^ r uua ng^
+นาน	1.0	n aa n^
+พอสมควร	1.0	ph @@  s o m^ kh uua n^ 
+เพราะฉะนั้น	1.0	phr @  ch a  n a n^
+ก้อน	1.0	k @@ n^
+กรวด	1.0	kr uua t^
+เหล่านั้น	1.0	l a w^ n a n^
+แต่เดิม	1.0	t xx  d qq m^
+ก้อนหิน	1.0	k @@ n^ h i n^
+ขรุขระ	1.0	khr u  khr a  
+เปะปะ	1.0	p e  p a 
+แปลว่า	1.0	pl xx  w aa 
+ยานเล็ก	1.0	j aa n^ l e k^ 
+พระบรมธาตุ	1.0	phr a  b @@  r o m^ m a  th aa t^
+พระธาตุ	1.0	phr a  th aa t^
+พิธี	1.0	ph i  th ii 
+ตรุษ	1.0	tr u t^ 
+ประชาชน	1.0	pr a  ch aa  ch o n^
+1,000	1.0	n v ng^ ph a n^
+ล้าน	1.0	l aa n^
+พระเยซู	1.0	phr a  j ee  s uu 
+ตรึง	1.0	tr v ng^
+ไม้กางเขน	1.0	m aa j^ k aa ng^ kh ee n^
+องค์	1.0	z o ng^
+เทพกาเบรียล	1.0	th ee p^ k aa  br iia n^
+หาย	1.0	h aa j^
+สอน	1.0	s @@ n^
+ศาสนา	1.0	s aa t^ s a  n aa 
+วิธี	1.0	w i  th ii 
+เกลี้ยกล่อม	1.0	kl iia  kl @ m^
+ปี	1.0	p ii  
+พราหมณ์	1.0	phr aa m^
+กษัตริย์	1.0	k a  s a t^
+แพศย์	1.0	ph xx t^
+ศูทร	1.0	s uu t^ 
+เกศ	1.0	k ee t^
+ผม	1.0	ph o m^
+เลย	1.0	l qq j^
+กังฆา	1.0	k a ng^ kh aa 
+หวี	1.0	w ii 
+กฉา	1.0	k a  ch aa 
+กางเกง	1.0	k aa ng^ k ee ng^
+กรา	1.0	kr aa 
+กำไลมือ	1.0	k a m^ l a j^ m vv 
+กฤปาน	1.0	k a  r v  p aa n^
+รู้จัก	1.0	r uu  c a k^
+คิด	1.0	kh i t^
+อะไร	1.0	z a  r a j^
+งอกเงย	1.0	ng @@ k^ ng qq j^
+ขึ้นมา	1.0	kh v n^ m aa  
+เงิน	1.0	ng q n^
+เปล่าๆ	1.0	pl aa w^ pl aa w^ 
+นอกจากนั้น	1.0	n @@ k^ c aa k^ n a n^
+แนะนำ	1.0	n x  n a m^
+สัมพันธ์	1.0	s a m^ ph a n^
+ปกครอง	1.0	p o k^ khr @@ ng^
+บ้านเมือง	1.0	b aa n^ m vva ng^
+พลเมือง	1.0	ph o n^ l a  m vva ng^
+บิดา	1.0	b i  d aa 
+มารดา	1.0	m aa n^ d aa 
+บุตร	1.0	b u t^
+ธิดา	1.0	th i  d aa 
+สามี	1.0	s aa  m ii 
+ภรรยา	1.0	ph a n^ r a  j aa 
+ผู้ใหญ่	1.0	ph uu  j a j^
+ผู้น้อย	1.0	ph uu  n @@ j^
+เพื่อน	1.0	ph vva n^
+รส	1.0	r o t^
+เผ็ดร้อน	1.0	ph e t^ r @@ n^
+เมล็ด	1.0	m a  l e t^
+พริกไทย	1.0	phr i k^ th a j^
+ดอก	1.0	d @@ k^
+กานพลู	1.0	k aa n^ phl uu 
+กระเพา	1.0	k a  phr a w^
+ใบ	1.0	b a j^
+ราก	1.0	r aa k^
+ทา	1.0	th aa 
+ชะ	1.0	ch a 
+พอก	1.0	ph @@ k^
+ประคบ	1.0	pr a  kh o p^
+ถู	1.0	th uu 
+ชะโลม	1.0	ch a  l oo m^
+อาบ	1.0	z aa p^
+รม	1.0	r o m^ 
+ยาดอง	1.0	j aa  d @@ ng^
+น้ำท่า	1.0	n aa m^ th aa 
+สุรา	1.0	s u  r aa  
+ให้คุณ	1.0	h a j^ kh u n^
+ผลเสีย	1.0	ph o n^ s iia 
+เนื่องจาก	1.0	n vva ng^ c aa k^
+ละ	 1.0	l a 
+เกินควร	1.0	k qq n^ kh uua n^ 
+ยาเหน็บ	1.0	j aa  n e p^
+เพศ	1.0	ph ee t^
+วัย	1.0	w a j^
+ทีเดียว	1.0	th ii  d iia w^ 
+โดยสังเขป	1.0	d oo j^ s a ng^ kh ee p^
+เงินทอง	1.0	ng q n^ th @@ ng^
+บางคราว	1.0	b aa ng^ khr aa w^
+ทุเลา	1.0	th u  l a w^
+ชั่วคราว	1.0	ch uua  khr aa w^
+ดื้อยา	1.0	d vv  j aa  
+คลื่นไส้	1.0	khl vv n^ s a j^
+อาเจียน	1.0	z aa  c iia n^
+ตกเลือด	1.0	t o k^ l vva t^
+ดีซ่าน	1.0	d ii  s aa n^
+ฯลฯ	1.0	l x  z vv n^ z vv n^ 
+สภาพ	1.0	s a  ph aa p^
+ให้โทษ	1.0	h a j^ th oo t^
+ขนาน	1.0	kh a  n aa n^
+ปัสสาวะ	1.0	p a t^ s aa  w a  
+เมธีลีนบลู	 1.0	m ee  th ii  l ii n^ bl uu
+เตตราไซคลีน	1.0	t ee  tr aa  s a j^ khl ii n^
+แคลเซียม	1.0	kh x n^ s iia m^
+ยาบรรจุเสร็จ	1.0	j aa  b a n^ c u  s e t^ 
+ยิ้มแย้ม	1.0	j i m^ j xx m^
+แจ่มใส	1.0	c x m^ s a j^
+หน้าตา	1.0	n aa  t aa 
+บึ้งตึง	1.0	b v ng^ t v ng^
+ท่าทาง	1.0	th aa  th aa ng^
+อึดอัด	1.0	z v t^ z a t^
+ฮึดฮัด	1.0	h v t^ h a t^ 
+สะกดจิต	1.0	s a  k o t^ c i t^
+ผู้ป่วย	1.0	ph uu  p uua j^
+ฮิสทีเรีย	1.0	h i s^ th ii  r iia  
+ล่าม	1.0	l aa m^
+โซ่ตรวน	1.0	s oo  tr uua n^ 
+ลูก	1.0	l uu k^
+ขี้เหร่	1.0	kh ii  r ee 
+ดื้อรั้น	1.0	d vv  r a n^
+โง่เง่า	1.0	ng oo  ng a w^
+รัก	1.0	r a k^
+ความจริง	1.0	khw aa m^ c i ng^
+เอาเอง	1.0	z a w^ z ee ng^ 
+เป็นสุข	1.0	p e n^ s u k^
+เงื่องหงอย	1.0	ng vva ng^ ng @ j^
+ชั่วคราว	1.0	ch uua  khr aa w^ 
+ตัวเอง	1.0	t uua  z ee ng^
+เพลิดเพลิน	1.0	phl qq t^ phl qq n^ 
+ลงโทษ	1.0	l o ng^ th oo t^
+สิ่งแวดล้อม	1.0	s i ng^ w xx t^ l @@ m^
+พึ่งพา	1.0	ph v ng^ ph aa 
+น้อยลง	1.0	n @@ j^ l o ng^ 
+ตัดสิน	1.0	t a t^ s i n^
+บอก	1.0	b @@ k^
+พื้น	1.0	ph vv n^
+นั่ง	1.0	n a ng^
+เล่น	1.0	l e n^
+ยุ่งยาก	1.0	j u ng^ j aa k^
+ใจ	1.0	c a j^
+รู้สึก	1.0	r uu  s v k^
+พึ่งพิง	1.0	ph v ng^ ph i ng^ 
+อวัยวะเพศ	1.0	z a  w a j^ j a  w a  ph ee t^
+เจริญ	1.0	c a  r qq n^
+เออออ	1.0	z qq  z @@ 
+หมู่คณะ	1.0	m uu  kh a  n a 
+ก็	 1.0	k @@ 
+ปลีกตัว	1.0	pl ii k^ t uua 
+ช่างฝัน	1.0	ch a ng^ f a n^ 
+งุนงง	1.0	ng u n^ ng o ng^
+สับสน	1.0	s a p^ s o n^
+เลอะเลือน	1.0	l q  l vva n^
+พูด	1.0	ph uu t^
+เพ้อ	1.0	ph qq  
+ก้าวร้าว	1.0	k aa w^ r aa w^
+หยาบคาย	1.0	j aa p^ kh aa j^
+เอะอะ	1.0	z e  z a 
+อาละวาด	1.0	z aa  l a  w aa t^ 
+อารมณ์	1.0	z aa  r o m^
+ผิด	1.0	ph i t^
+เศร้า	1.0	s a w^
+ครึกครื้น	1.0	khr v k^ khr vv n^
+กังวล	1.0	k a ng^ w o n^
+หงุดหงิด	1.0	ng u t^ ng i t^
+โกรธ	1.0	kr oo t^
+บุคคล	1.0	b u k^ kh o n^
+อัน	1.0	z a n^
+ที่รัก	1.0	th ii  r a k^ 
+บุคลิกภาพ	1.0	b u k^ kh a  l i k^ k a  ph aa p^
+แปรปรวน	1.0	pr xx  pr uua n^ 
+เพ้อเจ้อ	1.0	ph qq  c qq 
+กระวนกระวาย	1.0	kr a  w o n^ kr a  w aa j^ 
+บริเวณ	1.0	b @@  r i  w ee n^
+อวัยวะขับถ่าย	1.0	z a  w a j^ j a  w a  kh a p^ th aa j^ 
+ตื่น	1.0	t vv n^
+บ่อยๆ	1.0	b @ j^ b @ j^
+กลางคืน	1.0	kl aa ng^ kh vv n^
+ละเมอ	1.0	l a  m qq 
+ละเมอ	1.0	l a  m qq  
+สาเหตุ	1.0	s aa  h ee t^
+กระเทือน	1.0	kr a  th vva n^
+เด็ก	 1.0	d e k^ 
+บางครั้ง	1.0	b aa ng^ khr a ng^
+ไซ	1.0	s a j^
+หู	1.0	h uu  
+ตึงเครียด	1.0	t v ng^ khr iia t^
+ประสบการณ์	1.0	pr a  s o p^ k aa n^ 
+แหวกว่าย	1.0	w xx k^ w aa j^
+ลัดเลาะ	1.0	l a t^ l @ 
+กอหญ้า	1.0	k @@  j aa  
+ลม	1.0	l o m^
+พัด	1.0	ph a t^
+ปลิว	1.0	pl i w^ w @ n^
+ว่อน	1.0	p a j^
+ไป	1.0	phr @@ m^
+พร้อม	1.0	k a p^
+กับ	1.0	f u n^
+ฝุ่นละออง	1.0	l a  z @@ ng^
+กอง	1.0	k @@ ng^
+ลุ่ม	1.0	l u m^
+กลับกลาย	1.0	kl a p^ kl aa j^
+แหล่ง	1.0	l x ng^
+ปลอม	1.0	pl @@ m^
+บอแรกซ์	1.0	b @@  r x k^ 
+ทำการ	1.0	th a m^ k aa n^
+ครบ	1.0	khr o p^
+พบว่า	1.0	ph o p^ w aa 
+สำรวจ	1.0	s a m^ r uua t^
+สำมะโนประชากร	1.0	s a m^ m a  n oo  pr a  ch aa  k @@ n^
+สมัย	1.0	s a  m a j^
+ประกาศ	1.0	pr a  k aa t^
+แพร่หลาย	1.0	phr xx  l aa j^ 
+เอเก็น	1.0	z ee  k e n^
+เคย	1.0	kh qq j^
+ติดตั้ง	1.0	t i t^ t a ng^
+อาเบอร์ดีนพรูวิงเกรานดส์	1.0	z aa  b qq  d ii n^ phr uu  w i ng^ k ee  r aa n^ 
+มอชลี	1.0	m @@ ch^ l ii 
+เอ็กเคิร์ต	1.0	z e k^ kh q t^
+ออกแบบ	1.0	z @@ k^ b xx p^ 
+เอ็ดแว็ก	1.0	z e t^ w x k^
+อีนิแอ็ก	1.0	z ii  n i  z x k^ 
+ไว้ใจ	1.0	w a j^ c a j^
+เอ็กแซ็ก	1.0	z e k^ s x k^ 
+ความจำ	1.0	khw aa m^ c a m^
+ดรัม	1.0	dr a m^
+แม่เหล็ก	1.0	m xx  l e k^ 
+มินิคอมพิวเตอร์	1.0	m i  n i  kh @ m^ ph i w^ t qq 
+ชิพ	1.0	ch i p^
+เทียบเท่า	1.0	th iia p^ th a w^
+หมื่น	1.0	m vv n^
+ตัว	 1.0	t uua  
+นำเอา	1.0	n a m^
+ทรานซิสเตอร์	1.0	z a w^
+เข้ามา	1.0	thr aa n^ s i s^ t qq 
+ใช้	1.0	kh a w^ m aa 
+แทน	1.0	ch a j^
+หลอด	1.0	th xx n^
+สุญญากาศ	1.0	l @@ t^ s u n^ j aa  k aa t^ 
+นำเอา	1.0	n a m^ z a w^
+ผลิตภัณฑ์	1.0	ph a  l i t^ t a  ph a n^
+เดียวกัน	1.0	d iia w^
+เรียก	1.0	k a n^
+ว่า	1.0	r iia k^ w aa 
+เบ็ดเสร็จ	1.0	b e t^ s e t^ 
+หนัก	1.0	n a k^
+ไมโครคอมพิวเตอร์	1.0	m a j^ khr oo  kh @ m^ ph i w^ t qq  
+ปลด	1.0	pl o t^
+พลังงาน	1.0	ph a  l a ng^ ng aa n^
+ยก	1.0	j o k^
+ดิสก์แพ็ค	1.0	d ii s^ ph x k^
+เข้าออก	1.0	kh a w^ z @@ k^
+แถบแม่เหล็ก	1.0	th xx p^ m xx  l e k^ 
+แม่เหล็ก	1.0	m xx  l e k^
+หัวอ่าน	1.0	h uua  z aa n^
+หัวบันทึก	1.0	h uua  b a n^ th v k^
+เท่ากับ	1.0	th a w^ k a p^
+รอยทาง	1.0	r @@ j^ th aa ng^
+ใกล้	1.0	kl a j^
+ผิว	1.0	ph i w^
+ดรัม	1.0	dr a m^ 
+ทรงกระบอก	1.0	s o ng^ kr a  b @@ k^ 
+สาย	1.0	s aa j^
+ขึ้นอยู่	1.0	kh v n^ j uu 
+รับส่ง	1.0	r a p^ s o ng^
+โทรทัศน์	1.0	th oo  r a  th a t^
+แทน	1.0	th xx n^
+กงล้อ	1.0	k o ng^ l @@ 
+ตัวอักษร	1.0	t uua  z a k^ s @@ n^ 
+หยด	1.0	j o t^
+หมึก	1.0	m v k^
+ประจุ	1.0	pr a  c u 
+เข็ม	1.0	kh e m^
+พุ่ง	1.0	ph u ng^
+รหัส	1.0	r a  h a t^
+ในการ	1.0	n a j^ k aa n^
+แป้น	1.0	p x n^
+ปรากฎ	1.0	pr aa  k o t^
+โทรทัศน์	1.0	th oo  r a  th a t^ 
+เข้าไป	1.0	kh a w^ p a j^
+ส่วนความจำ	1.0	s uua n^ khw aa m^ c a m^ 
+ออกมา	1.0	z @@ k^ m aa 
+ฟุต	1.0	f u t^
+เปลือง	1.0	pl vva ng^
+ข่าวสาร	1.0	kh aa w^ s aa n^ 
+ข่าวสาร	1.0	kh aa w^ s aa n^
+บังคับ	1.0	b a ng^ kh a p^
+ค้อน	1.0	kh @@ n^
+ผ้าพิมพ์	1.0	ph aa  ph i m^ 
+ทรงกระบอก	1.0	s o ng^ kr a  b @@ k^
+ครั้นแล้ว	1.0	khr a n^ l xx w^
+บรรทัด	1.0	b a n^ th a t^
+แปล	1.0	pl xx 
+เชิง	1.0	ch qq ng^
+ตัวเลข	1.0	t uua  l ee k^
+อุปมาน	1.0	z u p^ p a  m aa n^ 
+วาด	1.0	w aa t^
+แม้ว่า	1.0	m xx  w aa 
+กำเนิด	1.0	k a m^ n qq t^
+ราชการ	1.0	r aa t^ ch a  k aa n^
+รัฐวิสาหกิจ	1.0	r a t^ w i  s aa  h a  k i t^
+ธุรกิจ	1.0	th u  r a  k i t^
+วิธีการ	1.0	w i  th ii  k aa n^
+วิธี	1.0	w i  th ii  
+เสียเวลา	1.0	s iia  w ee  l aa 
+ไม่	 1.0	m a j^
+ประสิทธิภาพ	1.0	pr a  s i t^ th i  ph aa p^
+บัตร	1.0	b a t^
+อักษร	1.0	z a k^ s @@ n^ 
+ทำหน้าที่	1.0	th a m^
+เจาะ	1.0	n aa  th ii 
+บัตร	1.0	c @  b a t^ 
+ถูกต้อง	1.0	th uu k^ t @ ng^
+หมด	1.0	m o t^
+ทั้งแผ่น	1.0	th a ng^ ph x n^ 
+แยก	1.0	j xx k^
+ทำนอง	1.0	th a m^ n @@ ng^
+แถบแม่เหล็ก	1.0	th xx p^ m xx  l e k^
+อักษร	1.0	z a k^ s @@ n^
+แถบ	1.0	th xx p^
+ตลับ	1.0	t a  l a p^
+จาน	1.0	c aa n^
+ดิสเกตต์	1.0	d ii s^ k e t^
+ประหยัด	1.0	pr a  j a t^
+เช็ค	1.0	ch e k^
+รอยพับ	1.0	r @@ j^ ph a p^
+เปรอะเปื้อน	1.0	pr q  p vva n^
+เสียชีวิต	1.0	s iia  ch ii  w i t^
+เสียดาย	1.0	s iia  d aa j^ 
+ลุกลาม	1.0	l u k^ l aa m^
+อัมพาต	1.0	z a m^ m a  ph aa t^
+พระองค์	1.0	phr a  z o ng^
+สนพระราชหฤทัย	1.0	s o n^ phr a  r aa t^ ch a  h a  r v  th a j^
+เกษตร	1.0	k a  s ee t^
+ช้า	1.0	ch aa  
+กระบืองาน	1.0	kr a  b vv  ng aa n^
+กระบือปลัก	1.0	kr a  b vv  pl a k^ 
+คอก	1.0	kh @@ k^
+สัตว์ปีก	1.0	s a t^ p ii k^
+เลี้ยง	1.0	l iia ng^
+โซเดียม	1.0	s oo  d iia m^
+แมกนีเซียม	1.0	m x k^ n ii  s iia m^
+ฟอสฟอรัส	1.0	f @@ t^ f @@  r a t^
+คลอไรด์	1.0	khl @@  r aa j^
+ซิเทรต	1.0	s i  thr ee t^
+ทองแดง	1.0	th @@ ng^ d xx ng^
+ไอโอดีน	1.0	z a j^ z oo  d ii n^ 
+คลอด	1.0	khl @@ t^
+มิได้	1.0	m i  d aa j^
+เติม	1.0	t qq m^
+อื่นใด	1.0	z vv n^ d a j^ 
+กล่อง	1.0	kl @ ng^
+ดังกล่าว	1.0	d a ng^ kl aa w^ 
+ข้น	1.0	kh o n^
+หนืด	1.0	n vv t^
+กลาย	1.0	kl aa j^
+แกน	 1.0	k xx n^
+กลั่นตัว	1.0	kl a n^ t uua 
+พระราชทาน	1.0	phr a  r aa t^ ch a  th aa n^
+ข้อแนะนำ	1.0	kh @@  n x  n a m^
+ปฏิบัติการ	1.0	p a  t i  b a t^ k aa n^
+หลวง	1.0	l uua ng^
+2516	1.0	s @@ ng^ ph a n^ h aa  r @@ j^ s i p^ h o k^
+เป็นต้นมา	1.0	p e n^ t o n^ m aa 
+ตราบ	1.0	tr aa p^
+วันนี้	1.0	w a n^ n ii  
+ประสบการณ์	1.0	pr a  s o p^ k aa n^
+วางแผน	1.0	w aa ng^ ph xx n^
+ตัดสินใจ	1.0	t a t^ s i n^ c a j^
+เมฆ	1.0	m ee k^
+สมรรถนะ	1.0	s a  m a t^ th a  n a 
+เครื่องบิน	1.0	khr vva ng^ b i n^ 
+เล็กน้อย	1.0	l e k^ n @@ j^
+ถึง	 1.0	th v ng^
+ปานกลาง	1.0	p aa n^ kl aa ng^ 
+เข้ม	1.0	kh e m^
+ปริมาณ	1.0	p a  r i  m aa n^
+ประเมิน	1.0	pr a  m qq n^
+ประจำวัน	1.0	pr a  c a m^ w a n^
+หวัง	1.0	w a ng^
+วันรุ่งขึ้น	1.0	w a n^ r u ng^ kh v n^ 
+โทรพิมพ์	1.0	th oo  r a  ph i m^
+ข่าย	1.0	kh aa j^
+กระทรวงมหาดไทย	1.0	kr a  s uua ng^ m a  h aa t^ th a j^
+การสื่อสารแห่งประเทศไทย	1.0	k aa n^ s vv  s aa n^ h x ng^ pr a  th ee t^ th a j^
+ตำรวจ	1.0	t a m^ r uua t^
+มหาวิทยาลัยเกษตรศาสตร์	1.0	m a  h aa  w i t^ th a  j aa  l a j^ k a  s ee t^ s aa t^ 
+ข้อจำกัด	1.0	kh @@  c a m^ k a t^
+สภาวะ	1.0	s a  ph aa  w a 
+ทรัพยากร	1.0	s a p^ ph a  j aa  k @@ n^
+กล่าวคือ	1.0	kl aa w^ kh vv  
+44	1.0	s ii  s i p^ s ii  
+จังหวัด	1.0	c a ng^ w a t^
+ระบาย	1.0	r a  b aa j^
+น้ำ	1.0	n aa m^
+พรุ	1.0	phr u 
+มูโนะ	1.0	m uu  n o 
+นราธิวาส	1.0	n a  r aa  th i  w aa t^
+2517	1.0	s @@ ng^ ph a n^ h aa  r @@ j^ s i p^ c e t^ 
+เหตุ	1.0	h ee t^
+แหล่งน้ำ	1.0	l x ng^ n aa m^
+เหือดแห้ง	1.0	h vva t^ h xx ng^
+ฤดูแล้ง	1.0	r v  d uu  l xx ng^ 
+ประเทศ	1.0	pr a  th ee t^ 
+ก่อไฟ	1.0	k @@  f a j^
+หุง	1.0	h u ng^
+อาหาร	1.0	z aa  h aa n^ 
+คลอง	1.0	khl @@ ng^
+สัดส่วน	1.0	s a t^ s uua n^
+ตัดขวาง	1.0	t a t^ khw aa ng^
+ครั้งคราว	1.0	khr a ng^ khr aa w^
+อ่าว	1.0	z aa w^
+เบงกอล	1.0	b e ng^ k @@ l 
+สัตว์	1.0	s a t^
+ร้าย	1.0	r aa j^
+นานา	1.0	n aa  n aa 
+งูพิษ	1.0	ng uu  ph i t^
+ตะขาบ	1.0	t a  kh aa p^
+แมงป่อง	1.0	m xx ng^ p @ ng^ 
+พายุ	1.0	ph aa  j u 
+แคร่	1.0	khr xx 
+กลางวัน	1.0	kl aa ng^ w a n^ 
+ควันไฟ	1.0	khw a n^ f a j^
+เรือนครัว	1.0	r vva n^ khr uua 
+สะดวก	1.0	s a  d uua k^ 
+ฤดูหนาว	1.0	r v  d uu  n aa w^
+หนาว	1.0	n aa w^
+ภาคกลาง	1.0	ph aa k^ kl aa ng^
+ไม้	1.0	m aa j^
+สาน	1.0	s aa n^
+ฟาก	1.0	f aa k^
+สับ	1.0	s a p^ 
+ประตู	1.0	pr a  t uu 
+ยุ้ง	1.0	j u ng^
+กรุ	1.0	kr u 
+ไม้ไผ่	1.0	m aa j^ ph a j^
+ขัดแตะ	1.0	kh a t^ t x  
+โป๊ะ	1.0	p o 
+ถ่าย	1.0	th aa j^
+น้ำหนัก	1.0	n aa m^ n a k^
+เสา	1.0	s a w^
+งัว	1.0	ng uua  
+จันทัน	1.0	c a n^ th a n^
+กันสาด	1.0	k a n^ s aa t^
+แป	1.0	p xx 
+ขื่อ	1.0	kh vv 
+หัวเทียน	1.0	h uua  th iia n^
+สวม	1.0	s uua m^
+ดั้งแขวน	1.0	d a ng^ khw xx n^
+ชายคา	1.0	ch aa j^ kh aa 
+ตะพานหนู	1.0	t a  ph aa n^ n uu  
+ยื่น	1.0	j vv n^
+กระเบื้อง	1.0	kr a  b vva ng^ 
+ประกบ	1.0	pr a  k o p^
+ปิด	1.0	p i t^
+โพรง	1.0	phr oo ng^
+สกัด	1.0	s a  k a t^
+เรือน	1.0	r vva n^
+แดด	1.0	d xx t^
+หน้าจั่ว	1.0	n aa  c uua 
+เส้น	1.0	s e n^
+รัศมี	1.0	r a t^ s a  m ii 
+พระอาทิตย์	1.0	phr a  z aa  th i t^
+เรือนนอน	1.0	r vva n^ n @@ n^
+เรือนครัวไฟ	1.0	r vva n^ khr uua  f a j^ 
+กระเบื้อง	1.0	kr a  b vva ng^
+มน	1.0	m o n^
+ขอ	1.0	kh @@  
+ตัวผู้	1.0	t uua  ph uu 
+ตัวเมีย	1.0	t uua  m iia  
+ชิ้นส่วน	1.0	ch i n^ s uua n^
+รอย	1.0	r @@ j^
+มุง	1.0	m u ng^
+ครอบ	1.0	khr @@ p^
+น้ำฝน	1.0	n aa m^ f o n^
+รั่วไหล	1.0	r uua  l a j^
+ไขราหน้าจั่ว	1.0	kh a j^ r aa  n aa  c uua  
+ประโยชน์	1.0	pr a  j oo t^
+ใต้ถุน	1.0	t aa j^ th u n^
+เรือน	1.0	r vva n^ 
+ไหล	1.0	l a j^
+ช่อง	1.0	ch @ ng^
+กรอบเช็ดหน้า	1.0	kr @@ p^ ch e t^ n aa 
+บานประตู	1.0	b aa n^ pr a  t uu 
+เดือย	1.0	d vva j^
+ธรณีประตู	1.0	th @@  r a  n ii  pr a  t uu 
+คานคู่	1.0	kh aa n^ kh uu  
+บันได	1.0	b a n^ d a j^
+ตัวกลาง	1.0	t uua  kl aa ng^ 
+แสงสว่าง	1.0	s xx ng^ s a  w aa ng^
+ทำมุม	1.0	th a m^ m u m^
+45	1.0	s ii  s i p^ h aa 
+เซาะ	1.0	s @ 
+ร่อง	1.0	r @ ng^
+บัวประดับ	1.0	b uua  pr a  d a p^
+ล่าง	1.0	l aa ng^
+กว่า	1.0	kw aa  
+พาด	1.0	ph aa t^
+พรึง	1.0	phr v ng^ 
+ชัก	1.0	ch a k^
+นอกชาน	1.0	n @@ k^ ch aa n^
+ค่ำคืน	1.0	kh a m^ kh vv n^ 
+ปลอดภัย	1.0	pl @@ t^ ph a j^
+ขโมย	1.0	kh a  m oo j^ 
+พระราชประสงค์	1.0	phr a  r aa t^ ch a  pr a  s o ng^
+พระบาทสมเด็จพระเจ้าอยู่หัว	1.0	phr a  b aa t^ s o m^ d e t^ phr a  c aa w^ j uu  h uua  
+สังเกต	1.0	s a ng^ k ee t^
+สัตว์เลี้ยง	1.0	s a t^ l iia ng^
+สุนัข	1.0	s u  n a k^
+แมว	1.0	m xx w^
+สบาย	1.0	s a  b aa j^ 
+สมุนไพร	1.0	s a  m u n^ phr a j^
+พืช	1.0	ph vv t^
+สรรพคุณ	1.0	s a p^ ph a  kh u n^
+ปรุง	1.0	pr u ng^
+แปรสภาพ	1.0	pr xx  s a  ph aa p^ 
+เย็น	1.0	j e n^
+สุขุม	1.0	s u  kh u m^
+ฝาด	1.0	f aa t^
+หวาน	1.0	w aa n^
+ขม	1.0	kh o m^
+เค็ม	1.0	kh e m^
+เผ็ด	1.0	ph e t^
+เหมือน	 1.0	m vva n^
+กัน	 1.0	k a n^ 
+เครื่องยา	1.0	khr vva ng^ j aa  
+ปรุงยา	1.0	pr u ng^ j aa 
+ต้ม	1.0	t o m^
+ชง	1.0	ch o ng^
+ดอง	1.0	d @@ ng^
+ปั้น	1.0	p a n^
+ลูกกลอน	1.0	l uu k^ kl @@ n^
+ตำ	1.0	t a m^
+คั้น	1.0	kh a n^
+ปรุง	 1.0	pr u ng^
+ง่ายๆ	1.0	ng aa j^ ng aa j^
+ได	1.0	d aa j^
+้ว่า	1.0	w aa 
+เจ็บป่วย	1.0	c e p^ p uua j^
+เล็กๆน้อยๆ	1.0	l e k^ l e k^ n @@ j^ n @@ j^
+สนับสนุน	1.0	s a  n a p^ s a  n u n^
+ยาสมุนไพร	1.0	j aa  s a  m u n^ phr a j^
+รับประทาน	1.0	r a p^ pr a  th aa n^
+เดียวกับ	1.0	d iia w^ k a p^
+ยาแผนปัจจุบัน	1.0	j aa  ph xx n^ p a t^ c u  b a n^
+ทั่วไป	1.0	th uua  p a j^ 
+ตำรับ	1.0	t a m^ r a p^
+พืชสมุนไพร	1.0	ph vv t^ s a  m u n^ phr a j^
+แร่ธาตุ	1.0	r xx  th aa t^
+ตำรา	1.0	t a m^ r aa 
+ยาแผนโบราณ	1.0	j aa  ph xx n^ b oo  r aa n^
+รัฐมนตรี	1.0	r a t^ th a  m o n^ tr ii 
+ประกาศ	1.0	pr a  k aa t^ 
+รสประธานยา	1.0	r o t^ pr a  th aa n^ j aa 
+เภสัชวัตถุ	1.0	ph ee  s a t^ w a t^ th u 
+9	1.0	k aa w^
+รส	1.0	r o t^ 
+เหง้าว่านน้ำ	1.0	ng a w^ w aa n^ n aa m^
+รากเจตมูลเพลิง	1.0	r aa k^ c ee t^ t a  m uu n^ phl qq ng^
+รากแคแตร	1.0	r aa k^ kh xx  tr xx 
+รากนมสวรรค์	1.0	r aa k^ n o m^ s a  w a n^ 
+มาตรา	1.0	m aa t^ tr aa 
+โบราณ	1.0	b oo  r aa n^ 
+ร่างกาย	1.0	r aa ng^ k aa j^
+เมล็ดพืช	1.0	m a  l e t^ ph vv t^
+คุ้นเคย	1.0	kh u n^ kh qq j^
+แห้ง	1.0	h xx ng^
+ชง	1.0	ch o ng^ 
+เสื่อม	1.0	s vva m^
+ขาด	1.0	kh aa t^
+ความเข้าใจ	1.0	khw aa m^ kh a w^ c a j^
+ยา	1.0	j aa  
+เหยื่อ	1.0	j vva 
+โฆษณา	1.0	kh oo t^ s a  n aa  
+พืชผล	1.0	ph vv t^ ph o n^
+ข้าวโพด	1.0	kh aa w^ ph oo t^
+คู่แข่งขัน	1.0	kh uu  kh x ng^ kh a n^
+ประชากร	1.0	pr a  ch aa  k @@ n^
+รายได้	1.0	r aa j^ d aa j^
+ภาวะการณ์	1.0	ph aa  w a  k aa n^
+เช่นนี้	1.0	ch e n^ n ii 
+ประเทศที่พัฒนาแล้ว	1.0	pr a  th ee t^ th ii  ph a t^ th a  n aa  l xx w^ 
+เห็นว่า	1.0	h e n^ w aa 
+ซิงคาโน	1.0	s i ng^ kh aa  n oo 
+ควินิน	1.0	khw i  n i n^ 
+เป็นพิษ	1.0	p e n^ ph i t^
+รุนแรง	1.0	r u n^ r xx ng^
+ยาสังเคราะห์	1.0	j aa 
+และ	1.0	s a ng^ khr @ 
+สาร	1.0	l x 
+ตกค้าง	1.0	s aa n^ t o k^ kh aa ng^
+สังเคราะห์	1.0	s a ng^ khr @  
+จะ	1.0	c a  h e n^
+เห็นว่า	1.0	w aa 
+แม้แต่	1.0	m xx  t xx 
+ตระหนัก	1.0	tr a  n a k^
+คุณค่า	1.0	kh u n^ n a  kh aa 
+สมุนไพร	1.0	s a  m u n^ phr a j^ 
+การแพทย์	1.0	k aa n^ ph xx t^
+แผน	1.0	ph xx n^
+ละเลย	1.0	l a  l qq j^
+อีกครั้ง	1.0	z ii k^ khr a ng^ 
+2.1	1.0	s @@ ng^ c u t^ n v ng^
+ยาแผนโบราณ	1.0	j aa  ph xx n^ b oo  r aa n^ 
+ยาแผนปัจจุบัน	1.0	j aa  ph xx n^ p a t^ c u  b a n^ 
+พฤติกรรม	1.0	phr v t^ t i  k a m^
+เจ็บไข้	1.0	c e p^ kh a j^
+ตะวันตก	1.0	t a  w a n^ t o k^ 
+เห็น	1.0	h e n^ d aa j^
+ได้ว่า	1.0	w aa 
+พื้นบ้าน	1.0	ph vv n^ b aa n^
+ชนบท	1.0	ch o n^ n a  b o t^
+ห่างไกล	1.0	h aa ng^ kl a j^
+สถานบริการ	1.0	s a  th aa n^ b @@  r i  k aa n^
+จำกัด	1.0	c a m^ k a t^
+วินิจฉัย	1.0	w i  n i t^ ch a j^
+ชาว	1.0	ch aa w^
+เกณฑ์	1.0	k ee n^
+สาธารณสุขมูลฐาน	1.0	s aa  th aa  r a  n a  s u k^ m uu n^ th aa n^ 
+ภายนอก	1.0	ph aa j^ n @@ k^
+จ	1.0	c a 
+ะต้อง	1.0	t @ ng^
+หลักฐาน	1.0	l a k^ th aa n^
+ครบถ้วน	1.0	khr o p^ th uua n^
+เภสัชวิทยา	1.0	ph ee  s a t^ w i t^ th a  j aa 
+พิษวิทยา	1.0	ph i t^ w i t^ th a  j aa 
+คลินิก	1.0	khl ii  n i k^ 
+บุคลากร	1.0	b u k^ kh a  l aa  k @@ n^
+เหล่านี้	1.0	l a w^ n ii  
+ได้ผล	1.0	d aa j^ ph o n^
+แก่จัด	1.0	k xx  c a t^
+ตาก	1.0	t aa k^
+ฝาน	1.0	f aa n^
+หัวกระเทียม	1.0	h uua  kr a  th iia m^
+ลงไป	1.0	l o ng^ p a j^ 
+ท้องอืด	1.0	th @@ ng^ z vv t^
+ท้องเฟ้อ	1.0	th @@ ng^ f qq 
+ปวดท้อง	1.0	p uua t^ th @@ ng^
+วิธีใช้	1.0	w i  th ii  ch a j^ 
+นม	1.0	n o m^
+เด็ก	1.0	d e k^
+หั่น	1.0	h a n^
+กล้วย	1.0	kl uua j^
+ดิบ	1.0	d i p^
+ชิ้น	1.0	ch i n^
+บางๆ	1.0	b aa ng^ b aa ng^ 
+ระงับ	1.0	r a  ng a p^
+ขับ	1.0	kh a p^
+เสมหะ	1.0	s ee m^ h a  
+เหง้า	1.0	ng a w^
+ขมิ้น	1.0	kh a  m i n^
+ขูด	1.0	kh uu t^
+ยุง	1.0	j u ng^
+กัด	1.0	k a t^
+บ่อยๆ	1.0	b @ j^ b @ j^ 
+เฟ้อ	1.0	f qq 
+ทิ้ง	1.0	th i ng^
+ค้างคืน	1.0	kh aa ng^ kh vv n^
+แสบๆ	1.0	s xx p^ s xx p^
+เย็นๆ	1.0	j e n^ j e n^ 
+เช้า	1.0	ch aa w^
+อาบน้ำ	1.0	z aa p^ n aa m^
+ทุกวัน	1.0	th u k^ w a n^
+ติด	1.0	t i t^
+ท้องเฟ้อ	1.0	th @@ ng^ f qq  
+แน่น	1.0	n x n^
+จุกเสียด	1.0	c u k^ s iia t^
+เคี่ยว	1.0	kh iia w^
+ทำให้	1.0	th a m^
+แผล	1.0	h a j^ phl xx 
+สนิท	1.0	s a  n i t^
+เดียวกัน	1.0	d iia w^ k a n^ 
+โขลก	1.0	khl oo k^
+แหลก	1.0	l xx k^
+ใส่	1.0	s a j^
+ลูกประคบ	1.0	l uu k^ pr a  kh o p^ 
+เคล็ด	1.0	khl e t^
+ขัดยอก	1.0	kh a t^ j @@ k^ 
+กลืน	1.0	kl vv n^
+ก็ได้	1.0	k @@  d aa j^ 
+วุ้น	1.0	w u n^
+แปะ	1.0	p x 
+ริมฝีปาก	1.0	r i m^ f ii  p aa k^
+รัฐ	1.0	r a t^
+หลัวฮู่	1.0	l uua  h uu  
+คลุม	1.0	khl u m^
+นอก	1.0	n @@ k^
+สี	1.0	s ii  
+ยุโรป	1.0	j u  r oo p^
+วัดขุนพรหม	1.0	w a t^ kh u n^ phr o m^
+ระเบียบ	1.0	r a  b iia p^
+ละเว้น	1.0	l a  w e n^
+เคร่งครัด	1.0	khr e ng^ khr a t^ 
+เสื้อครุย	1.0	s vva  khr u j^
+กรองคอ	1.0	kr @@ ng^ kh @@ 
+กรองสังเวียน	1.0	kr @@ ng^ s a ng^ w iia n^
+กรองสมรด	 1.0	kr @@ ng^ s o m^ r o t^ 
+เหม็น	1.0	m e n^
+สาบสาง	1.0	s aa p^ s aa ng^
+เปื้อนเปรอะ	1.0	p vva n^ pr q 
+ขะมุกขะมอม	1.0	kh a  m u k^ kh a  m @@ m^ 
+วันพฤหัสบดี	1.0	w a n^ ph a  r v  h a t^ s a  b @@  d ii 
+นุ่ง	1.0	n u ng^
+เขียว	1.0	kh iia w^
+ผ้านุ่ง	1.0	ph aa  n u ng^
+ผ้าเช็ดตัว	1.0	ph aa  ch e t^ t uua 
+ผ้าเคียนพุง	1.0	ph aa  kh iia n^ ph u ng^
+ผ้าพาดไหล่	1.0	ph aa  ph aa t^ l a j^ 
+รอยสลัก	1.0	r @@ j^ s a  l a k^
+แปลกๆ	1.0	pl xx k^ pl xx k^
+ศิลาจารึก	1.0	s i  l aa  c aa  r v k^
+สักการะ	1.0	s a k^ k aa  r a 
+บูชา	1.0	b uu  ch aa 
+ทองคำเปลว	1.0	th @@ ng^ kh a m^ pl ee w^
+ศักราช	1.0	s a k^ k a  r aa t^
+จารึกเขาน้อย	1.0	c aa  r v k^ kh a w^ n @@ j^ 
+พุทธศักราช	1.0	ph u t^ th a  s a k^ k a  r aa t^
+1180	1.0	n v ng^ ph a n^ n v ng^ r @@ j^ p xx t^ s i p^ 
+โบราณ	1.0	b oo  r aa n^
+บ่งบอก	1.0	b o ng^ b @@ k^
+วัฒนธรรม	1.0	w a t^ th a  n a  th a m^
+ผืน	1.0	ph vv n^
+แผ่นดิน	1.0	ph x n^ d i n^
+จารึก	1.0	c aa  r v k^
+ขอม	1.0	kh @@ m^
+ภาคเหนือ	1.0	ph aa k^ n vva 
+ขึ้นไป	1.0	kh v n^ p a j^ 
+ขวนขวาย	1.0	kh uua n^ khw aa j^
+แสวงหา	1.0	s a  w xx ng^ h aa 
+ภูมิภาค	1.0	ph uu  m i  ph aa k^
+พระราชอาณาจักร	1.0	phr a  r aa t^ ch a  z aa  n aa  c a k^ 
+บาป	1.0	b aa p^ 
+ปึกแผ่น	1.0	p v k^ ph x n^
+ดินปืน	1.0	d i n^ p vv n^
+ดัน	1.0	d a n^
+ลูกปืน	1.0	l uu k^ p vv n^
+กระบอกปืน	1.0	kr a  b @@ k^ p vv n^ 
+วงล้อ	1.0	w o ng^ l @@ 
+เกวียน	1.0	kw iia n^
+วงล้อเพลตัน	1.0	w o ng^ l @@  phl ee  t a n^ 
+เฉ	1.0	ch ee 
+ขวา	1.0	khw aa  
+ไนโตรเจน	1.0	n a j^ tr oo  c e n^
+เหลว	1.0	l ee w^
+ท่อแก้ว	1.0	th @@  k xx w^ 
+แท่ง	1.0	th x ng^
+เชื้อเพลิงยูเรเนียม	1.0	ch vva  phl qq ng^ j uu  r ee  n iia m^ 
+นิวตรอน	1.0	n i w^ tr @ n^
+วิ่ง	1.0	w i ng^
+เข้าเฝ้า	1.0	kh a w^ f a w^ 
+ผ้าเกี้ยว	1.0	ph aa  k iia w^
+รัชกาล	1.0	r a t^ ch a  k aa n^
+ปรก	1.0	pr o k^
+ข้อพระหัตถ์	 1.0	kh @@  phr a  h a t^ 
+โจงกระเบน	1.0	c oo ng^ kr a  b ee n^
+เข่า	1.0	kh a w^
+สนับเพลา	1.0	s a  n a p^ phl a w^
+แข้ง	1.0	kh x ng^ 
+หนุ่มหนุ่ม	1.0	n u m^ n u m^
+เหล่า	1.0	l a w^
+เจ้าชู้	1.0	c a w^ ch uu 
+ลูกผู้ดี	1.0	l uu k^ ph uu  d ii 
+สตรี	1.0	s a t^ tr ii 
+งาม	1.0	ng aa m^
+พรวน	1.0	phr uua n^ 
+เครื่องแบบ	1.0	khr vva ng^ b xx p^
+พระเกียรติยศ	1.0	phr a  k iia t^ t i  j o t^
+เสื้อกระบอก	1.0	s vva  kr a  b @@ k^
+ฝรั่ง	1.0	f a  r a ng^ 
+แขน	1.0	kh xx n^
+ขลับ	1.0	khl a p^
+พับ	1.0	ph a p^
+ขลิบ	1.0	khl i p^
+รอยเย็บ	1.0	r @@ j^ j e p^ 
+เที่ยว	1.0	th iia w^
+ผลอไพล่เผล	1.0	phl @@  phl a j^ phl ee 
+เพทุบาย	1.0	ph ee  th u  b aa j^ 
+สายสร้อย	1.0	s aa j^ s @ j^
+สลึง	1.0	s a  l v ng^
+เฟื้อง	1.0	f vva ng^ 
+ผูก	1.0	ph uu k^
+ข้อมือ	1.0	kh @@  m vv 
+แล	1.0	l xx 
+อร่ามเหลือง	1.0	z a  r aa m^ l vva ng^ 
+๗	1.0	c e t^
+ขวบ	1.0	kh uua p^
+อิเล็กตรอน	1.0	z i  l e k^ tr @ n^
+เหมือนว่า	1.0	m vva n^ w aa 
+โฮล	1.0	h oo 
+บกพร่อง	1.0	b o k^ phr @ ng^
+ผลึก	1.0	ph a  l v k^
+อะตอม	1.0	z a  t @ m^ 
+โฟโตทรานซิสเตอร์	1.0	f oo  t oo  thr aa n^ s i s^ t qq 
+ตรรก	1.0	t a k^ k a 
+จำ	1.0	c a m^
+ไมโครโพรเซสเซอร์	1.0	m a j^ khr oo  phr oo  s ee t^ s qq 
+กล่าวคือ	1.0	kl aa w^ kh vv 
+เลเซอร์	1.0	l ee  s qq 
+พร้อมเพรียง	1.0	phr @@ m^ phr iia ng^ 
+เอาชนะ	1.0	z a w^ ch a  n a 
+เสถียรภาพ	1.0	s a  th iia n^ r a  ph aa p^
+เปล่ง	1.0	pl e ng^
+ปลุกเร้า	1.0	pl u k^ r a w^
+โฟตอน	1.0	f oo  t @ n^ 
+ทับทิม	1.0	th a p^ th i m^
+แย็ค	1.0	j x k^
+ผลึก	1.0	ph a  l v k^ 
+ก๊าซ	1.0	k aa s^
+ตัวกลาง	1.0	t uua  kl aa ng^
+เลเซอร์	1.0	l ee  s qq  
+พลาสมา	1.0	phl aa s^ m aa 
+๖.๑	1.0	h o k^ c u t^ n v ng^
+ของแข็ง	1.0	kh @@ ng^ kh x ng^
+ของเหลว	1.0	kh @@ ng^ l ee w^
+สาร	1.0	s aa n^
+กึ่ง	1.0	k v ng^
+ตัวนำ	1.0	t uua  n a m^ 

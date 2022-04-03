@@ -1,0 +1,348 @@
+# gmm-latgen-faster --max-active=7000 --beam=13.0 --lattice-beam=6.0 --acoustic-scale=0.083333 --allow-partial=true --word-symbol-table=exp/mono/graph/words.txt exp/mono/final.mdl exp/mono/graph/HCLG.fst "ark,s,cs:apply-cmvn  --utt2spk=ark:data/test/split1/1/utt2spk scp:data/test/split1/1/cmvn.scp scp:data/test/split1/1/feats.scp ark:- | add-deltas  ark:- ark:- |" "ark:|gzip -c > exp/mono/decode/lat.1.gz" 
+# Started at Thu Mar 17 09:39:21 UTC 2022
+#
+gmm-latgen-faster --max-active=7000 --beam=13.0 --lattice-beam=6.0 --acoustic-scale=0.083333 --allow-partial=true --word-symbol-table=exp/mono/graph/words.txt exp/mono/final.mdl exp/mono/graph/HCLG.fst 'ark,s,cs:apply-cmvn  --utt2spk=ark:data/test/split1/1/utt2spk scp:data/test/split1/1/cmvn.scp scp:data/test/split1/1/feats.scp ark:- | add-deltas  ark:- ark:- |' 'ark:|gzip -c > exp/mono/decode/lat.1.gz' 
+apply-cmvn --utt2spk=ark:data/test/split1/1/utt2spk scp:data/test/split1/1/cmvn.scp scp:data/test/split1/1/feats.scp ark:- 
+add-deltas ark:- ark:- 
+COF001_Pa001_029 ดำ แม่เหล็ก เป็น วัตถุ รูป ทรงกระบอก 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COF001_Pa001_029 is -8.13459 over 343 frames.
+COF001_Pa001_030 และ สามารถ ฐานข้อมูล จาก เช็ค ที่ มี รอยพับ และ เปรอะเปื้อน ได้ ด้วย 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COF001_Pa001_030 is -8.17166 over 563 frames.
+COF001_Pa001_031 การ ทำ ด้วย ใน สาร กันสาด ทราบ 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COF001_Pa001_031 is -7.85836 over 340 frames.
+COF001_Pa001_032 ใน ตำรับ ยา นอกจาก พืชสมุนไพร ตาม ยัง อาจ ประกอบด้วย สัตว์ และ แร่ธาตุ อีกด้วย 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COF001_Pa001_032 is -7.73356 over 817 frames.
+COF001_Pa001_033 ให้ ถ้า เช้า ใน เย็น หลัง อาบน้ำ ทุกวัน ติดตั้ง ประมาณ 2 สัปดาห์ 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COF001_Pa001_033 is -7.71092 over 680 frames.
+COF001_Pa001_034 ใส่ เสื้อ เปิด ข้อ แบบ ฝรั่ง 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COF001_Pa001_034 is -7.63705 over 287 frames.
+COF001_Pa001_035 2.1.5 ระบบ จัดการ ต่อ ประกอบด้วย 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COF001_Pa001_035 is -7.60474 over 590 frames.
+COF002_Pa002_029 แต่ ภายใน มี ใส่ ไฟฟ้า ต่อ เข้า เครื่อง ใช้ 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COF002_Pa002_029 is -7.70241 over 494 frames.
+COF002_Pa002_030 ต่อ เสียชีวิต ไป ยัง และ เสียดาย 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COF002_Pa002_030 is -7.62351 over 331 frames.
+COF002_Pa002_031 มี ประตู 1 บาน 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COF002_Pa002_031 is -7.39481 over 248 frames.
+COF002_Pa002_032 ซึ่ง มี ปรากฏ อยู่ ใน ตำรา ยาแผนโบราณ ที่ รัฐมนตรี ประกาศ 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COF002_Pa002_032 is -8.13664 over 642 frames.
+COF002_Pa002_033 ก๊าซ การ ท้องอืด ท้องเฟ้อ 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COF002_Pa002_033 is -7.76011 over 286 frames.
+COF002_Pa002_034 ต่อมา ได้ แก้ไข ปรับปรุง 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COF002_Pa002_034 is -7.85856 over 299 frames.
+COF002_Pa002_035 อย่างไรก็ตาม ถ้า จะ นำ ไป ใช้งาน กับ ร้านอาหาร ขนาด ย้าย ที่ มี ลูกค้า มาก จำนวน ตก ตั้งแต่ 50 ตก ขึ้นไป อาจ ทำงาน มี ผ่าน 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COF002_Pa002_035 is -7.96657 over 1280 frames.
+COF004_Pa004_029 อัตรา เหลว ของ การ ทิ้ง ข้อมูล เท่า จาก การ อยู่ กับ ความ สามารถ ของ พนักงาน ที่ ทำการ ทิ้ง ดิบ 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COF004_Pa004_029 is -7.97309 over 923 frames.
+COF004_Pa004_030 เพื่อ มี หาย ลุกลาม ต่อไป 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COF004_Pa004_030 is -7.56143 over 321 frames.
+COF004_Pa004_031 เนื่องจาก การ ตก เป็น เครื่องมือ จัดการ 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COF004_Pa004_031 is -7.6108 over 446 frames.
+COF004_Pa004_032 การ เหง้าว่านน้ำ รากเจตมูลเพลิง ราก แถบ แต่ และ รากนมสวรรค์ 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COF004_Pa004_032 is -7.63138 over 755 frames.
+COF004_Pa004_033 จาก ทำ แผล ให้ สนิท เป็น เดือย เดียวกัน 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COF004_Pa004_033 is -7.6561 over 415 frames.
+COF004_Pa004_034 ลง เที่ยว ของ ถ่ายเท เพทุบาย 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COF004_Pa004_034 is -7.48032 over 384 frames.
+COF004_Pa004_035 แต่ ภาพ เป็น การ ถ่ายเท ครั้งละ แต่ 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COF004_Pa004_035 is -7.47541 over 389 frames.
+COF005_Pa005_029 แต่ การ แสดงผล จะ การ อยู่ กับ ออกแบบ อุปกรณ์ ต่างๆ ที่ การ กับ เครื่อง ที่ มี 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COF005_Pa005_029 is -8.31201 over 694 frames.
+COF005_Pa005_030 และ จะ สูญเสีย ความ รู้สึก ใน ส่วน ที่ เป็น อัมพาต ด้วย 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COF005_Pa005_030 is -8.18154 over 510 frames.
+COF005_Pa005_031 ไป เจาะ ไทย น้ำหนัก จาก เสา ลง สูง หัวอ่าน 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COF005_Pa005_031 is -8.224 over 437 frames.
+COF005_Pa005_032 นอกจากนี้ ยังมี มาตรา โบราณ 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COF005_Pa005_032 is -7.80808 over 387 frames.
+COF005_Pa005_033 แล้ว โขลก ให้ พอ แหลก ใส่ ลง ใน นำ 1 แก้ว 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COF005_Pa005_033 is -8.19204 over 430 frames.
+COF005_Pa005_034 สายสร้อย ใส่ 1 ก็ การ สลึง เฟื้อง 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COF005_Pa005_034 is -8.17381 over 343 frames.
+COF005_Pa005_035 เครื่องต้นแบบ เครื่อง ที่ 1 มี บล๊อคไดอะแกรม 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COF005_Pa005_035 is -8.27806 over 454 frames.
+COF007_Pa007_029 คือ การ กงล้อ ที่ มี ตัวอักษร 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COF007_Pa007_029 is -7.48436 over 466 frames.
+COF007_Pa007_030 และ พบว่า ควร นม นก ผสม ข้าว ดำ ศูนย์สูตร ไอซี เขียน กับ ขูด พื้นเมือง เป็น ควร ลง รูป ผสม ที่ ให้ นม ที่ ที่สุด 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COF007_Pa007_030 is -7.71925 over 1351 frames.
+COF007_Pa007_031 โดย เจาะ ทัน คือ เป็น รูป กว้างขวาง หัวเทียน พอ สวม เข้า ได้ 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COF007_Pa007_031 is -7.67729 over 709 frames.
+COF007_Pa007_032 ปกติ การ สมุนไพร เห็น ชง 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COF007_Pa007_032 is -7.53654 over 432 frames.
+COF007_Pa007_033 จาก ช่วย หาย ให้ เคล็ด ขัดยอก 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COF007_Pa007_033 is -7.52752 over 408 frames.
+COF007_Pa007_034 แก่จัด สวม อยู่ การ ไป อยู่ 6 หรือ 7 ขวบ เท่านั้น 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COF007_Pa007_034 is -7.51736 over 610 frames.
+COF007_Pa007_035 ดร. กฤษณพงศ์ กีรติกร 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COF007_Pa007_035 is -7.29172 over 538 frames.
+COF008_Pa008_029 โดย ทำให้ การ มือ นี้ ประจุ ไฟฟ้า โลก 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COF008_Pa008_029 is -8.01908 over 405 frames.
+COF008_Pa008_030 1.3 กระบืองาน หรือ กระบือปลัก 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COF008_Pa008_030 is -7.85788 over 461 frames.
+COF008_Pa008_031 และ การ กับ ดั้งแขวน เท่านั้น 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COF008_Pa008_031 is -8.30297 over 306 frames.
+COF008_Pa008_032 ก็ อาจ เสื่อม เร็ว ขวา กำหนด ได้ 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COF008_Pa008_032 is -8.18209 over 323 frames.
+COF008_Pa008_033 แล้ว กลืน ทั้ง น้ำ และ นี้ ขยาย 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COF008_Pa008_033 is -7.77213 over 330 frames.
+COF008_Pa008_034 จาก ถ้า อิเล็กตรอน 1 ตัว ว่า 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COF008_Pa008_034 is -7.88054 over 293 frames.
+COF008_Pa008_035 ซึ่ง โปรแกรม จะ ทำ เจาะ เลียนแบบ เหมือน วงจร ให้ ตัวตั้งเวลา และ ตัวนับ 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COF008_Pa008_035 is -7.77174 over 897 frames.
+COF009_Pa009_029 เมื่อ จึง สัญญาณ ทำ จะ ผู้ ออกมา พื้นดิน ตัวอักษร ตาม รหัส ของ ข้อมูล ต่างๆ 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COF009_Pa009_029 is -8.41764 over 768 frames.
+COF009_Pa009_030 เฉลี่ย คอก ราศี พบ ตัว ว่า 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COF009_Pa009_030 is -8.2476 over 282 frames.
+COF009_Pa009_031 ยาว รอบ การ ทาง ทำ เจาะ รับ ตะพานหนู 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COF009_Pa009_031 is -8.01278 over 449 frames.
+COF009_Pa009_032 ประชาชน ยัง ขาด ความรู้ ความเข้าใจ เรื่อง ยา 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COF009_Pa009_032 is -8.05792 over 456 frames.
+COF009_Pa009_033 การ วุ้น แปะ ภายใน ปาก หรือ แพทย์ ที่ ริมฝีปาก บ่อยๆ 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COF009_Pa009_033 is -8.19682 over 532 frames.
+COF009_Pa009_034 จน ดุ เหมือนว่า โฮล กระดาษ ได้ 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COF009_Pa009_034 is -7.69761 over 361 frames.
+COF009_Pa009_035 การ ทำงาน ด้วย สอบ มา ซึ่ง มี มี ตรวจ ต้น นี้ จึง มี มี การ กระดาษ ทาง ควร 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COF009_Pa009_035 is -8.30092 over 675 frames.
+COF011_Pa011_029 ตัวอักษร นั้น จะ ปรากฏ เขื่อน บน บน โทรทัศน์ 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COF011_Pa011_029 is -8.02581 over 441 frames.
+COF011_Pa011_030 ประกอบด้วย โพแทสเซียม แคลเซียม โซเดียม แมกนีเซียม ฟอสฟอรัส คลอไรด์ ซิเทรต เล็ก ทองแดง และ ไอโอดีน 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COF011_Pa011_030 is -7.43821 over 1576 frames.
+COF011_Pa011_031 การ ช่วย รับ ส่วน ยื่น ของ กระเบื้อง 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COF011_Pa011_031 is -7.87065 over 391 frames.
+COF011_Pa011_032 และ จาก การ ที่ มี คู่แข่งขัน มาก 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COF011_Pa011_032 is -7.77619 over 377 frames.
+COF011_Pa011_033 ภาค ขม ขนาด มี ราศี 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COF011_Pa011_033 is -7.86899 over 295 frames.
+COF011_Pa011_034 2 ต่อ ทรานซิสเตอร์ การ ประโยชน์ หน่วยงาน 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COF011_Pa011_034 is -7.28727 over 615 frames.
+COF011_Pa011_035 ผู้ใช้ จะ ต้อง เคี่ยว โปรแกรม ผู้ใช้ ทิ้ง ก่อน 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COF011_Pa011_035 is -7.58485 over 601 frames.
+COF014_Pa014_029 ก็ สามารถ เรียก ออกมา แสดง บน บน โทรทัศน์ ได้ 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COF014_Pa014_029 is -7.45537 over 641 frames.
+COF014_Pa014_030 เคลือบ ด้วย วัสดุ ต่างๆ การ 7 ผ่าน 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COF014_Pa014_030 is -7.80473 over 483 frames.
+COF014_Pa014_031 หน้าจั่ว ที่ นิยม ทำ มี ดังนี้ 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COF014_Pa014_031 is -7.42994 over 442 frames.
+COF014_Pa014_032 เมื่อ พิจารณา เป็น การ ของ สมุนไพร ใน ประเทศที่พัฒนาแล้ว 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COF014_Pa014_032 is -7.65125 over 896 frames.
+COF014_Pa014_033 จึง นิยม ภาค จาก ยุโรป อีกด้วย 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COF014_Pa014_033 is -7.80988 over 454 frames.
+COF014_Pa014_034 กล่าวคือ เครื่อง แสง เลเซอร์ มี ความ พร้อมเพรียง 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COF014_Pa014_034 is -7.47581 over 566 frames.
+COF014_Pa014_035 นอกจากนี้ ยังมี นักศึกษา ที่ ได้ ช่วย สร้าง และ ทดสอบ วงจร คือ จิระศักดิ์ ตันปรียชญา ที่ ปิด นำ 7 กัน หนัก ล้ม และ กิติพจน์ สิทธิเลิศพิศาล 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COF014_Pa014_035 is -7.46482 over 2428 frames.
+COF017_Pa017_029 อย่างไรก็ตาม มี ปัจจุบัน มี เพื่อ รับส่ง แบบ จะ โทรทัศน์ บาง แบบ สามารถ ที่ มี ข่าวสาร ใน ดุ ได้ ด้วย 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COF017_Pa017_029 is -7.76484 over 958 frames.
+COF017_Pa017_030 และ ไป เป็น แกน การ ตัว แบบ การ ทั้ง 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COF017_Pa017_030 is -8.01098 over 378 frames.
+COF017_Pa017_031 และ เศษ ตาม ลักษณะ ของ รูปร่าง เช่น กระเบื้อง แห้ง มอง กระเบื้อง หาง ตัด กระเบื้อง ของ 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COF017_Pa017_031 is -8.00808 over 777 frames.
+COF017_Pa017_032 เนื่องจาก กว่า ความ เป็น ที่ แหลม จาน ยา และ และ ตกค้าง กระบวนการ และ 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COF017_Pa017_032 is -7.8388 over 818 frames.
+COF017_Pa017_033 ใส่ ศัตรู ขึ้น กรองคอ กรองสังเวียน กรองสมรด 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COF017_Pa017_033 is -7.77589 over 481 frames.
+COF017_Pa017_034 เมื่อ สายตา เป็น ปวด การ เลเซอร์ 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COF017_Pa017_034 is -7.5442 over 372 frames.
+COF017_Pa017_035 โลก ที่ 3 เส้นกราฟ อุณหภูมิ ของ เตาเอพิแทกซี 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COF017_Pa017_035 is -8.03119 over 522 frames.
+COF020_Pa020_029 เมื่อ เปรียบเทียบ กับ อัตรา ถ่ายทอด ข้อมูล ของ เครื่อง ใช้ 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COF020_Pa020_029 is -7.50204 over 636 frames.
+COF020_Pa020_030 พระราชทาน ให้ การ เป็น นักวิชาการ และ เทคนิค ใน การ ปฏิบัติการ ฝน หลวง ใน พ.ศ. 2516 เป็นต้นมา จน ตาก เท่า ทุกวัน นี้ 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COF020_Pa020_030 is -7.44564 over 1605 frames.
+COF020_Pa020_031 ทาง ด้วย กระเบื้อง การ กระเบื้อง ขอบ เป็น ส่วน ปิด 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COF020_Pa020_031 is -7.63307 over 515 frames.
+COF020_Pa020_032 การ ที่ จาก พัฒนา นำ ใช้ ไม่ อีกครั้ง 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COF020_Pa020_032 is -7.51055 over 419 frames.
+COF020_Pa020_033 การ เป็น ทาง ผ่าน หนู ผ้าเช็ดตัว ว่า ผ้าเคียนพุง และ ผ้าพาดไหล่ 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COF020_Pa020_033 is -7.45205 over 799 frames.
+COF020_Pa020_034 เลเซอร์ ทำ ขึ้น จาก ของ แผน ก๊าซ ของเหลว และ สาร การ ตัวนำ 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COF020_Pa020_034 is -7.26739 over 851 frames.
+COF020_Pa020_035 จาก การ ทดลอง พบว่า โครงสร้าง ของ สาร ตัวนำ นี้ มี อยู่ ที่ ที่ เปลี่ยน ได้ อยู่ ใน ระบบ ออก ทดลอง ดิบ 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COF020_Pa020_035 is -7.53726 over 1046 frames.
+COF024_Pa024_029 ใน การ เพียง เส้นกราฟ เครื่อง จะ คอมพิวเตอร์ สัญญาณ ซึ่ง ตัวเลข แสดง รับ จาก เครื่อง ใช้ ให้ เป็น สัญญาณ ซึ่ง อุปมาน 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COF024_Pa024_029 is -7.75981 over 1016 frames.
+COF024_Pa024_030 ซึ่ง รายงาน ว่า มี ฝน ตก เวลา ได้ 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COF024_Pa024_030 is -7.65824 over 381 frames.
+COF024_Pa024_031 มี ประโยชน์ เพื่อ เป็น ที่ ให้ ลง พัด ผ่าน จาก ใต้ถุน ขึ้น บน เรียน 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COF024_Pa024_031 is -8.02158 over 588 frames.
+COF024_Pa024_032 2.2 อุตสาหกรรม ยาแผนปัจจุบัน 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COF024_Pa024_032 is -7.58588 over 460 frames.
+COF024_Pa024_033 ศิลาจารึก ที่ มี เป็น หลักฐาน เอกสาร โบราณ ที่ บ่งบอก การ วัฒนธรรม ทาง ด้าน การ การ โรค อักษร ที่ ปรากฏ บน พื้นฐาน ดิน ไทย ทั้ง แรก 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COF024_Pa024_033 is -7.98404 over 1282 frames.
+COF024_Pa024_034 แต่ สิ้นเปลือง ค่าใช้จ่าย กับ กระดาษ เป็น ด้วย ไม่ จำเป็น 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COF024_Pa024_034 is -7.75895 over 543 frames.
+COF024_Pa024_035 นอกจากนี้ โครงสร้าง ของ คีย์บอร์ด ยัง เป็น โครงสร้าง พื้นฐาน ของ โหมด เป็น กำลัง ทดสอบ ไป 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COF024_Pa024_035 is -8.07891 over 802 frames.
+COM025_Pa025_029 เพื่อ นำ ไป ทำการ ควบคุม การ จึง เส้นกราฟ หรือ ที่ รูป ต่อไป 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COM025_Pa025_029 is -7.94702 over 584 frames.
+COM025_Pa025_030 4 จะ 3 ติดตาม ตรวจ ที่ และ บันทึก กระเบื้อง แดด ตรวจ ฝน แบบ กระดาษ ได้ ของ สำนักงาน ปฏิบัติการ ข้อมูล หรือ สถานี ตัวเลข การ ของ กรง อุดอู้ นิยม นิตยา ที่ ตั้ง อยู่ ที่ จังหวัด ที่ เป็น การ ปฏิบัติการ 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COM025_Pa025_030 is -7.78383 over 2009 frames.
+COM025_Pa025_031 และ เป็น ที่ ทำให้ อากาศ ภายใน หลาย ผ่าน ชง นี้ ได้ 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COM025_Pa025_031 is -7.76166 over 494 frames.
+COM025_Pa025_032 โดย ทั่วไป ประชาชน ไทย นี้ พฤติกรรม การ รักษา การ เจ็บไข้ ของ ตนเอง และ ครอบครัว เป็น 3 แบบ คือ 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COM025_Pa025_032 is -7.72057 over 1090 frames.
+COM025_Pa025_033 ไป อย่างไร พบ จารึก อักษร ขอม โบราณ ใน แถบ ภาคเหนือ ตั้งแต่ จะ ที่ ตาก ขึ้นไป 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COM025_Pa025_033 is -7.87689 over 691 frames.
+COM025_Pa025_034 รายละเอียด ของ ไมโครคอมพิวเตอร์ ชุด แรก ดังนี้ 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COM025_Pa025_034 is -7.92188 over 385 frames.
+COM025_Pa025_035 ช่วง นี้ กระแส การ จับ ค่ำคืน ยัง รวดเร็ว ตาม แรงดันไฟฟ้า ที่สุด เครน 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COM025_Pa025_035 is -7.77734 over 729 frames.
+COM027_Pa027_029 เครื่อง ใช้ แบบ อิเล็กทรอนิกส์ ที่ ศาสนา มี วิธีการ ป้อน คำสั่ง หรือ ข้อมูล ไป วิธี 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COM027_Pa027_029 is -7.49367 over 1115 frames.
+COM027_Pa027_030 ผล ของ การ ประเมิน ประจำวัน วิเคราะห์ สำคัญ ต้องการ กำหนด เป้าหมาย หวัง ผล ใน การ วางแผน ปฏิบัติการ ใน หวาน วันรุ่งขึ้น 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COM027_Pa027_030 is -7.59413 over 1677 frames.
+COM027_Pa027_031 ด้วย มี บันได เป็น ตัวกลาง 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COM027_Pa027_031 is -7.31243 over 385 frames.
+COM027_Pa027_032 การ ใน ว่า การ รักษา ตนเอง และ ก๊าซ พึ่งพา คลาดเคลื่อน บาน นั้น ดังนี้ ความ สำคัญ ต่อ คน ไทย เป็น จำนวน มาก โดยเฉพาะ ใน ชนบท ที่ และ ให้ จะ สถานที่ บริการ ของ รับ 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COM027_Pa027_032 is -7.47806 over 2072 frames.
+COM027_Pa027_033 มี ข้อความ โครงการ ทั้งสอง ด้าน 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COM027_Pa027_033 is -7.49015 over 429 frames.
+COM027_Pa027_034 ความ ใน การ การ ใช้ คอมพิวเตอร์ แปล จึง จึง การ การ การ อีกครั้ง 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COM027_Pa027_034 is -7.56049 over 968 frames.
+COM027_Pa027_035 เพื่อ ให้ เกิด แชนแนล ขึ้น ได้ 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COM027_Pa027_035 is -7.66785 over 274 frames.
+COM030_Pa030_029 หรือ เครื่อง ไม่ สามารถ ปฏิบัติ ตาม ได้ 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COM030_Pa030_029 is -7.62208 over 348 frames.
+COM030_Pa030_030 ซึ่ง จึง การ ยอมรับ จาก ทั้ง ภายใน และ ต่างประเทศ ใน ระดับ 1 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COM030_Pa030_030 is -7.77328 over 657 frames.
+COM030_Pa030_031 ทำมุม 45 องศา 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COM030_Pa030_031 is -7.96611 over 253 frames.
+COM030_Pa030_032 การ ส่งเสริม การ การ สมุนไพร จึง จำเป็น ต้อง พิจารณา ที่ ความรู้ และ ความ สามารถ ของ ประชาชน โดยเฉพาะ การ ชนบท เป็น สำคัญ 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COM030_Pa030_032 is -7.87623 over 1249 frames.
+COM030_Pa030_033 พลังงาน คือ ความ สามารถ ทำงาน 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COM030_Pa030_033 is -7.59877 over 342 frames.
+COM030_Pa030_034 มี ดร. อุดม วโรตม์สิกขดิตถ์ และ ดร. นิตยา กาญจนะวรรณ เป็น หลักฐาน โครงการ 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COM030_Pa030_034 is -7.62431 over 950 frames.
+COM030_Pa030_035 เพื่อ เป็น การ ทบทวน ความเข้าใจ ของ ทุก สร้าง ที่ เกี่ยวข้อง เท่ากับ รัฐบาล และ เอกชน กว่า ศูนย์เทคโนโลยีอิเล็กทรอนิกส์และคอมพิวเตอร์แห่งชาติ มี ความเป็นมา อย่างไร 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COM030_Pa030_035 is -8.07256 over 1319 frames.
+COM032_Pa032_029 ซึ่ง ทำ ได้ ด้วย การ น้ำ ข้อมูล ต่างๆ บันทึก ไว้ ใน รูปแบบ หรือ 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COM032_Pa032_029 is -7.5996 over 659 frames.
+COM032_Pa032_030 เพื่อ ช่วยเหลือ พื้นที่ เกษตร ประจำ และ การ ขาดแคลน น้ำ เพื่อ การ วุฒิพงศ์ บริโภค 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COM032_Pa032_030 is -7.98181 over 603 frames.
+COM032_Pa032_031 ส่วน บน ลง สอบ ตาม ตาม ของ ฝาด เป็น และ 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COM032_Pa032_031 is -7.85481 over 356 frames.
+COM032_Pa032_032 การ เลือก สมุนไพร ที่ จะ พัฒนา ไป การ ใน การ สาธารณสุขมูลฐาน มี หลัก เป็น ที่ จะ ต้อง ยึด ชื่อ ดัง ต่อไปนี้ 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COM032_Pa032_032 is -7.86292 over 904 frames.
+COM032_Pa032_033 ความจริง ดินปืน มี พลังงาน อยู่ ไป แล้ว 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COM032_Pa032_033 is -7.61958 over 412 frames.
+COM032_Pa032_034 และ กับ ต้อง ตัด คำกำกวม 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COM032_Pa032_034 is -7.91153 over 261 frames.
+COM032_Pa032_035 ศูนย์เทคโนโลยีอิเล็กทรอนิกส์และคอมพิวเตอร์แห่งชาติ ตั้ง วิธี ชั้น 6 ของ รักษา สำนักงานปลัดกระทรวงฯ วิทยาศาสตร์ เทคโนโลยี และ การ พลังงาน ถนนพระราม6 พญาไท กรุงเทพฯ 10400 ตาราง ที่ 1 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COM032_Pa032_035 is -7.77585 over 1710 frames.
+COM034_Pa034_029 กลไก ของ เครื่อง จาก บัตร ออก ตาม ต้องการ ด้วย อัตรา เร็ว ของ การ กดดัน อักษร 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COM034_Pa034_029 is -8.09159 over 841 frames.
+COM034_Pa034_030 เพื่อ ระบาย น้ำ ออก จาก ถูก ลง ทะเล 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COM034_Pa034_030 is -7.86608 over 414 frames.
+COM034_Pa034_031 ทำ ชัก ขึ้น เกศ บน นอกชาน ได้ เมื่อ เวลา ค่ำคืน 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COM034_Pa034_031 is -7.92203 over 521 frames.
+COM034_Pa034_032 หรือ เป็น ยา ที่ การ ภายนอก เท่านั้น 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COM034_Pa034_032 is -7.88156 over 348 frames.
+COM034_Pa034_033 นี้ ลักษณะ ใคร บ่งบอก เรียน อย่าง วงล้อเพลตัน 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COM034_Pa034_033 is -7.93825 over 480 frames.
+COM034_Pa034_034 ข้อกำหนด ของ เวิร์ดโปรเซสเซอร์ 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COM034_Pa034_034 is -8.02074 over 313 frames.
+COM034_Pa034_035 คณะกรรมการ ดังกล่าว นี้ รัฐมนตรี กว่า การ กระทรวงฯ วิทยาศาสตร์ เทคโนโลยี และ การ พลังงาน เป็น ประธาน 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COM034_Pa034_035 is -7.99881 over 1122 frames.
+COM036_Pa036_029 แต่ ไม่ได้ ทำ เจาะ บัตร 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COM036_Pa036_029 is -7.35934 over 335 frames.
+COM036_Pa036_030 มี อยู่ เคลือบ ทุก ค่า ของ ประเทศ 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COM036_Pa036_030 is -7.21353 over 386 frames.
+COM036_Pa036_031 ต่อมา บ้านเมือง เจริญ ขึ้น 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COM036_Pa036_031 is -6.97646 over 398 frames.
+COM036_Pa036_032 เพื่อ ให้ เป็น ที่ ยอมรับ ของ บุคคลากร เหล่านี้ 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COM036_Pa036_032 is -7.15892 over 619 frames.
+COM036_Pa036_033 ซึ่ง ให้ การ ไนโตรเจน เหลว โรค ท่อแก้ว 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COM036_Pa036_033 is -7.21625 over 580 frames.
+COM036_Pa036_034 ผลลัพธ์ ที่ ได้ ย่อม ไม่ เหมือนกัน 1 มาตรา ความ คลาดเคลื่อน เปลี่ยนแปลง ของ หรือ ผู้ กับ กระดาษ 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COM036_Pa036_034 is -7.43467 over 1085 frames.
+COM036_Pa036_035 โดย มี รัฐมนตรี เรื่อย ว่า การ กระทรวงฯ เป็น ประธาน เช่นกัน 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COM036_Pa036_035 is -7.05855 over 919 frames.
+COM037_Pa037_029 ถ้า บัตร ถูก เจาะ พบ ต้อง รส ทั้งแผ่น 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COM037_Pa037_029 is -7.90063 over 496 frames.
+COM037_Pa037_030 เนื้อ ก่อไฟ เรื่อง 5 หาง 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COM037_Pa037_030 is -7.47627 over 421 frames.
+COM037_Pa037_031 ด้วย ปรับ พระราชประสงค์ ใน พระบาทสมเด็จพระเจ้าอยู่หัว 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COM037_Pa037_031 is -7.78157 over 728 frames.
+COM037_Pa037_032 จึง จาก ได้ผล ใน การ รักษา 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COM037_Pa037_032 is -7.68605 over 387 frames.
+COM037_Pa037_033 โลหะ ตรง ที่ ถูก แสง จาก หลอม 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COM037_Pa037_033 is -7.92 over 495 frames.
+COM037_Pa037_034 4.3.1 ส่วน ของ ซอฟท์แวร์ 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COM037_Pa037_034 is -7.59942 over 513 frames.
+COM037_Pa037_035 รวมทั้ง ติดตาม ประเมินผล การ ดำเนินงาน ของ ศูนย์ฯ 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COM037_Pa037_035 is -7.82792 over 714 frames.
+COM040_Pa040_029 ซึ่ง ถ้า การ วิธี บัตร ด้วย เครื่อง บัตร 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COM040_Pa040_029 is -8.04933 over 456 frames.
+COM040_Pa040_030 ซึ่ง เกิดขึ้น เป็น ครั้งคราว ใน เอา เบงกอล 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COM040_Pa040_030 is -8.02403 over 470 frames.
+COM040_Pa040_031 เท่าๆ รู้จัก การ สมุนไพร ซึ่ง เป็น พืช ที่ มี สรรพคุณ ใน การ รักษา โรค บัตร ชนิด 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COM040_Pa040_031 is -7.96929 over 866 frames.
+COM040_Pa040_032 สรรพคุณ และ วิธีใช้ 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COM040_Pa040_032 is -7.98952 over 298 frames.
+COM040_Pa040_033 เวลา เตรียมตัว จาก เข้าเฝ้า 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COM040_Pa040_033 is -7.64872 over 348 frames.
+COM040_Pa040_034 ศูนย์ฯ วิจัย อิเล็กทรอนิกส์ และ ภาควิชา อิเล็กทรอนิกส์ 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COM040_Pa040_034 is -7.97036 over 525 frames.
+COM040_Pa040_035 สำหรับ ภารกิจ ที่ จึง มอบหมาย จะ ดำเนินงาน ภายใต้ สำนักงานปลัดกระทรวงฯ 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COM040_Pa040_035 is -8.00475 over 816 frames.
+COM043_Pa043_029 ใน ทำนอง เดียวกัน กับ การ เตรียม ข้อมูล ลง แถบแม่เหล็ก เรา สามารถ เรียง ข้อมูล จาก ปั้น อักษร ลง สุชาติ ตลับ จะ แม่เหล็ก และ ดิสเกตต์ ได้ เช่นกัน 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COM043_Pa043_029 is -8.44735 over 1208 frames.
+COM043_Pa043_030 เป็น ไป ด้วย สัตว์ หาย นานา ชนิด เช่น งูพิษ ตะขาบ แมงป่อง 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COM043_Pa043_030 is -7.79249 over 749 frames.
+COM043_Pa043_031 รอบ ตาราง โรค จะ มี สรรพคุณ ใน 9 รักษา โรค ใน เหมือนกัน 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COM043_Pa043_031 is -8.4948 over 515 frames.
+COM043_Pa043_032 ระงับ อาการ จึง กับ เสมหะ 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COM043_Pa043_032 is -8.32413 over 322 frames.
+COM043_Pa043_033 คง เป็น รอย คิด ฝน การ พบ อยู่ กับ บน เหลว 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COM043_Pa043_033 is -8.44622 over 431 frames.
+COM043_Pa043_034 และ เกิด การ ที่ ตลาด ได้ ง่าย 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COM043_Pa043_034 is -8.29712 over 287 frames.
+COM043_Pa043_035 1 โครงการ เทคโนโลยี ระบบ ใช้ 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COM043_Pa043_035 is -8.31309 over 425 frames.
+COM044_Pa044_029 และ แถบ หรือ จาน แม่เหล็ก จิระศักดิ์ เครื่องกัด ข้อมูล แบบ ต่างๆ ก็ มี จำนวน มาก 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COM044_Pa044_029 is -8.07699 over 551 frames.
+COM044_Pa044_030 เพราะ มี อายุ กับ ตก หนัก 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COM044_Pa044_030 is -8.47583 over 180 frames.
+COM044_Pa044_031 นอกจากนั้น ดัง ตำรวจ ผู้ใช้ ที่ ยา ประกอบ กัน เป็น เครื่องยา 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COM044_Pa044_031 is -7.98217 over 545 frames.
+COM044_Pa044_032 ให้ นำเอา ขมิ้น ประคบ อนึ่ง ขมิ้น ถ้า บทเรียน ที่ ถูก กับ 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COM044_Pa044_032 is -8.28303 over 487 frames.
+COM044_Pa044_033 พบ ลงมา การ ข้อพระหัตถ์ 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COM044_Pa044_033 is -7.81859 over 227 frames.
+COM044_Pa044_034 สถาบันเทคโนโลยีพระจอมเกล้าลาดกระบัง 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COM044_Pa044_034 is -8.12532 over 283 frames.
+COM044_Pa044_035 2 โครงการ ออกแบบ วงจรรวม ขนาด ใหญ่ มาก 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COM044_Pa044_035 is -7.81132 over 441 frames.
+COM046_Pa046_029 ด้วย เชื่อม สถานี ป้อน ข้อมูล หลายๆ สถานี เข้า ด้วย การ 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COM046_Pa046_029 is -8.05512 over 560 frames.
+COM046_Pa046_030 เพื่อ ถ่ายเท ควันไฟ ออก จาก เรือนครัว ได้ สะดวก 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COM046_Pa046_030 is -7.97516 over 529 frames.
+COM046_Pa046_031 เพราะ เรา มี สมุนไพร หลาย ชนิด ที่ มี วิธีการ พุ่ง ง่ายๆ ไม่ ซับซ้อน 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COM046_Pa046_031 is -7.8155 over 761 frames.
+COM046_Pa046_032 เพื่อ รักษา อาการ ของ หรือ เฟ้อ อาหาร ใน รอย 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COM046_Pa046_032 is -7.76804 over 527 frames.
+COM046_Pa046_033 หนุ่มหนุ่ม แล้ว เจ้าชู้ ลูกผู้ดี เห็น ชัดเจน รูป น้ำ ตาม เป็น พรวน 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COM046_Pa046_033 is -7.80264 over 804 frames.
+COM046_Pa046_034 วุฒิพงศ์ เตชะดำรงสิน 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COM046_Pa046_034 is -7.582 over 356 frames.
+COM046_Pa046_035 4 โครงการ คอมพิวเตอร์ อิเล็กทรอนิกส์ ทาง การแพทย์ 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COM046_Pa046_035 is -7.85449 over 576 frames.
+COM047_Pa047_029 ส่วน การ จะ ดำ กับ ต้อง หลัง ใน การ บันทึก แถบ ที่ จาน แม่เหล็ก นั้น ควบคุม ด้วย ใช้ 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COM047_Pa047_029 is -8.06265 over 865 frames.
+COM047_Pa047_030 ฤดูหนาว ตาม กว่า ภาคกลาง มาก 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COM047_Pa047_030 is -7.92876 over 380 frames.
+COM047_Pa047_031 เช่น จะ ได้ ว่า สมุนไพร สามารถ ช่วย รักษา โรค และ อาการ เจ็บป่วย เล็กๆน้อยๆ ดื้อยา อย่าง 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COM047_Pa047_031 is -8.04426 over 827 frames.
+COM047_Pa047_032 ทิ้ง ค้างคืน ไม่ 1 ขึ้น 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COM047_Pa047_032 is -7.90874 over 266 frames.
+LOG (apply-cmvn[5.5.1009~1-e4940]:main():apply-cmvn.cc:162) Applied cepstral mean normalization to 168 utterances, errors on 0
+COM047_Pa047_033 เครื่องแบบ เก่า ทำให้ เสีย พระเกียรติยศ ด้วย 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COM047_Pa047_033 is -7.93252 over 497 frames.
+COM047_Pa047_034 ไมครอน มี ที่ ลูกค้า ขยาย ตก สามารถ ที่ จะ ทำ ได้ โดย การ ใส่ เล็ก ที่ โต๊ะ เดิม และ เล็ก ที่ ตก ใน บน จอภาพ 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COM047_Pa047_034 is -7.86873 over 1215 frames.
+COM047_Pa047_035 5 โครงการ การ พัฒนา วงจรอิเล็กทรอนิกส์ เพื่อ อุตสาหกรรม 
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance COM047_Pa047_035 is -7.98385 over 670 frames.
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:main():gmm-latgen-faster.cc:176) Time taken 26.1194s: real-time factor assuming 100 frames/sec is 0.0248998
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:main():gmm-latgen-faster.cc:179) Done 168 utterances, failed for 0
+LOG (gmm-latgen-faster[5.5.1009~1-e4940]:main():gmm-latgen-faster.cc:181) Overall log-likelihood per frame is -7.78664 over 104898 frames.
+# Accounting: time=26 threads=1
+# Ended (code 0) at Thu Mar 17 09:39:47 UTC 2022, elapsed time 26 seconds

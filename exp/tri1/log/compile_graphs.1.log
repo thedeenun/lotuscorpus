@@ -1,0 +1,29 @@
+# compile-train-graphs --read-disambig-syms=data/lang/phones/disambig.int exp/tri1/tree exp/tri1/1.mdl data/lang/L.fst "ark:utils/sym2int.pl --map-oov 47 -f 2- data/lang/words.txt < data/train/split1/1/text |" "ark:|gzip -c >exp/tri1/fsts.1.gz" 
+# Started at Thu Mar 17 09:40:00 UTC 2022
+#
+compile-train-graphs --read-disambig-syms=data/lang/phones/disambig.int exp/tri1/tree exp/tri1/1.mdl data/lang/L.fst 'ark:utils/sym2int.pl --map-oov 47 -f 2- data/lang/words.txt < data/train/split1/1/text |' 'ark:|gzip -c >exp/tri1/fsts.1.gz' 
+sym2int.pl: replacing ดี.ซี.พลานาร์แมกนิตรอย with 47
+sym2int.pl: replacing แสดงออก with 47
+sym2int.pl: replacing กราฟฟิก with 47
+sym2int.pl: replacing อัตราส่วน with 47
+sym2int.pl: replacing ที่1 with 47
+sym2int.pl: replacing โต๊ะงาน with 47
+sym2int.pl: replacing ดี.ซี.พลานาร์แมกนิตรอย with 47
+sym2int.pl: replacing แสดงออก with 47
+sym2int.pl: replacing กราฟฟิก with 47
+sym2int.pl: replacing ที่จะ with 47
+sym2int.pl: replacing หลักเกณฑ์ with 47
+sym2int.pl: replacing ยึดถือ with 47
+sym2int.pl: replacing ดังต่อไปนี้ with 47
+sym2int.pl: replacing 23 with 47
+sym2int.pl: replacing แนวโพลาไรช์ with 47
+sym2int.pl: replacing ตั้งฉาก with 47
+sym2int.pl: replacing จะต้อง with 47
+sym2int.pl: replacing ออกไป with 47
+sym2int.pl: replacing ลาดเท with 47
+sym2int.pl: replacing ลาดเท with 47
+sym2int.pl: not warning for OOVs any more times
+** Replaced 179 instances of OOVs with 47
+LOG (compile-train-graphs[5.5.1009~1-e4940]:main():compile-train-graphs.cc:147) compile-train-graphs: succeeded for 671 graphs, failed for 0
+# Accounting: time=3 threads=1
+# Ended (code 0) at Thu Mar 17 09:40:03 UTC 2022, elapsed time 3 seconds

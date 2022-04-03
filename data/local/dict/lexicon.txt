@@ -1,5 +1,5 @@
 !SIL	sil
-<unk>	sp
+<UNK>	sp
 การ	k aa n^ 
 แข่งขัน	kh x ng^ kh a n^ 
 จะ	c a 

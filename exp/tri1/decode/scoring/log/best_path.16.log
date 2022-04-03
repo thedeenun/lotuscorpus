@@ -1,0 +1,344 @@
+# lattice-best-path --lm-scale=16 --word-symbol-table=exp/tri1/graph/words.txt "ark:gunzip -c exp/tri1/decode/lat.*.gz|" ark,t:exp/tri1/decode/scoring/16.tra 
+# Started at Thu Mar 17 09:41:29 UTC 2022
+#
+lattice-best-path --lm-scale=16 --word-symbol-table=exp/tri1/graph/words.txt 'ark:gunzip -c exp/tri1/decode/lat.*.gz|' ark,t:exp/tri1/decode/scoring/16.tra 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COF001_Pa001_029, best cost 1160.77 + 32154.3 = 33315.1 over 343 frames.
+COF001_Pa001_029 ดรัม แม่เหล็ก เป็น วัตถุ รูป ทรงกระบอก 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COF001_Pa001_030, best cost 1971.56 + 52970.1 = 54941.7 over 563 frames.
+COF001_Pa001_030 และ สามารถ อ่าน ข้อมูล จาก เช็ค ที่ มี รอยพับ และ เปรอะเปื้อน ได้ ด้วย 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COF001_Pa001_031, best cost 1203.81 + 31116.7 = 32320.5 over 340 frames.
+COF001_Pa001_031 การ ทำ ด้วย ใน สาร ฟาก ซาก 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COF001_Pa001_032, best cost 2419.17 + 73166.4 = 75585.5 over 817 frames.
+COF001_Pa001_032 ใน ตำรับ ย่าน นอกจาก พืชสมุนไพร แล้ว ยัง อาจ ประกอบด้วย ทราบ และ แร่ธาตุ อีกด้วย 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COF001_Pa001_033, best cost 2463.67 + 60679 = 63142.7 over 680 frames.
+COF001_Pa001_033 ให้ ถ้า ชาว และ เย็น หลัง อาบน้ำ ทุกวัน ติด กัน ประมาณ 2 ศัพท์ ดาบ 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COF001_Pa001_034, best cost 1108.54 + 25158.4 = 26267 over 287 frames.
+COF001_Pa001_034 ใส่ เสื้อ เปิด ขอ แบบ ฝรั่ง 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COF001_Pa001_035, best cost 1228.43 + 52791.9 = 54020.3 over 590 frames.
+COF001_Pa001_035 2.1.5 ระบบ จัดการ โต๊ะ ประกอบด้วย 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COF002_Pa002_029, best cost 1656.61 + 44354.1 = 46010.7 over 494 frames.
+COF002_Pa002_029 แต่ ภายใน มี ใส่ ไฟฟ้า อาจ ต่อ เขา เครื่อง ใช้ 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COF002_Pa002_030, best cost 1059.44 + 29813.2 = 30872.6 over 331 frames.
+COF002_Pa002_030 ต้อง เสียชีวิต ไป ราศี ร้าย 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COF002_Pa002_031, best cost 742.67 + 21465.6 = 22208.3 over 248 frames.
+COF002_Pa002_031 มี ประตู 1 บาน 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COF002_Pa002_032, best cost 1642.3 + 61648 = 63290.3 over 642 frames.
+COF002_Pa002_032 ซึ่ง มี ปรากฏ อยู่ ใน ตำรา ยาแผนโบราณ ที่ รัฐมนตรี 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COF002_Pa002_033, best cost 729.585 + 26840.2 = 27569.8 over 286 frames.
+COF002_Pa002_033 การ อาการ ท้องอืด ของ 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COF002_Pa002_034, best cost 1019.36 + 27753.2 = 28772.6 over 299 frames.
+COF002_Pa002_034 ต่อมา ได้แก่ ทาง ปรับปรุง องค์ 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COF002_Pa002_035, best cost 4007.23 + 119395 = 123402 over 1280 frames.
+COF002_Pa002_035 อย่างไรก็ตาม ถ้า จะ นำ ไป การ นั้น กับ ร้านอาหาร ขนาด ใหญ่ ที่ มี ลูกค้า มาก จำนวน โต๊ะ ตั้งแต่ 50 ตก ขึ้นไป อาจ ทำงาน ไม่ ผ่าน 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COF004_Pa004_029, best cost 2924.51 + 84426 = 87350.5 over 923 frames.
+COF004_Pa004_029 อัตรา เหลว ของ การ พิมพ์ ข้อมูล ข้าว จาก ขึ้นอยู่ กับ ความ สามารถ ของ พนักงาน ที่ ทำ การ พิมพ์ ขึ้น 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COF004_Pa004_030, best cost 892.838 + 28047 = 28939.8 over 321 frames.
+COF004_Pa004_030 เพื่อ มี ให้ ลุกลาม ต่อไป 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COF004_Pa004_031, best cost 1312.19 + 39565 = 40877.2 over 446 frames.
+COF004_Pa004_031 เนื่องจาก การ ตก เป็น เครื่องมือ จับ ตราบ 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COF004_Pa004_032, best cost 1690.99 + 68780.5 = 70471.5 over 755 frames.
+COF004_Pa004_032 การ เหง้าว่านน้ำ รากเจตมูลเพลิง รัฐ แถบ แต่ และ รากนมสวรรค์ 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COF004_Pa004_033, best cost 1498.82 + 36568.2 = 38067 over 415 frames.
+COF004_Pa004_033 จะ ทำให้ แพทย์ หาย สนิท เป็น เดือย เดียว การ 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COF004_Pa004_034, best cost 1233.72 + 33861.7 = 35095.4 over 384 frames.
+COF004_Pa004_034 ลง ที่ เรา ไป ไทย ไทย เพทุบาย 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COF004_Pa004_035, best cost 1363.19 + 34013.2 = 35376.4 over 389 frames.
+COF004_Pa004_035 แต่ ค่า เป็น การ ไทย ทะเล ข้างล่าง 8 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COF005_Pa005_029, best cost 2211.48 + 66749.4 = 68960.9 over 694 frames.
+COF005_Pa005_029 แต่ การ แสดงผล จะ การ อยู่ กับ ออกแบบ อุปกรณ์ ต่างๆ ที่ การ กับ เครื่องพิมพ์ นี้ 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COF005_Pa005_030, best cost 1622.42 + 47827.2 = 49449.6 over 510 frames.
+COF005_Pa005_030 และ จะ สูญเสีย ความ รู้สึก ใน ส่วน ที่ เป็น อัมพาต ด้วย 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COF005_Pa005_031, best cost 1554.2 + 42012.2 = 43566.4 over 437 frames.
+COF005_Pa005_031 ทำ หน้าที่ ไทย น้ำหนัก จาก เสา ลง สูง ว่า 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COF005_Pa005_032, best cost 958.372 + 35930 = 36888.4 over 387 frames.
+COF005_Pa005_032 นอกจากนี้ ยังมี มาตรา โบราณ 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COF005_Pa005_033, best cost 1674.87 + 41438.1 = 43113 over 430 frames.
+COF005_Pa005_033 เหล่า โขลก ให้ พอ แรก ใส่ ลง ใน น้ำ 1 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COF005_Pa005_034, best cost 1408.23 + 32619.5 = 34027.7 over 343 frames.
+COF005_Pa005_034 สาย สาย สาย 1 ก็ การ สลึง ฝรั่ง 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COF005_Pa005_035, best cost 1158.29 + 43667.1 = 44825.4 over 454 frames.
+COF005_Pa005_035 เครื่องต้นแบบ เครื่อง ที่ 1 มี บล๊อคไดอะแกรม 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COF007_Pa007_029, best cost 1188.48 + 41233.8 = 42422.3 over 466 frames.
+COF007_Pa007_029 คือ การ คง รอบ ที่ มี ตัวอักษร 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COF007_Pa007_030, best cost 4350.51 + 121561 = 125912 over 1351 frames.
+COF007_Pa007_030 และ พบว่า ควร นม รูป ผสม ข้าว ดำ ควร สัตว์ ใกล้ 4 เขียน กับ โค พื้นเมือง เป็น คน รม รูป ผสม ที่ ให้ นม ขีด ที่สุด 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COF007_Pa007_031, best cost 2277.65 + 63666.5 = 65944.1 over 709 frames.
+COF007_Pa007_031 ด้วย เจาะ ทัน ขึ้น เป็น ปลูก กว้าง กว่า พรวน เขียน พอ สวม เขา ได้ 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COF007_Pa007_032, best cost 1046.89 + 38558.7 = 39605.5 over 432 frames.
+COF007_Pa007_032 ปกติ การ สมุนไพร เช่น ชง 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COF007_Pa007_033, best cost 1371.37 + 35892.2 = 37263.6 over 408 frames.
+COF007_Pa007_033 จาก ช่วย ให้ หาย เคล็ด ขาด ยา ออก 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COF007_Pa007_034, best cost 1745.85 + 53045.8 = 54791.6 over 610 frames.
+COF007_Pa007_034 แต่ จะ ส่วน อยู่ การ อายุ 6 หรือ 7 ขวบ เท่านั้น 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COF007_Pa007_035, best cost 1088.29 + 46631.4 = 47719.7 over 538 frames.
+COF007_Pa007_035 ดร. กฤษณพงศ์ เคลียร์ ได้ ตอน 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COF008_Pa008_029, best cost 1257.16 + 37688.6 = 38945.8 over 405 frames.
+COF008_Pa008_029 โดย ทำให้ การ มี ประจุ ไฟฟ้า ลบ 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COF008_Pa008_030, best cost 774.936 + 43523.7 = 44298.6 over 461 frames.
+COF008_Pa008_030 1.3 กระบืองาน 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COF008_Pa008_031, best cost 926.789 + 29865.4 = 30792.2 over 306 frames.
+COF008_Pa008_031 และ การ กับ ดั้งแขวน เท่านั้น 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COF008_Pa008_032, best cost 1241.31 + 31222 = 32463.3 over 323 frames.
+COF008_Pa008_032 ก็ จัดซื้อ จำ เร็ว ขวา กำหนด ได้ 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COF008_Pa008_033, best cost 1068.18 + 30389.8 = 31458 over 330 frames.
+COF008_Pa008_033 และ เปลี่ยน ขนาน และ นี้ กระดาษ 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COF008_Pa008_034, best cost 825.479 + 27172.1 = 27997.6 over 293 frames.
+COF008_Pa008_034 จะ ขาด อิเล็กตรอน ตัว 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COF008_Pa008_035, best cost 2252.39 + 82038.7 = 84291.1 over 897 frames.
+COF008_Pa008_035 ซึ่ง โปรแกรม จะ ทำ หน้าที่ เลียนแบบ เหมือนกัน วงจรรีเลย์ ตัวตั้งเวลา และ ตัวนับ 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COF009_Pa009_029, best cost 2540.65 + 74937.5 = 77478.1 over 768 frames.
+COF009_Pa009_029 เมื่อ จึง สัญญาณ เค็ม จะ ผู้ ออกมา ชิ้น กัน ตัวอักษร ตาม รหัส ของ ข้อมูล ต่างๆ 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COF009_Pa009_030, best cost 948.446 + 27118.3 = 28066.7 over 282 frames.
+COF009_Pa009_030 เฉลี่ย ขอ กล่าว 16 ตัว 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COF009_Pa009_031, best cost 1290.25 + 41843.6 = 43133.8 over 449 frames.
+COF009_Pa009_031 ยาว รอบ การ ขาด ทำ หน้าที่ รับประทาน 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COF009_Pa009_032, best cost 1437.56 + 42815.8 = 44253.4 over 456 frames.
+COF009_Pa009_032 ประชาชน ยัง ขาด ความ รูป ความเข้าใจ เรื่อง ย่าน 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COF009_Pa009_033, best cost 1809.48 + 50961.5 = 52771 over 532 frames.
+COF009_Pa009_033 การ วุ้น แปะ แผล ใน ปาก หรือ พาด ที่ ริมฝีปาก บ่อยๆ 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COF009_Pa009_034, best cost 1162.36 + 32967.4 = 34129.7 over 361 frames.
+COF009_Pa009_034 จน ดู เหมือนว่า และ ควร กระดาษ ได้ 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COF009_Pa009_035, best cost 2415.12 + 64900.5 = 67315.6 over 675 frames.
+COF009_Pa009_035 การ ทำงาน ด้วย ซอฟท์แวร์ ซึ่ง ไม่ มี ตัวตน นี้ จึง ไม่ มี การ เขื่อน ที่ ทาง ควร 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COF011_Pa011_029, best cost 1354.61 + 41392.3 = 42746.9 over 441 frames.
+COF011_Pa011_029 ตัวอักษร นั้น จะ ปรากฏ ขึ้น บน บน โทรทัศน์ 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COF011_Pa011_030, best cost 3305.61 + 138945 = 142250 over 1576 frames.
+COF011_Pa011_030 ประกอบด้วย ผล ถ้า 4 ย่าน แคลเซียม โซเดียม แมกนีเซียม ฟอสฟอรัส เขา ไหล ซิเทรต เล็ก ทองแดง และ ไอโอดีน 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COF011_Pa011_031, best cost 1155.65 + 35808 = 36963.6 over 391 frames.
+COF011_Pa011_031 การ ช่วย รับ ส่วน เรียน ของ กระเบื้อง 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COF011_Pa011_032, best cost 1133.85 + 34067.4 = 35201.3 over 377 frames.
+COF011_Pa011_032 และ จาก การ ที่ ขึ้น มี คู่แข่งขัน มาก 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COF011_Pa011_033, best cost 1215.26 + 27488.5 = 28703.8 over 295 frames.
+COF011_Pa011_033 ผ้า คลุม ชั้น เนื้อ มี 5 4 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COF011_Pa011_034, best cost 1208.48 + 53666.3 = 54874.8 over 615 frames.
+COF011_Pa011_034 สอบ เกาะ ทรานซิสเตอร์ การ ประโยชน์ ใช้งาน 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COF011_Pa011_035, best cost 1477.72 + 53807.7 = 55285.5 over 601 frames.
+COF011_Pa011_035 ผู้ใช้ จะ ตั้ง เขียน โปรแกรม ผู้ใช้ ทิ้ง ตอน 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COF014_Pa014_029, best cost 1603.56 + 55436.5 = 57040 over 641 frames.
+COF014_Pa014_029 ก็ สามารถ และ ออกมา แสดง บน บน โทรทัศน์ ได้ 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COF014_Pa014_030, best cost 1449.43 + 43929.9 = 45379.4 over 483 frames.
+COF014_Pa014_030 เคลือบ ด้วย วัสดุ ต่าง ต่าง การ เก็บ ทัน 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COF014_Pa014_031, best cost 1076.57 + 38363.9 = 39440.5 over 442 frames.
+COF014_Pa014_031 หน้าจั่ว ที่ นิยม ทำ มี ดังนี้ 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COF014_Pa014_032, best cost 1978.09 + 81607.9 = 83586 over 896 frames.
+COF014_Pa014_032 เมื่อ พิจารณา รัฐ การ ของ สมุนไพร ใน ประเทศ ที่ พัฒนา และ 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COF014_Pa014_033, best cost 1237.31 + 41812.7 = 43050 over 454 frames.
+COF014_Pa014_033 จึง นิยม ภาค จาก อยู่ เรา อีกด้วย 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COF014_Pa014_034, best cost 1360.72 + 50657.7 = 52018.5 over 566 frames.
+COF014_Pa014_034 กล่าวคือ เขื่อน แสดง เลเซอร์ มี ความ พร้อมเพรียง 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COF014_Pa014_035, best cost 4963.95 + 214961 = 219925 over 2428 frames.
+COF014_Pa014_035 นอกจากนี้ ยังมี ขึ้น นักศึกษา ที่ ได้ ช่วย ที่ และ ทดสอบ วงจร เรื่อง จิระศักดิ์ ตันปรียชญา อาจ ผิด ดิบ น้ำ 7 ขณะ ลม และ กิติพจน์ สิทธิเลิศพิศาล 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COF017_Pa017_029, best cost 2991.6 + 86017.9 = 89009.5 over 958 frames.
+COF017_Pa017_029 อย่างไรก็ตาม ใน ปัจจุบัน มี เครื่อง รับ 2 แบบ จะ โทรทัศน์ บาง แบบ สามารถ พิมพ์ ข่าวสาร ไม่ ดู ได้ ด้วย 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COF017_Pa017_030, best cost 1302.66 + 35474.1 = 36776.8 over 378 frames.
+COF017_Pa017_030 และ กลายเป็น แกน การ ตัว แบบ แกน แข็ง 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COF017_Pa017_031, best cost 2548.71 + 73051.6 = 75600.3 over 777 frames.
+COF017_Pa017_031 ที่ ชื่อ ตาม ลักษณะ ของ รูปร่าง เช่น กระเบื้อง หาง มน กระเบื้อง หาง ตาก กระเบื้อง คอก 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COF017_Pa017_032, best cost 2199.67 + 75242.1 = 77441.8 over 818 frames.
+COF017_Pa017_032 เนื่องจาก ขวบ ความ เป็นพิษ แหล่ง จาก ยา และ และ ตกค้าง กระบวนการ และ 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COF017_Pa017_033, best cost 2016.67 + 43932.8 = 45949.5 over 481 frames.
+COF017_Pa017_033 ใส่ เสื้อ โค หวี กล่าว ข้อกำหนด สั่ง เรียน เอา สวม รส 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COF017_Pa017_034, best cost 1345.87 + 33283.8 = 34629.7 over 372 frames.
+COF017_Pa017_034 เมื่อ อาศัย ก๊าซ เป็น ตรวจ การ ใน เสนอ 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COF017_Pa017_035, best cost 2181.83 + 49121.6 = 51303.4 over 522 frames.
+COF017_Pa017_035 ลด ที่ 3 เส้นกราฟ ค้นหา พุ่ง ของ 9 เอง ผิด ภาค 4 ที่ 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COF020_Pa020_029, best cost 1873.17 + 54881.4 = 56754.6 over 636 frames.
+COF020_Pa020_029 เมื่อ เปลี่ยน ที่ ยาก กับ อาการ ถ่ายทอด ข้อมูล ของ เครื่อง ใช้ 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COF020_Pa020_030, best cost 4708.99 + 136639 = 141348 over 1605 frames.
+COF020_Pa020_030 เพราะ และ สถานที่ ให้ การ เป็น และ วิชาการ และ เทคนิค ใน การ ปฏิบัติการ ฝน หลวง ใน ผู้ จะ สัตว์ ตลาด 2516 เป็นต้นมา หาย จน ตาก ข้าว ทุก วันนี้ 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COF020_Pa020_031, best cost 1723.37 + 45434 = 47157.4 over 515 frames.
+COF020_Pa020_031 ถ้า มุง ด้วย กระเบื้อง การ กระเบื้อง พอก เป็น ส่วน ดิบ 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COF020_Pa020_032, best cost 1328.67 + 36399.6 = 37728.3 over 419 frames.
+COF020_Pa020_032 การ ที่ จาก พัฒนา นำ ใช้ ไม้ อีกครั้ง 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COF020_Pa020_033, best cost 1837.37 + 69176.5 = 71013.9 over 799 frames.
+COF020_Pa020_033 การ เป็น ทาง ผ้านุ่ง ผ้าเช็ดตัว ผ้าเคียนพุง มือ และ ผ้าพาดไหล่ 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COF020_Pa020_034, best cost 2140.18 + 72275.3 = 74415.5 over 851 frames.
+COF020_Pa020_034 เลเซอร์ ทำ ขึ้น จาก ของ แทน ก๊าซ ของเหลว และ สาร การ ตัวนำ 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COF020_Pa020_035, best cost 3345.95 + 89933.1 = 93279.1 over 1046 frames.
+COF020_Pa020_035 จาก การ ทดลอง พบว่า โครงสร้าง ของ สาร ตัว นำ ยิ่ง อยู่ ที่ ที่ จะ เห็น อยู่ ใน ระบบ พอ ทดลอง ดิบ 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COF024_Pa024_029, best cost 3209.91 + 91529.5 = 94739.4 over 1016 frames.
+COF024_Pa024_029 ใน การ เขียน เส้นกราฟ เครื่อง จับ และ สัญญาณ ซึ่ง ตรวจ เล็ก ซึ่ง จึง จาก เครื่อง ใช้ ให้ เป็น สัญญาณ ซึ่ง อุปมาน 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COF024_Pa024_030, best cost 1372.44 + 33967.2 = 35339.7 over 381 frames.
+COF024_Pa024_030 ซึ่ง รายงาน วาด มี ฝน ตก เวลา ร้าย 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COF024_Pa024_031, best cost 2187.65 + 54292.6 = 56480.3 over 588 frames.
+COF024_Pa024_031 มี ประโยชน์ เพื่อ เป็น ที่ ให้ ลม พัด ผ่าน จาก ใต้ถุน ขึ้น บน เรียน 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COF024_Pa024_032, best cost 867.274 + 40800.6 = 41667.9 over 460 frames.
+COF024_Pa024_032 2.2 อุตสาหกรรม ยาแผนปัจจุบัน 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COF024_Pa024_033, best cost 4012.27 + 119488 = 123501 over 1282 frames.
+COF024_Pa024_033 ศิลาจารึก ชิ้น นี้ เป็น หลักฐาน เอกสาร โบราณ ที่ บ่งบอก การ วัฒนธรรม ทั้ง ด้าน การ การ รูป อักษร ที่ ปรากฏ บน การ แผ่นดิน ไทย ทั้ง และ 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COF024_Pa024_034, best cost 1561.62 + 49318.9 = 50880.5 over 543 frames.
+COF024_Pa024_034 แต่ สิ้นเปลือง ค่าใช้จ่าย กับ กระดาษ เป็น โดย ไม่ จำเป็น 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COF024_Pa024_035, best cost 2374.45 + 75414.4 = 77788.9 over 802 frames.
+COF024_Pa024_035 นอกจากนี้ โครงสร้าง ของ ดี นอก ยัง เป็น โครงสร้าง พื้นฐาน ของ กำลัง ทั่ว ทั่วไป 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COM025_Pa025_029, best cost 1941.67 + 53612.1 = 55553.8 over 584 frames.
+COM025_Pa025_029 เพื่อ นำ ไป ทำการ ควบคุม การ เขียน เส้นกราฟ หรือ ที่ รูป ต่อไป 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COM025_Pa025_030, best cost 5692.26 + 181582 = 187275 over 2009 frames.
+COM025_Pa025_030 4 จะ 3 ติดตาม ตรวจ ที่ และ บันทึก ฝน แบบ กระดาษ กลาย ของ สำนักงาน ปฏิบัติการ ฝน หลวง หรือ สถานี โต ของ รม อุดอู้ นิยม วิธี ยา ที่ ตั้ง อยู่ ที่ จังหวัด ที่ เป็น ผ่าน ปฏิบัติการ 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COM025_Pa025_031, best cost 1676.02 + 44254.7 = 45930.7 over 494 frames.
+COM025_Pa025_031 และ เป็น ที่ ทำให้ อากาศ ภายใน ไหล ผ่าน ช่อง นี้ ได้ 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COM025_Pa025_032, best cost 2955.05 + 97632.2 = 100587 over 1090 frames.
+COM025_Pa025_032 ด้วย ทั่วไป ประชาชน ไทย มี ที่ ที่ จำ การ รักษา การ เจ็บไข้ ของ ตนเอง และ ครอบครัว เป็น 3 แบบ 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COM025_Pa025_033, best cost 2573.28 + 62870.4 = 65443.7 over 691 frames.
+COM025_Pa025_033 แต่ อย่าง ไม่ พบ จารึก อักษร ขอม โบราณ ใน แถบ ภาคเหนือ ตั้งแต่ จังหวัด ตาก ขึ้นไป 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COM025_Pa025_034, best cost 1226.7 + 35708.5 = 36935.2 over 385 frames.
+COM025_Pa025_034 รายละเอียด ของ ไมโครคอมพิวเตอร์ ชุด แรก ดัง นี้ 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COM025_Pa025_035, best cost 2278.93 + 66040.6 = 68319.5 over 729 frames.
+COM025_Pa025_035 ช่วง นี้ กระแส เขื่อน จะ เพิ่ม การ ยัง รวดเร็ว ตาม แรงดันไฟฟ้า ที่ ส่วน เขื่อน 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COM027_Pa027_029, best cost 2642.96 + 98024.2 = 100667 over 1115 frames.
+COM027_Pa027_029 เครื่อง ใช้ และ อิเล็กทรอนิกส์ ที่ สาร ขึ้นมา มี วิธีการ ป้อน คำสั่ง หรือ ข้อมูล สาย วิธี 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COM027_Pa027_030, best cost 4100.44 + 149013 = 153114 over 1677 frames.
+COM027_Pa027_030 ผล ของ การ ประเมิน ประจำวัน วิเคราะห์ สำคัญ ต่อ การ กำหนด เป้าหมาย หวัง ผล ใน การ วางแผน ปฏิบัติ การ ใน หวาน รวง ขึ้น 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COM027_Pa027_031, best cost 937.876 + 32983.7 = 33921.6 over 385 frames.
+COM027_Pa027_031 ด้วย นี้ บันได เป็น ตัวกลาง 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COM027_Pa027_032, best cost 5855 + 180876 = 186731 over 2072 frames.
+COM027_Pa027_032 จะ ที่ ใน ว่า การ รักษา ตนเอง และ การ การ ภาค แพทย์ พื้น บาน นั้น ยังมี ความ สำคัญ ต่อ ผล ไทย เป็น จำนวน แหลก โดยเฉพาะ ใน ชนบท ขีด หาง ใกล้ จาก สถานที่ บริการ ของ เป็น 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COM027_Pa027_033, best cost 1173.92 + 37792.1 = 38966.1 over 429 frames.
+COM027_Pa027_033 มี คอก ความ โครงการ ทั้งสอง ด้าน 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COM027_Pa027_034, best cost 2226.47 + 85959.3 = 88185.7 over 968 frames.
+COM027_Pa027_034 ความ ใน การ การ คอมพิวเตอร์ และ ประสาร จึง จึง การ การ ขึ้น อีกครั้ง 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COM027_Pa027_035, best cost 994.508 + 24458.1 = 25452.6 over 274 frames.
+COM027_Pa027_035 เพื่อ ให้ เกิด แชนแนล ขึ้น ได้ 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COM030_Pa030_029, best cost 960.933 + 30877.1 = 31838 over 348 frames.
+COM030_Pa030_029 หรือ เครื่อง ไม่ สามารถ ปฏิบัติการ ได้ 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COM030_Pa030_030, best cost 2045.81 + 58677.7 = 60723.5 over 657 frames.
+COM030_Pa030_030 ซึ่ง จึง การ ย่อม รับ จาก ทั้ง ภายใน และ ต่างประเทศ ใน ระดับ 1 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COM030_Pa030_031, best cost 854.859 + 23606.3 = 24461.2 over 253 frames.
+COM030_Pa030_031 ทำมุม 45 องศา อาจ 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COM030_Pa030_032, best cost 3542.43 + 113372 = 116914 over 1249 frames.
+COM030_Pa030_032 การ ส่งเสริม การ การ สมุนไพร จึง จำเป็น ต้อง พิจารณา คิด ความรู้ และ ความ สามารถ ของ ประชาชน โดยเฉพาะ ช้า ชนบท เป็น สำคัญ 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COM030_Pa030_033, best cost 913.34 + 30481.5 = 31394.8 over 342 frames.
+COM030_Pa030_033 พลังงาน คือ ความ สามารถ ทำงาน 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COM030_Pa030_034, best cost 2575.17 + 84466 = 87041.1 over 950 frames.
+COM030_Pa030_034 มี กับ เริ่ม อุดม วโรตม์สิกขดิตถ์ และ ดร. จะ มี ที่ ยาก กาญจนะวรรณ เป็น ประธาน โครงการ 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COM030_Pa030_035, best cost 3990.92 + 124575 = 128566 over 1319 frames.
+COM030_Pa030_035 เพื่อ เป็น การ ทบทวน ความเข้าใจ ของ ที่ เกี่ยวข้อง ทั้ง ภาพ รัฐบาล และ เอกชน ว่า ศูนย์ฯ เผ็ด นวด ขึ้น อิเล็คโทรนิคส์ และ คอมพิวเตอร์ มี ความเป็นมา อย่างไร 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COM032_Pa032_029, best cost 1811.03 + 56720.7 = 58531.8 over 659 frames.
+COM032_Pa032_029 ซึ่ง ทำ ได้ ด้วย การ นำ ข้อมูล ต่างๆ บันทึก ไว้ ใน รูปแบบ 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COM032_Pa032_030, best cost 2198.28 + 55527.2 = 57725.4 over 603 frames.
+COM032_Pa032_030 เพื่อ ช่วย เลือก ขึ้น ที่ เกษตร ประจำ และ การ ขาดแคลน น้ำ เพื่อ ก๊าซ บริโภค 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COM032_Pa032_031, best cost 1535.38 + 31936.9 = 33472.3 over 356 frames.
+COM032_Pa032_031 ส่วน บน ลม 2 ต่ำ ตาม ของ ฝา เป็น หลัก 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COM032_Pa032_032, best cost 2969.77 + 81628.1 = 84597.9 over 904 frames.
+COM032_Pa032_032 การ เลือก สมุนไพร ที่ จะ พัฒนา ไป การ ใน การ สาธารณสุขมูลฐาน มี หลัก เป็น ที่ จะ ต้อง ดิบ หรือ ดัง ต่อไปนี้ 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COM032_Pa032_033, best cost 1287.8 + 36440.3 = 37728.1 over 412 frames.
+COM032_Pa032_033 ความจริง ดินปืน มี พลังงาน อยู่ ขอม แล้ว 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COM032_Pa032_034, best cost 822.331 + 23709 = 24531.4 over 261 frames.
+COM032_Pa032_034 และ จะ ต้อง ตาก คำกำกวม 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COM032_Pa032_035, best cost 4513.64 + 154496 = 159010 over 1710 frames.
+COM032_Pa032_035 ส่วน เทคโนโลยี อิเล็คโทรนิคส์ และ ใช้ กันสาด ตั้ง อยู่ ที่ ชั้น พบ ของ อาคาร สำนักงานปลัดกระทรวงฯ วิทยาศาสตร์ เทคโนโลยี และ การ พลังงาน ถนนพระราม6 พญาไท 10400 ตาราง ที่ 1 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COM034_Pa034_029, best cost 2511.95 + 79549.5 = 82061.5 over 841 frames.
+COM034_Pa034_029 กลไก ของ เครื่อง จัด บัตร ออก ตาม ต้องการ โดย อัตรา เร็ว ของ การ กดดัน 2 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COM034_Pa034_030, best cost 1382.17 + 38160.1 = 39542.3 over 414 frames.
+COM034_Pa034_030 เพื่อ ระบาย นาน ออก จาก ทุก ลง เท่าไร 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COM034_Pa034_031, best cost 1752.99 + 48271.4 = 50024.3 over 521 frames.
+COM034_Pa034_031 ทำ ชัก ขึ้น เก็บ บน นอกชาน ได้ เมื่อ เวลา ทำ ขึ้น 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COM034_Pa034_032, best cost 977.04 + 31897.1 = 32874.2 over 348 frames.
+COM034_Pa034_032 เป็น ยา ที่ การ ภายนอก เท่านั้น 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COM034_Pa034_033, best cost 1047.47 + 45022.1 = 46069.6 over 480 frames.
+COM034_Pa034_033 มี ลักษณะ เกวียน อย่าง วงล้อเพลตัน 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COM034_Pa034_034, best cost 691.205 + 29462 = 30153.2 over 313 frames.
+COM034_Pa034_034 ข้อกำหนด ของ เวิร์ดโปรเซสเซอร์ 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COM034_Pa034_035, best cost 2633.25 + 105878 = 108511 over 1122 frames.
+COM034_Pa034_035 คณะกรรมการ ดังกล่าว มี รัฐมนตรี ว่า การ กระทรวง วิทยาศาสตร์ เทคโนโลยี และ การ พลังงาน เป็น ประธาน 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COM036_Pa036_029, best cost 1055.35 + 28569.3 = 29624.6 over 335 frames.
+COM036_Pa036_029 แต่ ไม่ ได้ ทำ หน้า ที่ บัตร 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COM036_Pa036_030, best cost 1013.9 + 32540.9 = 33554.8 over 386 frames.
+COM036_Pa036_030 มี ที่ ถูก ผ้า ของ ประเทศ 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COM036_Pa036_031, best cost 926.805 + 32678.3 = 33605.1 over 398 frames.
+COM036_Pa036_031 ไป ว่า บ้านเมือง เจริญ ขึ้น 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COM036_Pa036_032, best cost 1337.82 + 51468.1 = 52805.9 over 619 frames.
+COM036_Pa036_032 เพื่อ ให้ เป็น ที่ ยอมรับ ของ บุคคลากร เหล่านี้ 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COM036_Pa036_033, best cost 1357.67 + 49018.2 = 50375.9 over 580 frames.
+COM036_Pa036_033 ซึ่ง ผ่าน การ ไนโตรเจน เหลว รอบ ท่อแก้ว 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COM036_Pa036_034, best cost 2922.52 + 93543.3 = 96465.8 over 1085 frames.
+COM036_Pa036_034 ผลลัพธ์ ที่ ได้ ย่อม ไม่ เหมือน การ 1 มา จาก ความ คลาดเคลื่อน เปลี่ยนแปลง ของ มือ ผู้ จัด กระดาษ 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COM036_Pa036_035, best cost 1737.26 + 75401.6 = 77138.9 over 919 frames.
+COM036_Pa036_035 โดย ไม่ รัฐมนตรี ว่า การ กระทรวง เป็น ประธาน เช่น การ 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COM037_Pa037_029, best cost 1362.85 + 45462.7 = 46825.6 over 496 frames.
+COM037_Pa037_029 ถ้า บัตร ทุก เจาะ ถูกต้อง โหมด ทั้งแผ่น 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COM037_Pa037_030, best cost 712.361 + 37150.9 = 37863.3 over 421 frames.
+COM037_Pa037_030 เมื่อ ก่อไฟ หาร 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COM037_Pa037_031, best cost 1303.07 + 67018.8 = 68321.8 over 728 frames.
+COM037_Pa037_031 โดย ชัก กระทรวง ใน พระบาทสมเด็จพระเจ้าอยู่หัว 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COM037_Pa037_032, best cost 1210.46 + 34309.6 = 35520 over 387 frames.
+COM037_Pa037_032 จึง จาก ได้ผล ใน การ แรก ซาก 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COM037_Pa037_033, best cost 1269.06 + 45784.1 = 47053.2 over 495 frames.
+COM037_Pa037_033 โลหะ ตรง ที่ ถูก แสดง จะ หลอม 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COM037_Pa037_034, best cost 887.804 + 45095 = 45982.8 over 513 frames.
+COM037_Pa037_034 4.3.1 ส่วน ของ ซอฟท์แวร์ 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COM037_Pa037_035, best cost 1636.73 + 64434.4 = 66071.1 over 714 frames.
+COM037_Pa037_035 รวมทั้ง ติด ตาม ประเมินผล การ ดำเนินงาน ของ ศูนย์ฯ 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COM040_Pa040_029, best cost 1425.14 + 42708.4 = 44133.5 over 456 frames.
+COM040_Pa040_029 ซึ่ง ค่า การ วิธี ขึ้น บัตร ด้วย เครื่อง บัตร 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COM040_Pa040_030, best cost 1282.17 + 44576.8 = 45858.9 over 470 frames.
+COM040_Pa040_030 ซึ่ง เกิดขึ้น เป็น ครั้งคราว ใน เอา เบงกอล 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COM040_Pa040_031, best cost 2638.88 + 79650.6 = 82289.5 over 866 frames.
+COM040_Pa040_031 ค่า เรา รู้จัก การ สมุนไพร ซึ่ง เป็น พืช ที่ มี สรรพคุณ ใน การ รักษา โรค บาง ชนิด 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COM040_Pa040_032, best cost 655.699 + 27739.1 = 28394.8 over 298 frames.
+COM040_Pa040_032 สรรพคุณ และ วิธีใช้ 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COM040_Pa040_033, best cost 921.801 + 31506.9 = 32428.7 over 348 frames.
+COM040_Pa040_033 เวลา เต็ม ตัว จะ เข้าเฝ้า 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COM040_Pa040_034, best cost 1253.64 + 48802.7 = 50056.4 over 525 frames.
+COM040_Pa040_034 ศูนย์ฯ วิจัย อิเล็กทรอนิกส์ และ ภาควิชา อิเล็กทรอนิกส์ 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COM040_Pa040_035, best cost 1862.5 + 76493 = 78355.5 over 816 frames.
+COM040_Pa040_035 สำหรับ ภารกิจ ที่ จึง มอบหมาย จะ ดำเนินงาน ภายใต้ สำนักงานปลัดกระทรวงฯ 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COM043_Pa043_029, best cost 4122.41 + 119001 = 123124 over 1208 frames.
+COM043_Pa043_029 ใน ทำนอง เดียวกัน กับ การ เตรียม ข้อมูล ลง แถบแม่เหล็ก เรา สามารถ เรียง ข้อมูล จาก ซอส ลง สู่ แถบ ตลับ จัด แม่เหล็ก และ ดิสเกตต์ ได้ การ 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COM043_Pa043_030, best cost 2070.59 + 69095.8 = 71166.3 over 749 frames.
+COM043_Pa043_030 เต็ม ไป ด้วย สัตว์ ร้าย นานา ชนิด เช่น ตาก ขาด แมงป่อง 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COM043_Pa043_031, best cost 1518.9 + 51477.9 = 52996.8 over 515 frames.
+COM043_Pa043_031 จะ มี สรรพคุณ 9 รักษา โรค ไม่ เหมือน การ 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COM043_Pa043_032, best cost 1148.19 + 31359.3 = 32507.5 over 322 frames.
+COM043_Pa043_032 ระงับ อาการ ไอ และ ขับ เสมหะ 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COM043_Pa043_033, best cost 1345.42 + 42884.2 = 44229.6 over 431 frames.
+COM043_Pa043_033 คง เป็น ซอส การ อยู่ กับ บัตร เร็ว 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COM043_Pa043_034, best cost 832.058 + 28130.1 = 28962.1 over 287 frames.
+COM043_Pa043_034 และ เกิด การ คิด ง่าย 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COM043_Pa043_035, best cost 962.4 + 41383.3 = 42345.7 over 425 frames.
+COM043_Pa043_035 1 โครงการ เทคโนโลยี ระบบ ใช้ 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COM044_Pa044_029, best cost 2437.73 + 51816.1 = 54253.8 over 551 frames.
+COM044_Pa044_029 และ แถบ หรือ จาน แม่เหล็ก ที่ มา จะ เครื่อง บันทึก ข้อมูล แบบ ต่างๆ ก็ มี จำนวน มาก 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COM044_Pa044_030, best cost 799.872 + 17872.4 = 18672.3 over 180 frames.
+COM044_Pa044_030 วิทยุ ฝน ตก หนัก 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COM044_Pa044_031, best cost 1869.82 + 51188.3 = 53058.1 over 545 frames.
+COM044_Pa044_031 นอกจากนั้น ด้าน ต้อง วัตถุ การ อะไร ที่ อย่าง ประกอบ เป็น เครื่องยา 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COM044_Pa044_032, best cost 1701.49 + 47207.4 = 48908.9 over 487 frames.
+COM044_Pa044_032 ให้ นำ เรา ขมิ้น ขมิ้น ถ้า บริเวณ ที่ ทุก ก๊าซ 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COM044_Pa044_033, best cost 694.832 + 21079.8 = 21774.7 over 227 frames.
+COM044_Pa044_033 ลงมา ขึ้น ข้อพระหัตถ์ 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COM044_Pa044_034, best cost 496.692 + 27293.4 = 27790.1 over 283 frames.
+COM044_Pa044_034 สถาบันเทคโนโลยีพระจอมเกล้าลาดกระบัง 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COM044_Pa044_035, best cost 1204.75 + 40632 = 41836.7 over 441 frames.
+COM044_Pa044_035 2 ของ การ ออกแบบ วงจรรวม ขนาด ได้ 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COM046_Pa046_029, best cost 1677.73 + 52335.8 = 54013.6 over 560 frames.
+COM046_Pa046_029 ด้วย เชื่อม สถานที่ ป้อน ข้อมูล หลายๆ สถานี เขา ด้วย การ 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COM046_Pa046_030, best cost 1496.94 + 49285.2 = 50782.1 over 529 frames.
+COM046_Pa046_030 เพื่อ ไทย การ ควันไฟ ออก จาก เรือนครัว ได้ สะดวก 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COM046_Pa046_031, best cost 2224.47 + 68770.9 = 70995.4 over 761 frames.
+COM046_Pa046_031 เพราะ เรา มี สมุนไพร ไหล ชนิด ที่ มี วิธีการ ตรง ได้ นาย ไม่ ซับซ้อน 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COM046_Pa046_032, best cost 1373.97 + 48086.7 = 49460.7 over 527 frames.
+COM046_Pa046_032 เพื่อ รักษา อาการ ท้องอืด อาหาร ไม่ ย่อย 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COM046_Pa046_033, best cost 2129.35 + 73834.8 = 75964.2 over 804 frames.
+COM046_Pa046_033 หนุ่มหนุ่ม เหล่า เจ้าชู้ ลูกผู้ดี หรือ ปี รูป งาน ตาม เป็น พรวน 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COM046_Pa046_034, best cost 926.62 + 32370.1 = 33296.7 over 356 frames.
+COM046_Pa046_034 วุฒิพงศ์ เกรง ช้า ดำ 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COM046_Pa046_035, best cost 1190.98 + 52767 = 53958 over 576 frames.
+COM046_Pa046_035 4 โครงการ ใช้ อิเล็กทรอนิกส์ ทาง การแพทย์ 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COM047_Pa047_029, best cost 2625.84 + 81139.1 = 83764.9 over 865 frames.
+COM047_Pa047_029 ส่วน การ จะ ตำรับ ก่อน หลัง ใน การ บันทึก แถบ หรือ จาน แม่เหล็ก นั้น ควบคุม ด้วย ใช้ 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COM047_Pa047_030, best cost 1065.37 + 35347.2 = 36412.6 over 380 frames.
+COM047_Pa047_030 ฤดูหนาว นั่ง กว่า ภาคกลาง มาก 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COM047_Pa047_031, best cost 2484.95 + 77333.2 = 79818.2 over 827 frames.
+COM047_Pa047_031 เช่น จะ เห็น ว่า สมุนไพร สามารถ ช่วย รักษา โรค และ อาการ เจ็บป่วย เล็กๆน้อยๆ ได้ ระยะ 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COM047_Pa047_032, best cost 996.217 + 24206.5 = 25202.7 over 266 frames.
+COM047_Pa047_032 ทิ้ง ทาง ขึ้น ไว้ 1 ขึ้น 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COM047_Pa047_033, best cost 1261.58 + 46237.1 = 47498.7 over 497 frames.
+COM047_Pa047_033 เครื่องแบบ 9 ทำให้ เสีย พระเกียรติยศ ด้วย 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COM047_Pa047_034, best cost 3932.83 + 110861 = 114794 over 1215 frames.
+COM047_Pa047_034 ใน กล มี ที่ ลูกค้า จะ ใหญ่ โต สามารถ ที่ จะ ทำ ได้ โดย การ สาย เล็ก ที่ โต๊ะ เดิม และ เล็ก ที่ ตก ไม่ บน จอภาพ 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:99) For utterance COM047_Pa047_035, best cost 1420.01 + 62651.9 = 64071.9 over 670 frames.
+COM047_Pa047_035 5 โครงการ การ พัฒนา วงจรอิเล็กทรอนิกส์ เพื่อ อุตสาหกรรม 
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:124) Overall cost per frame is 93.7701 = 2.86627 [graph] + 90.9038 [acoustic] over 104898 frames.
+LOG (lattice-best-path[5.5.1009~1-e4940]:main():lattice-best-path.cc:128) Done 168 lattices, failed for 0
+# Accounting: time=0 threads=1
+# Ended (code 0) at Thu Mar 17 09:41:29 UTC 2022, elapsed time 0 seconds

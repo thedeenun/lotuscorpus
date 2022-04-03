@@ -1,0 +1,9 @@
+p_B t_B c_B k_B z_B ph_B th_B ch_B kh_B b_B d_B m_B n_B ng_B l_B r_B f_B s_B h_B w_B j_B pr_B phr_B tr_B kr_B khr_B pl_B phl_B thr_B kl_B khl_B kw_B khw_B br_B bl_B fr_B fl_B dr_B a_B aa_B i_B ii_B v_B vv_B u_B uu_B e_B ee_B x_B xx_B o_B oo_B @_B @@_B q_B qq_B ia_B iia_B va_B vva_B ua_B uua_B p^_B t^_B k^_B n^_B m^_B ng^_B j^_B w^_B f^_B l^_B s^_B ch^_B 
+p_E t_E c_E k_E z_E ph_E th_E ch_E kh_E b_E d_E m_E n_E ng_E l_E r_E f_E s_E h_E w_E j_E pr_E phr_E tr_E kr_E khr_E pl_E phl_E thr_E kl_E khl_E kw_E khw_E br_E bl_E fr_E fl_E dr_E a_E aa_E i_E ii_E v_E vv_E u_E uu_E e_E ee_E x_E xx_E o_E oo_E @_E @@_E q_E qq_E ia_E iia_E va_E vva_E ua_E uua_E p^_E t^_E k^_E n^_E m^_E ng^_E j^_E w^_E f^_E l^_E s^_E ch^_E 
+p_I t_I c_I k_I z_I ph_I th_I ch_I kh_I b_I d_I m_I n_I ng_I l_I r_I f_I s_I h_I w_I j_I pr_I phr_I tr_I kr_I khr_I pl_I phl_I thr_I kl_I khl_I kw_I khw_I br_I bl_I fr_I fl_I dr_I a_I aa_I i_I ii_I v_I vv_I u_I uu_I e_I ee_I x_I xx_I o_I oo_I @_I @@_I q_I qq_I ia_I iia_I va_I vva_I ua_I uua_I p^_I t^_I k^_I n^_I m^_I ng^_I j^_I w^_I f^_I l^_I s^_I ch^_I 
+p_S t_S c_S k_S z_S ph_S th_S ch_S kh_S b_S d_S m_S n_S ng_S l_S r_S f_S s_S h_S w_S j_S pr_S phr_S tr_S kr_S khr_S pl_S phl_S thr_S kl_S khl_S kw_S khw_S br_S bl_S fr_S fl_S dr_S a_S aa_S i_S ii_S v_S vv_S u_S uu_S e_S ee_S x_S xx_S o_S oo_S @_S @@_S q_S qq_S ia_S iia_S va_S vva_S ua_S uua_S p^_S t^_S k^_S n^_S m^_S ng^_S j^_S w^_S f^_S l^_S s^_S ch^_S 
+sil sp 
+sil_B sp_B 
+sil_E sp_E 
+sil_I sp_I 
+sil_S sp_S 
